@@ -45,6 +45,9 @@ DISPLAY_ARCHIVES_ON_MENU = True
 
 # Static files
 STATIC_PATHS = ['images']
+EXTRA_PATH_METADATA = {
+    'images/favicon.ico': {'path': 'favicon.ico'},
+}
 
 # Plugin settings
 PLUGINS = [
