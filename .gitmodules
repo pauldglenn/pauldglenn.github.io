@@ -1,6 +1,0 @@
-[submodule "plugins"]
-	path = plugins
-	url = https://github.com/getpelican/pelican-plugins.git
-[submodule "themes/pelican-clean-blog"]
-	path = themes/pelican-clean-blog
-	url = https://github.com/gilsondev/pelican-clean-blog.git
