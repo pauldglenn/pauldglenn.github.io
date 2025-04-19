@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          submodules: true
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,12 +26,12 @@ jobs:
       
       - name: Build with Pelican
         run: |
-          pelican content -o output -s publishconf.py
+          pelican content -s publishconf.py
       
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output
           publish_branch: gh-pages
+          publish_dir: ./output
           commit_message: "Deploy from GitHub Actions" 
