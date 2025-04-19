@@ -4,5 +4,5 @@ typogrify==2.0.7
 pelican-sitemap==1.1.0
 pelican-neighbors==1.0.0
 pelican-related-posts==1.0.0
-pelican-series==1.1.0
+pelican-series==3.0.0
 pelican-clean-blog==1.0.0 
