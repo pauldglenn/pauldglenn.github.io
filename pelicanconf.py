@@ -47,7 +47,6 @@ DISPLAY_ARCHIVES_ON_MENU = True
 STATIC_PATHS = ['images']
 
 # Plugin settings
-PLUGIN_PATHS = ['plugins']
 PLUGINS = [
     'sitemap',           # Generates sitemap.xml for SEO
     'neighbors',         # Adds next/previous article navigation
