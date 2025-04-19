@@ -26,6 +26,7 @@ jobs:
       
       - name: Build with Pelican
         run: |
+          export PYTHONPATH=$PYTHONPATH:.
           pelican content -s publishconf.py
       
       - name: Deploy to GitHub Pages
