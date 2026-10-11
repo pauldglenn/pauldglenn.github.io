@@ -65,15 +65,15 @@ The site is automatically deployed to GitHub Pages using GitHub Actions when cha
 2. Sets up Python
 3. Installs dependencies
 4. Builds the site
-5. Deploys to the `gh-pages` branch
+5. Uploads the generated site as a GitHub Pages artifact
+6. Deploys on pushes to `main` using GitHub's built-in Pages credentials (no personal access token)
 
 ## Custom Domain
 
 The site uses a custom domain (pdglenn.com) configured through:
 
 1. DNS A records pointing to GitHub Pages
-2. CNAME file in the `gh-pages` branch
-3. GitHub Pages custom domain settings
+2. GitHub Pages custom domain settings, preserved independently of the deployment artifact
 
 ## Development
 
