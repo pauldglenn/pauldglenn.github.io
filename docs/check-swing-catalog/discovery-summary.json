@@ -1,0 +1,47 @@
+{
+  "retrieved_at": "2026-10-29T18:21:35.617414+00:00",
+  "mlb_video_candidates": 59,
+  "ccs_matching_reports": 684,
+  "ccs_reports_with_video_or_game_links": 610,
+  "searches": [
+    {
+      "query": "check swing",
+      "reported_hits": 43,
+      "pages_scanned": 5,
+      "count_is_exhaustive": false
+    },
+    {
+      "query": "checked swing",
+      "reported_hits": 2,
+      "pages_scanned": 1,
+      "count_is_exhaustive": false
+    },
+    {
+      "query": "check-swing",
+      "reported_hits": 34,
+      "pages_scanned": 4,
+      "count_is_exhaustive": false
+    },
+    {
+      "query": "swing appeal",
+      "reported_hits": 0,
+      "pages_scanned": 0,
+      "count_is_exhaustive": false
+    },
+    {
+      "query": "held up",
+      "reported_hits": 14,
+      "pages_scanned": 2,
+      "count_is_exhaustive": false
+    },
+    {
+      "query": "check swing ejected",
+      "reported_hits": 1,
+      "pages_scanned": 1,
+      "count_is_exhaustive": false
+    }
+  ],
+  "errors": [],
+  "warning": "Candidates are not approved game clips. Review footage, side angle, time window, swing ruling, and redistribution permissions separately. Search counts are not a census of check swings.",
+  "ccs_high_priority_reports": 279
+}
