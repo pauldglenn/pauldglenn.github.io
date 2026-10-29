@@ -1,41 +1,46 @@
-# Did He Go? — check-swing MVP
+# Did He Go? — shared scoring update
 
-Published at https://pdglenn.com/check-swing/ through the existing GitHub Pages workflow.
+Game: https://pdglenn.com/check-swing/
+Client: `content/check-swing/index.html`, copied unchanged by the existing Pelican build.
+API: https://did-he-go-scores.paul-glenn280578.chatgpt.site
+Sites project: `appgprj_6ae36278b2a08191bbbb67f46d67c0b0`
 
-Source: `content/check-swing/index.html`. A dependency-free, buildless, responsive web game. Pelican copies it unchanged because `check-swing` is included in `STATIC_PATHS`. The personal site's homepage and theme are unchanged.
+## Deployment status
 
-## Included
+The backend has been deployed privately and its D1 tables verified. The frontend changes are prepared for launch. Public API access requires the owner's approval, requested separately; do not publish this frontend until that access is approved and public health/CORS checks pass.
 
-- Five date-seeded MLB calls per UTC day, one locally saved attempt, resumable progress, scorecard and completion streak.
-- Six curated historical calls: Flores (2021-10-14), Ruf (2021-07-22), Hernández (2024-06-18), González (2016-06-29), Carpenter (2022-10-20), Harper (2023-09-28).
-- Three first-base-side and three third-base-side broadcast replays; no synthetic footage. These approximate the umpire's perspective rather than documenting exact umpire eye position.
-- Muted swing windows, playback boundary, replay, half speed, and voting unlocked after viewing. Original footage and ruling evidence links appear after a vote.
-- Unlimited practice through the six-call library, baseline filtering, shuffle and skip.
-- Daily leaderboard stored on device; manually import friends' scorecards. Imported scores are self-reported. Ties share rank. No invented users or global-ranking claims.
-- Field guide referencing MLB rules, FanGraphs' 2026 minor-league experiments, MLB's Hawk-Eye pilot, and MapTap inspiration.
+## Shared records
 
-## Run and publish
+- A server-created, random player key is stored in each browser. The database stores a hash of that credential and a generated public display name. Players can explicitly save another display name.
+- Daily answers are immutable per player/date/edition/round, submitted in order. The server validates the daily clip order and calculates scores. Only completed online attempts enter the global daily leaderboard. Ties share a rank.
+- Practice votes also contribute to clip statistics. Only the first recorded vote per player key per clip counts, across both modes. Retry requests and repeated practice do not inflate totals.
+- Statistics show strike/no-swing counts, percentages, sample sizes, split index, and disagreement with the recorded umpire. Split index equals `2 * min(strikes, noSwings) / total`; 100% means a 50/50 split. Small samples are labeled. Results are behind a spoiler prompt.
+- Existing local attempts remain local. The service cannot recover votes from earlier visitors, and imported friend codes never enter global scores or aggregate votes.
+- Saving new online calls requires the API. Failed saves leave the choices available for retry. Local progress and streaks remain in the browser.
 
-Open `content/check-swing/index.html` using a static HTTP server. No package install is required for the app. Normal site publication remains:
+## Privacy and limits
 
-```sh
-PYTHONPATH=. pelican content -s publishconf.py
-```
+The public API exposes display names and completed daily scores, plus aggregate clip counts; it does not expose player IDs, credential hashes, or individual vote histories. Player keys are sent as authorization headers. Browser keys are anonymous device identities, not verified accounts; clearing storage or switching devices can create another player. These are casual rankings, not cheating-resistant competition. When a trusted connection IP is available, registration is limited to 10 new keys per day. Only a daily hash is retained for that limiter, with expiry cleanup.
 
-Pushes to main use the repository's existing build/deploy workflow.
+The game uses six historical MLB broadcast side replays. Dates repeat across days; prior familiarity can affect scores. This is not a representative sample of umpire accuracy. Scores measure agreement with historical rulings, not objective correctness.
 
-## Content maintenance
+## Backend operation
 
-The inline `CLIPS` array contains each official source URL, verified ruling source, game date, batter, umpire, baseline, decision, and playback start/end in seconds. View every candidate clip and verify its ruling before inclusion. Select a side angle without the umpire signal, mute audio, and leave a margin before reactions. A strike in this game is a swing ruling; not every example is strike three. González's example is strike two.
+The backend source is stored in the Sites source repository associated with the project above. It is a dependency-free Worker with a D1 binding named `DB`. Its source manifest declares `"d1": "DB"`. Drizzle-generated SQL migrations are tracked under `drizzle/` and applied by Sites publication. Do not modify already-applied migrations.
 
-The `VERSION` constant identifies the daily selection and scorecard edition. Change it if the catalog or historical labels change, and use a new storage key if stored daily results no longer map to the same selections. Never silently reinterpret already shared scorecards.
+Endpoints:
+- `POST /session`: issue a guest credential.
+- `POST /name`: set public display name, authenticated.
+- `POST /daily/start`: create/resume today's attempt, authenticated.
+- `POST /vote`: persist daily or practice vote, authenticated.
+- `GET /leaderboard?day=YYYY-MM-DD`: top 100 completed scores plus total.
+- `GET /stats`: per-clip vote aggregates.
+- `GET /health`: database availability, edition, and server UTC day.
 
-## Verification and limits
+CORS permits the game origins and the API's own origin. Secrets do not appear in client code. The clip edition remains v1 so old share codes still work in the local imported-card board.
 
-Validated JavaScript syntax, daily selection over 365 dates, daily and practice scoring, result persistence, streaks, scorecard round trips, malformed imports, HTML escaping, voting gate, and replay-boundary logic in a DOM harness. The full Pelican production build passed and the output app matched source byte for byte. All six video sources returned video/mp4 responses. Automated visual/browser playback QA was unavailable in the authoring session.
+## Verification
 
-This is an MVP with six clips, so daily selections repeat. It is not a representative sample of umpire accuracy. Browser storage is editable and can be cleared. Shared cards encode the player's answers, are not cryptographically signed, and do not prove honest play. A production global leaderboard needs a server, authentication, server-side daily scoring, abuse controls and a privacy policy.
+SQLite-backed API tests cover server scoring, immutable answers, retry deduplication, vote aggregation across two players, practice exclusion from rankings, authentication, input validation, origin checks, and registration limits. DOM integration tests cover five saved daily answers, global results, statistics rendering, failed-save retry, and legacy score isolation. Existing game regressions and the full Pelican build pass. Visual/browser playback testing remains unavailable in this authoring environment.
 
-Videos stream from MLB/broadcaster sources and may change or become unavailable. No video license or MLB affiliation is claimed. Broad public promotion needs a reliable licensed clip supply. The app does not download or redistribute video files in this repository.
-
-The 45-degree standard described in the guide is from experimental minor-league tracking systems, not a rule used to relabel these historical MLB calls. Scores measure agreement with the recorded umpire, not objective swing truth.
+Original footage and ruling evidence remain in the client catalog and Field Guide. Videos stream from MLB servers; no video files are redistributed in this repository. No MLB affiliation or video license is claimed.
