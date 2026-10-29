@@ -7,25 +7,27 @@ Sites project: `appgprj_6ae36278b2a08191bbbb67f46d67c0b0`
 
 ## Shared records
 
-Ranked play requires connecting a ChatGPT account through the score service. The service uses the platform's authenticated identity header, hashes the account identifier, and issues an expiring game session. It does not store email addresses. Reconnecting on another device resumes the same account and daily attempt. Practice and unranked daily play remain available without sign-in.
+Ranked play is anonymous. On the first ranked replay, the browser completes a short SHA-256 proof-of-work challenge and receives a random player key. Keep browser data to retain that identity. No account, email, or ChatGPT sign-in is required. Unranked daily play and practice without shared voting remain available without registration. Existing account-issued keys continue working until they expire; previously saved results are preserved.
 
-Daily answers are immutable per account/date/edition/round, submitted in order. The server validates the clip order and calculates scores; it never accepts a client-supplied score. Only completed ranked attempts enter the public daily leaderboard. Ties share a rank.
+Daily answers are immutable per player/date/edition/round, submitted in order. The server validates the clip order and calculates scores; it never accepts a client-supplied score. Only completed ranked attempts enter the public daily leaderboard. Ties share a rank.
 
-Signed-in practice votes also contribute to clip statistics. Only the first recorded vote per account per clip counts across both modes. Retries and repeated practice do not inflate totals. Anonymous play and imported friend codes do not enter global results. Earlier browser-only results cannot be recovered centrally.
+Practice votes with shared voting enabled also contribute to clip statistics. Only the first recorded vote per player key per clip counts across both modes. Retries and repeated practice do not inflate totals. Anonymous play and imported friend codes do not enter global results. Earlier browser-only results cannot be recovered centrally.
 
 Statistics show strike/no-swing counts, percentages, sample sizes, split index, and disagreement with the recorded umpire. Split index equals `2 * min(strikes, noSwings) / total`; 100% means a 50/50 split. Small samples are labeled. Results sit behind a spoiler prompt.
 
 ## Submission controls and limits
 
-- Platform-authenticated accounts are required to issue sessions; anonymous session requests fail. Sessions expire after 30 days.
-- Each vote needs an account-bound ticket for its clip/mode/day, valid for 15 minutes, with a minimum delay before submission.
-- The server enforces one daily attempt per account, ordered rounds, locked answers, and transactional writes with unique keys.
-- Writes are limited to 60 per account per minute; account connections to 10 per hour.
-- The browser requests tickets when starting replays. Expired tickets require replaying the clip. Failed saves remain retryable.
+- First-time registration requires a random, single-use, network-bound SHA-256 challenge with 18 leading zero bits, expiring after two minutes. The browser solves it before a player key is issued. This is computational friction, not proof that the player is human or a CAPTCHA.
+- Player keys expire after one year. Existing account-issued sessions retain their original expiry. Credentials are hashed in the database and sent in authorization headers.
+- Each vote requires a player-bound round ticket for its clip/mode/day, valid for 15 minutes, with a minimum delay before submission.
+- The server enforces ordered rounds, one daily attempt per player key, immutable answers, and transactional deduplication. Scores are always computed on the server.
+- Each network may request 30 browser challenges per hour, verify 60 per minute, and create 10 identities per UTC day. Writes are capped at 60 per player and 300 per network per minute. Shared networks may encounter these limits.
+- Network limits use Cloudflare's `CF-Connecting-IP`, salted afresh each UTC day and hashed before storage. Raw addresses are not stored by application code. Expired limit/challenge rows and prior-day salts are cleaned on subsequent challenge requests. Missing network metadata fails closed for registration and writes.
+- Failed saves are retryable. Expired round tickets require replaying the clip.
 
-These controls prevent unauthenticated score stuffing and arbitrary submitted totals. They cannot prove that a human watched the replay, stop a signed-in player automating valid requests, or prevent multiple accounts. CORS is a browser restriction, not authentication. Historical rulings are public, and the six-clip catalog repeats: this is a casual game, not a cheating-proof competition.
+Anonymous keys are not verified unique people: clearing browser data, using another device, or changing networks can create another identity. Determined bots can solve computational challenges and imitate valid gameplay. These checks discourage bulk abuse; they do not make the leaderboard cheating-proof. CORS is not authentication. Historical rulings are public and the six-clip catalog repeats.
 
-Public responses expose chosen display names and completed daily scores, plus aggregate clip counts. They do not expose account identifiers, credentials, or individual vote histories. Session credentials stay in the browser and are sent in authorization headers. Sharing a scorecard copies readable text and the game URL; legacy friend codes remain a separate local import feature.
+Public responses expose chosen display names and completed daily scores, plus aggregate clip counts. They do not expose player identifiers, credentials, or individual vote histories. Sharing a scorecard copies readable text and the game URL; legacy friend codes remain a separate local import feature.
 
 ## Backend operation
 
@@ -33,20 +35,20 @@ Source is stored in the Sites source repository associated with the project abov
 
 Endpoints:
 
-- `GET /connect`: platform sign-in and connection to the game via origin-checked popup messaging.
-- `POST /session`: issue a game session for a platform-authenticated account, from the service's own origin.
+- `POST /challenge`: issue an expiring computational browser challenge.
+- `POST /session`: verify the challenge and issue an anonymous player key.
 - `POST /name`: set public display name, authenticated.
 - `POST /daily/start`: create/resume today's attempt, authenticated.
-- `POST /round`: issue an account-bound round ticket, authenticated.
+- `POST /round`: issue an player-bound round ticket, authenticated.
 - `POST /vote`: persist a daily or practice vote with a valid ticket, authenticated.
 - `GET /leaderboard?day=YYYY-MM-DD`: public top 100 completed scores and total.
 - `GET /stats`: public per-clip vote aggregates.
 - `GET /health`: database availability, edition, and server UTC day.
 
-CORS permits the game origins and the API's own origin. No server secret appears in client code. The clip edition remains v1 so old share codes still work in the local imported-card board. Public read access must only be enabled after deploying the account-protected API.
+CORS permits the game origins and the API's own origin. No server secret appears in client code. The clip edition remains v1 so old share codes still work in the local imported-card board. Public read access must only be enabled with protected registration and vote endpoints deployed.
 
 ## Verification
 
-SQLite-backed API tests cover server scoring, immutable answers, retry deduplication, aggregation across accounts, practice exclusion from rankings, anonymous-write rejection, input/origin checks, account reconnection, rate limits, ticket binding, minimum delay, and expiry. DOM integration tests cover five saved daily answers, global results, statistics rendering, failed-save retry, and legacy score isolation. Game regressions and the full Pelican build pass. Actual browser sign-in and visual playback testing remain unavailable in this authoring environment.
+SQLite-backed API tests cover server scoring, locked answers, retry deduplication, aggregation, practice exclusion from rankings, credential checks, valid/invalid/expired/reused/network-bound browser challenges, honeypot rejection, registration and challenge limits, ticket binding, minimum delay, expiry, and missing-network rejection. DOM tests exercise the real Web Crypto proof solver, anonymous registration, saved-key reuse, unranked isolation, five saved daily answers, global results, statistics, and failed-save retry. Game regressions and the Pelican production build pass. Actual browser playback and performance checks remain unavailable in this environment.
 
 Footage and ruling evidence remain in the client catalog and Field Guide. Videos stream from MLB servers; no video files are redistributed in this repository. No MLB affiliation or video license is claimed. Scores measure agreement with historical rulings, not objective correctness, and this small curated set is not a representative sample of umpire accuracy.
