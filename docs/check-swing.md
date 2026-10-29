@@ -1,46 +1,52 @@
-# Did He Go? — shared scoring update
+# Did He Go? — shared scoring
 
 Game: https://pdglenn.com/check-swing/
-Client: `content/check-swing/index.html`, copied unchanged by the existing Pelican build.
+Client: `content/check-swing/index.html`, copied unchanged by the Pelican build.
 API: https://did-he-go-scores.paul-glenn280578.chatgpt.site
 Sites project: `appgprj_6ae36278b2a08191bbbb67f46d67c0b0`
 
-## Deployment status
-
-The backend has been deployed privately and its D1 tables verified. The frontend changes are prepared for launch. Public API access requires the owner's approval, requested separately; do not publish this frontend until that access is approved and public health/CORS checks pass.
-
 ## Shared records
 
-- A server-created, random player key is stored in each browser. The database stores a hash of that credential and a generated public display name. Players can explicitly save another display name.
-- Daily answers are immutable per player/date/edition/round, submitted in order. The server validates the daily clip order and calculates scores. Only completed online attempts enter the global daily leaderboard. Ties share a rank.
-- Practice votes also contribute to clip statistics. Only the first recorded vote per player key per clip counts, across both modes. Retry requests and repeated practice do not inflate totals.
-- Statistics show strike/no-swing counts, percentages, sample sizes, split index, and disagreement with the recorded umpire. Split index equals `2 * min(strikes, noSwings) / total`; 100% means a 50/50 split. Small samples are labeled. Results are behind a spoiler prompt.
-- Existing local attempts remain local. The service cannot recover votes from earlier visitors, and imported friend codes never enter global scores or aggregate votes.
-- Saving new online calls requires the API. Failed saves leave the choices available for retry. Local progress and streaks remain in the browser.
+Ranked play requires connecting a ChatGPT account through the score service. The service uses the platform's authenticated identity header, hashes the account identifier, and issues an expiring game session. It does not store email addresses. Reconnecting on another device resumes the same account and daily attempt. Practice and unranked daily play remain available without sign-in.
 
-## Privacy and limits
+Daily answers are immutable per account/date/edition/round, submitted in order. The server validates the clip order and calculates scores; it never accepts a client-supplied score. Only completed ranked attempts enter the public daily leaderboard. Ties share a rank.
 
-The public API exposes display names and completed daily scores, plus aggregate clip counts; it does not expose player IDs, credential hashes, or individual vote histories. Player keys are sent as authorization headers. Browser keys are anonymous device identities, not verified accounts; clearing storage or switching devices can create another player. These are casual rankings, not cheating-resistant competition. When a trusted connection IP is available, registration is limited to 10 new keys per day. Only a daily hash is retained for that limiter, with expiry cleanup.
+Signed-in practice votes also contribute to clip statistics. Only the first recorded vote per account per clip counts across both modes. Retries and repeated practice do not inflate totals. Anonymous play and imported friend codes do not enter global results. Earlier browser-only results cannot be recovered centrally.
 
-The game uses six historical MLB broadcast side replays. Dates repeat across days; prior familiarity can affect scores. This is not a representative sample of umpire accuracy. Scores measure agreement with historical rulings, not objective correctness.
+Statistics show strike/no-swing counts, percentages, sample sizes, split index, and disagreement with the recorded umpire. Split index equals `2 * min(strikes, noSwings) / total`; 100% means a 50/50 split. Small samples are labeled. Results sit behind a spoiler prompt.
+
+## Submission controls and limits
+
+- Platform-authenticated accounts are required to issue sessions; anonymous session requests fail. Sessions expire after 30 days.
+- Each vote needs an account-bound ticket for its clip/mode/day, valid for 15 minutes, with a minimum delay before submission.
+- The server enforces one daily attempt per account, ordered rounds, locked answers, and transactional writes with unique keys.
+- Writes are limited to 60 per account per minute; account connections to 10 per hour.
+- The browser requests tickets when starting replays. Expired tickets require replaying the clip. Failed saves remain retryable.
+
+These controls prevent unauthenticated score stuffing and arbitrary submitted totals. They cannot prove that a human watched the replay, stop a signed-in player automating valid requests, or prevent multiple accounts. CORS is a browser restriction, not authentication. Historical rulings are public, and the six-clip catalog repeats: this is a casual game, not a cheating-proof competition.
+
+Public responses expose chosen display names and completed daily scores, plus aggregate clip counts. They do not expose account identifiers, credentials, or individual vote histories. Session credentials stay in the browser and are sent in authorization headers. Sharing a scorecard copies readable text and the game URL; legacy friend codes remain a separate local import feature.
 
 ## Backend operation
 
-The backend source is stored in the Sites source repository associated with the project above. It is a dependency-free Worker with a D1 binding named `DB`. Its source manifest declares `"d1": "DB"`. Drizzle-generated SQL migrations are tracked under `drizzle/` and applied by Sites publication. Do not modify already-applied migrations.
+Source is stored in the Sites source repository associated with the project above. The backend is a dependency-free Worker with D1 binding `DB`. Its source manifest declares `"d1": "DB"`. Drizzle-generated SQL migrations are tracked under `drizzle/` and applied by Sites publication. Do not modify already-applied migrations.
 
 Endpoints:
-- `POST /session`: issue a guest credential.
+
+- `GET /connect`: platform sign-in and connection to the game via origin-checked popup messaging.
+- `POST /session`: issue a game session for a platform-authenticated account, from the service's own origin.
 - `POST /name`: set public display name, authenticated.
 - `POST /daily/start`: create/resume today's attempt, authenticated.
-- `POST /vote`: persist daily or practice vote, authenticated.
-- `GET /leaderboard?day=YYYY-MM-DD`: top 100 completed scores plus total.
-- `GET /stats`: per-clip vote aggregates.
+- `POST /round`: issue an account-bound round ticket, authenticated.
+- `POST /vote`: persist a daily or practice vote with a valid ticket, authenticated.
+- `GET /leaderboard?day=YYYY-MM-DD`: public top 100 completed scores and total.
+- `GET /stats`: public per-clip vote aggregates.
 - `GET /health`: database availability, edition, and server UTC day.
 
-CORS permits the game origins and the API's own origin. Secrets do not appear in client code. The clip edition remains v1 so old share codes still work in the local imported-card board.
+CORS permits the game origins and the API's own origin. No server secret appears in client code. The clip edition remains v1 so old share codes still work in the local imported-card board. Public read access must only be enabled after deploying the account-protected API.
 
 ## Verification
 
-SQLite-backed API tests cover server scoring, immutable answers, retry deduplication, vote aggregation across two players, practice exclusion from rankings, authentication, input validation, origin checks, and registration limits. DOM integration tests cover five saved daily answers, global results, statistics rendering, failed-save retry, and legacy score isolation. Existing game regressions and the full Pelican build pass. Visual/browser playback testing remains unavailable in this authoring environment.
+SQLite-backed API tests cover server scoring, immutable answers, retry deduplication, aggregation across accounts, practice exclusion from rankings, anonymous-write rejection, input/origin checks, account reconnection, rate limits, ticket binding, minimum delay, and expiry. DOM integration tests cover five saved daily answers, global results, statistics rendering, failed-save retry, and legacy score isolation. Game regressions and the full Pelican build pass. Actual browser sign-in and visual playback testing remain unavailable in this authoring environment.
 
-Original footage and ruling evidence remain in the client catalog and Field Guide. Videos stream from MLB servers; no video files are redistributed in this repository. No MLB affiliation or video license is claimed.
+Footage and ruling evidence remain in the client catalog and Field Guide. Videos stream from MLB servers; no video files are redistributed in this repository. No MLB affiliation or video license is claimed. Scores measure agreement with historical rulings, not objective correctness, and this small curated set is not a representative sample of umpire accuracy.
