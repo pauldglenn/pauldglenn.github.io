@@ -44,7 +44,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_ARCHIVES_ON_MENU = True
 
 # Static files
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'check-swing']
 EXTRA_PATH_METADATA = {
     'images/favicon.ico': {'path': 'favicon.ico'},
 }
