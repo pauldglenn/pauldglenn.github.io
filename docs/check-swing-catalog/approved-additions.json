@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "kipnis2016",
+    "batter": "Jason Kipnis",
+    "date": "2016-09-02",
+    "matchup": "MIA at CLE",
+    "base": 3,
+    "strike": false,
+    "start": 13.2,
+    "end": 15.2,
+    "umpire": "Andy Fletcher · third base",
+    "context": "Fletcher ruled no swing on the full-count pitch in the first inning. Kipnis walked, nullifying the apparent strikeout-and-caught-stealing double play. The recorded ruling was no swing.",
+    "evidence": "https://www.closecallsports.com/2016/09/mlb-ejection-148-mark-ripperger-3-perry.html",
+    "source": "https://www.mlb.com/video/must-c-check-swing-erases-dp-c1127684683",
+    "video": "https://mediadownloads.mlb.com/mlbam/mp4/2016/09/03/1127684683/1472875045603/asset_1200K.mp4",
+    "review": {
+      "duration": 28.461767,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/mlb_1/kipnis-boundaries.jpg",
+        "/workspace/check-swing/reviews/mlb_1/must-c-check-swing-erases-dp-c1127684683-dense.jpg"
+      ],
+      "gamePk": 448871,
+      "supportingEvidence": [
+        "https://statsapi.mlb.com/api/v1.1/game/448871/feed/live"
+      ],
+      "notes": "Left-handed batter seen from open third-base side. Start after dissolve from catcher close-up at ~12.9s; stop after check and hold, before camera switch, commentary muted. No scoreboard or ruling caption in chosen window. Catcher begins transition toward attempted throw, but no umpire ruling signal appears. Contact sheet inspected at 0.2s intervals and exact boundary frames."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "zunino2018",
+    "batter": "Mike Zunino",
+    "date": "2018-04-20",
+    "matchup": "SEA at TEX",
+    "base": 1,
+    "strike": true,
+    "start": 21.7,
+    "end": 25.0,
+    "umpire": "Gary Cederstrom · first base",
+    "context": "Cederstrom ruled a swing on appeal for strike three in the fourth inning against Mike Minor. MLB records the plate appearance as a swinging strikeout.",
+    "evidence": "https://www.mlb.com/video/minor-fans-zunino-on-check-swing-c1957798183",
+    "source": "https://www.mlb.com/video/minor-fans-zunino-on-check-swing-c1957798183",
+    "video": "https://mediadownloads.mlb.com/mlbam/mp4/2018/04/21/1957798183/1524283455630/asset_1200K.mp4",
+    "review": {
+      "duration": 29.462767,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/mlb_1/zunino-boundaries.jpg",
+        "/workspace/check-swing/reviews/mlb_1/minor-fans-zunino-on-check-swing-c1957798183-dense.jpg"
+      ],
+      "gamePk": 529703,
+      "supportingEvidence": [
+        "https://statsapi.mlb.com/api/v1.1/game/529703/feed/live"
+      ],
+      "notes": "Right-handed batter from open first-base side. Start after replay dissolve, before check; stop with bat returned, before catcher rises and subsequent reaction. No scoreboard/caption in chosen window. MLB title and description identify fourth-inning check-swing K; game feed confirms swinging strikeout and first-base umpire Gary Cederstrom; full clip shows his appeal strike signal outside chosen window."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "carpenter20190401",
+    "batter": "Matt Carpenter",
+    "date": "2019-04-01",
+    "matchup": "STL at PIT",
+    "base": 3,
+    "strike": true,
+    "start": 20.25,
+    "end": 22.65,
+    "umpire": "Jordan Baker · third base",
+    "context": "Baker ruled a swing on appeal for strike three in the eleventh inning. Carpenter disputed the call and was ejected.",
+    "evidence": "https://www.closecallsports.com/2019/04/mlb-ejection-004-vic-carapazza-1-matt.html",
+    "source": "https://www.mlb.com/video/carpenter-ejected-in-the-11th",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-04/01/0848b167-df6a7121-55c102f8-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 30.78075,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-39.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-39.jpg"
+      ],
+      "denseSheetOffsetSeconds": 19,
+      "gamePk": "566180",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "howie-kendrick-2019-05-23",
+    "batter": "Howie Kendrick",
+    "date": "2019-05-23",
+    "matchup": "WSH at NYM",
+    "base": 1,
+    "strike": true,
+    "start": 103.3,
+    "end": 106.3,
+    "umpire": "Bruce Dreckman · home plate",
+    "context": "Dreckman ruled a swing for strike three. Kendrick and Dave Martinez were ejected after disputing the call.",
+    "evidence": "https://www.closecallsports.com/2019/05/mlb-ejections-061-62-bruce-dreckman-1-2.html",
+    "source": "https://www.mlb.com/video/kendrick-martinez-ejected-in-8th",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-05/23/61c9a35d-6b6e4d69-67849914-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 37,
+      "gamePk": "566011",
+      "duration": 127.293833,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-37-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-37.jpg"
+      ],
+      "notes": "Visually inspected first-base-side slow-motion replay late in MLB highlight, after a long ejection sequence. Window ends before catcher rises/appeals. Original call made by plate umpire; camera base is perspective only."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "chris-iannetta-2019-07-19",
+    "batter": "Chris Iannetta",
+    "date": "2019-07-19",
+    "matchup": "COL at NYY",
+    "base": 1,
+    "strike": true,
+    "start": 22.55,
+    "end": 25.6,
+    "umpire": "Doug Eddings · home plate",
+    "context": "Eddings ruled a swinging third strike on the full-count pitch. Bud Black was ejected after arguing the check-swing call.",
+    "evidence": "https://www.closecallsports.com/2019/07/mlb-ejection-127-doug-eddings-3-bud.html",
+    "source": "https://www.mlb.com/video/black-ejected-in-the-9th",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-07/19/9874219c-0a09b4ae-b4af6228-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 36,
+      "gamePk": "567510",
+      "duration": 45.962583,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-36-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-36.jpg"
+      ],
+      "notes": "Visually inspected first-base-side replay. Window ends before plate umpire raises strike gesture around 26 seconds; camera is side perspective although original call belongs to plate umpire."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "mancini-20190903",
+    "batter": "Trey Mancini",
+    "base": 1,
+    "strike": true,
+    "start": 56.8,
+    "end": 62.0,
+    "umpire": "Nic Lentz · first base",
+    "context": "Lentz ruled a swing on appeal on the 2–2 Nick Anderson curveball in the eighth for strike three. Brandon Hyde was ejected disputing the call.",
+    "date": "2019-09-03",
+    "matchup": "BAL at TB",
+    "evidence": "https://www.closecallsports.com/2019/09/mlb-ejection-187-lance-barrett-2.html",
+    "source": "https://www.mlb.com/video/hyde-thrown-out-of-game-in-8th",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-09/03/fcd12b44-9e85eac4-c5c3b510-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 67.534133,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/35-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/35-0-detail.jpg"
+      ],
+      "notes": "First-base-side slow-motion replay inspected at 4 fps. Starts before foot load and bat commitment, then shows full check. Source broadcast misidentifies the umpire as Ryan Additon; CCS correction and MLB officials list confirm Nic Lentz at first base.",
+      "gamePk": "566734",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/35-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "jason-castro-2020-08-07",
+    "batter": "Jason Castro",
+    "date": "2020-08-07",
+    "matchup": "LAA at TEX",
+    "base": 3,
+    "strike": true,
+    "start": 17.8,
+    "end": 22.1,
+    "umpire": "Edwin Moscoso · third base",
+    "context": "Moscoso ruled a swing on the two-strike pitch, striking Castro out. Castro was subsequently ejected.",
+    "evidence": "https://www.closecallsports.com/2020/08/mlb-ejection-09-edwin-moscoso-1-jason.html",
+    "source": "https://www.mlb.com/video/jason-castro-ejected-in-the-2nd",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-08/07/08fa4d2b-a8d92479-e2b9fb64-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 34,
+      "gamePk": "630920",
+      "duration": 53.4534,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-34-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-34.jpg"
+      ],
+      "notes": "Visually inspected left-handed third-base-side slow-motion replay after the center-field close-up. Window ends before batter protests or appeal reaction."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "contreras20200812",
+    "batter": "Willson Contreras",
+    "date": "2020-08-12",
+    "matchup": "CHC at CLE",
+    "base": 1,
+    "strike": true,
+    "start": 40.65,
+    "end": 43.6,
+    "umpire": "Tim Timmons · home plate",
+    "context": "Timmons ruled a swing for strike three in the fifth inning. Contreras was ejected while disputing the call.",
+    "evidence": "https://www.closecallsports.com/2020/08/mlb-ejection-16-tim-timmons-1-willson.html",
+    "source": "https://www.mlb.com/video/contreras-ejected-in-the-5th",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-08/12/ae6bcf1b-5629be18-98a6c64c-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 54.387666,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-34.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-34.jpg"
+      ],
+      "denseSheetOffsetSeconds": 39,
+      "gamePk": "631568",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "jansen-20200823",
+    "batter": "Danny Jansen",
+    "base": 1,
+    "strike": false,
+    "start": 15.3,
+    "end": 19.6,
+    "umpire": "Randy Rosenberg · first base",
+    "context": "Rosenberg upheld no swing on the 2–2 Pete Fairbanks slider in the sixth. The pitch was ball three; Kevin Cash was ejected arguing the appeal.",
+    "date": "2020-08-23",
+    "matchup": "TOR at TB",
+    "evidence": "https://www.closecallsports.com/2020/08/mlb-ejection-32-todd-tichenor-1-kevin.html",
+    "source": "https://www.mlb.com/video/kevin-cash-gets-ejected",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-08/23/af1f01fa-667f4dcf-70b8d68f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 54.337616,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/33-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/33-0-detail.jpg"
+      ],
+      "notes": "First-base-side slow-motion replay inspected at 4 fps. Starts after dissolve and before forward bat motion, captures complete check, and ends before catcher stands to react. Label follows the on-field no-swing call regardless of the report’s separate correctness assessment.",
+      "gamePk": "630949",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/33-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "matt-chapman-2020-08-23",
+    "batter": "Matt Chapman",
+    "date": "2020-08-23",
+    "matchup": "LAA at OAK",
+    "base": 1,
+    "strike": false,
+    "start": 10.3,
+    "end": 12.9,
+    "umpire": "Lance Barrett · first base",
+    "context": "Barrett upheld a no-swing call during Chapman’s sixth-inning plate appearance. Joe Maddon was ejected disputing the calls.",
+    "evidence": "https://www.closecallsports.com/2020/08/ejection-33-lance-barrett-1-joe-maddon.html",
+    "source": "https://www.mlb.com/video/joe-maddon-ejected-from-game",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-08/23/17561a86-0132e32a-eeb42b9f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 33,
+      "gamePk": "631170",
+      "duration": 42.776066,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-33-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-33.jpg"
+      ],
+      "notes": "Visually inspected first-base-side check replay. Report describes two checks during this PA, both ruled no swing; clip is the replay immediately following the ball-three appeal. Ends before manager mimicry/umpire gestures."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "garcia20210518",
+    "batter": "Avisaíl García",
+    "date": "2021-05-18",
+    "matchup": "MIL at KC",
+    "base": 1,
+    "strike": true,
+    "start": 3.95,
+    "end": 6.8,
+    "umpire": "Adrian Johnson · first base",
+    "context": "Johnson called strike two on appeal on a 2–1 fastball in the ninth inning. García and Brewers manager Craig Counsell were ejected.",
+    "evidence": "https://www.closecallsports.com/2021/05/mlb-ejections-046-47-brian-gorman-2-3.html",
+    "source": "https://www.mlb.com/video/garcia-counsell-ejected-in-9th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-05/18/0c89cb60-984087c7-465d9a68-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 60.226833,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_31_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_31.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "634043",
+      "denseSeekOffset": 1
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "votto20210619",
+    "batter": "Joey Votto",
+    "date": "2021-06-19",
+    "matchup": "CIN at SD",
+    "base": 3,
+    "strike": true,
+    "start": 13.25,
+    "end": 15.4,
+    "umpire": "Chris Guccione · third base",
+    "context": "Guccione called strike three on appeal on a 1–2 fastball in the first inning. Votto and Reds manager David Bell were ejected.",
+    "evidence": "https://www.closecallsports.com/2021/06/mlb-ejections-078-79-ryan-additon-joey.html",
+    "source": "https://www.mlb.com/video/joey-votto-gets-ejected-in-1st",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-06/19/98264822-7fb6a0b8-16ebd776-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 74.82475,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_30_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_30.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates third-base umpire view; not an umpire eye camera.",
+      "gamePk": "633597",
+      "denseSeekOffset": 9
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "joc-pederson-2021-08-24",
+    "batter": "Joc Pederson",
+    "date": "2021-08-24",
+    "matchup": "NYY at ATL",
+    "base": 3,
+    "strike": true,
+    "start": 10.8,
+    "end": 13.9,
+    "umpire": "Chris Conroy · home plate",
+    "context": "Conroy ruled a swing for dead-ball strike three when the pitch struck Pederson’s hands. Pederson was then ejected.",
+    "evidence": "https://www.closecallsports.com/2021/08/mlb-ejection-149-chris-conroy-2-joc.html",
+    "source": "https://www.mlb.com/video/andrew-heaney-swinging-strike-to-joc-pederson-lp0vp3",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-08/24/9152ed53-e111fd29-7063c600-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 27,
+      "gamePk": "632763",
+      "duration": 22.238883,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-27-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-27.jpg"
+      ],
+      "notes": "Visually inspected left-handed third-base-side replay. Includes check and hands contact, stops before full spin/fall and subsequent protest. Plate umpire made the original swing call; base field describes camera perspective."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "alonso20210904",
+    "batter": "Pete Alonso",
+    "date": "2021-09-04",
+    "matchup": "NYM at WSH",
+    "base": 1,
+    "strike": false,
+    "start": 12.5,
+    "end": 15.6,
+    "umpire": "Ryan Wills · first base",
+    "context": "Wills affirmed no swing on a full-count curveball in the second inning, resulting in ball four. Nationals manager Dave Martinez was ejected.",
+    "evidence": "https://www.closecallsports.com/2021/09/mlb-ejection-162-ryan-wills-2-dave.html",
+    "source": "https://www.mlb.com/video/dave-martinez-gets-tossed-in-2nd",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/04/d0a7bdf0-67ff76c8-f178ce1d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 122.856066,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_27_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_27.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "634556",
+      "denseSeekOffset": 10
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "perdomo-20220517",
+    "batter": "Geraldo Perdomo",
+    "base": 3,
+    "strike": false,
+    "start": 39.45,
+    "end": 42.25,
+    "umpire": "Larry Vanover · third base",
+    "context": "Vanover upheld no swing on appeal on Craig Kimbrel’s 2–2 knuckle curve in the ninth. The pitch was ball three; Dave Roberts was ejected.",
+    "date": "2022-05-17",
+    "matchup": "AZ at LAD",
+    "evidence": "https://www.closecallsports.com/2022/05/mlb-ejection-041-larry-vanover-1-dave.html",
+    "source": "https://www.mlb.com/video/dave-roberts-gets-ejected",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/17/455ee8f3-99a4e386-70b4c95c-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 52.2522,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/24-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/24-0-detail.jpg"
+      ],
+      "notes": "Low third-base-side slow-motion replay inspected at 4 fps. Begins just after dissolve while bat remains in loaded stance; full check occurs approximately 40.5–41.8. No ruling signal appears in the window.",
+      "gamePk": "662628",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/24-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "crawford20220831",
+    "batter": "Brandon Crawford",
+    "date": "2022-08-31",
+    "matchup": "SD at SF",
+    "base": 3,
+    "strike": true,
+    "start": 42.0,
+    "end": 44.8,
+    "umpire": "Ryan Blakney · third base",
+    "context": "Blakney called strike three on appeal on a 1–2 slider in the second inning. Crawford was ejected for arguing the check-swing call.",
+    "evidence": "https://www.closecallsports.com/2022/08/mlb-ejection-150-ryan-blakney-1-brandon.html",
+    "source": "https://www.mlb.com/video/brandon-crawford-gets-tossed",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-08/31/0b4ce67a-36e3cfb9-9a1152d4-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 57.540816,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_22_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_22.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates third-base umpire view; not an umpire eye camera.",
+      "gamePk": "662033",
+      "denseSeekOffset": 39
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "rodgers-20220909",
+    "batter": "Brendan Rodgers",
+    "base": 1,
+    "strike": true,
+    "start": 36.6,
+    "end": 40.8,
+    "umpire": "Hunter Wendelstedt · first base",
+    "context": "Wendelstedt ruled a swing on appeal on the full-count Kevin Ginkel fastball in the fifth. Rodgers struck out and was ejected disputing the call.",
+    "date": "2022-09-09",
+    "matchup": "AZ at COL",
+    "evidence": "https://www.closecallsports.com/2022/09/mlb-ejection-155-hunter-wendelstedt-1.html",
+    "source": "https://www.mlb.com/video/brendan-rodgers-gets-ejected",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/09/24da137a-ad332a22-1578fa97-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 58.224833,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/21-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/21-0-detail.jpg"
+      ],
+      "notes": "First-base-side slow-motion replay inspected at 4 fps. Begins before load and forward bat motion, contains complete check, and ends before catcher throw/reaction. CCS lead incorrectly labels umpire 3B, but article body says 1B and MLB official assignments independently confirm first base.",
+      "gamePk": "662870",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/21-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "jose-barrero-2022-09-10",
+    "batter": "Jose Barrero",
+    "date": "2022-09-10",
+    "matchup": "CIN at MIL",
+    "base": 1,
+    "strike": true,
+    "start": 59.1,
+    "end": 61.9,
+    "umpire": "Manny Gonzalez · first base",
+    "context": "Gonzalez ruled a swing on appeal for strike three. David Bell was ejected while disputing the call.",
+    "evidence": "https://www.closecallsports.com/2022/09/mlb-ejection-158-jeff-nelson-3-david.html",
+    "source": "https://www.mlb.com/video/reds-manager-david-bell-ejected",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/10/26943438-8f7c4b6a-4d189d8d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 21,
+      "gamePk": "661175",
+      "duration": 68.852116,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-21-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-21.jpg"
+      ],
+      "notes": "Visually inspected the final first-base-side replay. Window ends before catcher appeal and batter reaction; overhead replay earlier in highlight is excluded."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "reynolds20220911",
+    "batter": "Bryan Reynolds",
+    "date": "2022-09-11",
+    "matchup": "STL at PIT",
+    "base": 1,
+    "strike": true,
+    "start": 29.02,
+    "end": 30.82,
+    "umpire": "Clint Vondrak · home plate",
+    "context": "Vondrak ruled a swing for strike three as Oneil Cruz attempted to steal second. Derek Shelton was ejected disputing the check-swing call.",
+    "evidence": "https://www.closecallsports.com/2022/09/mlb-ejection-160-clint-vondrak-1-derek.html",
+    "source": "https://www.mlb.com/video/derek-shelton-ejected-in-the-3rd",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/11/052e8009-20467bf8-56595b42-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 56.5565,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-21.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-21.jpg"
+      ],
+      "denseSheetOffsetSeconds": 27,
+      "gamePk": "662325",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "myers20221023",
+    "batter": "Wil Myers",
+    "date": "2022-10-23",
+    "matchup": "SD at PHI",
+    "base": 1,
+    "strike": true,
+    "start": 28.0,
+    "end": 30.2,
+    "umpire": "First-base appeal · NLCS Game 5",
+    "context": "Myers’ check was ruled a swing for strike two in the ninth inning. He was later called out on a separate third strike; this replay shows the earlier check.",
+    "evidence": "https://www.mlb.com/video/postseason-check-swings",
+    "review": {
+      "notes": "Compilation explicitly discusses Profar and Myers postseason checks; jersey5 and NLCS GAME5 tag identify this segment. Clean first-base-side view, begins after transition and ends before catcher appeal/umpire signal. MLB gamePk715727 has Myers entering as pinch hitter in ninth: called strike, swinging strike, ball, ball, called strike. Do not conflate this check with final called strike three. Official first-base umpire Todd Tichenor; label avoids claiming individual attribution without clear signal cut.",
+      "additionalEvidence": [
+        "https://statsapi.mlb.com/api/v1.1/game/715727/feed/live"
+      ],
+      "duration": 190.874016,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/mlb_2/myers20221023-approved-window.jpg",
+        "/workspace/check-swing/reviews/mlb_2/postseason-check-swings-grid.jpg"
+      ]
+    },
+    "source": "https://www.mlb.com/video/postseason-check-swings",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-10/25/2ade736a-92bb23e4-a76e5e17-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "noda20230617",
+    "batter": "Ryan Noda",
+    "date": "2023-06-17",
+    "matchup": "PHI at OAK",
+    "base": 3,
+    "strike": true,
+    "start": 14.05,
+    "end": 17.1,
+    "umpire": "Brennan Miller · third base",
+    "context": "Miller ruled a swing on appeal after the pitch struck Noda. The dead-ball strike followed a 1–1 count; it was not the separate called strikeout of Ramón Laureano discussed in the source report.",
+    "evidence": "https://www.closecallsports.com/2023/06/mlb-ejection-105-brennan-miller-1-ramon.html",
+    "source": "https://www.mlb.com/video/ramon-laureano-is-ejected",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-06/17/f7f7b602-54e627ae-af42048e-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 40.673966,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-18.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-18.jpg"
+      ],
+      "denseSheetOffsetSeconds": 13,
+      "gamePk": "717725",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "springer20230908",
+    "batter": "George Springer",
+    "date": "2023-09-08",
+    "matchup": "KC at TOR",
+    "base": 1,
+    "strike": false,
+    "start": 45.5,
+    "end": 49.0,
+    "umpire": "Jeff Nelson · first base",
+    "context": "Nelson affirmed no swing on a full-count fastball in the seventh inning, resulting in ball four. Royals pitching coach Brian Sweeney was ejected.",
+    "evidence": "https://www.closecallsports.com/2023/09/mlb-ejection-221-jeff-nelson-3-brian.html",
+    "source": "https://www.mlb.com/video/brian-sweeny-ejected-in-the-7th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-09/08/2287f51b-7d4d0ffb-73a041ad-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 53.2532,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_16_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_16.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "716673",
+      "denseSeekOffset": 41
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "reynolds-20240403",
+    "batter": "Bryan Reynolds",
+    "base": 3,
+    "strike": true,
+    "start": 21.2,
+    "end": 23.3,
+    "umpire": "Mike Muchlinski · home plate",
+    "context": "Muchlinski ruled a swinging third strike on a full-count splitter from Hunter Harvey in the seventh. Derek Shelton was ejected arguing the check-swing call.",
+    "date": "2024-04-03",
+    "matchup": "PIT at WSH",
+    "evidence": "https://www.closecallsports.com/2024/04/mlb-ejection-004-mike-muchlinski-1.html",
+    "source": "https://www.mlb.com/video/derek-shelton-gets-ejected-x5486",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-04/03/89cd91f4-81afb951-80c14695-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 28.445083,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/14-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/14-0-detail.jpg",
+        "/workspace/check-swing/reviews/rulings_4/14-0-onset20_9.jpg"
+      ],
+      "notes": "Third-base-side replay. Dense 10 fps onset sheet confirms a clean camera image at 21.2, with bat still raised before forward motion at approximately 21.3. Window contains the complete check and stops before the subsequent reaction. Call was made at home plate.",
+      "gamePk": "744869",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/14-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "acuna20240513",
+    "batter": "Ronald Acuña Jr.",
+    "date": "2024-05-13",
+    "matchup": "CHC at ATL",
+    "base": 1,
+    "strike": false,
+    "start": 7.8,
+    "end": 10.4,
+    "umpire": "Junior Valentine · first base",
+    "context": "Valentine ruled no swing on appeal for ball three in the fourth inning. Cubs manager Craig Counsell was ejected disputing the ruling.",
+    "evidence": "https://www.closecallsports.com/2024/05/mlb-ejection-047-junior-valentine-1.html",
+    "review": {
+      "notes": "Downloaded MLB video and inspected broad and 4-fps replay frames. Clean first-base side replay; cutoff precedes transition to umpire. MLB publication UTC date is May14, actual game date May13 confirmed by CCS/Gameday. Live score bug persists but no explicit ruling text or signal in selected window.",
+      "duration": 29.396033,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/mlb_2/acuna20240513-approved-window.jpg",
+        "/workspace/check-swing/reviews/mlb_2/craig-counsell-ejected-for-arguing-a-check-swing-grid.jpg"
+      ]
+    },
+    "source": "https://www.mlb.com/video/craig-counsell-ejected-for-arguing-a-check-swing",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/13/a23be20b-48f75852-0b160fa9-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "young20240601",
+    "batter": "Jacob Young",
+    "date": "2024-06-01",
+    "matchup": "WSH at CLE",
+    "base": 1,
+    "strike": true,
+    "start": 11.12,
+    "end": 12.92,
+    "umpire": "Malachi Moore · home plate",
+    "context": "Moore ruled a swing for strike three as the pitch touched Young’s hand. The recorded call was a dead-ball swinging strike, not a hit-by-pitch award.",
+    "evidence": "https://www.closecallsports.com/2024/06/mlb-ejection-066-malachi-moore-1-dave.html",
+    "source": "https://www.mlb.com/video/dave-martinez-ejected-in-3rd-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-06/01/b3cb6aca-005e9aca-0889bdf4-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 30.046683,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-12.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-12.jpg"
+      ],
+      "denseSheetOffsetSeconds": 9.5,
+      "gamePk": "746629",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "laureano20250720",
+    "batter": "Ramón Laureano",
+    "date": "2025-07-20",
+    "matchup": "BAL at TB",
+    "base": 1,
+    "strike": true,
+    "start": 21.3,
+    "end": 23.1,
+    "umpire": "John Libka · first base",
+    "context": "Libka called strike three on appeal on a 1–2 cutter in the third inning. Laureano and manager Tony Mansolino were ejected.",
+    "evidence": "https://www.closecallsports.com/2025/07/mlb-ejections-100-1-james-hoye-3-4-bal.html",
+    "source": "https://www.mlb.com/video/laureano-and-mansolino-ejected-in-the-3rd-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/a39f6e57-2c0e4f7d-e0c3fd4e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 34.98495,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_9_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_9.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "777076",
+      "denseSeekOffset": 21
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "bryce-harper-2025-08-01",
+    "batter": "Bryce Harper",
+    "date": "2025-08-01",
+    "matchup": "DET at PHI",
+    "base": 3,
+    "strike": true,
+    "start": 14.25,
+    "end": 17.2,
+    "umpire": "Vic Carapazza · third base",
+    "context": "Carapazza ruled a swing on appeal, ending the seventh inning with a strikeout. Harper was then ejected.",
+    "evidence": "https://www.closecallsports.com/2025/08/mlb-ejection-113-vic-carapazza-1-bryce.html",
+    "source": "https://www.mlb.com/video/bryce-harper-ejected-after-striking-out-in-the-7th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/01/fdba316c-ed630d69-8a2e4747-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 8,
+      "gamePk": "776913",
+      "duration": 25.191833,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-8-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-8.jpg"
+      ],
+      "notes": "Visually inspected unobstructed third-base-side replay of left-handed check. Window starts after dissolve and ends before reaction. MLB description explicitly says check-swing strikeout; game feed agrees."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "wood20250802",
+    "batter": "James Wood",
+    "date": "2025-08-02",
+    "matchup": "MIL at WSH",
+    "base": 3,
+    "strike": true,
+    "start": 18.05,
+    "end": 19.55,
+    "umpire": "Chris Guccione · home plate",
+    "context": "Guccione ruled a swing for strike three on a full count. Miguel Cairo was ejected disputing the call.",
+    "evidence": "https://www.closecallsports.com/2025/08/mlb-ejection-114-chris-guccione-2.html",
+    "source": "https://www.mlb.com/video/miguel-cairo-ejected-in-the-6th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/02/f4b16049-1ff9a555-9f9e1588-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 27.8278,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-8.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-8.jpg"
+      ],
+      "denseSheetOffsetSeconds": 16.5,
+      "gamePk": "776903",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "lopez20250806",
+    "batter": "Otto Lopez",
+    "date": "2025-08-06",
+    "matchup": "HOU at MIA",
+    "base": 1,
+    "strike": false,
+    "start": 33.5,
+    "end": 36.5,
+    "umpire": "Carlos Torres · first base",
+    "context": "Torres affirmed no swing on a 1–0 slider in the sixth inning. Astros pitching coach Joshua Miller was ejected while disputing the ball-two call.",
+    "evidence": "https://www.closecallsports.com/2025/08/mlb-ejection-117-carlos-torres-4-joshua.html",
+    "source": "https://www.mlb.com/video/astros-pitching-coach-josh-miller-ejected-in-the-6th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/06/1995e24d-0d603a16-7c9ec210-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 52.90285,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_8_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_8.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "776849",
+      "denseSeekOffset": 29
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "jt-realmuto-2025-09-01",
+    "batter": "J.T. Realmuto",
+    "date": "2025-09-01",
+    "matchup": "PHI at MIL",
+    "base": 1,
+    "strike": false,
+    "start": 42.6,
+    "end": 45.6,
+    "umpire": "Jim Wolf · first base",
+    "context": "Realmuto was ruled to have held up on the full-count pitch and walked. Pat Murphy was ejected after disputing the check-swing calls.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/776500/feed/live",
+    "source": "https://www.mlb.com/video/pat-murphy-gets-ejected-in-the-9th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/01/598a5db3-e3cc1594-123f82a3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 7,
+      "gamePk": "776500",
+      "duration": 49.416033,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-7-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-7.jpg"
+      ],
+      "notes": "Visually inspected first-base-side right-handed replay at end of highlight. Important source correction: CCS title says ball four but body incorrectly says overturned strike. MLB game feed explicitly records Realmuto ninth-inning walk; final pitch Ball, playId 74807b88-8d33-3f3d-8708-726a1fe90dd3. Original highlight shows no-swing signal. Use game feed for ruling evidence. Stops before catcher appeal."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "caballero20250902",
+    "batter": "José Caballero",
+    "date": "2025-09-02",
+    "matchup": "NYY at HOU",
+    "base": 1,
+    "strike": true,
+    "start": 8.45,
+    "end": 11.65,
+    "umpire": "Ramon De Jesus · home plate",
+    "context": "The pitch touched Caballero’s foot, but De Jesus ruled that he offered at it: a dead-ball strike one rather than a hit-by-pitch award.",
+    "evidence": "https://www.closecallsports.com/2025/09/mlb-ejection-151-ramon-de-jesus-4-jose.html",
+    "source": "https://www.mlb.com/video/jose-caballero-ejected-in-the-4th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/02/44471751-1958da67-fc34ace7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 35.568866,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-7.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-7.jpg"
+      ],
+      "denseSheetOffsetSeconds": 7.2,
+      "gamePk": "776489",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "suarez-20260331",
+    "batter": "Eugenio Suárez",
+    "base": 1,
+    "strike": false,
+    "start": 0.05,
+    "end": 2.1,
+    "umpire": "Rob Drake · first base",
+    "context": "Drake upheld no swing on the 1–2 pitch in the eighth. Don Kelly was ejected disputing the appeal.",
+    "date": "2026-03-31",
+    "matchup": "PIT at CIN",
+    "evidence": "https://www.closecallsports.com/2026/03/mlb-ejection-004-jordan-baker-1-don.html",
+    "source": "https://www.mlb.com/video/don-kelly-is-ejected-in-the-8th-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/31/538eed6a-6a7e4b22-79c7e6bd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 19.135783,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/5-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/5-0-detail.jpg"
+      ],
+      "notes": "Source opens on a first-base-side replay. 4 fps inspection shows bat checks within 1.5 seconds; window ends before subsequent umpire/ejection shots. Catcher appeal gesture appears, but no ruling is shown.",
+      "gamePk": "824537",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/5-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "laureano20260516",
+    "batter": "Ramón Laureano",
+    "date": "2026-05-16",
+    "matchup": "SD at SEA",
+    "base": 1,
+    "strike": false,
+    "start": 21.3,
+    "end": 25.7,
+    "umpire": "Chad Fairchild · first base",
+    "context": "Fairchild affirmed no swing on a 1–2 splitter in the fourth inning. Mariners manager Dan Wilson was ejected while disputing the ball-two ruling.",
+    "evidence": "https://www.closecallsports.com/2026/05/mlb-ejection-029-chad-fairchild-1-dan.html",
+    "source": "https://www.mlb.com/video/dan-wilson-ejected-in-4th-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-05/16/ddf67201-95977b78-1fb7d807-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 40.49045,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_5_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_5.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "823139",
+      "denseSeekOffset": 18
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "chisholm-20260628",
+    "batter": "Jazz Chisholm Jr.",
+    "base": 3,
+    "strike": true,
+    "start": 12.4,
+    "end": 14.7,
+    "umpire": "Adam Hamari · home plate",
+    "context": "Hamari ruled a swinging third strike on the checked swing in the sixth. Chisholm was subsequently ejected by Todd Tichenor.",
+    "date": "2026-06-28",
+    "matchup": "NYY at BOS",
+    "evidence": "https://www.closecallsports.com/2026/06/mlb-ejection-055-todd-tichenor-1-jazz.html",
+    "source": "https://www.mlb.com/video/jazz-chisholm-jr-gets-ejected-in-the-6th-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/28/578eab2c-7cd8a4f0-889435cd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 28.7287,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/3-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/3-0-detail.jpg"
+      ],
+      "notes": "Third-base-side slow-motion view of left-handed batter inspected at 4 fps. Starts after wipe; stops after bat checks, before batter turns to react. Actual call was made at home plate; the game view is from the third-base side.",
+      "gamePk": "824744",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/3-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "tatis20260705",
+    "batter": "Fernando Tatis Jr.",
+    "date": "2026-07-05",
+    "matchup": "SD at LAD",
+    "base": 1,
+    "strike": true,
+    "start": 21.3,
+    "end": 23.3,
+    "umpire": "Ben May · first base",
+    "context": "May called a swing on appeal for strike two on the game’s first batter. Padres coaches Craig Stammen and Ryan Goins were ejected. The game date is July 5; the ruling report was published July 7.",
+    "evidence": "https://www.closecallsports.com/2026/07/mlb-ejections-062-3-nick-mahrley-sd.html",
+    "source": "https://www.mlb.com/video/craig-stammen-and-ryan-goins-ejected-in-the-1st",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/05/e9785ce4-99d634f1-32dc87af-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 64.1641,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_3_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_3.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "823931",
+      "denseSeekOffset": 18
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "schwarber20260706",
+    "batter": "Kyle Schwarber",
+    "date": "2026-07-06",
+    "matchup": "PHI at KC",
+    "base": 3,
+    "strike": true,
+    "start": 28.65,
+    "end": 30.85,
+    "umpire": "Roberto Ortiz · third base",
+    "context": "Ortiz called a swing on appeal for strike three in the sixth inning. Schwarber was ejected after disputing the call.",
+    "evidence": "https://www.closecallsports.com/2026/07/mlb-ejection-064-alan-porter-4-kyle.html",
+    "source": "https://www.mlb.com/video/kyle-schwarber-ejected-in-the-6th-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/06/bbf4b047-d26b8e88-3b65edfe-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 43.2432,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_2/sheet-3.jpg",
+        "/workspace/check-swing/reviews/rulings_2/dense-3.jpg"
+      ],
+      "denseSheetOffsetSeconds": 26,
+      "gamePk": "824089",
+      "notes": "Broadcast base-side replay inspected at 5 fps. Window covers forward check motion and ends before umpire/appeal outcome. Dense sheet timestamps are relative to listed offset. Audio must remain muted. Base-side perspective is approximate, not an umpire camera."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "reynolds-20260727",
+    "batter": "Bryan Reynolds",
+    "base": 3,
+    "strike": true,
+    "start": 24.65,
+    "end": 29.45,
+    "umpire": "Ben May · third base",
+    "context": "May called a swing on appeal on the 2–1 pitch in the eighth. Don Kelly disputed the check-swing calls and was ejected.",
+    "date": "2026-07-27",
+    "matchup": "AZ at PIT",
+    "evidence": "https://www.closecallsports.com/2026/07/mlb-ejection-076-ben-may-2-don-kelly.html",
+    "source": "https://www.mlb.com/video/don-kelly-ejected-in-the-8th-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/27/af549946-2820d077-32bae50c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 45.628916,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/2-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/2-0-detail.jpg"
+      ],
+      "notes": "Third-base-side tight slow-motion replay inspected at 4 fps. No umpire or reaction in window; replay begins after ejection scene. Report discusses two appealed strikes; this clip opens on the later 2–1 pitch.",
+      "gamePk": "823353",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/2-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "chase-delauter-2026-08-05",
+    "batter": "Chase DeLauter",
+    "date": "2026-08-05",
+    "matchup": "NYM at CLE",
+    "base": 3,
+    "strike": true,
+    "start": 20.5,
+    "end": 23.8,
+    "umpire": "Chad Fairchild · third base",
+    "context": "Fairchild called a swing on appeal for strike three. Stephen Vogt was ejected disputing the call.",
+    "evidence": "https://www.closecallsports.com/2026/08/mlb-ejection-085-chad-fairchild-3.html",
+    "source": "https://www.mlb.com/video/stephen-vogt-ejected-in-the-bottom-of-the-6th",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/05/9fa345fb-8d9a6606-8681f4a9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 2,
+      "gamePk": "824402",
+      "duration": 33.066366,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-2-1.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-2.jpg"
+      ],
+      "notes": "Visually inspected left-handed open-side replay. Window covers load, check, and held bat, ending before appeal/reaction. MLB game feed records final pitch as Swinging Strike (Blocked)."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "tolbert20260818",
+    "batter": "Tyler Tolbert",
+    "date": "2026-08-18",
+    "matchup": "ATH at KC",
+    "base": 1,
+    "strike": false,
+    "start": 9.5,
+    "end": 13.3,
+    "umpire": "Alex Tosi · first base",
+    "context": "Tosi ruled no swing on appeal on a 1–2 pitch in the ninth inning. Athletics manager Mark Kotsay was ejected while disputing the ball-two ruling.",
+    "evidence": "https://www.closecallsports.com/2026/08/mlb-ejection-096-alex-tosi-1-mark-kotsay.html",
+    "source": "https://www.mlb.com/video/mark-kotsay-gets-ejected-in-the-9th-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/18/405740e2-a2bf23d6-a4269d1d-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 26.843483,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_2_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_2.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "824075",
+      "denseSeekOffset": 6
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "turner20260818",
+    "batter": "Trea Turner",
+    "date": "2026-08-18",
+    "matchup": "MIA at PHI",
+    "base": 1,
+    "strike": true,
+    "start": 11.8,
+    "end": 17.0,
+    "umpire": "Swing ruling · seventh inning",
+    "context": "Turner was ruled to have swung for strike three on a pitch that struck him. MLB’s game record says the Phillies’ hit-by-pitch challenge left the strikeout in place.",
+    "evidence": "https://www.mlb.com/video/trea-turner-hit-by-pitch-mu6gll",
+    "review": {
+      "notes": "Long first-base-side slow replay without call graphics or umpire signal. Actual game date verified from gamePk823423. MLB video description says overturned, but official game feed says upheld; final swinging-strike outcome agrees. Avoid claiming an individual base umpire made the call because appeal attribution is not resolved. HP Shane Livensparger, 1B Clint Vondrak listed in official boxscore. Pitch strikes batter; injury response is visible but not a ruling signal.",
+      "additionalEvidence": [
+        "https://statsapi.mlb.com/api/v1.1/game/823423/feed/live"
+      ],
+      "officialEvent": "atBatIndex56, bottom7, final pitch S / Swinging Strike; Phillies challenged (hit by pitch), call on field upheld.",
+      "duration": 28.144783,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/mlb_2/turner20260818-approved-window.jpg",
+        "/workspace/check-swing/reviews/mlb_2/trea-turner-hit-by-pitch-mu6gll-grid.jpg"
+      ]
+    },
+    "source": "https://www.mlb.com/video/trea-turner-hit-by-pitch-mu6gll",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/18/4f2f06f0-fb78996c-7d501f82-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "trout-20260819",
+    "batter": "Mike Trout",
+    "base": 1,
+    "strike": false,
+    "start": 27.5,
+    "end": 31.25,
+    "umpire": "Lance Barrett · first base",
+    "context": "Barrett upheld no swing on appeal after the pitch hit Trout. The hit-by-pitch stood; Espada was ejected arguing the appeal.",
+    "date": "2026-08-19",
+    "matchup": "LAA at HOU",
+    "evidence": "https://www.closecallsports.com/2026/08/mlb-ejection-098-lance-barrett-6-joe.html",
+    "source": "https://www.mlb.com/video/mike-trout-hit-by-pitch-2lbwji",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/19/d951cf1b-4afcae8f-9c4cbedf-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 31.7317,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_4/1-0-grid.jpg",
+        "/workspace/check-swing/reviews/rulings_4/1-0-detail.jpg"
+      ],
+      "notes": "First-base-side slow-motion replay inspected at 4 fps. Window follows dissolve and ends before source concludes. HBP motion is part of the actual check; no ruling signal or score graphic in this replay.",
+      "gamePk": "824155",
+      "officialsEvidence": "/workspace/check-swing/reviews/rulings_4/1-game-meta.json"
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "ty-france-2026-09-09",
+    "batter": "Ty France",
+    "date": "2026-09-09",
+    "matchup": "WSH at SD",
+    "base": 1,
+    "strike": false,
+    "start": 28.5,
+    "end": 31.1,
+    "umpire": "Emil Jimenez · first base",
+    "context": "Jimenez ruled no swing on the 0–2 pitch. Nationals manager Blake Butera was later ejected arguing the appeal.",
+    "evidence": "https://www.closecallsports.com/2026/09/mlb-ejection-117-emil-jimenez-2-blake.html",
+    "source": "https://www.mlb.com/video/blake-butera-ejected-in-the-bottom-of-the-3rd-inning",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/09/ace2762c-6f9e43ba-eb4a34cb-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "reportIndex": 0,
+      "gamePk": "823251",
+      "duration": 35.118416,
+      "resolution": "1280x720, source mp4Avc",
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_3/sheet-0-0.jpg",
+        "/workspace/check-swing/reviews/rulings_3/dense-0.jpg"
+      ],
+      "notes": "Visually inspected the clear right-handed open-side replay; it repeats the same check in slow motion. Window starts after dissolve and ends before manager reaction. MLB game feed identifies France third-inning pitch three as Ball In Dirt."
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "betts20260927",
+    "batter": "Mookie Betts",
+    "date": "2026-09-27",
+    "matchup": "LAD at SF",
+    "base": 1,
+    "strike": false,
+    "start": 12.1,
+    "end": 15.3,
+    "umpire": "Marvin Hudson · first base",
+    "context": "Hudson affirmed no swing on appeal on a 1–2 slider in the third inning. Giants manager Tony Vitello was ejected while disputing the ball-two ruling.",
+    "evidence": "https://www.closecallsports.com/2026/09/mlb-ejection-122-ryan-blakney-2-tony.html",
+    "source": "https://www.mlb.com/video/tony-vitello-ejected-x7044",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/27/35a30576-c858051b-da8eace2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "review": {
+      "duration": 48.531816,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/rulings_1/grid_0_0.jpg",
+        "/workspace/check-swing/reviews/rulings_1/dense_0.jpg"
+      ],
+      "notes": "Frames visually inspected at 4-second and 0.25-second spacing; exact selected source window excludes ejection, appeal ruling and post-play reactions. Muted playback required. Broadcast side angle approximates first-base umpire view; not an umpire eye camera.",
+      "gamePk": "823164",
+      "denseSeekOffset": 9
+    },
+    "availableFrom": "2026-10-30"
+  },
+  {
+    "id": "diaz20261024",
+    "batter": "Yandy Díaz",
+    "date": "2026-10-24",
+    "matchup": "TB at MIL",
+    "base": 1,
+    "strike": true,
+    "start": 18.9,
+    "end": 20.5,
+    "umpire": "James Hoye · first base",
+    "context": "Hoye ruled a swing on appeal for strike three, ending World Series Game 2. Díaz and the Rays disputed the call.",
+    "evidence": "https://www.mlb.com/video/yandy-diaz-discusses-check-swing-k-to-end-game",
+    "review": {
+      "notes": "First-base-side replay embedded in Murphy interview; foreground umpire/head partially occludes low foreground but bat/arms remain visible. Cut starts after prior closeup and stops before catcher appeal; only 1.6 seconds of clean footage, so parent should verify against playback minimum. Original replay has 0.5-second bat check near19.5 and follow-through recovery. Independent reviewer mlb_1 inspected Díaz interview version and verified official game and appeal umpire.",
+      "shortWindow": true,
+      "additionalEvidence": [
+        "https://statsapi.mlb.com/api/v1.1/game/849802/feed/live"
+      ],
+      "duration": 124.457666,
+      "visualEvidencePaths": [
+        "/workspace/check-swing/reviews/mlb_2/diaz20261024-approved-window.jpg",
+        "/workspace/check-swing/reviews/mlb_2/pat-murphy-on-check-swing-ending-gasser-in-game-3-grid.jpg"
+      ]
+    },
+    "source": "https://www.mlb.com/video/pat-murphy-on-check-swing-ending-gasser-in-game-3",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/24/b6ce9410-dccf300d-dbe5effd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-10-30"
+  }
+]
