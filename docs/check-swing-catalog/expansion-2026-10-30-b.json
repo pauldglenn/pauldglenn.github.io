@@ -1,0 +1,876 @@
+{
+  "added": 11,
+  "total": 111,
+  "clips": [
+    {
+      "id": "johnson20140622",
+      "batter": "Chris Johnson",
+      "date": "2014-06-22",
+      "matchup": "ATL at WSH",
+      "base": 1,
+      "strike": true,
+      "start": 46.0,
+      "end": 51.6,
+      "umpire": "Tim Welke · first base",
+      "context": "Welke ruled a swing on appeal for strike three on a 1–2 slider in the sixth inning. Chris Johnson was ejected while disputing the call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2014/06/22/mlbtv_atlwas_33946171_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2014/06/22/mlbtv_atlwas_33946171_1200K.mp4",
+      "evidence": "https://www.closecallsports.com/2014/06/mlb-ejections-mark-carlson-2-3-johnson.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "omittedQueueIndex": 5,
+        "gamePk": 381664,
+        "playId": "03816646-0476-0043-000c-f08cd117d70a",
+        "atBatIndex": 46,
+        "pitchNumber": 4,
+        "duration": 63.530134,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/more-5-0.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/more-5-0-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/more-5-dense.jpg"
+        ],
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/33946171/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/381664/feed/live"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/more-report-5.txt",
+        "notes": "Complete first-base-side check after clean replay transition, ending after bat stops and before ruling signal. Confirmed exact official pitch, game date and umpire identity. Source links directly to playable MLB asset recovered from official legacy metadata. Needs independent secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "johnson20140622",
+        "status": "accept",
+        "reason": "Complete first-base-side load and forward check through bat stop/retraction,46.0–51.6; no umpire signal. CCS explicitly credits Tim Welke first-base appeal, separate from Mark Carlson ejection. Independently fetched MLB feed381664 confirms2014-06-22 and matching sixth-inning fourth pitch swinging strike three.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 46.0,
+          "end": 51.6
+        },
+        "gamePk": 381664,
+        "playId": "03816646-0476-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/more-5-0-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/more-5-dense.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/06/mlb-ejections-mark-carlson-2-3-johnson.html"
+      }
+    },
+    {
+      "id": "frandsen20130526",
+      "batter": "Kevin Frandsen",
+      "date": "2013-05-26",
+      "matchup": "PHI at WSH",
+      "base": 1,
+      "strike": true,
+      "start": 26.4,
+      "end": 30.8,
+      "umpire": "Mike Winters · home plate",
+      "context": "Winters ruled a swing for strike three on an 0–2 curveball in the fourth inning. Frandsen was ejected after throwing his bat in reaction.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2013/05/26/mlbtv_27456645_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2013/05/26/mlbtv_27456645_1200K.mp4",
+      "evidence": "https://www.closecallsports.com/2013/05/mlb-ejection-044-mike-winters-1-kevin.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "omittedQueueIndex": 16,
+        "gamePk": 347488,
+        "playId": "03474886-0266-0033-000c-f08cd117d70a",
+        "atBatIndex": 25,
+        "pitchNumber": 3,
+        "duration": 42.6426,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/more-16-0.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/more-16-0-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/more-16-dense.jpg"
+        ],
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/27456645/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/347488/feed/live"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/more-report-16.txt",
+        "notes": "Complete first-base-side check after clean replay transition, ending after bat stops and before ruling signal. Confirmed exact official pitch, game date and umpire identity. Source links directly to playable MLB asset recovered from official legacy metadata. Needs independent secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "frandsen20130526",
+        "status": "accept",
+        "reason": "Complete first-base-side load/check/held finish26.4–30.8, before result/argument. CCS identifies Mike Winters home-plate swinging-strike call; original-motion fullclip sheet supports HP signal rather than appeal to1B. Independently fetched feed347488 confirms2013-05-26, fourth-inning third pitch swinging strike blocked, and Winters atHP.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 26.4,
+          "end": 30.8
+        },
+        "gamePk": 347488,
+        "playId": "03474886-0266-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/more-16-0-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/more-16-dense.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2013/05/mlb-ejection-044-mike-winters-1-kevin.html"
+      }
+    },
+    {
+      "id": "aybar20141002",
+      "batter": "Erick Aybar",
+      "date": "2014-10-02",
+      "matchup": "KC at LAA",
+      "base": 3,
+      "strike": true,
+      "start": 33.1,
+      "end": 38.6,
+      "umpire": "Paul Nauert · home plate",
+      "context": "Nauert ruled a swing for strike three in the eleventh inning of ALDS Game 1. Mike Scioscia disputed the check-swing call.",
+      "evidence": "https://www.closecallsports.com/2014/09/discussions-2014-al-nl-wild-card-games.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2014/10/03/mlbtv_kcaana_36729503_300K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2014/10/03/mlbtv_kcaana_36729503_300K.mp4",
+      "review": {
+        "queueIndex": 1,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 416347,
+        "playId": "04163476-0826-0053-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Third-base-side replay. Official pitch five of Aybar eleventh-inning plate appearance is Swinging Strike (Blocked).",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-1.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-1.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2014/09/discussions-2014-al-nl-wild-card-games.html",
+          "https://statsapi.mlb.com/api/v1.1/game/416347/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-416347.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "aybar20141002",
+        "status": "accept",
+        "reason": "Full third-base-side load/check/stop/retraction33.1–38.6. CCS postseason recap explicitly credits HP Paul Nauert with Aybar half-swing strikeout, and official feed416347 verifies2014-10-02,11th inning,pitch5 swinging strike blocked. No visible answer signal.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 33.1,
+          "end": 38.6
+        },
+        "gamePk": 416347,
+        "playId": "04163476-0826-0053-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-1.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/09/discussions-2014-al-nl-wild-card-games.html"
+      }
+    },
+    {
+      "id": "gentry20140707",
+      "batter": "Craig Gentry",
+      "date": "2014-07-07",
+      "matchup": "SF at OAK",
+      "base": 1,
+      "strike": false,
+      "start": 17.1,
+      "end": 22.9,
+      "umpire": "Paul Nauert · home plate HBP ruling",
+      "context": "Nauert awarded Gentry first base after a check at a 1–2 pitch in the fifth; the hit-by-pitch ruling stood after review. That final award establishes the recorded no-swing result; no separate check-swing appeal decision was identified.",
+      "evidence": "https://www.closecallsports.com/2014/07/mlb-replay-reviews-675-676-nauert.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2014/07/08/mlbtv_sfnoak_34387455_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2014/07/08/mlbtv_sfnoak_34387455_1200K.mp4",
+      "review": {
+        "queueIndex": 4,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 381882,
+        "playId": "03818826-0386-0043-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "No swing is established by the final HBP award, not the reviewer opinion. No separately identified base-umpire appeal; credit is the sourced home-plate ruling. Full first-base-side motion.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-4.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-4.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2014/07/mlb-replay-reviews-675-676-nauert.html",
+          "https://statsapi.mlb.com/api/v1.1/game/381882/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-381882.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "gentry20140707",
+        "status": "accept_with_changes",
+        "reason": "Full first-base-side evasive check17.1–22.9, no result signal. CCS explicitly credits HP Paul Nauert initial HBP award, upheld on review; exact feed381882 date2014-07-07,pitch4 in fifth is HBP. No-swing is a necessary part of final first-base award; no separate appeal attribution is claimed.",
+        "changes": {
+          "umpire": "Paul Nauert · home plate HBP ruling",
+          "context": "Nauert awarded Gentry first base after a check at a 1–2 pitch in the fifth; the hit-by-pitch ruling stood after review. That final award establishes the recorded no-swing result; no separate check-swing appeal decision was identified."
+        },
+        "reviewedWindow": {
+          "start": 17.1,
+          "end": 22.9
+        },
+        "gamePk": 381882,
+        "playId": "03818826-0386-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-4.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/07/mlb-replay-reviews-675-676-nauert.html"
+      }
+    },
+    {
+      "id": "viciedo20140514",
+      "batter": "Dayan Viciedo",
+      "date": "2014-05-14",
+      "matchup": "CWS at OAK",
+      "base": 1,
+      "strike": false,
+      "start": 24.3,
+      "end": 29.2,
+      "umpire": "Deciding umpire not identified · final HBP on replay",
+      "context": "After Viciedo checked at an 0–2 pitch in the fourth, the initial foul-ball ruling was changed to hit by pitch on review. The final first-base award establishes the recorded no-swing result; no separate check-swing appeal decision was identified.",
+      "evidence": "https://www.closecallsports.com/2014/05/mlb-instant-replay-review-277-manny.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2014/05/14/14-381133-2014-05-14/web_cut/rth_chaoak_32868759_300k.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2014/05/14/14-381133-2014-05-14/web_cut/rth_chaoak_32868759_300k.mp4",
+      "review": {
+        "queueIndex": 7,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 381133,
+        "playId": "03811336-0246-0033-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Compare with final ruling, not initial foul call. Official feed records Hit By Pitch on pitch three. No explicit separate base appeal attribution. Full first-base-side replay, ends before any foul/time signal.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-7.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-7.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-7.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-7.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2014/05/mlb-instant-replay-review-277-manny.html",
+          "https://statsapi.mlb.com/api/v1.1/game/381133/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-381133.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "viciedo20140514",
+        "status": "accept_with_changes",
+        "reason": "Full first-base-side checking motion24.3–29.2, no result signal. CCS and feed381133 agree final HBP on fourth-inning pitch3,2014-05-14. However Gonzalez originally ruled foul, and replay reversed that decision; no distinct no-swing caller is sourced. Use generic final-review label rather than attributing final no-swing decision to initial foul-call umpire.",
+        "changes": {
+          "umpire": "Deciding umpire not identified · final HBP on replay",
+          "context": "After Viciedo checked at an 0–2 pitch in the fourth, the initial foul-ball ruling was changed to hit by pitch on review. The final first-base award establishes the recorded no-swing result; no separate check-swing appeal decision was identified."
+        },
+        "reviewedWindow": {
+          "start": 24.3,
+          "end": 29.2
+        },
+        "gamePk": 381133,
+        "playId": "03811336-0246-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-7.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-7.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-7.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/05/mlb-instant-replay-review-277-manny.html"
+      }
+    },
+    {
+      "id": "middlebrooks20140510",
+      "batter": "Will Middlebrooks",
+      "date": "2014-05-10",
+      "matchup": "BOS at TEX",
+      "base": 1,
+      "strike": false,
+      "start": 0.8,
+      "end": 6.8,
+      "umpire": "Vic Carapazza · first base",
+      "context": "Carapazza ruled no swing when a 2–2 pitch hit Middlebrooks in the eighth. Mike Maddux was ejected for arguing that he had swung.",
+      "evidence": "https://www.closecallsports.com/2014/05/mlb-ejection-replay-review-vic.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2014/05/11/mlbtv_bostex_32776145_300K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2014/05/11/mlbtv_bostex_32776145_300K.mp4",
+      "review": {
+        "queueIndex": 8,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 381077,
+        "playId": "03810776-0636-0073-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Explicit check-swing appeal report identifies Carapazza. Official feed confirms HBP, seventh pitch of eighth-inning PA. First-base replay ends before umpire time/HBP signal.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-8.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-8.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-8.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-8.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2014/05/mlb-ejection-replay-review-vic.html",
+          "https://statsapi.mlb.com/api/v1.1/game/381077/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-381077.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "middlebrooks20140510",
+        "status": "accept",
+        "reason": "Full first-base-side HBP check/evasion0.8–6.8 before umpire response. Report identifies Carapazza first-base no-swing dispute and exact feed381077 confirms2014-05-10,eighth-inning pitch7 HBP. Full bat forward-stop visible despite being hit.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 0.8,
+          "end": 6.8
+        },
+        "gamePk": 381077,
+        "playId": "03810776-0636-0073-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-8.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-8.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-8.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/05/mlb-ejection-replay-review-vic.html"
+      }
+    },
+    {
+      "id": "deaza20140420",
+      "batter": "Alejandro De Aza",
+      "date": "2014-04-20",
+      "matchup": "CWS at TEX",
+      "base": 3,
+      "strike": true,
+      "start": 40.6,
+      "end": 46.7,
+      "umpire": "Bob Davidson · third base",
+      "context": "Davidson ruled a swing on a 1–2 pitch that hit De Aza in the sixth. He was out on strike three, and the ruling stood after replay review.",
+      "evidence": "https://www.closecallsports.com/2014/04/mlb-instant-replay-review-123-james.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2014/04/20/mlbtv_chatex_32240999_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2014/04/20/mlbtv_chatex_32240999_1200K.mp4",
+      "review": {
+        "queueIndex": 11,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 380809,
+        "playId": "03808096-0446-0043-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "CCS explicitly identifies third-base umpire Bob Davidson as swing decision-maker, distinct from HP James Hoye overseeing HBP review. Official feed pitch four is Swinging Strike. Third-base-side replay ends before reaction.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-11.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-11.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-11.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-11.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2014/04/mlb-instant-replay-review-123-james.html",
+          "https://statsapi.mlb.com/api/v1.1/game/380809/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-380809.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "deaza20140420",
+        "status": "accept",
+        "reason": "Full third-base-side HBP check40.6–46.7 with visible stopped bat before reaction. CCS expressly credits3B Bob Davidson with swing, distinct from HP James Hoye handling HBP review. Feed380809 verifies2014-04-20,sixth-inning pitch4 swinging strike three.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 40.6,
+          "end": 46.7
+        },
+        "gamePk": 380809,
+        "playId": "03808096-0446-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-11.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-11.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-11.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/04/mlb-instant-replay-review-123-james.html"
+      }
+    },
+    {
+      "id": "escobar20130817",
+      "batter": "Alcides Escobar",
+      "date": "2013-08-17",
+      "matchup": "KC at DET",
+      "base": 1,
+      "strike": false,
+      "start": 19.55,
+      "end": 24.3,
+      "umpire": "Mike Muchlinski · home plate",
+      "context": "Escobar’s check at a 2–2 pitch in the fourth was ruled ball three, with the ball getting past the catcher. Detroit argued that the pitch had instead touched his bat.",
+      "evidence": "https://www.closecallsports.com/2013/08/mlb-ejections-132-133-davidson.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2013/08/18/mlbtv_kcadet_29797687_300K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2013/08/18/mlbtv_kcadet_29797687_300K.mp4",
+      "review": {
+        "queueIndex": 12,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 348575,
+        "playId": "03485756-0356-0053-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Official pitch five is Ball, count advances to3–2; the foul-ball controversy does not alter actual no-swing/ball ruling. Report names HP Mike Muchlinski. No separately sourced base appeal. First-base-side complete motion.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-12.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-12.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2013/08/mlb-ejections-132-133-davidson.html",
+          "https://statsapi.mlb.com/api/v1.1/game/348575/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-348575.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "escobar20130817",
+        "status": "accept",
+        "reason": "Full first-base-side check19.55–24.3. Exact feed348575 confirms2013-08-17,fourth-inning pitch5 ball three. CCS attributes missed foul to HP Mike Muchlinski; recorded ball entails no-swing even though video/report show bat contact after bounce. Keep explicit context that controversy was foul/no-foul; no distinct appeal or separate named swing decision is established.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 19.55,
+          "end": 24.3
+        },
+        "gamePk": 348575,
+        "playId": "03485756-0356-0053-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-12.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2013/08/mlb-ejections-132-133-davidson.html"
+      }
+    },
+    {
+      "id": "kemp20130325",
+      "batter": "Matt Kemp",
+      "date": "2013-03-25",
+      "matchup": "LAD at KC · spring training",
+      "base": 1,
+      "strike": true,
+      "start": 0.1,
+      "end": 3.4,
+      "umpire": "A.J. Johnson · home plate",
+      "context": "Johnson ruled a swing for strike three on a 2–2 pitch in the seventh of this spring-training game. Don Mattingly was ejected arguing the call.",
+      "evidence": "https://www.closecallsports.com/2013/03/pre-season-ejection-3-aj-johnson-1.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2013/03/26/mlbtv_25866613_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2013/03/26/mlbtv_25866613_1200K.mp4",
+      "review": {
+        "queueIndex": 17,
+        "queue": "/workspace/check-swing/expansion500/ccs_lower/feed-omitted.json",
+        "gamePk": 363415,
+        "playId": "03634156-0646-0063-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Spring training explicitly labeled. Official feed sixth pitch of seventh-inning PA is Swinging Strike. Elevated first-base-side replay; initial bat tip touches upper frame but complete forward/check/recoil motion visible.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more-17.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-17.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-17.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-17.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2013/03/pre-season-ejection-3-aj-johnson-1.html",
+          "https://statsapi.mlb.com/api/v1.1/game/363415/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more-game-363415.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "kemp20130325",
+        "status": "accept",
+        "reason": "Full elevated first-base-side load/check/stop/recoil0.1–3.4; bat tip initially touches top frame, but all forward deciding motion is clear. CCS identifies HP A.J. Johnson strikeout and game feed363415 confirms2013-03-25,seventh-inning pitch6 swinging strike. Spring-training label must remain visible; this is not regular season.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 0.1,
+          "end": 3.4
+        },
+        "gamePk": 363415,
+        "playId": "03634156-0646-0063-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-17.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-17.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-17.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2013/03/pre-season-ejection-3-aj-johnson-1.html"
+      }
+    },
+    {
+      "id": "cairo20110517",
+      "batter": "Miguel Cairo",
+      "date": "2011-05-17",
+      "matchup": "CHC at CIN",
+      "base": 1,
+      "strike": true,
+      "start": 155.65,
+      "end": 158.35,
+      "umpire": "John Hirschbeck · home plate",
+      "context": "Hirschbeck ruled a swing for strike three on an 0–2 slider in the sixth inning. Cairo initially headed toward the dugout, then reached first after catcher Welington Castillo failed to secure the pitch.",
+      "evidence": "https://www.closecallsports.com/2011/05/discussions-dropped-third-strike.html",
+      "source": "https://www.mlb.com/video/must-c-curious-c14908519",
+      "video": "https://mediadownloads.mlb.com/mlbam/2011/05/17/mlbtv_chncin_14908519_1200K.mp4",
+      "review": {
+        "reviewer": "expand_legacy_late",
+        "queue": "ccs_lower/feed-omitted.json",
+        "queueIndex": 27,
+        "gamePk": 287520,
+        "playId": "02875206-0516-0033-000c-f08cd117d70a",
+        "pitchNumber": 3,
+        "inning": 6,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/more-27.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_late/more-27-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more-27-153-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more-27-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://statsapi.mlb.com/api/v1.1/game/287520/feed/live",
+          "https://content.mlb.com/mlb/item/id/v1/14908519/details/web-v1.json"
+        ],
+        "feedCall": "Swinging Strike (Blocked)",
+        "notes": "Complete first-base-side replay before catcher rises or batter reacts; reviewed10fps. Official date2011-05-17; CCS body incorrectly says5/18, likely UTC/date rollover. Metadata and official feed agree5/17. Actual swinging-strike call from report and feed, separate from dropped-third-strike dispute."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "cairo20110517",
+        "status": "accept",
+        "reason": "Complete first-base-side loaded stance, check, bat stop/retraction155.65–158.35. Cut excludes catcher rise and batter reaction. CCS explicitly names HP John Hirschbeck as swing caller; feed287520 confirms officialDate2011-05-17, sixth-inning third pitch swinging strike blocked. Article5/18 is date discrepancy; actual local game date is5/17 (pitch occurs after midnightUTC). Dropped-third-strike aftermath is separate from swing ruling.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 155.65,
+          "end": 158.35
+        },
+        "gamePk": 287520,
+        "playId": "02875206-0516-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_late/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_late/more-27-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more-27-153-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more-27-grid.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2011/05/discussions-dropped-third-strike.html"
+      }
+    },
+    {
+      "id": "kim20250922",
+      "batter": "Ha-Seong Kim",
+      "date": "2025-09-22",
+      "matchup": "WSH at ATL",
+      "base": 1,
+      "strike": false,
+      "start": 25.2,
+      "end": 28.4,
+      "umpire": "Manny Gonzalez · first base",
+      "context": "Gonzalez affirmed no swing on the full-count pitch in the third inning, awarding Kim ball four. Miguel Cairo was ejected after disputing the ruling.",
+      "evidence": "https://www.closecallsports.com/2025/09/mlb-ejection-167-manny-gonzalez-6.html",
+      "source": "https://www.mlb.com/video/manager-miguel-cairo-get-ejected-in-the-3rd-inning",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-09/22/650bbb7c-e20e79b8-a7d5a7e0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 776221,
+      "playId": "1cfb5b43-54e4-388d-96af-8ba0c142683d",
+      "review": {
+        "status": "primary-reviewed; independent audit requested",
+        "localVideo": "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning-fine.jpg"
+        ],
+        "durationSeconds": 34.851483,
+        "angle": "first-base-side broadcast replay",
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/776221/feed/live",
+        "feedDescription": "Ball",
+        "inning": 3,
+        "pitchNumber": 6,
+        "notes": "Source-report Gameday link is wrong (Nationals/Mets prior day); repaired using official 2025-09-22 schedule. Direct MLB Cairo ejection edit has complete side replay. Report opening label incorrectly says HP Gonzalez, but narrative correctly identifies Gonzalez at1B and Iassogna atHP; official crew confirms. Fine sheet starts24.8,10fps. No swing signal excluded from25.2–28.4."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "kim20250922",
+        "status": "accept",
+        "reason": "Complete first-base-side load, check, stop and retraction from25.2–28.4. Fine sheet offset24.8; ends before catcher appeal gesture. MLB exact pitch is third-inning ball four and game date2025-09-22. CCS narrative explicitly says Gonzalez at1B affirmed no swing; official crew agrees. CCS header HP designation and linked game are erroneous, resolved by narrative and official feed776221.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 25.2,
+          "end": 28.4
+        },
+        "gamePk": 776221,
+        "playId": "1cfb5b43-54e4-388d-96af-8ba0c142683d",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/mlb_search/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning-fine.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2025/09/mlb-ejection-167-manny-gonzalez-6.html"
+      }
+    }
+  ],
+  "audit": {
+    "reviewer": "expand_unresolved_archive",
+    "method": "Independent inspection of actual dense/contact-sheet frames, original motion/ruling context, CCS source text, and MLB official game feeds. Muted play required.",
+    "results": [
+      {
+        "id": "kim20250922",
+        "status": "accept",
+        "reason": "Complete first-base-side load, check, stop and retraction from25.2–28.4. Fine sheet offset24.8; ends before catcher appeal gesture. MLB exact pitch is third-inning ball four and game date2025-09-22. CCS narrative explicitly says Gonzalez at1B affirmed no swing; official crew agrees. CCS header HP designation and linked game are erroneous, resolved by narrative and official feed776221.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 25.2,
+          "end": 28.4
+        },
+        "gamePk": 776221,
+        "playId": "1cfb5b43-54e4-388d-96af-8ba0c142683d",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/mlb_search/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/manager-miguel-cairo-get-ejected-in-the-3rd-inning-fine.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2025/09/mlb-ejection-167-manny-gonzalez-6.html"
+      },
+      {
+        "id": "johnson20140622",
+        "status": "accept",
+        "reason": "Complete first-base-side load and forward check through bat stop/retraction,46.0–51.6; no umpire signal. CCS explicitly credits Tim Welke first-base appeal, separate from Mark Carlson ejection. Independently fetched MLB feed381664 confirms2014-06-22 and matching sixth-inning fourth pitch swinging strike three.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 46.0,
+          "end": 51.6
+        },
+        "gamePk": 381664,
+        "playId": "03816646-0476-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/more-5-0-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/more-5-dense.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/06/mlb-ejections-mark-carlson-2-3-johnson.html"
+      },
+      {
+        "id": "frandsen20130526",
+        "status": "accept",
+        "reason": "Complete first-base-side load/check/held finish26.4–30.8, before result/argument. CCS identifies Mike Winters home-plate swinging-strike call; original-motion fullclip sheet supports HP signal rather than appeal to1B. Independently fetched feed347488 confirms2013-05-26, fourth-inning third pitch swinging strike blocked, and Winters atHP.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 26.4,
+          "end": 30.8
+        },
+        "gamePk": 347488,
+        "playId": "03474886-0266-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/more-16-0-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/more-16-dense.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2013/05/mlb-ejection-044-mike-winters-1-kevin.html"
+      },
+      {
+        "id": "cairo20110517",
+        "status": "accept",
+        "reason": "Complete first-base-side loaded stance, check, bat stop/retraction155.65–158.35. Cut excludes catcher rise and batter reaction. CCS explicitly names HP John Hirschbeck as swing caller; feed287520 confirms officialDate2011-05-17, sixth-inning third pitch swinging strike blocked. Article5/18 is date discrepancy; actual local game date is5/17 (pitch occurs after midnightUTC). Dropped-third-strike aftermath is separate from swing ruling.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 155.65,
+          "end": 158.35
+        },
+        "gamePk": 287520,
+        "playId": "02875206-0516-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_late/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_late/more-27-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more-27-153-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more-27-grid.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2011/05/discussions-dropped-third-strike.html"
+      },
+      {
+        "id": "aybar20141002",
+        "status": "accept",
+        "reason": "Full third-base-side load/check/stop/retraction33.1–38.6. CCS postseason recap explicitly credits HP Paul Nauert with Aybar half-swing strikeout, and official feed416347 verifies2014-10-02,11th inning,pitch5 swinging strike blocked. No visible answer signal.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 33.1,
+          "end": 38.6
+        },
+        "gamePk": 416347,
+        "playId": "04163476-0826-0053-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-1.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/09/discussions-2014-al-nl-wild-card-games.html"
+      },
+      {
+        "id": "gentry20140707",
+        "status": "accept_with_changes",
+        "reason": "Full first-base-side evasive check17.1–22.9, no result signal. CCS explicitly credits HP Paul Nauert initial HBP award, upheld on review; exact feed381882 date2014-07-07,pitch4 in fifth is HBP. No-swing is a necessary part of final first-base award; no separate appeal attribution is claimed.",
+        "changes": {
+          "umpire": "Paul Nauert · home plate HBP ruling",
+          "context": "Nauert awarded Gentry first base after a check at a 1–2 pitch in the fifth; the hit-by-pitch ruling stood after review. That final award establishes the recorded no-swing result; no separate check-swing appeal decision was identified."
+        },
+        "reviewedWindow": {
+          "start": 17.1,
+          "end": 22.9
+        },
+        "gamePk": 381882,
+        "playId": "03818826-0386-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-4.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/07/mlb-replay-reviews-675-676-nauert.html"
+      },
+      {
+        "id": "viciedo20140514",
+        "status": "accept_with_changes",
+        "reason": "Full first-base-side checking motion24.3–29.2, no result signal. CCS and feed381133 agree final HBP on fourth-inning pitch3,2014-05-14. However Gonzalez originally ruled foul, and replay reversed that decision; no distinct no-swing caller is sourced. Use generic final-review label rather than attributing final no-swing decision to initial foul-call umpire.",
+        "changes": {
+          "umpire": "Deciding umpire not identified · final HBP on replay",
+          "context": "After Viciedo checked at an 0–2 pitch in the fourth, the initial foul-ball ruling was changed to hit by pitch on review. The final first-base award establishes the recorded no-swing result; no separate check-swing appeal decision was identified."
+        },
+        "reviewedWindow": {
+          "start": 24.3,
+          "end": 29.2
+        },
+        "gamePk": 381133,
+        "playId": "03811336-0246-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-7.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-7.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-7.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/05/mlb-instant-replay-review-277-manny.html"
+      },
+      {
+        "id": "middlebrooks20140510",
+        "status": "accept",
+        "reason": "Full first-base-side HBP check/evasion0.8–6.8 before umpire response. Report identifies Carapazza first-base no-swing dispute and exact feed381077 confirms2014-05-10,eighth-inning pitch7 HBP. Full bat forward-stop visible despite being hit.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 0.8,
+          "end": 6.8
+        },
+        "gamePk": 381077,
+        "playId": "03810776-0636-0073-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-8.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-8.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-8.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/05/mlb-ejection-replay-review-vic.html"
+      },
+      {
+        "id": "deaza20140420",
+        "status": "accept",
+        "reason": "Full third-base-side HBP check40.6–46.7 with visible stopped bat before reaction. CCS expressly credits3B Bob Davidson with swing, distinct from HP James Hoye handling HBP review. Feed380809 verifies2014-04-20,sixth-inning pitch4 swinging strike three.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 40.6,
+          "end": 46.7
+        },
+        "gamePk": 380809,
+        "playId": "03808096-0446-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-11.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-11.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-11.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2014/04/mlb-instant-replay-review-123-james.html"
+      },
+      {
+        "id": "escobar20130817",
+        "status": "accept",
+        "reason": "Full first-base-side check19.55–24.3. Exact feed348575 confirms2013-08-17,fourth-inning pitch5 ball three. CCS attributes missed foul to HP Mike Muchlinski; recorded ball entails no-swing even though video/report show bat contact after bounce. Keep explicit context that controversy was foul/no-foul; no distinct appeal or separate named swing decision is established.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 19.55,
+          "end": 24.3
+        },
+        "gamePk": 348575,
+        "playId": "03485756-0356-0053-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-12.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2013/08/mlb-ejections-132-133-davidson.html"
+      },
+      {
+        "id": "kemp20130325",
+        "status": "accept",
+        "reason": "Full elevated first-base-side load/check/stop/recoil0.1–3.4; bat tip initially touches top frame, but all forward deciding motion is clear. CCS identifies HP A.J. Johnson strikeout and game feed363415 confirms2013-03-25,seventh-inning pitch6 swinging strike. Spring-training label must remain visible; this is not regular season.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 0.1,
+          "end": 3.4
+        },
+        "gamePk": 363415,
+        "playId": "03634156-0646-0063-000c-f08cd117d70a",
+        "catalogCountChecked": 100,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_2014/more-sheet-17.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-dense-17.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more-window-17.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2013/03/pre-season-ejection-3-aj-johnson-1.html"
+      }
+    ],
+    "excludedLeadNotes": [
+      {
+        "lead": "Urías2023-08-07 alternate Quatraro ejection edit",
+        "status": "reject",
+        "reason": "First unobscured side-view frame22.9 already has hands/bat forward and front foot planted; initial checking motion is missing. Primary reviewer correctly withheld proposal."
+      }
+    ]
+  }
+}
