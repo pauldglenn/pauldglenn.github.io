@@ -9,11 +9,13 @@ Sites project: `appgprj_6ae36278b2a08191bbbb67f46d67c0b0`
 
 Ranked play is anonymous. On the first ranked replay, the browser completes a short SHA-256 proof-of-work challenge and receives a random player key. Keep browser data to retain that identity. No account, email, or ChatGPT sign-in is required. Unranked daily play and practice without shared voting remain available without registration. Existing account-issued keys continue working until they expire; previously saved results are preserved.
 
-Daily answers are immutable per player/date/edition/round, submitted in order. The server validates the clip order and calculates scores; it never accepts a client-supplied score. Only completed ranked attempts enter the public daily leaderboard. Ties share a rank.
+Daily answers are immutable per player/date/edition/round, submitted in order. The server validates the clip order and calculates scores; it never accepts a client-supplied score. The daily leaderboard page shows a six-bin score distribution (0–5) across every completed online attempt, without the old top-100 display cutoff. A UTC date picker and previous/next controls browse historical days. The page also shows the daily average and highlights your saved score when available. Local-only scores are labeled and excluded from global aggregates. The legacy ranked-list endpoint remains available for compatibility.
 
 Practice votes with shared voting enabled also contribute to clip statistics. Only the first recorded vote per player key per clip counts across both modes. Retries and repeated practice do not inflate totals. Unranked play and imported friend codes do not enter global results. Earlier browser-only results cannot be recovered centrally.
 
-Statistics show strike/no-swing counts, percentages, sample sizes, split index, and disagreement with the recorded umpire. Split index equals `2 * min(strikes, noSwings) / total`; 100% means a 50/50 split. Small samples are labeled. Results sit behind a spoiler prompt.
+Daily question distributions use the `answers` table filtered by challenge day and edition, in the original question order. They include saved answers from unfinished daily attempts, so each question has its own denominator. Practice, other dates/editions, and unverified legacy identities are excluded. Counts, percentages, the recorded ruling, and the share matching it are shown. Today’s unanswered questions are hidden unless the visitor explicitly reveals spoilers; answered questions and past dates are visible.
+
+The separate Disagreement page uses lifetime first-vote-per-clip statistics across daily and practice. It shows strike/no-swing counts, percentages, sample sizes, split index, and disagreement with the recorded umpire. Split index equals `2 * min(strikes, noSwings) / total`; 100% means a 50/50 split. Small samples are labeled. Results sit behind a spoiler prompt.
 
 ## Submission controls and limits
 
@@ -42,7 +44,8 @@ Endpoints:
 - `POST /daily/start`: create/resume today's attempt, authenticated.
 - `POST /round`: issue a player-bound round ticket, authenticated.
 - `POST /vote`: persist a daily or practice vote with a valid ticket, authenticated.
-- `GET /leaderboard?day=YYYY-MM-DD`: public top 100 completed scores and total.
+- `GET /daily-stats?day=YYYY-MM-DD`: public complete score histogram, completed count, average (null when empty), and five daily answer aggregates. Defaults to the current UTC day; rejects invalid/future dates. No names, player IDs, or individual histories.
+- `GET /leaderboard?day=YYYY-MM-DD`: legacy public top 100 completed scores and total, retained for older clients.
 - `GET /stats`: public per-clip vote aggregates.
 - `GET /health`: database availability, edition, and server UTC day.
 
@@ -61,3 +64,5 @@ The game now has 50 reviewed MLB swings (44 added after six subagents screened 3
 `content/check-swing/catalog.json` is the canonical catalog. Run `python scripts/sync-check-swing-catalog.py --backend /path/to/did-he-go-api` to validate and embed it into the frontend and score API together. Add `--check` for a non-mutating consistency check. New entries carry `availableFrom`; their daily inclusion starts on 2026-10-30 UTC while practice can use them immediately. Historical questions and v1 share cards remain unchanged. Never reorder, remove, or relabel entries already used by a historical daily set.
 
 Short reviewed windows respect the existing server timing gate before the save request. The ruling still appears immediately on selection. Catalog tests compare client/API selections over 730 dates, preserve earlier daily sets, and exercise new practice votes.
+
+Daily-distribution validation covers over 100 completed attempts, all six score bins, both supported identity types, incomplete daily answers, date/edition isolation, practice exclusion, empty and invalid dates, personal-score labels, spoiler controls, date navigation, failed-request recovery, and stale-response handling. No schema migration or changes to stored scores are required.
