@@ -14,9 +14,8 @@ def video_ids(links):
         if not u.hostname or not (u.hostname=='mlb.com' or u.hostname.endswith('.mlb.com')):continue
         match=re.search(r'/video/(?:v|c|[^/?#]+-c)(\d+)(?:[/?#]|$)',u.path)
         if match:found.add(match.group(1))
-        if '/video/' in u.path:
-            for value in parse_qs(u.query).get('content_id',[]):
-                if value.isdigit():found.add(value)
+        for value in parse_qs(u.query).get('content_id',[]):
+            if value.isdigit():found.add(value)
     return found
 
 def resolve(item):
@@ -35,7 +34,7 @@ def resolve(item):
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--input',required=True,type=Path);parser.add_argument('--output',required=True,type=Path);parser.add_argument('--limit',type=int,default=200);args=parser.parse_args()
-    if not 1<=args.limit<=500:parser.error('--limit must be between1 and500')
+    if not 1<=args.limit<=500:parser.error('--limit must be between 1 and 500')
     references={}
     for report in json.loads(args.input.read_text()):
         links=report.get('video_or_game_links',report.get('links',[]))
