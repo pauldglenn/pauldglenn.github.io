@@ -5,7 +5,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parents[1]
 PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom']
-API_FIELDS=['id','batter','date','base','strike','evidence','availableFrom']
+API_FIELDS=['id','batter','date','base','strike','evidence','availableFrom','mediaProvider']
 def validate(rows):
     seen=set()
     for row in rows:
@@ -19,7 +19,13 @@ def validate(rows):
         for field in ['evidence','source','video']:
             u=urlparse(row[field]);assert u.scheme=='https' and u.hostname,'Invalid source URL'
         host=urlparse(row['video']).hostname
-        assert host=='mlb.com' or host.endswith('.mlb.com'),'Video must be on MLB hosting: '+identity
+        if not (host=='mlb.com' or host.endswith('.mlb.com')):
+            m=row.get('mediaProvider',{});u=urlparse(row['video'])
+            assert u.netloc=='did-he-go-scores.paul-glenn280578.chatgpt.site' and u.path=='/media/'+identity and not u.query,'Invalid managed media URL: '+identity
+            assert m.get('provider')=='brightcove' and m.get('accountId')=='1704050871' and m.get('playerId')=='JCdte3tMv','Unapproved broadcaster: '+identity
+            assert re.fullmatch(r'\d+',m.get('videoId','')) and m.get('durationMs',0)>row['end']*1000,'Invalid source identity: '+identity
+            assert m.get('sourcePath','').startswith('/media/v1/pmp4/static/clear/1704050871/') and m['sourcePath'].endswith('.mp4'),'Invalid reviewed source path: '+identity
+            assert m.get('selectedSource',{}).get('container')=='MP4' and m['selectedSource'].get('width',0)>0,'Missing reviewed rendition: '+identity
         for field in ['batter','matchup','umpire','context']:assert isinstance(row[field],str) and row[field].strip(),'Missing '+field
     assert len(rows)>=6,'Do not remove the original catalog'
 def embed(path,rows,check):

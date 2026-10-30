@@ -1,0 +1,914 @@
+{
+  "added": 8,
+  "total": 143,
+  "clips": [
+    {
+      "id": "rave20250919",
+      "batter": "John Rave",
+      "date": "2025-09-19",
+      "matchup": "TOR at KC",
+      "base": 3,
+      "strike": false,
+      "start": 11.65,
+      "end": 16.4,
+      "umpire": "Nestor Ceja · third base",
+      "context": "Ceja ruled no swing on appeal on a 2–2 slider in the sixth inning, making the count full. John Schneider was ejected while disputing the call.",
+      "source": "https://www.sportsnet.ca/mlb/video/blue-jays-manager-john-schneider-ejected-for-reaction-to-checked-swing-call/",
+      "evidence": "https://www.sportsnet.ca/mlb/article/blue-jays-john-schneider-ejected-in-sixth-inning-vs-royals/",
+      "mediaProvider": {
+        "provider": "brightcove",
+        "accountId": "1704050871",
+        "playerId": "JCdte3tMv",
+        "videoId": "6379826512112",
+        "durationMs": 156851,
+        "selectedSource": {
+          "container": "MP4",
+          "codec": "H264",
+          "width": 1280,
+          "height": 720,
+          "duration": 156792
+        },
+        "sourcePath": "/media/v1/pmp4/static/clear/1704050871/d285a524-62a6-4b91-9199-20d5c5eee441/e3eaf766-1049-46c5-acfd-2fab71dcba93/main.mp4"
+      },
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "independently_accepted",
+        "gamePk": 776260,
+        "playId": "1e6ca895-81dd-3c8c-b64d-0059e37653a2",
+        "atBatIndex": 57,
+        "pitchNumber": 6,
+        "duration": 156.792,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/espn/sn-6408500.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/espn/sn-6408500-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/espn/sn-rave-dense.jpg"
+        ],
+        "supportingEvidence": [
+          "https://statsapi.mlb.com/api/v1.1/game/776260/feed/live",
+          "https://edge.api.brightcove.com/playback/v1/accounts/1704050871/videos/6379826512112",
+          "https://www.sportsnet.ca/wp-json/wp/v2/bc-video/6408500"
+        ],
+        "notes": "Full third-base-side slow-motion check after replay transition. Dense timestamps relative10s. End after bat has stopped before catcher appeal. Article confirms no-swing; exact official sixth pitch is ball three, not subsequent walk. Public Sportsnet MP4 downloaded via normal Brightcove public playback policy. MP4 URLs expire: intentionally omitted permanent video URL, requires runtime resolver keyed to approved catalog clip. Archive agent assigned independent angle/ruling/window audit. Independent reviewer expand_unresolved_archive accepted 11.65–16.4 with exact10fps proof: usable oblique3B angle, complete bat visible, no result reveal.",
+        "secondaryAudit": "/workspace/check-swing/expansion500/archive/audit-sportsnet.json"
+      },
+      "availableFrom": "2026-10-31",
+      "video": "https://did-he-go-scores.paul-glenn280578.chatgpt.site/media/rave20250919",
+      "independentAudit": {
+        "id": "rave20250919",
+        "status": "accept",
+        "start": 11.65,
+        "end": 16.4,
+        "reason": "Exact10fps window contains loaded stance, stride, full forward check and held stop. Oblique third-base-side view shows complete bat arc and is suitable; no umpire signal or score/result overlay in selected window. Catcher appeal begins after selected end.",
+        "ruling": "No swing, ball three on bottom-sixth pitch6 of atBat57; not pitch7 ball four.",
+        "umpire": "Nestor Ceja · third base",
+        "officialDate": "2025-09-19",
+        "gamePk": 776260,
+        "playId": "1e6ca895-81dd-3c8c-b64d-0059e37653a2",
+        "evidence": "https://www.sportsnet.ca/mlb/article/blue-jays-john-schneider-ejected-in-sixth-inning-vs-royals/",
+        "evidenceQuote": "Third-base umpire Nestor Ceja tossed Schenider after ruling that Royals centre-fielder John Rave didn't offer on a check swing at a 2-2 slider in the dirt.",
+        "proof": [
+          "/workspace/check-swing/expansion500/archive/rave-exact.jpg",
+          "/workspace/check-swing/expansion500/archive/rave-article.html",
+          "/workspace/check-swing/expansion500/ccs_lower/espn/rave-feed-776260.json"
+        ],
+        "duplicateCheck": {
+          "catalogCount": 135,
+          "matches": []
+        },
+        "deliveryCaution": "Footage audit accepted; expiring Sportsnet/Brightcove delivery requires resolver support or approved source handling before production.",
+        "reviewer": "expand_unresolved_archive"
+      }
+    },
+    {
+      "id": "profar20221021",
+      "batter": "Jurickson Profar",
+      "date": "2022-10-21",
+      "matchup": "Padres at Phillies",
+      "base": 3,
+      "strike": true,
+      "start": 94.34,
+      "end": 95.43,
+      "umpire": "Todd Tichenor · third base",
+      "context": "NLCS Game 3, top of the ninth. Todd Tichenor ruled a swing on appeal for strike three against Seranthony Domínguez.",
+      "evidence": "https://www.closecallsports.com/2022_10_16_archive.html?m=0",
+      "source": "https://www.mlb.com/video/postseason-check-swings",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-10/25/2ade736a-92bb23e4-a76e5e17-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "queue": "MLB Network check-swing analysis compilations",
+        "queueIndex": 0,
+        "gamePk": 715729,
+        "playId": "e550732d-cc07-46e3-ac16-76e7c4e95aec",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Complete checking motion in a side replay. Window begins after dissolve and ends before catcher appeal or batter reaction. Confirmed strike-three pitch and crew in official feed; deciding appeal official also shown in montage. Analysis lower-third does not state the pitch ruling. Profar window is brief at normal replay speed.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/compilations/0.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/profar20221021-window.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/profar3-dense.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2022_10_16_archive.html?m=0",
+          "https://statsapi.mlb.com/api/v1.1/game/715729/feed/live",
+          "https://www.mlb.com/video/postseason-check-swings"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/compilations/game-715729.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/legacy_2014/compilations/profar20221021-official-proof.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "profar20221021",
+        "status": "accept",
+        "start": 94.34,
+        "end": 95.43,
+        "reason": "Dense12fps footage confirms clean loaded stance after dissolve at94.34, complete forward check and recoil by95.33, ending95.43 before appeal/reaction. Bat stays visible in third-base-side replay. CCS report explicitly identifies Todd Tichenor as appeal caller; Barrett is ejector. Official game feed confirms October21 (not UTC22), top9 pitch7 swinging strike three.",
+        "gamePk": 715729,
+        "playId": "e550732d-cc07-46e3-ac16-76e7c4e95aec",
+        "date": "2022-10-21",
+        "umpire": "Todd Tichenor · third base",
+        "proof": [
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/profar20221021-window.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/profar3-dense.jpg",
+          "/workspace/check-swing/expansion500/archive/profar-call.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/game-715729.json"
+        ],
+        "duplicateCheck": "No matching batter/date/id in live135 catalog. Compilation source can contain other existing pitches; these two are distinct.",
+        "changes": {},
+        "reviewer": "expand_unresolved_archive"
+      }
+    },
+    {
+      "id": "devers20210718",
+      "batter": "Rafael Devers",
+      "date": "2021-07-18",
+      "matchup": "Red Sox at Yankees",
+      "base": 3,
+      "strike": true,
+      "start": 124.6,
+      "end": 126.15,
+      "umpire": "Jeff Nelson · third base",
+      "context": "Top of the sixth. Jeff Nelson ruled a swing on appeal for strike three against Chad Green.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/633273/feed/live",
+      "source": "https://www.mlb.com/video/defining-a-check-swing",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-07/19/ff0a97be-0f801364-85a6f504-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "queue": "MLB Network check-swing analysis compilations",
+        "queueIndex": 1,
+        "gamePk": 633273,
+        "playId": "8d701dd2-40de-4183-af4e-cdd087f32290",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Complete checking motion in a side replay. Window begins after dissolve and ends before catcher appeal or batter reaction. Confirmed strike-three pitch and crew in official feed; deciding appeal official also shown in montage. Analysis lower-third does not state the pitch ruling. Profar window is brief at normal replay speed.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/compilations/1.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/devers20210718-window.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/devers-dense.jpg"
+        ],
+        "supportingEvidence": [
+          "https://statsapi.mlb.com/api/v1.1/game/633273/feed/live",
+          "https://statsapi.mlb.com/api/v1.1/game/633273/feed/live",
+          "https://www.mlb.com/video/defining-a-check-swing"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/compilations/game-633273.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/legacy_2014/compilations/devers20210718-official-proof.json"
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "devers20210718",
+        "status": "accept",
+        "start": 124.6,
+        "end": 126.15,
+        "reason": "Dense12fps footage confirms loaded stance after dissolve at124.6, complete forward check/stop and recoil by126.0; cutoff126.15 precedes catcher appeal. Entire bat visible from third-base side. Compilation shows base umpire uniform45 signaling swing at123.8; official crew identifies third-base Jeff Nelson. Official game feed confirms July18 (not UTC19), top6 pitch4 swinging strike three. Generic analysis lower-third does not disclose outcome.",
+        "gamePk": 633273,
+        "playId": "8d701dd2-40de-4183-af4e-cdd087f32290",
+        "date": "2021-07-18",
+        "umpire": "Jeff Nelson · third base",
+        "proof": [
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/devers20210718-window.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/devers-dense.jpg",
+          "/workspace/check-swing/expansion500/archive/devers-call.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/compilations/game-633273.json"
+        ],
+        "duplicateCheck": "No matching batter/date/id in live135 catalog. Compilation source can contain other existing pitches; these two are distinct.",
+        "changes": {},
+        "reviewer": "expand_unresolved_archive"
+      }
+    },
+    {
+      "id": "oneill20250408",
+      "batter": "Tyler O’Neill",
+      "date": "2025-04-08",
+      "matchup": "BAL at ARI",
+      "base": 1,
+      "strike": false,
+      "start": 92.25,
+      "end": 95.2,
+      "umpire": "Laz Diaz · first base",
+      "context": "Diaz upheld no swing on O’Neill’s 2–2 check in the seventh inning, making the count 3–2. O’Neill walked on the next pitch; Merrill Kelly and Torey Lovullo were subsequently ejected.",
+      "evidence": "https://www.closecallsports.com/2025/04/mlb-ejections-005-6-laz-diaz-1-2-ari-x2.html",
+      "source": "https://www.mlb.com/video/orioles-vs-d-backs-highlights-x0523",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/08/3dcad1d9-74f24feb-157b3468-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 778396,
+      "playId": "00a02a47-7214-3042-be20-d6b66cdd8237",
+      "queueIndex": 1,
+      "queueSource": "/workspace/check-swing/expansion500/retrosheet/event-review-queue.json",
+      "reviewStatus": "primary-approved-pending-independent-audit",
+      "reviewProof": [
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-2-dense.jpg",
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-2-grid-01.jpg"
+      ],
+      "localVideo": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-2.mp4",
+      "rulingProof": {
+        "reportText": "     1B Umpire Laz Diaz ejected Diamondbacks pitcher Merrill Kelly and manager Torey Lovullo (check swing ball four call to Tyler O'Neill) in the top of the 7th inning of the #Orioles-#Diamondbacks game. With none out and one on, Orioles batter O'Neill attempted to check his swing on a 2-2 slider from Diamondbacks pitcher Kelly, ruled a ball by HP Umpire Brian O'Nora and affirmed as no swing on appeal by 1B Umpire Diaz. At the time of the ejection, the D-backs were leading, 4-2. The Diamondbacks ultimately won the contest, 4-3.     These are Laz Diaz (63)'s 1st and 2nd ejections of 2025.     These are the 5th and 6th ejection reports of the 2025 MLB regular season.  This is the 3rd player ejection of 2025.  This is the 2nd manager ejection of 2025.  Ejection Tally: 2 Managers, 1 Coach, 3 Players .  This is Arizona's 1/2nd ejection of 2025, 1st in the NL West ( ARI 2 ; COL, LAD, SD, SF 0).  This is Merrill Kelly's 1st ejection since  May 15, 2023 (Brock Ballou; QOC = U [Check Swing]) .  This is Torey Lovullo's 1st ejection since  July 22, 2024 (Jordan Baker; QOC = U [Warnings]) .  This is Laz Diaz's 1st ejection since  August 4, 2024 (Kevin Gausman; QOC = Y [Balls/Strikes]) .   Wrap:  Baltimore Orioles vs Arizona Diamondbacks, 4/8/25  | Video as follows:       Alternate Link:  A Seconds from Disaster Analysis of Laz's Kelly and Lovullo Ejections  ",
+        "officialFeed": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-feed.json",
+        "inning": 7,
+        "pitchNumber": 6,
+        "pitchEvent": {
+          "details": {
+            "call": {
+              "code": "B",
+              "description": "Ball"
+            },
+            "description": "Ball",
+            "code": "B",
+            "ballColor": "rgba(39, 161, 39, 1.0)",
+            "trailColor": "rgba(0, 0, 254, 1.0)",
+            "isInPlay": false,
+            "isStrike": false,
+            "isBall": true,
+            "type": {
+              "code": "SL",
+              "description": "Slider"
+            },
+            "isOut": false,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 3,
+            "strikes": 2,
+            "outs": 0
+          },
+          "pitchData": {
+            "startSpeed": 86.1,
+            "endSpeed": 79.5,
+            "strikeZoneTop": 3.11000010218002,
+            "strikeZoneBottom": 1.41999991634203,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 17.0,
+            "coordinates": {
+              "aY": 24.480142806151893,
+              "aZ": -28.76707847493624,
+              "pfxX": -0.1213890952465917,
+              "pfxZ": 2.1474371585033536,
+              "pX": 2.091136896390892,
+              "pZ": 1.3176424670775062,
+              "vX0": 8.57733797509524,
+              "vY0": -125.0957262804638,
+              "vZ0": -4.025972689711316,
+              "x": 37.29,
+              "y": 203.2,
+              "x0": -1.3618992610885574,
+              "y0": 50.00577817859618,
+              "z0": 5.29769845025448,
+              "aX": -0.1927330056374626
+            },
+            "breaks": {
+              "breakAngle": 2.4,
+              "breakLength": 7.2,
+              "breakY": 24.0,
+              "breakVertical": -33.7,
+              "breakVerticalInduced": 3.2,
+              "breakHorizontal": -1.7,
+              "spinRate": 2355,
+              "spinDirection": 171
+            },
+            "zone": 14,
+            "typeConfidence": 2.0,
+            "plateTime": 0.437313741722301,
+            "extension": 5.969018329850691
+          },
+          "index": 6,
+          "playId": "00a02a47-7214-3042-be20-d6b66cdd8237",
+          "pitchNumber": 6,
+          "startTime": "2025-04-09T03:25:24.830Z",
+          "endTime": "2025-04-09T03:25:29.462Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "notes": "CCS heading says ball four, but body identifies 2–2 pitch. Original scoreboard and official feed establish ball three; subsequent pitch was ball four."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "oneill20250408",
+        "status": "accept",
+        "changes": {},
+        "start": 92.25,
+        "end": 95.2,
+        "reason": "Complete first-base-side loaded stance, forward check and recoil at92.25–95.2. No ruling reveal in window. Official pitch6 is ballTHREE on2–2; CCS heading erroneously says ballfour but narrative, original scoreboard and feed agree on2–2 check. Laterpitch7 walk is separate.",
+        "date": "2025-04-08",
+        "gamePk": 778396,
+        "playId": "00a02a47-7214-3042-be20-d6b66cdd8237",
+        "umpire": "Laz Diaz · first base",
+        "officialFeed": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-feed.json",
+        "proof": [
+          "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-2-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/1-2-grid-01.jpg",
+          "/workspace/check-swing/expansion500/archive/oneill20250408-report.html"
+        ],
+        "duplicateCheck": {
+          "catalogCount": 135,
+          "matches": []
+        },
+        "reviewer": "expand_unresolved_archive"
+      }
+    },
+    {
+      "id": "moniak20240915",
+      "batter": "Mickey Moniak",
+      "date": "2024-09-15",
+      "matchup": "HOU at LAA",
+      "base": 3,
+      "strike": false,
+      "start": 16.1,
+      "end": 21.4,
+      "umpire": "Dan Iassogna · third base",
+      "context": "Iassogna ruled no swing on Moniak’s 1–2 check in the ninth inning. Replay review confirmed the pitch hit his hand, so Moniak was awarded first base.",
+      "evidence": "https://www.closecallsports.com/2024/09/mlb-ejection-172-dan-iassogna-3-joshua.html",
+      "source": "https://www.mlb.com/video/mickey-moniak-hit-by-a-pitch-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-09/15/df38248d-a6da2f77-3019c7e2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 746180,
+      "playId": "13deeb56-466c-40b5-9f7d-02d17cfa2b00",
+      "queueIndex": 9,
+      "queueSource": "/workspace/check-swing/expansion500/retrosheet/event-review-queue.json",
+      "reviewStatus": "primary-approved-pending-independent-audit",
+      "reviewProof": [
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-15-dense.jpg",
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-15-full.jpg"
+      ],
+      "localVideo": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-15.mp4",
+      "rulingProof": {
+        "reportText": "     3B Umpire Dan Iassogna ejected Astros pitching coach Joshua Miller (Replay decision: HBP call) in the bottom of the 9th inning of the #Astros-#Angels game. With none out and one on, Angels batter Mickey Moniak attempted to check his swing on a 1-2 sinker from Astros pitcher Caleb Ferguson, ruled a hit-by-pitch by HP Umpire CB Bucknor and affirmed as no swing on appeal by 3B Umpire Iassogna. Upon Replay Review as a result of a challenge by Angels manager Ron Washington, HP Umpire Bucknor's foul ball call was overturned to a hit-by-pitch. Replays indicate the pitch hit Moniak's hand, the call was correct. At the time of the ejection, the Astros were leading, 6-1. The Astros ultimately won the contest, 6-4.     This is Dan Iassogna (58)'s 3rd ejection of 2024.     This is the 172nd ejection report of the 2024 MLB regular season.  This is the 28th coach ejection of 2024.  Ejection Tally: 86 Managers, 28 Coaches, 58 Players .  This is Houston's 10th ejection of 2024, 1st in the AL West ( HOU 10 ; OAK 8; SEA 7; LAA, TEX 6).  This is Joshua Miller's first career MLB ejection.  This is Dan Iassogna's 3rd ejection of 2024, 1st since  May 2 (James Rowson; QOC = Y [Balls/Strikes]) .      Wrap:  Houston Astros vs Los Angeles Angels, 9/15/24  | Video as follows:      Alternate Link:  Iassogna ejects assistant coach Miller continuing to profanely argue check swing HBP  ",
+        "officialFeed": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-feed.json",
+        "inning": 9,
+        "pitchNumber": 4,
+        "pitchEvent": {
+          "details": {
+            "call": {
+              "code": "H",
+              "description": "Hit By Pitch"
+            },
+            "description": "Hit By Pitch",
+            "code": "H",
+            "ballColor": "rgba(39, 161, 39, 1.0)",
+            "trailColor": "rgba(50, 0, 221, 1.0)",
+            "isInPlay": false,
+            "isStrike": false,
+            "isBall": true,
+            "type": {
+              "code": "SI",
+              "description": "Sinker"
+            },
+            "isOut": false,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 2,
+            "strikes": 2,
+            "outs": 0
+          },
+          "pitchData": {
+            "startSpeed": 93.9,
+            "endSpeed": 86.0,
+            "strikeZoneTop": 3.39,
+            "strikeZoneBottom": 1.58,
+            "coordinates": {
+              "aY": 29.405529457937064,
+              "aZ": -23.468410084798883,
+              "pfxX": 10.266003999520592,
+              "pfxZ": 4.588589129882783,
+              "pX": 1.588600258935496,
+              "pZ": 3.810361769154639,
+              "vX0": -5.506615317868423,
+              "vY0": -136.65267546347386,
+              "vZ0": -0.8705033858733877,
+              "x": 56.45,
+              "y": 135.9,
+              "x0": 2.293460058914062,
+              "y0": 50.00018653956826,
+              "z0": 5.7416125110881975,
+              "aX": 19.461023277775976
+            },
+            "breaks": {
+              "breakAngle": 37.2,
+              "breakLength": 6.0,
+              "breakY": 24.0,
+              "breakVertical": -22.6,
+              "breakVerticalInduced": 8.4,
+              "breakHorizontal": -17.5,
+              "spinRate": 2100,
+              "spinDirection": 143
+            },
+            "zone": 12,
+            "typeConfidence": 2.0,
+            "plateTime": 0.4004391724544418,
+            "extension": 6.414330660123102
+          },
+          "index": 3,
+          "playId": "13deeb56-466c-40b5-9f7d-02d17cfa2b00",
+          "pitchNumber": 4,
+          "startTime": "2024-09-15T22:42:12.925Z",
+          "endTime": "2024-09-15T22:42:17.030Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "notes": "Includes complete aborted motion and post-HBP bat/body recoil; umpire/review announcement occurs after selected window."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "moniak20240915",
+        "status": "accept_with_changes",
+        "changes": {
+          "end": 21.4
+        },
+        "start": 16.1,
+        "end": 21.4,
+        "reason": "Complete third-base-side loaded stance and initial check visible from16.1. Extend end to21.4 to retain entire post-HBP bat/body recoil; original18.8 cut during continued movement. No ruling signal/announcement before21.4. Explicit Iassogna no-swing appeal in contemporaneous CCS report, not merely inferred from final HBP award.",
+        "date": "2024-09-15",
+        "gamePk": 746180,
+        "playId": "13deeb56-466c-40b5-9f7d-02d17cfa2b00",
+        "umpire": "Dan Iassogna · third base",
+        "officialFeed": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-feed.json",
+        "proof": [
+          "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-15-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/9-15-full.jpg",
+          "/workspace/check-swing/expansion500/archive/moniak20240915-report.html",
+          "/workspace/check-swing/expansion500/archive/moniak-end.jpg"
+        ],
+        "duplicateCheck": {
+          "catalogCount": 135,
+          "matches": []
+        },
+        "reviewer": "expand_unresolved_archive"
+      }
+    },
+    {
+      "id": "story20260328",
+      "batter": "Trevor Story",
+      "date": "2026-03-28",
+      "matchup": "BOS at CIN",
+      "base": 1,
+      "strike": true,
+      "start": 656.58,
+      "end": 657.85,
+      "umpire": "CB Bucknor · home plate",
+      "context": "Bucknor ruled a checked swing a swinging strike three on a 0–2 splitter from Emilio Pagán in the eighth inning. Alex Cora was ejected arguing the call.",
+      "evidence": "https://www.closecallsports.com/2026/03/mlb-ejection-001-cb-bucknor-1-alex-cora.html",
+      "source": "https://www.mlb.com/video/condensed-game-bos-cin-3-28-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-03/28/3fcaf014-79d47f08-c7915539-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 824540,
+      "playId": "7aad8a31-7a83-337d-9ecb-6a0721493716",
+      "review": {
+        "queueArrayIndex": 27,
+        "captionIndex": 524,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/27-full.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/legacy_middle/caption-pass/27-full-dense-655.8.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/caption-pass/27-dense-30.jpg"
+        ],
+        "feed": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/feed-824540.json",
+        "pitch": {
+          "details": {
+            "call": {
+              "code": "W",
+              "description": "Swinging Strike (Blocked)"
+            },
+            "description": "Swinging Strike (Blocked)",
+            "code": "W",
+            "ballColor": "rgba(170, 21, 11, 1.0)",
+            "trailColor": "rgba(119, 0, 152, 1.0)",
+            "isInPlay": false,
+            "isStrike": true,
+            "isBall": false,
+            "type": {
+              "code": "FS",
+              "description": "Splitter"
+            },
+            "isOut": true,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 0,
+            "strikes": 3,
+            "outs": 2
+          },
+          "pitchData": {
+            "startSpeed": 82.9,
+            "endSpeed": 75.1,
+            "strikeZoneTop": 3.242,
+            "strikeZoneBottom": 1.636,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 8.5,
+            "coordinates": {
+              "aY": 27.572294269959638,
+              "aZ": -32.702228223634954,
+              "pfxX": -11.213917844326629,
+              "pfxZ": -0.36928608491258164,
+              "pX": 0.0992915868050269,
+              "pZ": 0.5329577369652212,
+              "vX0": 6.126360508992372,
+              "vY0": -120.35779827307209,
+              "vZ0": -4.581120715423289,
+              "x": 113.22,
+              "y": 224.39,
+              "x0": -1.0480386153118324,
+              "y0": 50.00084788000752,
+              "z0": 5.420021815941265,
+              "aX": -16.132208729063844
+            },
+            "breaks": {
+              "breakAngle": 24.0,
+              "breakLength": 10.8,
+              "breakY": 24.0,
+              "breakVertical": -42.2,
+              "breakVerticalInduced": -1.7,
+              "breakHorizontal": 18.5,
+              "spinRate": 1208,
+              "spinDirection": 233
+            },
+            "zone": 14,
+            "typeConfidence": 0.9,
+            "plateTime": 0.4584833780470712,
+            "extension": 7.27255574385981
+          },
+          "index": 6,
+          "playId": "7aad8a31-7a83-337d-9ecb-6a0721493716",
+          "pitchNumber": 4,
+          "startTime": "2026-03-28T22:53:49.233Z",
+          "endTime": "2026-03-28T22:53:56.368Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "atBatResult": {
+          "type": "atBat",
+          "event": "Strikeout",
+          "eventType": "strikeout",
+          "description": "Trevor Story strikes out swinging.",
+          "rbi": 0,
+          "awayScore": 4,
+          "homeScore": 5,
+          "isOut": true
+        },
+        "officials": [
+          {
+            "official": {
+              "id": 427044,
+              "fullName": "CB Bucknor",
+              "link": "/api/v1/people/427044"
+            },
+            "officialType": "Home Plate"
+          },
+          {
+            "official": {
+              "id": 644760,
+              "fullName": "Adam Beck",
+              "link": "/api/v1/people/644760"
+            },
+            "officialType": "First Base"
+          },
+          {
+            "official": {
+              "id": 605672,
+              "fullName": "Jeremie Rehak",
+              "link": "/api/v1/people/605672"
+            },
+            "officialType": "Second Base"
+          },
+          {
+            "official": {
+              "id": 427248,
+              "fullName": "Dan Iassogna",
+              "link": "/api/v1/people/427248"
+            },
+            "officialType": "Third Base"
+          }
+        ],
+        "status": "pending-independent-audit",
+        "timingConcern": "Short replay window ends before catcher appeal; confirm complete check and initial retreat through657.85."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "story20260328",
+        "status": "accept",
+        "start": 656.58,
+        "end": 657.85,
+        "reason": "First-base-side replay shows complete loaded stance, initial forward motion, check and held recoil. Independently rendered20fps boundary proves clean image at start and no catcher appeal/result signal before end. Exact official pitch/date/crew verified; CCS expressly attributes swing strike3 to HP CB Bucknor.",
+        "proof": "/workspace/check-swing/expansion500/ccs_lower/caption-audit/story-boundary.jpg"
+      }
+    },
+    {
+      "id": "simpson20260424",
+      "batter": "Chandler Simpson",
+      "date": "2026-04-24",
+      "matchup": "MIN at TB",
+      "base": 3,
+      "strike": false,
+      "start": 427.9,
+      "end": 431.7,
+      "umpire": "Chad Whitson · third base",
+      "context": "Whitson affirmed no swing on a full-count splitter in the dirt from Taj Bradley in the seventh inning, giving Simpson ball four.",
+      "evidence": "https://www.closecallsports.com/2026/04/mlb-ejection-018-chad-whitson-1-pete.html",
+      "source": "https://www.mlb.com/video/condensed-game-min-tb-4-24-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/24/efa58c3f-891dba78-7857e307-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 822992,
+      "playId": "79517c01-754f-3f00-a3ed-0044e3538a9c",
+      "review": {
+        "queueArrayIndex": 28,
+        "captionIndex": 550,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/28-full.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/legacy_middle/caption-pass/28-full-dense-427.1.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/caption-pass/28-dense-33.jpg"
+        ],
+        "feed": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/feed-822992.json",
+        "pitch": {
+          "details": {
+            "call": {
+              "code": "*B",
+              "description": "Ball In Dirt"
+            },
+            "description": "Ball In Dirt",
+            "code": "*B",
+            "ballColor": "rgba(39, 161, 39, 1.0)",
+            "trailColor": "rgba(119, 0, 152, 1.0)",
+            "isInPlay": false,
+            "isStrike": false,
+            "isBall": true,
+            "type": {
+              "code": "FS",
+              "description": "Splitter"
+            },
+            "isOut": false,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 4,
+            "strikes": 2,
+            "outs": 1
+          },
+          "pitchData": {
+            "startSpeed": 91.3,
+            "endSpeed": 84.4,
+            "strikeZoneTop": 3.178,
+            "strikeZoneBottom": 1.604,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 8.5,
+            "coordinates": {
+              "aY": 26.967536781106954,
+              "aZ": -26.029828497666962,
+              "pfxX": -6.858837102780817,
+              "pfxZ": 3.425254718298532,
+              "pX": 0.29478566118600025,
+              "pZ": 0.6755145754706614,
+              "vX0": 5.931488630340158,
+              "vY0": -132.68076829361718,
+              "vZ0": -8.402585993794721,
+              "x": 105.76,
+              "y": 220.54,
+              "x0": -1.0728138916919698,
+              "y0": 50.00096519533392,
+              "z0": 5.764720335939298,
+              "aX": -12.293090350603011
+            },
+            "breaks": {
+              "breakAngle": 21.6,
+              "breakLength": 7.2,
+              "breakY": 24.0,
+              "breakVertical": -28.1,
+              "breakVerticalInduced": 4.7,
+              "breakHorizontal": 11.3,
+              "spinRate": 1729,
+              "spinDirection": 219
+            },
+            "zone": 14,
+            "typeConfidence": 0.91,
+            "plateTime": 0.4119754685570345,
+            "extension": 6.746950185185351
+          },
+          "index": 7,
+          "playId": "79517c01-754f-3f00-a3ed-0044e3538a9c",
+          "pitchNumber": 7,
+          "startTime": "2026-04-25T00:59:24.735Z",
+          "endTime": "2026-04-25T00:59:28.883Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "atBatResult": {
+          "type": "atBat",
+          "event": "Walk",
+          "eventType": "walk",
+          "description": "Chandler Simpson walks.",
+          "rbi": 0,
+          "awayScore": 1,
+          "homeScore": 4,
+          "isOut": false
+        },
+        "officials": [
+          {
+            "official": {
+              "id": 427344,
+              "fullName": "Bill Miller",
+              "link": "/api/v1/people/427344"
+            },
+            "officialType": "Home Plate"
+          },
+          {
+            "official": {
+              "id": 665281,
+              "fullName": "Brian Walsh",
+              "link": "/api/v1/people/665281"
+            },
+            "officialType": "First Base"
+          },
+          {
+            "official": {
+              "id": 431232,
+              "fullName": "Chad Fairchild",
+              "link": "/api/v1/people/431232"
+            },
+            "officialType": "Second Base"
+          },
+          {
+            "official": {
+              "id": 489985,
+              "fullName": "Chad Whitson",
+              "link": "/api/v1/people/489985"
+            },
+            "officialType": "Third Base"
+          }
+        ],
+        "status": "pending-independent-audit",
+        "attributionNote": "CCS title/introduction and official boxscore put Whitson at3B; body incorrectly says1B. Left-handed Simpson and actual video appeal agree with3B."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "simpson20260424",
+        "status": "accept",
+        "start": 427.9,
+        "end": 431.7,
+        "reason": "Full third-base-side motion from loaded stance through low check and recoil before catcher appeal. Exact official pitch7 bottom7 full-count ball4 verified. CCS heading/introduction and official crew establish ChadWhitson3B; body typo1B does not override them.",
+        "proof": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/28-full-dense-427.1.jpg"
+      }
+    },
+    {
+      "id": "baez20260817",
+      "batter": "Joshua Báez",
+      "date": "2026-08-17",
+      "matchup": "STL at CIN",
+      "base": 1,
+      "strike": true,
+      "start": 784.4,
+      "end": 788.3,
+      "umpire": "Edwin Moscoso · first base",
+      "context": "Moscoso ruled a swing on appeal as Báez was hit by a 1–1 fastball from Emilio Pagán in the tenth inning. The pitch counted as strike two, rather than a hit-by-pitch.",
+      "evidence": "https://www.mlb.com/video/condensed-game-stl-cin-game-2-8-17-26",
+      "source": "https://www.mlb.com/video/condensed-game-stl-cin-game-2-8-17-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/17/eb83756b-e5e84376-3f68db56-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 824478,
+      "playId": "7256030d-f954-3316-817f-7cd8f00523e6",
+      "review": {
+        "queueArrayIndex": 30,
+        "captionIndex": 642,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/30-full.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/legacy_middle/caption-pass/30-full-dense-783.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/caption-pass/30-dense-15.jpg"
+        ],
+        "feed": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/feed-824478.json",
+        "pitch": {
+          "details": {
+            "call": {
+              "code": "S",
+              "description": "Swinging Strike"
+            },
+            "description": "Swinging Strike",
+            "code": "S",
+            "ballColor": "rgba(170, 21, 11, 1.0)",
+            "trailColor": "rgba(188, 0, 33, 1.0)",
+            "isInPlay": false,
+            "isStrike": true,
+            "isBall": false,
+            "type": {
+              "code": "FF",
+              "description": "Four-Seam Fastball"
+            },
+            "isOut": false,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 0
+          },
+          "pitchData": {
+            "startSpeed": 95.1,
+            "endSpeed": 86.5,
+            "strikeZoneTop": 3.345,
+            "strikeZoneBottom": 1.688,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 8.5,
+            "coordinates": {
+              "aY": 32.58164016923575,
+              "aZ": -13.257626374370785,
+              "pfxX": -5.879432408594191,
+              "pfxZ": 9.79623912103479,
+              "pX": -1.594826162541042,
+              "pZ": 3.6705634129401923,
+              "vX0": 0.9578847781933391,
+              "vY0": -138.48879861834513,
+              "vZ0": -2.6528231442546613,
+              "x": 177.79,
+              "y": 139.67,
+              "x0": -1.1828065744574907,
+              "y0": 50.0054890800087,
+              "z0": 5.534276570878451,
+              "aX": -11.3565179201372
+            },
+            "breaks": {
+              "breakAngle": 38.4,
+              "breakLength": 3.6,
+              "breakY": 24.0,
+              "breakVertical": -13.0,
+              "breakVerticalInduced": 17.3,
+              "breakHorizontal": 10.4,
+              "spinRate": 2624,
+              "spinDirection": 212
+            },
+            "zone": 11,
+            "typeConfidence": 0.9,
+            "plateTime": 0.39636625470560594,
+            "extension": 6.712726214295357
+          },
+          "index": 6,
+          "playId": "7256030d-f954-3316-817f-7cd8f00523e6",
+          "pitchNumber": 3,
+          "startTime": "2026-08-18T01:21:35.352Z",
+          "endTime": "2026-08-18T01:21:43.603Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "atBatResult": {
+          "type": "atBat",
+          "event": "Strikeout",
+          "eventType": "strikeout",
+          "description": "Joshua Báez strikes out swinging.",
+          "rbi": 0,
+          "awayScore": 5,
+          "homeScore": 5,
+          "isOut": true
+        },
+        "officials": [
+          {
+            "official": {
+              "id": 544728,
+              "fullName": "Nic Lentz",
+              "link": "/api/v1/people/544728"
+            },
+            "officialType": "Home Plate"
+          },
+          {
+            "official": {
+              "id": 554242,
+              "fullName": "Edwin Moscoso",
+              "link": "/api/v1/people/554242"
+            },
+            "officialType": "First Base"
+          },
+          {
+            "official": {
+              "id": 427537,
+              "fullName": "Hunter Wendelstedt",
+              "link": "/api/v1/people/427537"
+            },
+            "officialType": "Second Base"
+          },
+          {
+            "official": {
+              "id": 665576,
+              "fullName": "Brock Ballou",
+              "link": "/api/v1/people/665576"
+            },
+            "officialType": "Third Base"
+          }
+        ],
+        "status": "pending-independent-audit",
+        "attributionNote": "Video shows 1B umpire positive swing signal immediately after same 1–1 pitch; official crew identifies1B asMoscoso. Feed gives swinging strike, postcount1–2. Not the later Winn strikeout."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "baez20260817",
+        "status": "accept",
+        "start": 784.4,
+        "end": 788.3,
+        "reason": "Full first-base-side slow-motion HBP check after clean cut before motion, complete stop/recoil before next scene. First-base positive swing signal shown immediately before replay; official crew identifies EdwinMoscoso. Exact pitch3 top10 is swinging strike2 on1–1; not laterstrike3.",
+        "proof": "/workspace/check-swing/expansion500/legacy_middle/caption-pass/30-full-dense-783.jpg"
+      }
+    }
+  ]
+}
