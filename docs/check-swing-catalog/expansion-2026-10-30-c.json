@@ -1,0 +1,1449 @@
+{
+  "added": 24,
+  "total": 135,
+  "clips": [
+    {
+      "id": "kinsler20110529",
+      "batter": "Ian Kinsler",
+      "date": "2011-05-29",
+      "matchup": "KC at TEX",
+      "base": 1,
+      "strike": true,
+      "start": 36.45,
+      "end": 38.25,
+      "umpire": "Mike Estabrook · home plate",
+      "context": "Estabrook ruled a swing for strike three on an 0–2 slider in the fifth inning. Kinsler was ejected while arguing the check-swing ruling.",
+      "evidence": "https://www.closecallsports.com/2011/05/ejections-mike-estabrook-1.html",
+      "source": "https://www.mlb.com/video/kinslers-ejection-c15336905",
+      "video": "https://mediadownloads.mlb.com/mlbam/2011/05/29/mlbtv_kcatex_15336905_1200K.mp4",
+      "review": {
+        "reviewer": "expand_legacy_late",
+        "queue": "legacy_middle/more2/more2-queue.json",
+        "queueIndex": 2,
+        "gamePk": 287694,
+        "playId": "02876946-0406-0033-000c-f08cd117d70a",
+        "pitchNumber": 3,
+        "inning": 5,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/more2-2.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_late/more2-2-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more2-2-35-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more2-2-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://statsapi.mlb.com/api/v1.1/game/287694/feed/live",
+          "https://content.mlb.com/mlb/item/id/v1/15336905/details/web-v1.json"
+        ],
+        "feedCall": "Swinging Strike (Blocked)",
+        "notes": "Complete first-base-side replay with onset, maximal reach and retreat visible at10fps before umpire signal/ejection. MLB video description incorrectly says fourth inning/called strike; official pitch feed and CCS report both confirm fifth inning/swinging strike three."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "kinsler20110529",
+        "status": "accept",
+        "reason": "Complete side-view loaded stance, forward check, bat stop and retraction; chosen end precedes umpire signal/aftermath. Official game date and exact pitch match source report; deciding home-plate official independently supported. Official feed/report correctly identify fifth inning, despite erroneous MLB video description fourth inning/called strike. Estabrook call distinct from later UEFL correctness reassessment.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 36.45,
+          "end": 38.25
+        },
+        "gamePk": 287694,
+        "playId": "02876946-0406-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_late/candidates-more2.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_late/more2-2-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more2-2-35-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more2-2-grid.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2011/05/ejections-mike-estabrook-1.html"
+      }
+    },
+    {
+      "id": "mcgehee20120624",
+      "batter": "Casey McGehee",
+      "date": "2012-06-24",
+      "matchup": "DET at PIT",
+      "base": 1,
+      "strike": true,
+      "start": 83.25,
+      "end": 87.6,
+      "umpire": "Marty Foster · home plate",
+      "context": "Foster ruled a swing on a 2–2 curveball from Justin Verlander in the fourth inning for strike three. Clint Hurdle was ejected while disputing the call.",
+      "evidence": "https://www.closecallsports.com/2012/06/ejection-076-marty-foster-4.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2012/06/24/mlbtv_detpit_22544701_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2012/06/24/mlbtv_detpit_22544701_1200K.mp4",
+      "gamePk": 318807,
+      "playId": "03188076-0296-0053-000c-f08cd117d70a",
+      "review": {
+        "status": "primary-reviewed; independent audit requested",
+        "reviewer": "expand_legacy_middle",
+        "queueIndex": 35,
+        "sourceQueue": "/workspace/check-swing/expansion500/legacy_middle/more2/more2-queue.json",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_middle/more2/35.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_middle/more2/35-window.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/more2/35-dense-82.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/more2/35-grid.jpg"
+        ],
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/318807/feed/live",
+        "localFeed": "/workspace/check-swing/expansion500/legacy_middle/more2/feed-318807.json",
+        "feedCall": "Swinging Strike (Blocked)",
+        "inning": 4,
+        "pitchNumber": 5,
+        "resolution": "Numeric metadata404, but public legacy dated MP4 returns200 and has been downloaded/visually reviewed. Source links directly to official video.",
+        "notes": "Full first-base-side setup, forward check and retreat reviewed every0.2s; end before catcher rises or any signal/reaction. Plate umpire named by contemporaneous source and confirmed in official crew. Muted playback required."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "mcgehee20120624",
+        "status": "accept",
+        "reason": "Complete side-view loaded stance, forward check, bat stop and retraction; chosen end precedes umpire signal/aftermath. Official game date and exact pitch match source report; deciding home-plate official independently supported.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 83.25,
+          "end": 87.6
+        },
+        "gamePk": 318807,
+        "playId": "03188076-0296-0053-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_middle/more2/candidates.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_middle/more2/35-window.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/more2/35-dense-82.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/more2/35-grid.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2012/06/ejection-076-marty-foster-4.html"
+      }
+    },
+    {
+      "id": "ortiz20100409",
+      "batter": "David Ortiz",
+      "date": "2010-04-09",
+      "matchup": "BOS at KC",
+      "base": 3,
+      "strike": true,
+      "start": 23.8,
+      "end": 26.5,
+      "umpire": "Mike Estabrook · home plate",
+      "context": "Estabrook ruled a swing for strike three on a full-count changeup in the sixth inning. Ortiz was ejected while seeking an appeal.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/04/09/mlbtv_boskca_7353161_400K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/04/09/mlbtv_boskca_7353161_400K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/139549.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "139549",
+        "legacyVideoId": "7353161",
+        "gamePk": "263856",
+        "playId": "02638566-0426-0063-000c-f08cd117d70a",
+        "atBatIndex": 41,
+        "pitchNumber": 6,
+        "duration": 41.708375,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-7353161.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7353161-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7353161-dense.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-139549.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/7353161/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/263856/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after clean replay cut/dissolve; ends after checked finish and before umpire signal. Actual on-field ruling from public contemporaneous UEFL predecessor report; precise official pitch and umpire crew verified. Beltre is nonterminal strike two, distinct from later single. Needs independent secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "ortiz20100409",
+        "status": "accept",
+        "reason": "Complete side-view loaded stance, forward check, bat stop and retraction; chosen end precedes umpire signal/aftermath. Official game date and exact pitch match source report; deciding home-plate official independently supported. Report expressly says Estabrook called swing; Ortiz requested appeal to Dreckman afterward.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 23.8,
+          "end": 26.5
+        },
+        "gamePk": "263856",
+        "playId": "02638566-0426-0063-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7353161-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7353161-dense.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/139549.html"
+      }
+    },
+    {
+      "id": "beltre20100512",
+      "batter": "Adrian Beltre",
+      "date": "2010-05-12",
+      "matchup": "TOR at BOS",
+      "base": 1,
+      "strike": true,
+      "start": 90.05,
+      "end": 93.3,
+      "umpire": "Dale Scott · home plate",
+      "context": "Scott ruled a swing for strike two on a 1–1 breaking ball in the ninth inning. Terry Francona was ejected while disputing the call; Beltre later singled.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/05/12/mlbtv_torbos_7983763_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/05/12/mlbtv_torbos_7983763_800K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/147333.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "147333",
+        "legacyVideoId": "7983763",
+        "gamePk": "264314",
+        "playId": "02643146-0686-0033-000c-f08cd117d70a",
+        "atBatIndex": 67,
+        "pitchNumber": 3,
+        "duration": 112.912917,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-7983763.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7983763-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7983763-dense.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-147333.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/7983763/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/264314/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after clean replay cut/dissolve; ends after checked finish and before umpire signal. Actual on-field ruling from public contemporaneous UEFL predecessor report; precise official pitch and umpire crew verified. Beltre is nonterminal strike two, distinct from later single. Needs independent secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "beltre20100512",
+        "status": "accept",
+        "reason": "Complete side-view loaded stance, forward check, bat stop and retraction; chosen end precedes umpire signal/aftermath. Official game date and exact pitch match source report; deciding home-plate official independently supported. Exact pitch is ninth-inning strike TWO on1-1, not later single or preceding Ortiz strikeout; Dale Scott explicitly called swing without appeal.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 90.05,
+          "end": 93.3
+        },
+        "gamePk": "264314",
+        "playId": "02643146-0686-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7983763-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-7983763-dense.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/147333.html"
+      }
+    },
+    {
+      "id": "swisher20100606",
+      "batter": "Nick Swisher",
+      "date": "2010-06-06",
+      "matchup": "NYY at TOR",
+      "base": 3,
+      "strike": true,
+      "start": 71.8,
+      "end": 75.6,
+      "umpire": "Bruce Dreckman · home plate",
+      "context": "Dreckman ruled a swing for strike three on a 1–2 breaking ball in the eighth inning. Joe Girardi was ejected while disputing the call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/06/06/mlbtv_nyator_8740727_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/06/06/mlbtv_nyator_8740727_800K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/154544.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "154544",
+        "legacyVideoId": "8740727",
+        "gamePk": "264662",
+        "playId": "02646626-0556-0043-000c-f08cd117d70a",
+        "atBatIndex": 54,
+        "pitchNumber": 4,
+        "duration": 82.449125,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-8740727.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-8740727-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-8740727-dense.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-154544.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/8740727/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/264662/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after clean replay cut/dissolve; ends after checked finish and before umpire signal. Actual on-field ruling from public contemporaneous UEFL predecessor report; precise official pitch and umpire crew verified. Beltre is nonterminal strike two, distinct from later single. Needs independent secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "swisher20100606",
+        "status": "accept",
+        "reason": "Complete side-view loaded stance, forward check, bat stop and retraction; chosen end precedes umpire signal/aftermath. Official game date and exact pitch match source report; deciding home-plate official independently supported.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 71.8,
+          "end": 75.6
+        },
+        "gamePk": "264662",
+        "playId": "02646626-0556-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-8740727-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-8740727-dense.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/154544.html"
+      }
+    },
+    {
+      "id": "phillips20120901",
+      "batter": "Brandon Phillips",
+      "date": "2012-09-01",
+      "matchup": "CIN at HOU",
+      "base": 1,
+      "strike": true,
+      "start": 100.85,
+      "end": 105.1,
+      "umpire": "Andy Fletcher · home plate",
+      "context": "Fletcher ruled that Phillips swung at the 0–2 pitch for strike three in the eighth inning. Phillips was ejected while disputing the ruling.",
+      "evidence": "https://www.closecallsports.com/2012/09/ejection-146-andy-fletcher.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2012/09/01/mlbtv_cinhou_24410363_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2012/09/01/mlbtv_cinhou_24410363_1200K.mp4",
+      "gamePk": 319716,
+      "playId": "03197166-0546-0043-000c-f08cd117d70a",
+      "review": {
+        "status": "primary-reviewed; independent audit requested",
+        "legacyId": "24410363",
+        "omittedQueueIndex": 19,
+        "localVideo": "/workspace/check-swing/expansion500/mlb_search/recovered-24410363.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-24410363-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-24410363-fine.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-24410363-exact.jpg"
+        ],
+        "durationSeconds": 118.954667,
+        "angle": "first-base-side broadcast replay",
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/319716/feed/live",
+        "feedDescription": "Swinging Strike",
+        "inning": 8,
+        "pitchNumber": 4,
+        "notes": "Public legacy metadata endpoint unavailable; official video recovered from verified game-date/team-code/media-ID CDN route. Source MLB numeric landing may not resolve, but exact public playback downloaded successfully. Full contact-sheet then5fps selected-window visual inspection. Official recorded call used regardless of later CCS correctness assessment. Independent visual audit extended end to105.1 to include final forward/downward bat movement and retraction."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "phillips20120901",
+        "status": "accept_with_changes",
+        "reason": "Complete side-view check and retraction before any result signal. Independently read source article and exact MLB pitch/date; recorded swing and named deciding official agree. Use direct working public MLB MP4 as source because numeric landing is unavailable. Original100.7–104.4 truncated late forward/down motion; independently inspected revised10fps100.85–105.1 exact window confirms full check/retraction with no result. CCS explicitly credits Fletcher without appeal.",
+        "changes": {
+          "source": "https://mediadownloads.mlb.com/mlbam/2012/09/01/mlbtv_cinhou_24410363_1200K.mp4",
+          "start": 100.85,
+          "end": 105.1
+        },
+        "reviewedWindow": {
+          "start": 100.85,
+          "end": 105.1
+        },
+        "gamePk": 319716,
+        "playId": "03197166-0546-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/mlb_search/candidates-more3.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-24410363-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-24410363-fine.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-24410363-exact.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2012/09/ejection-146-andy-fletcher.html"
+      }
+    },
+    {
+      "id": "pedroia20120807",
+      "batter": "Dustin Pedroia",
+      "date": "2012-08-07",
+      "matchup": "TEX at BOS",
+      "base": 1,
+      "strike": true,
+      "start": 32.65,
+      "end": 35.35,
+      "umpire": "Paul Nauert · first base",
+      "context": "Nauert ruled a swing on appeal for strike three in the eighth inning. Pedroia was ejected in the following half inning while continuing to dispute the call.",
+      "evidence": "https://www.closecallsports.com/2012/08/ejection-110-paul-nauert.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2012/08/07/mlbtv_texbos_23713643_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2012/08/07/mlbtv_texbos_23713643_1200K.mp4",
+      "gamePk": 319380,
+      "playId": "03193806-0646-0033-000c-f08cd117d70a",
+      "review": {
+        "status": "primary-reviewed; independent audit requested",
+        "legacyId": "23713643",
+        "omittedQueueIndex": 21,
+        "localVideo": "/workspace/check-swing/expansion500/mlb_search/recovered-23713643.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-23713643-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-23713643-fine.jpg"
+        ],
+        "durationSeconds": 156.586667,
+        "angle": "first-base-side broadcast replay",
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/319380/feed/live",
+        "feedDescription": "Swinging Strike",
+        "inning": 8,
+        "pitchNumber": 3,
+        "notes": "Public legacy metadata endpoint unavailable; official video recovered from verified game-date/team-code/media-ID CDN route. Source MLB numeric landing may not resolve, but exact public playback downloaded successfully. Full contact-sheet then5fps selected-window visual inspection. Official recorded call used regardless of later CCS correctness assessment."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "pedroia20120807",
+        "status": "accept_with_changes",
+        "reason": "Complete side-view check and retraction before any result signal. Independently read source article and exact MLB pitch/date; recorded swing and named deciding official agree. Use direct working public MLB MP4 as source because numeric landing is unavailable. Source explicitly credits Nauert first-base appeal in eighth, separate from ninth-inning ejection.",
+        "changes": {
+          "source": "https://mediadownloads.mlb.com/mlbam/2012/08/07/mlbtv_texbos_23713643_1200K.mp4"
+        },
+        "reviewedWindow": {
+          "start": 32.65,
+          "end": 35.35
+        },
+        "gamePk": 319380,
+        "playId": "03193806-0646-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/mlb_search/candidates-more3.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-23713643-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-23713643-fine.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2012/08/ejection-110-paul-nauert.html"
+      }
+    },
+    {
+      "id": "buck20120702",
+      "batter": "John Buck",
+      "date": "2012-07-02",
+      "matchup": "MIA at MIL",
+      "base": 1,
+      "strike": true,
+      "start": 40.1,
+      "end": 44.3,
+      "umpire": "Derryl Cousins · home plate",
+      "context": "Cousins called the checked swing strike three on a full-count pitch in the sixth inning. Buck was ejected after arguing the call.",
+      "evidence": "https://www.closecallsports.com/2012/07/ejection-082-derryl-cousins-2.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2012/07/02/mlbtv_miamil_22788267_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2012/07/02/mlbtv_miamil_22788267_1200K.mp4",
+      "gamePk": 318923,
+      "playId": "03189236-0496-0063-000c-f08cd117d70a",
+      "review": {
+        "status": "primary-reviewed; independent audit requested",
+        "legacyId": "22788267",
+        "omittedQueueIndex": 23,
+        "localVideo": "/workspace/check-swing/expansion500/mlb_search/recovered-22788267.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-22788267-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-22788267-fine.jpg"
+        ],
+        "durationSeconds": 75.008,
+        "angle": "first-base-side broadcast replay",
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/318923/feed/live",
+        "feedDescription": "Swinging Strike (Blocked)",
+        "inning": 6,
+        "pitchNumber": 6,
+        "notes": "Public legacy metadata endpoint unavailable; official video recovered from verified game-date/team-code/media-ID CDN route. Source MLB numeric landing may not resolve, but exact public playback downloaded successfully. Full contact-sheet then5fps selected-window visual inspection. Official recorded call used regardless of later CCS correctness assessment."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "buck20120702",
+        "status": "accept_with_changes",
+        "reason": "Complete side-view check and retraction before any result signal. Independently read source article and exact MLB pitch/date; recorded swing and named deciding official agree. Use direct working public MLB MP4 as source because numeric landing is unavailable. Source expressly says Cousins ruled swing; sixth-inning full-count pitch matches.",
+        "changes": {
+          "source": "https://mediadownloads.mlb.com/mlbam/2012/07/02/mlbtv_miamil_22788267_1200K.mp4"
+        },
+        "reviewedWindow": {
+          "start": 40.1,
+          "end": 44.3
+        },
+        "gamePk": 318923,
+        "playId": "03189236-0496-0063-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/mlb_search/candidates-more3.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-22788267-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-22788267-fine.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2012/07/ejection-082-derryl-cousins-2.html"
+      }
+    },
+    {
+      "id": "hinske20120511",
+      "batter": "Eric Hinske",
+      "date": "2012-05-11",
+      "matchup": "ATL at STL",
+      "base": 3,
+      "strike": true,
+      "start": 45.4,
+      "end": 49.7,
+      "umpire": "Mike Muchlinski · home plate",
+      "context": "Muchlinski ruled a swing for strike three on the full-count pitch in the eighth inning. Hinske was ejected while disputing the call.",
+      "evidence": "https://www.closecallsports.com/2012/05/ejection-027-mike-muchlinski-1.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2012/05/11/mlbtv_atlsln_21345805_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2012/05/11/mlbtv_atlsln_21345805_1200K.mp4",
+      "gamePk": 318208,
+      "playId": "03182086-0656-0073-000c-f08cd117d70a",
+      "review": {
+        "status": "primary-reviewed; independent audit requested",
+        "legacyId": "21345805",
+        "omittedQueueIndex": 24,
+        "localVideo": "/workspace/check-swing/expansion500/mlb_search/recovered-21345805.mp4",
+        "frames": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-21345805-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-21345805-fine.jpg"
+        ],
+        "durationSeconds": 63.829333,
+        "angle": "third-base-side broadcast replay",
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/318208/feed/live",
+        "feedDescription": "Swinging Strike",
+        "inning": 8,
+        "pitchNumber": 7,
+        "notes": "Public legacy metadata endpoint unavailable; official video recovered from verified game-date/team-code/media-ID CDN route. Source MLB numeric landing may not resolve, but exact public playback downloaded successfully. Full contact-sheet then5fps selected-window visual inspection. Official recorded call used regardless of later CCS correctness assessment."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "hinske20120511",
+        "status": "accept_with_changes",
+        "reason": "Complete side-view check and retraction before any result signal. Independently read source article and exact MLB pitch/date; recorded swing and named deciding official agree. Use direct working public MLB MP4 as source because numeric landing is unavailable. Source expressly distinguishes erroneous Brooks called-strike labeling from official swinging-strike result and Muchlinski mechanics; seventh pitch verified.",
+        "changes": {
+          "source": "https://mediadownloads.mlb.com/mlbam/2012/05/11/mlbtv_atlsln_21345805_1200K.mp4"
+        },
+        "reviewedWindow": {
+          "start": 45.4,
+          "end": 49.7
+        },
+        "gamePk": 318208,
+        "playId": "03182086-0656-0073-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/mlb_search/candidates-more3.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/recovered-21345805-grid.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/recovered-21345805-fine.jpg"
+        ],
+        "rulingEvidence": "https://www.closecallsports.com/2012/05/ejection-027-mike-muchlinski-1.html"
+      }
+    },
+    {
+      "id": "hinske20100829",
+      "batter": "Eric Hinske",
+      "date": "2010-08-29",
+      "matchup": "FLA at ATL",
+      "base": 3,
+      "strike": true,
+      "start": 26.5,
+      "end": 30.35,
+      "umpire": "Mike Everitt · third base",
+      "context": "Everitt ruled a swing on appeal for strike three on a 1–2 slider in the sixth inning. Bobby Cox was ejected while disputing the call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/08/29/mlbtv_floatl_11512519_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/08/29/mlbtv_floatl_11512519_800K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/178947.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "178947",
+        "legacyVideoId": "11512519",
+        "gamePk": "265752",
+        "playId": "02657526-0526-0083-000c-f08cd117d70a",
+        "atBatIndex": 51,
+        "pitchNumber": 8,
+        "duration": 61.061061,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-11512519.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11512519-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11512519-dense-25.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-178947.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/11512519/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/265752/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "hinske20100829",
+        "status": "accept",
+        "reason": "Full third-base-side motion26.5–30.35 after initial camera zoom, before any result signal. Report names Everitt third-base swing call; exact sixth-inning eighth pitch confirms strike three. Official date and exact pitch independently fetched and matched; no current111 duplicate.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 26.5,
+          "end": 30.35
+        },
+        "gamePk": "265752",
+        "playId": "02657526-0526-0083-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11512519-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11512519-dense-25.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/178947.html"
+      }
+    },
+    {
+      "id": "rosales20100720",
+      "batter": "Adam Rosales",
+      "date": "2010-07-20",
+      "matchup": "BOS at OAK",
+      "base": 1,
+      "strike": false,
+      "start": 18.25,
+      "end": 22.3,
+      "umpire": "Angel Campos · first base",
+      "context": "Campos ruled no swing on appeal for ball three in the tenth inning. John Farrell was ejected while disputing the call; Rosales struck out on the following pitch.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/07/20/mlbtv_bosoak_10115177_400K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/07/20/mlbtv_bosoak_10115177_400K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/167692.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "167692",
+        "legacyVideoId": "10115177",
+        "gamePk": "265203",
+        "playId": "02652036-0866-0063-000c-f08cd117d70a",
+        "atBatIndex": 85,
+        "pitchNumber": 6,
+        "duration": 93.560227,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-10115177.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-10115177-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-10115177-dense-17.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-167692.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/10115177/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/265203/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit. Rosales no-swing pitch is pitch6 ballthree, not the later pitch7 strikeout. Separate Crisp video is a called-strike argument and excluded."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "rosales20100720",
+        "status": "accept",
+        "reason": "Full first-base-side stance/check/retraction18.25–22.3. Report expressly credits Campos no-swing, separate from Davidson ejecting coach. Exact tenth-inning pitch6 is ball three, not subsequent strikeout. Official date and exact pitch independently fetched and matched; no current111 duplicate.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 18.25,
+          "end": 22.3
+        },
+        "gamePk": "265203",
+        "playId": "02652036-0866-0063-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-10115177-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-10115177-dense-17.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/167692.html"
+      }
+    },
+    {
+      "id": "sweeney20100902",
+      "batter": "Mike Sweeney",
+      "date": "2010-09-02",
+      "matchup": "PHI at COL",
+      "base": 1,
+      "strike": false,
+      "start": 100.5,
+      "end": 104.8,
+      "umpire": "Bill Hohn · first base",
+      "context": "Hohn ruled no swing on appeal after the pitch hit Sweeney with the bases loaded. The hit-by-pitch award stood, forcing in a run. Jim Tracy was ejected while disputing the call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/09/02/mlbtv_phicol_11638887_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/09/02/mlbtv_phicol_11638887_800K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/181244.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "181244",
+        "legacyVideoId": "11638887",
+        "gamePk": "264296",
+        "playId": "02642966-0546-0043-000c-f08cd117d70a",
+        "atBatIndex": 53,
+        "pitchNumber": 4,
+        "duration": 128.72875,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-11638887.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11638887-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11638887-dense-99.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-181244.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/11638887/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/264296/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "sweeney20100902",
+        "status": "accept",
+        "reason": "Full first-base-side HBP check/evasion100.5–104.8. Report explicitly identifies Bill Hohn no-swing appeal; HP Emmel is ejector. Exact sixth-inning pitch4 HBP confirms final award; this has sourced appeal, not merely inferred no-swing. Official date and exact pitch independently fetched and matched; no current111 duplicate.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 100.5,
+          "end": 104.8
+        },
+        "gamePk": "264296",
+        "playId": "02642966-0546-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11638887-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11638887-dense-99.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/181244.html"
+      }
+    },
+    {
+      "id": "victorino20100919",
+      "batter": "Shane Victorino",
+      "date": "2010-09-19",
+      "matchup": "WSH at PHI",
+      "base": 3,
+      "strike": true,
+      "start": 37.9,
+      "end": 40.7,
+      "umpire": "Angel Hernandez · third base",
+      "context": "Hernandez ruled a swing on appeal for strike three on a 2–2 curveball, ending the sixth inning. Victorino was ejected while disputing the call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/09/19/mlbtv_wasphi_12248057_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/09/19/mlbtv_wasphi_12248057_800K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/186868.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "186868",
+        "legacyVideoId": "12248057",
+        "gamePk": "266040",
+        "playId": "02660406-0536-0083-000c-f08cd117d70a",
+        "atBatIndex": 52,
+        "pitchNumber": 8,
+        "duration": 52.8195,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-12248057.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12248057-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12248057-dense-36.5.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-186868.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/12248057/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/266040/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "victorino20100919",
+        "status": "accept",
+        "reason": "Full third-base-side load/check/stop37.9–40.7, no answer signal. Report identifies Angel Hernandez deciding official; exact sixth-inning eighth pitch is swinging strike three. Official date and exact pitch independently fetched and matched; no current111 duplicate.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 37.9,
+          "end": 40.7
+        },
+        "gamePk": "266040",
+        "playId": "02660406-0536-0083-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12248057-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12248057-dense-36.5.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/186868.html"
+      }
+    },
+    {
+      "id": "young20101007",
+      "batter": "Michael Young",
+      "date": "2010-10-07",
+      "matchup": "TEX at TB",
+      "base": 1,
+      "strike": false,
+      "start": 13.75,
+      "end": 17.5,
+      "umpire": "Jerry Meals · first base",
+      "context": "Meals ruled no swing on appeal for ball three in the fifth inning of ALDS Game 2. Young hit a home run on the next pitch; Joe Maddon was subsequently ejected.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/10/07/mlbtv_textba_12766341_400K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/10/07/mlbtv_textba_12766341_400K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/190520.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "190520",
+        "legacyVideoId": "12766341",
+        "gamePk": "286314",
+        "playId": "02863146-0346-0063-000c-f08cd117d70a",
+        "atBatIndex": 33,
+        "pitchNumber": 6,
+        "duration": 106.506507,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-12766341.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12766341-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12766341-dense-12.5.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-190520.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/12766341/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/286314/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit. Open first-base-side oblique angle, somewhat behind home plate; all bat movement visible. Please independently assess angle requirement."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "young20101007",
+        "status": "accept",
+        "reason": "Complete load/check/stop13.75–17.5 from first-base-side oblique camera nearer home plate. Entire bat path remains visible; angle usable despite obliqueness. Report explicitly names Meals no-swing appeal, distinct from Jim Wolf ejection. Exact fifth-inning pitch6 is ball three, not next-pitch home run. Official date and exact pitch independently fetched and matched; no current111 duplicate.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 13.75,
+          "end": 17.5
+        },
+        "gamePk": "286314",
+        "playId": "02863146-0346-0063-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12766341-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-12766341-dense-12.5.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/190520.html"
+      }
+    },
+    {
+      "id": "pujols20100910",
+      "batter": "Albert Pujols",
+      "date": "2010-09-10",
+      "matchup": "STL at ATL",
+      "base": 1,
+      "strike": false,
+      "start": 11.8,
+      "end": 15.8,
+      "umpire": "Jim Reynolds · first base",
+      "context": "Reynolds ruled no swing on appeal, and the pitch was called ball two. Terry Pendleton was ejected while disputing the pitch-location call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/09/10/mlbtv_slnatl_11915033_400K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/09/10/mlbtv_slnatl_11915033_400K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/183957.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "183957",
+        "legacyVideoId": "11915033",
+        "gamePk": "265920",
+        "playId": "02659206-0196-0043-000c-f08cd117d70a",
+        "atBatIndex": 18,
+        "pitchNumber": 4,
+        "duration": 82.582583,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-11915033.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11915033-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11915033-dense-9.5.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-183957.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/11915033/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/265920/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit. Report focuses on HP pitch-location ball ruling; the MLB video at3–5sec shows first-base umpire Reynolds spreading arms for no-swing. Crew feed confirms Reynolds1B, not plate umpire Tim Welke, as appeal decision-maker."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "pujols20100910",
+        "status": "accept",
+        "reason": "Full first-base-side checking motion11.8–15.8. Article centers HP pitch-location ruling, so independent video proof used for swing attribution: original-motion footage cuts to first-base official spreading arms for no swing at3.67s, then later closeup shows uniform77; official crew identifies Jim Reynolds at1B. Exact third-inning pitch4 ball two matches. Official date and exact pitch independently fetched and matched; no current111 duplicate.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 11.8,
+          "end": 15.8
+        },
+        "gamePk": "265920",
+        "playId": "02659206-0196-0043-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11915033-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-11915033-dense-9.5.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/183957.html"
+      }
+    },
+    {
+      "id": "donald20100707",
+      "batter": "Jason Donald",
+      "date": "2010-07-07",
+      "matchup": "CLE at TEX",
+      "base": 1,
+      "strike": true,
+      "start": 13.05,
+      "end": 15.15,
+      "umpire": "Tim Timmons · first base",
+      "context": "Timmons ruled a swing on appeal for strike one on a 2–0 fastball in the ninth inning. Manny Acta was ejected while disputing the call; Donald later walked.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/07/07/mlbtv_cletex_9773583_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/07/07/mlbtv_cletex_9773583_800K.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/164547.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "164547",
+        "legacyVideoId": "9773583",
+        "gamePk": "265071",
+        "playId": "02650716-0716-0033-000c-f08cd117d70a",
+        "atBatIndex": 70,
+        "pitchNumber": 3,
+        "duration": 114.981648,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-9773583.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9773583-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9773583-dense-11.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-164547.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/9773583/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/265071/feed/live"
+        ],
+        "notes": "Complete base-side checking motion after replay transition, stopped finish before outcome signal. Actual on-field ruling from contemporaneous public UEFL predecessor report, specific official pitch and umpire crew verified. Needs secondary audit. Strong bat recoil and knee drop may resemble full follow-through at a glance; please independently assess motion and cutoff. Proposed first replay13.05–15.15 ends before dissolve. Pitch is first strike on2–0, distinct from eventual walk."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "donald20100707",
+        "status": "accept",
+        "reason": "Inspected10fps boundary13.1–15.8 beyond original4fps: loaded stance precedes forward motion14.5–14.7, followed by strong high bat recoil/knee drop and held finish14.9–15.1. Proposed13.05–15.15 includes deciding motion and stop without dissolve or official result. Report explicitly identifies Timmons1B appeal; exact ninth-inning pitch3 is strike ONE on2-0, distinct from eventual walk. Official date2010-07-07 verified.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 13.05,
+          "end": 15.15
+        },
+        "gamePk": "265071",
+        "playId": "02650716-0716-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9773583-sheet.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9773583-dense-11.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9773583-boundary.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/164547.html"
+      }
+    },
+    {
+      "id": "green20090916",
+      "batter": "Nick Green",
+      "date": "2009-09-16",
+      "matchup": "LAA at BOS",
+      "base": 1,
+      "strike": false,
+      "start": 16.15,
+      "end": 18.9,
+      "umpire": "Jeff Kellogg · first base",
+      "context": "Kellogg affirmed no swing on an 0–2 fastball in the ninth inning with the bases loaded and two outs. Green later drew a game-tying walk; Mike Scioscia disputed the check and a later ball call.",
+      "evidence": "https://cascreamindude.livejournal.com/131370.html",
+      "source": "https://www.mlb.com/video/angels-dispute-strike-zone-c6705535",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/09/17/mlbtv_anabos_6705535_800K.mp4",
+      "review": {
+        "reviewer": "expand_legacy_late",
+        "queue": "livejournal/leads-remaining.json",
+        "queueIndex": 12,
+        "gamePk": 246363,
+        "playId": "02463636-0936-0033-000c-f08cd117d70a",
+        "pitchNumber": 3,
+        "inning": 9,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/more3-6705535.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-count.jpg"
+        ],
+        "supportingEvidence": [
+          "https://statsapi.mlb.com/api/v1.1/game/246363/feed/live",
+          "https://content.mlb.com/mlb/item/id/v1/6705535/details/web-v1.json"
+        ],
+        "feedCall": "Ball",
+        "notes": "Full1B-side replay reviewed10fps from clean transition to retreat before player reaction. MLB asset publication9/17 differs from officialgame9/16. LiveJournal misstates pre-pitch1–2/balltwo; actualvideo scoreboard0–2 and MLBpitch3 showballone1–2. Video shows first-base no-swing signal; officialcrew lists JeffKellogg at1B, consistent report attribution. Pitch7 later becameballtwo and is a separate pitch."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "green20090916",
+        "status": "accept",
+        "reason": "Complete first-base-side stance/check/stop/recoil16.15–18.9. Original-motion footage shows0-2 scoreboard, then first-base no-swing armsout; official crew identifies Jeff Kellogg1B. Official date2009-09-16 and exact ninth-inning pitch3 ball ONE after0-2 verified. Contemporaneous article mistakenly says1-2/balltwo; video/count and feed independently resolve error. Later pitch7 balltwo and eventual walk are separate. MLB asset9/17 publication date not game date.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 16.15,
+          "end": 18.9
+        },
+        "gamePk": 246363,
+        "playId": "02463636-0936-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/legacy_late/candidates-more3.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-approved.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/more3-6705535-count.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/131370.html"
+      }
+    },
+    {
+      "id": "byrd20100708",
+      "batter": "Marlon Byrd",
+      "date": "2010-07-08",
+      "matchup": "CHC at LAD",
+      "base": 1,
+      "strike": true,
+      "start": 647.05,
+      "end": 649.95,
+      "umpire": "Hunter Wendelstedt · first base",
+      "context": "Wendelstedt ruled a swing on appeal for strike three on an 0–2 slider in the ninth inning. Byrd was ejected while disputing the call.",
+      "source": "https://mediadownloads.mlb.com/mlbam/2010/07/08/mlbtv_chnlan_9801299_1m.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2010/07/08/mlbtv_chnlan_9801299_1m.mp4",
+      "evidence": "https://cascreamindude.livejournal.com/164803.html",
+      "review": {
+        "reviewer": "expand_unreviewed_reports",
+        "status": "pending_secondary_review",
+        "legacyArticleId": "164803",
+        "legacyVideoId": "9801299",
+        "gamePk": "265082",
+        "playId": "02650826-0616-0033-000c-f08cd117d70a",
+        "pitchNumber": 3,
+        "atBatIndex": 60,
+        "duration": 720.186875,
+        "localVideo": "/workspace/check-swing/expansion500/ccs_lower/lj-9801299.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9801299-late.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9801299-boundary.jpg"
+        ],
+        "rulingText": "/workspace/check-swing/expansion500/ccs_lower/lj-report-164803.txt",
+        "supportingEvidence": [
+          "https://content.mlb.com/mlb/item/id/v1/9801299/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/265082/feed/live"
+        ],
+        "notes": "Complete open first-base-side oblique replay in12-minute condensed game. Set bat647.05, forwardcheck648.4, stoppedbat649.2; end649.95beforecatcher rises/points. PublicHTTPMP4 recovered from exact asset path in officialRTMP playback metadata by using existing mediadownloads hostname. No media manipulation; source original MLB asset. Needs independent angle/windowaudit."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "byrd20100708",
+        "status": "accept",
+        "reason": "Independent exact boundary inspection shows full open first-base-side oblique load, check, bat stop and retraction647.05–649.95; catcher rises/appeals only after cut. Condensed-game context places replay directly after ninth-inning Byrd strikeout/ejection, not another pitch. Contemporaneous report identifies Wendelstedt1B appeal, official crew agrees. Independently fetched MLB feed verifies2010-07-08,ninth-inning pitch3 swinging strike on0-2. No duplicate against published111.",
+        "changes": {},
+        "reviewedWindow": {
+          "start": 647.05,
+          "end": 649.95
+        },
+        "gamePk": "265082",
+        "playId": "02650826-0616-0033-000c-f08cd117d70a",
+        "catalogCountChecked": 111,
+        "duplicates": [],
+        "primaryCandidates": "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9801299-late.jpg",
+          "/workspace/check-swing/expansion500/ccs_lower/lj-9801299-boundary.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/164803.html"
+      }
+    },
+    {
+      "id": "pujols20090707",
+      "batter": "Albert Pujols",
+      "date": "2009-07-07",
+      "matchup": "STL at MIL",
+      "base": 1,
+      "strike": false,
+      "start": 93.4,
+      "end": 96.25,
+      "umpire": "Bruce Dreckman · first base",
+      "context": "Dreckman ruled no swing on appeal on an 0–2 pitch in the third inning. Willie Randolph was ejected after disputing the ball call.",
+      "evidence": "https://cascreamindude.livejournal.com/114929.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2009/07/07/mlbtv_slnmil_5457689_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/07/07/mlbtv_slnmil_5457689_800K.mp4",
+      "review": {
+        "queueIndex": 1,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/more3-leads.json",
+        "gamePk": 245448,
+        "playId": "02454486-0216-0033-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Pitch three of Pujols third-inning PA is Ball1; later strikeout is on pitchfive, not this check. First-base replay of gray-uniform Pujols before separate white-uniform Gallardo replay.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more3-1.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-pujols.jpg"
+        ],
+        "supportingEvidence": [
+          "https://cascreamindude.livejournal.com/114929.html",
+          "https://content.mlb.com/mlb/item/id/v1/5457689/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/245448/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245448.json",
+        "recovery": "Public metadata playbackURLs blank. Direct legacy800KMP4 recovered with verifiedgame date, legacyteam prefixes and originalnumericID; downloaded and visuallyreviewed."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "pujols20090707",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "approvedStart": 93.4,
+        "approvedEnd": 96.25,
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "gamePk": 245448,
+        "playId": "02454486-0216-0033-000c-f08cd117d70a",
+        "feedDescription": "Ball",
+        "notes": "Clean first-base-side load, check and retraction. Gray-uniform Pujols is separate from the white-uniform Gallardo replay. Report explicitly identifies Dreckman’s no-swing appeal; exact feed pitch 3 is ball one before the later strikeout.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-pujols.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/114929.html",
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245448.json"
+      }
+    },
+    {
+      "id": "gallardo20090707",
+      "batter": "Yovani Gallardo",
+      "date": "2009-07-07",
+      "matchup": "STL at MIL",
+      "base": 1,
+      "strike": true,
+      "start": 98.4,
+      "end": 100.65,
+      "umpire": "Bill Hohn · home plate",
+      "context": "Hohn ruled a swing for strike three on an 0–2 curveball to end the second inning with the bases loaded. Dave Sveum was ejected arguing the call.",
+      "evidence": "https://cascreamindude.livejournal.com/114929.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2009/07/07/mlbtv_slnmil_5457689_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/07/07/mlbtv_slnmil_5457689_800K.mp4",
+      "review": {
+        "queueIndex": 1,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/more3-leads.json",
+        "gamePk": 245448,
+        "playId": "02454486-0206-0033-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Pitchthree of Gallardo second-inning PA is Swinging Strike(Blocked). First-base-side white-uniform Gallardo replay immediately after gray-uniform Pujols; stop before Hohn begins strike signal.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more3-1.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-gallardo.jpg"
+        ],
+        "supportingEvidence": [
+          "https://cascreamindude.livejournal.com/114929.html",
+          "https://content.mlb.com/mlb/item/id/v1/5457689/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/245448/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245448.json",
+        "recovery": "Public metadata playbackURLs blank. Direct legacy800KMP4 recovered with verifiedgame date, legacyteam prefixes and originalnumericID; downloaded and visuallyreviewed."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "gallardo20090707",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "approvedStart": 98.4,
+        "approvedEnd": 100.65,
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "gamePk": 245448,
+        "playId": "02454486-0206-0033-000c-f08cd117d70a",
+        "feedDescription": "Swinging Strike (Blocked)",
+        "notes": "Clean first-base-side load, check and retraction through100.5, before Hohn’s strike gesture. Distinct white-uniform batter after Pujols. Report explicitly identifies Hohn’s plate ruling; official pitch3 is a blocked swinging strike.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-1.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-gallardo.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/114929.html",
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245448.json"
+      }
+    },
+    {
+      "id": "ocabrera20090826",
+      "batter": "Orlando Cabrera",
+      "date": "2009-08-26",
+      "matchup": "BAL at MIN",
+      "base": 1,
+      "strike": true,
+      "start": 46.0,
+      "end": 48.8,
+      "umpire": "Bruce Dreckman · first base",
+      "context": "Dreckman ruled a swing on appeal for strike three in the eighth inning. Cabrera was then ejected by home-plate umpire Todd Tichenor.",
+      "evidence": "https://cascreamindude.livejournal.com/128609.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2009/08/26/mlbtv_balmin_6317143_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/08/26/mlbtv_balmin_6317143_800K.mp4",
+      "review": {
+        "queueIndex": 4,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/more3-leads.json",
+        "gamePk": 246079,
+        "playId": "02460796-0676-0033-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Deciding umpire isDreckman, not ejection umpireTichenor. Official pitchthree at0–2 isSwingingStrikeBlocked. First-base replay complete before catcher appeals.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more3-4.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-cabrera.jpg"
+        ],
+        "supportingEvidence": [
+          "https://cascreamindude.livejournal.com/128609.html",
+          "https://content.mlb.com/mlb/item/id/v1/6317143/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/246079/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-246079.json",
+        "recovery": "Public metadata playbackURLs blank. Direct legacy800KMP4 recovered with verifiedgame date, legacyteam prefixes and originalnumericID; downloaded and visuallyreviewed."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "ocabrera20090826",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "approvedStart": 46.0,
+        "approvedEnd": 48.8,
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "gamePk": 246079,
+        "playId": "02460796-0676-0033-000c-f08cd117d70a",
+        "feedDescription": "Swinging Strike (Blocked)",
+        "notes": "Complete first-base-side motion. Start46.0 clears the trailing dissolve; meaningful onset is after47.0. Batter halts and retracts by48.6; end48.8 precedes appeal. Report identifies Dreckman as the deciding umpire and Tichenor as the ejecting umpire.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-4.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-cabrera.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/128609.html",
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-246079.json"
+      }
+    },
+    {
+      "id": "olivo20090627",
+      "batter": "Miguel Olivo",
+      "date": "2009-06-27",
+      "matchup": "KC at PIT",
+      "base": 1,
+      "strike": true,
+      "start": 61.4,
+      "end": 65.05,
+      "umpire": "Phil Cuzzi · home plate",
+      "context": "Cuzzi ruled a swing for strike three on an 0–2 pitch in the ninth. Olivo was ejected after arguing that he had held up.",
+      "evidence": "https://cascreamindude.livejournal.com/112710.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2009/06/27/mlbtv_kcapit_5284579_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/06/27/mlbtv_kcapit_5284579_800K.mp4",
+      "review": {
+        "queueIndex": 5,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/more3-leads.json",
+        "gamePk": 245308,
+        "playId": "02453086-0666-0033-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "First-base-side replay; both teams wearing Negro Leagues tribute uniforms. Exact pitchthree ninthinningSwingingStrikeBlocked confirmed officialfeed. Stop before player reaction.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more3-5.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-5.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-5.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-olivo.jpg"
+        ],
+        "supportingEvidence": [
+          "https://cascreamindude.livejournal.com/112710.html",
+          "https://content.mlb.com/mlb/item/id/v1/5284579/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/245308/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245308.json",
+        "recovery": "Public metadata playbackURLs blank. Direct legacy800KMP4 recovered with verifiedgame date, legacyteam prefixes and originalnumericID; downloaded and visuallyreviewed."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "olivo20090627",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "approvedStart": 61.4,
+        "approvedEnd": 65.05,
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "gamePk": 245308,
+        "playId": "02453086-0666-0033-000c-f08cd117d70a",
+        "feedDescription": "Swinging Strike (Blocked)",
+        "notes": "Complete first-base-side motion; bat remains visible despite close framing. Loaded stance through63.2, check and bat deceleration/retraction by65.0. Official pitch3 is a blocked swinging strike; report identifies Cuzzi at home plate.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-5.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-5.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-olivo.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/112710.html",
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245308.json"
+      }
+    },
+    {
+      "id": "gomez20090620",
+      "batter": "Carlos Gómez",
+      "date": "2009-06-20",
+      "matchup": "HOU at MIN",
+      "base": 1,
+      "strike": false,
+      "start": 23.5,
+      "end": 29.2,
+      "umpire": "Jerry Layne · home plate",
+      "context": "Gómez’s check on a 1–2 pitch in the fifth was ruled ball two. Cecil Cooper was ejected arguing that the pitch had nicked the bat for a foul tip.",
+      "evidence": "https://cascreamindude.livejournal.com/110370.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2009/06/20/mlbtv_houmin_5160617_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/06/20/mlbtv_houmin_5160617_800K.mp4",
+      "review": {
+        "queueIndex": 6,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/more3-leads.json",
+        "gamePk": 245215,
+        "playId": "02452156-0356-0043-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "This is balltwo on pitchfour, not eventualwalk or earlierfoulbunt. No separate baseappeal attributed. Actualno-swing inferredfromBall call on reportidentifiedcheck; contact dispute does not change onfieldresult. Full first-base-side replay.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more3-6.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-6.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-6.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-gomez.jpg"
+        ],
+        "supportingEvidence": [
+          "https://cascreamindude.livejournal.com/110370.html",
+          "https://content.mlb.com/mlb/item/id/v1/5160617/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/245215/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245215.json",
+        "recovery": "Public metadata playbackURLs blank. Direct legacy800KMP4 recovered with verifiedgame date, legacyteam prefixes and originalnumericID; downloaded and visuallyreviewed."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "gomez20090620",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "approvedStart": 23.5,
+        "approvedEnd": 29.2,
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "gamePk": 245215,
+        "playId": "02452156-0356-0043-000c-f08cd117d70a",
+        "feedDescription": "Ball",
+        "notes": "Complete first-base-side slow-motion check through retraction29.1. Report identifies the checked1–2 pitch as a ball. The foul-tip dispute does not change the recorded no-swing result. No separate base appeal asserted. Exact pitch4 matches ball two.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-6.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-6.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-gomez.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/110370.html",
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245215.json"
+      }
+    },
+    {
+      "id": "votto20090727",
+      "batter": "Joey Votto",
+      "date": "2009-07-27",
+      "matchup": "SD at CIN",
+      "base": 3,
+      "strike": true,
+      "start": 52,
+      "end": 54.5,
+      "umpire": "Jerry Crawford · third base",
+      "context": "Crawford ruled a swing on appeal for strike three in the first inning. Votto was ejected after arguing the check-swing ruling.",
+      "evidence": "https://cascreamindude.livejournal.com/119182.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2009/07/27/mlbtv_sdncin_5768211_800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2009/07/27/mlbtv_sdncin_5768211_800K.mp4",
+      "review": {
+        "queueIndex": 12,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/more3-leads.json",
+        "gamePk": 245682,
+        "playId": "02456826-0066-0063-000c-f08cd117d70a",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Third-base-side replay, fullcheck fromload tohalt; stop before catcher appeals. Sixthpitch2–2 ofVotto firstinningPA isSwingingStrikeBlocked.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/more3-12.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-votto.jpg"
+        ],
+        "supportingEvidence": [
+          "https://cascreamindude.livejournal.com/119182.html",
+          "https://content.mlb.com/mlb/item/id/v1/5768211/details/web-v1.json",
+          "https://statsapi.mlb.com/api/v1.1/game/245682/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245682.json",
+        "recovery": "Public metadata playbackURLs blank. Direct legacy800KMP4 recovered with verifiedgame date, legacyteam prefixes and originalnumericID; downloaded and visuallyreviewed."
+      },
+      "availableFrom": "2026-10-31",
+      "independentAudit": {
+        "id": "votto20090727",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "approvedStart": 52,
+        "approvedEnd": 54.5,
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "gamePk": 245682,
+        "playId": "02456826-0066-0063-000c-f08cd117d70a",
+        "feedDescription": "Swinging Strike (Blocked)",
+        "notes": "Complete third-base-side load, check, halt and retraction. End54.5 precedes the catcher’s appeal; no official answer signal is shown. Exact pitch6 is a blocked swinging strike; report identifies Crawford at third base.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/more3-sheet-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-dense-12.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/more3-window-votto.jpg"
+        ],
+        "rulingEvidence": "https://cascreamindude.livejournal.com/119182.html",
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/more3-game-245682.json"
+      }
+    }
+  ]
+}
