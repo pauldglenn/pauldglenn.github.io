@@ -3775,5 +3775,281 @@
       "pitchNumber": 5,
       "playId": "8d2c8aed-d182-32e4-ac65-9b045b869e7c"
     }
+  },
+  {
+    "id": "tommypham20260418",
+    "batter": "Tommy Pham",
+    "date": "2026-04-18",
+    "matchup": "NYM at CHC",
+    "base": 1,
+    "strike": true,
+    "start": 602.291967,
+    "end": 604.891967,
+    "umpire": "Deciding umpire not identified",
+    "context": "Top of inning 9: Tommy Pham checks on Caleb Thielbar’s 2–2 curveball. The official pitch record rules a swinging strike for strike three; the footage does not establish the individual caller.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824694/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-nym-chc-4-18-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/18/d619f0d8-5f189070-e77eb449-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 824694,
+      "atBatIndex": 66,
+      "pitchNumber": 6,
+      "playId": "82a95389-e55a-351f-8b94-52b2cfa5d1ee"
+    }
+  },
+  {
+    "id": "ohoppe20250411",
+    "batter": "Logan O'Hoppe",
+    "date": "2025-04-11",
+    "matchup": "LAA at HOU",
+    "base": 1,
+    "strike": true,
+    "start": 111.75,
+    "end": 113.38,
+    "umpire": "Alex MacKay · first base",
+    "context": "Top of the second: Alex MacKay ruled a swing on appeal on Logan O’Hoppe’s full-count changeup from Ronel Blanco, striking him out.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/778368/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-11-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/d6270399-2a283851-a30e87a7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778368,
+      "atBatIndex": 7,
+      "pitchNumber": 6,
+      "playId": "9e0cfec6-3edb-3438-8a62-8fb1afdc833f"
+    }
+  },
+  {
+    "id": "konnorgriffin20260406",
+    "batter": "Konnor Griffin",
+    "date": "2026-04-06",
+    "matchup": "SD at PIT",
+    "base": 1,
+    "strike": true,
+    "start": 593.85,
+    "end": 595.95,
+    "umpire": "Deciding umpire not identified",
+    "context": "Griffin checked on a curveball from David Morgan in the ninth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/823401/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-sd-pit-4-6-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/9a0a7ee2-07fc5071-c828f774-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 823401,
+      "playId": "4872ba14-5be1-3954-a4ba-25b0183010dd"
+    }
+  },
+  {
+    "id": "willbenson20260406",
+    "batter": "Will Benson",
+    "date": "2026-04-06",
+    "matchup": "CIN at MIA",
+    "base": 3,
+    "strike": true,
+    "start": 278.6,
+    "end": 280.95,
+    "umpire": "Sean Barber · third base",
+    "context": "Barber ruled a swing on Benson’s check of a changeup from Janson Junk in the fifth inning. The official pitch was swinging strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/823886/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-cin-mia-4-6-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/ac173586-c5ed10f5-0fe6d87e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 823886,
+      "playId": "0305a68c-75c1-3db4-9a8b-204e0c473211"
+    }
+  },
+  {
+    "id": "taylorwalls20260407",
+    "batter": "Taylor Walls",
+    "date": "2026-04-07",
+    "matchup": "CHC at TB",
+    "base": 3,
+    "strike": true,
+    "start": 379.45,
+    "end": 381.45,
+    "umpire": "Brian Walsh · third base",
+    "context": "Walsh ruled a swing on Walls’s check of a changeup from Javier Assad in the sixth inning. The official pitch was swinging strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/822999/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-7-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/07/2ccc1007-9bcaf271-4f8a1186-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 822999,
+      "playId": "7008db26-f99a-3fd5-a2fc-d57091fe5d93"
+    }
+  },
+  {
+    "id": "jakemeyers20260408",
+    "batter": "Jake Meyers",
+    "date": "2026-04-08",
+    "matchup": "HOU at COL",
+    "base": 1,
+    "strike": false,
+    "start": 167.95,
+    "end": 170.25,
+    "umpire": "Deciding umpire not identified",
+    "context": "Meyers checked on a curveball from Michael Lorenzen in the second inning. The official pitch was ball two, implying no swing; no separate appeal caller is established. Meyers then left mid-at-bat with an injury, and Brice Matthews completed the plate appearance.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824374/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-hou-col-4-8-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/fdf90ee5-7392d904-cc80e857-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 824374,
+      "playId": "428c8f11-3c35-3f73-8ad4-663eb09e67e8"
+    }
+  },
+  {
+    "id": "michaelbusch20260408",
+    "batter": "Michael Busch",
+    "date": "2026-04-08",
+    "matchup": "CHC at TB",
+    "base": 3,
+    "strike": true,
+    "start": 246.3,
+    "end": 249.7,
+    "umpire": "Deciding umpire not identified",
+    "context": "Busch checked on a slider from Joe Boyle in the fourth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/823000/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-8-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/70053c09-d573c1df-00a685d2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 823000,
+      "playId": "15f08130-810c-3a7a-8fb1-1e7cc77dcde2"
+    }
+  },
+  {
+    "id": "mookie-betts-20250406",
+    "batter": "Mookie Betts",
+    "date": "2025-04-06",
+    "matchup": "LAD at PHI",
+    "base": 1,
+    "strike": true,
+    "start": 214.15,
+    "end": 217.15,
+    "umpire": "Caller not established",
+    "context": "Top of the 3rd: Mookie Betts checks on a 1–2 slider from Cristopher Sánchez. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/778434/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-lad-phi-4-6-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/b9ababc5-f86c101b-213ec010-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778434,
+      "atBatIndex": 18,
+      "pitchNumber": 4,
+      "playId": "5b3248b4-7df6-39e3-9a6e-17396403c73b"
+    }
+  },
+  {
+    "id": "adley-rutschman-20250406",
+    "batter": "Adley Rutschman",
+    "date": "2025-04-06",
+    "matchup": "BAL at KC",
+    "base": 1,
+    "strike": true,
+    "start": 431.22,
+    "end": 434.6,
+    "umpire": "Caller not established",
+    "context": "Top of the 6th: Adley Rutschman checks on a 2–2 changeup from Kris Bubic. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-bal-kc-4-6-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/0d4d67bd-b5330bb3-c55cca07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778422,
+      "atBatIndex": 44,
+      "pitchNumber": 8,
+      "playId": "44fbf4cf-79fd-3227-85ef-abb091bd669b"
+    }
+  },
+  {
+    "id": "jordan-westburg-20250406",
+    "batter": "Jordan Westburg",
+    "date": "2025-04-06",
+    "matchup": "BAL at KC",
+    "base": 1,
+    "strike": true,
+    "start": 595.18,
+    "end": 597.15,
+    "umpire": "Caller not established",
+    "context": "Top of the 9th: Jordan Westburg checks on a 1–2 slider from Carlos Estévez. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-bal-kc-4-6-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/0d4d67bd-b5330bb3-c55cca07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778422,
+      "atBatIndex": 64,
+      "pitchNumber": 4,
+      "playId": "bb3b9fd4-07a3-3b54-a84d-874473209f5b"
+    }
+  },
+  {
+    "id": "christian-walker-20250407",
+    "batter": "Christian Walker",
+    "date": "2025-04-07",
+    "matchup": "HOU at SEA",
+    "base": 1,
+    "strike": true,
+    "start": 239.4,
+    "end": 243.2,
+    "umpire": "Caller not established",
+    "context": "Top of the 4th: Christian Walker checks on a 2–2 splitter from Logan Gilbert. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/778405/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-hou-sea-4-7-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/07/5fa00279-2a834ef9-44db6ecc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778405,
+      "atBatIndex": 22,
+      "pitchNumber": 5,
+      "playId": "6a90eab4-5f12-3994-9bb3-93403049d329"
+    }
+  },
+  {
+    "id": "altuve20250412",
+    "batter": "Jose Altuve",
+    "date": "2025-04-12",
+    "matchup": "LAA at HOU",
+    "base": 1,
+    "strike": true,
+    "start": 418.1,
+    "end": 421.58,
+    "umpire": "Unknown",
+    "context": "Bottom eight, one out: Altuve was ruled to have swung on an 0–2 pitch from Ryan Zeferjahn for strike three. The official feed labels the88.1mph pitch a slider; the broadcast graphic calls it a cutter.",
+    "evidence": "https://www.mlb.com/video/condensed-game-laa-hou-4-12-25",
+    "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-12-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/12/32b35d6d-7d170243-8721896b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778351,
+      "atBatIndex": 60,
+      "pitchNumber": 3,
+      "playId": "11946e09-eefa-3ddc-b9ca-1fac821b183a"
+    }
+  },
+  {
+    "id": "adell20250413",
+    "batter": "Jo Adell",
+    "date": "2025-04-13",
+    "matchup": "LAA at HOU",
+    "base": 1,
+    "strike": true,
+    "start": 523.96,
+    "end": 526.3,
+    "umpire": "Jim Wolf · first base",
+    "context": "Top nine, one out: Wolf rules a swing on an 0–2 slider from Josh Hader, striking out Adell.",
+    "evidence": "https://www.mlb.com/video/condensed-game-laa-hou-4-13-25",
+    "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-13-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/0db9ceef-ea68718e-2bdf3c9a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 778329,
+      "atBatIndex": 68,
+      "pitchNumber": 3,
+      "playId": "60817fe0-8bf0-3c15-8dbb-4d4bbe453987"
+    }
   }
 ]
