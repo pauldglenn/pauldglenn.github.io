@@ -1,0 +1,880 @@
+{
+  "added": 7,
+  "total": 150,
+  "clips": [
+    {
+      "id": "elly-de-la-cruz-20260418",
+      "batter": "Elly De La Cruz",
+      "date": "2026-04-18",
+      "matchup": "CIN at MIN",
+      "base": 1,
+      "strike": false,
+      "start": 483.45,
+      "end": 485.65,
+      "umpire": "Hunter Wendelstedt · first base",
+      "context": "Top of the seventh: De La Cruz checks on a 1–1 pitch from Kody Funderburk. First-base umpire Hunter Wendelstedt affirms no swing, leaving the count 2–1.",
+      "evidence": "https://www.closecallsports.com/2026/04/mlb-ejection-015-nic-lentz-1-derek.html",
+      "source": "https://www.mlb.com/video/condensed-game-cin-min-4-18-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/18/0505e38e-ac8d54d7-5e9a8bba-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "queueIndex": 2,
+        "captionSourceIndex": 105,
+        "queue": "/workspace/check-swing/expansion500/archive/caption-mining/review-queue.json",
+        "gamePk": 823721,
+        "playId": "714edc2b-8cbc-3dc1-afa3-de9716d1f0db",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Complete right-handed check visible from first-base side. Clean replay begins after dissolve; window includes onset and maximum extension, ending before angle change. Broadcast freeze holds maximum extension. Source report explicitly identifies Wendelstedt’s no-swing appeal; feed records Ball In Dirt.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/2.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/elly-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/2-0-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/2-1-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.closecallsports.com/2026/04/mlb-ejection-015-nic-lentz-1-derek.html",
+          "https://statsapi.mlb.com/api/v1.1/game/823721/feed/live",
+          "https://diamond.mlb.com/webvtt_mirror/2026/DIAMOND_CC_JSON/2026-04/20260418CIN-MIN-CG_CC.c3po.vtt"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/game-823721.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/elly-de-la-cruz-20260418-pitch-proof.json"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "elly-de-la-cruz-20260418",
+        "status": "accept",
+        "reason": "Clean first-base-side replay begins after dissolve at483.45 with hands/bat back. Forward motion and maximum extension visible through484.4; broadcast freezes stopped swing, then continues before cut485.8. Proposed end485.65 preserves complete check and avoids next angle. Official feed pitch3 at1–1 is Ball In Dirt, postcount2–1; CCS report explicitly attributes no-swing appeal to1B Hunter Wendelstedt, matching official crew.",
+        "approvedStart": 483.45,
+        "approvedEnd": 485.65,
+        "timingFix": null,
+        "gamePk": 823721,
+        "playId": "714edc2b-8cbc-3dc1-afa3-de9716d1f0db",
+        "batter": "Elly De La Cruz",
+        "date": "2026-04-18",
+        "umpire": "Hunter Wendelstedt · first base",
+        "duplicateCheck": {
+          "catalogCount": 143,
+          "matches": []
+        },
+        "inspectedFrames": [
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/elly-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/audit-elly-context.jpg"
+        ],
+        "feedInspected": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/game-823721.json",
+        "rulingEvidence": "https://www.closecallsports.com/2026/04/mlb-ejection-015-nic-lentz-1-derek.html"
+      }
+    },
+    {
+      "id": "wilyer-abreu-20260628",
+      "batter": "Wilyer Abreu",
+      "date": "2026-06-28",
+      "matchup": "NYY at BOS",
+      "base": 3,
+      "strike": false,
+      "start": 270.9,
+      "end": 273.15,
+      "umpire": "Clint Vondrak · third base",
+      "context": "Bottom of the fourth: Abreu checks on a full-count pitch from Carlos Rodón. Third-base umpire Clint Vondrak rules no swing on appeal, giving Abreu ball four.",
+      "evidence": "https://www.mlb.com/video/condensed-game-nyy-bos-6-28-26",
+      "source": "https://www.mlb.com/video/condensed-game-nyy-bos-6-28-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/28/82e962a8-ffd2c173-b38803ee-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "queueIndex": 13,
+        "captionSourceIndex": 322,
+        "queue": "/workspace/check-swing/expansion500/archive/caption-mining/review-queue.json",
+        "gamePk": 824744,
+        "playId": "fcccc7f9-6a3b-3c7f-93df-163383d5252c",
+        "reviewer": "expand_legacy_2014",
+        "notes": "Complete left-handed check visible from third-base side. Starts after dissolve with bat/hands back, includes onset and stopped bat, ends before Abreu releases bat to take first. Broadcast immediately before replay shows third-base umpire safe signal; caption explicitly says no, third-base umpire, ball four. Official feed distinguishes this bottom-fourth walk from his first-inning walk; crew identifies Clint Vondrak.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/13.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/abreu-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/13-0-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/13-1-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/13-2-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/13-3-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.mlb.com/video/condensed-game-nyy-bos-6-28-26",
+          "https://statsapi.mlb.com/api/v1.1/game/824744/feed/live",
+          "https://mlb-cuts-diamond.mlb.com/FORGE/WEBVTT/2026/2026-06/28/20260628NYY-BOS-CG_CC.c3po.vtt"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/game-824744.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/wilyer-abreu-20260628-pitch-proof.json"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "wilyer-abreu-20260628",
+        "status": "accept",
+        "reason": "Clean third-base-side replay starts270.9 with hands/bat loaded; forward motion begins271.5, reaches stopped position272.3, held through273.15. Bat release/turn toward first begins afterward, outside window. Actual video immediately before replay shows3B safe/no-swing signal at269.0; official crew lists Clint Vondrak at3B. Exact feed pitch7, bottom4, full-count slider is ball4. Official game dateJune28 despite pitch UTC timestampJune29.",
+        "approvedStart": 270.9,
+        "approvedEnd": 273.15,
+        "timingFix": null,
+        "gamePk": 824744,
+        "playId": "fcccc7f9-6a3b-3c7f-93df-163383d5252c",
+        "batter": "Wilyer Abreu",
+        "date": "2026-06-28",
+        "umpire": "Clint Vondrak · third base",
+        "duplicateCheck": {
+          "catalogCount": 143,
+          "matches": []
+        },
+        "inspectedFrames": [
+          "/workspace/check-swing/expansion500/legacy_2014/caption-pass/abreu-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/audit-abreu-context.jpg"
+        ],
+        "feedInspected": "/workspace/check-swing/expansion500/legacy_2014/caption-pass/game-824744.json",
+        "rulingEvidence": "https://www.mlb.com/video/condensed-game-nyy-bos-6-28-26"
+      }
+    },
+    {
+      "id": "koss20250511",
+      "batter": "Christian Koss",
+      "date": "2025-05-11",
+      "matchup": "SF at MIN",
+      "base": 1,
+      "strike": true,
+      "start": 631.4,
+      "end": 633.75,
+      "umpire": "Ramon De Jesus · first base",
+      "context": "De Jesus ruled that Koss swung at Danny Coulombe’s 0–2 sweeper in the ninth inning for strike three. Bob Melvin was subsequently ejected arguing the appeal.",
+      "evidence": "https://www.closecallsports.com/2025/05/mlb-ejection-029-ramon-de-jesus-1-bob.html",
+      "source": "https://www.mlb.com/video/condensed-game-sf-min-5-11-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/11/37b331d2-90633d1e-e4e209a2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 777956,
+      "playId": "48aa3546-c89f-312c-8dc0-a2dc566faf35",
+      "queueIndex": 6,
+      "queueSource": "/workspace/check-swing/expansion500/retrosheet/event-review-queue.json",
+      "reviewStatus": "independently-accepted",
+      "reviewProof": [
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/6-1-dense.jpg",
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/6-1-grid-06.jpg"
+      ],
+      "localVideo": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/6-1.mp4",
+      "rulingProof": {
+        "reportText": "     1B Umpire Ramon De Jesus ejected Giants manager Bob Melvin (check swing strike three call) in the top of the 9th inning of the #Giants-#Twins game. With none out and none on, Giants batter Christian Koss attempted to check his swing on a 0-2 sweeper from Twins pitcher Danny Coulombe, ruled a ball by HP Umpire Quinn Wolcott and called a strike on appeal by 1B Umpire De Jesus. At the time of the ejection, the game was tied, 5-5. The Twins ultimately won the contest, 7-6, in 10 innings.     This is Ramon De Jesus (18)'s 1st ejection of 2025.     This is the 29th ejection of the 2025 MLB regular season.  This is the 13th manager ejection of 2025.  Ejection Tally: 13 Managers, 8 Coaches, 8 Players .  This is San Francisco's 1st ejection of 2025, 3rd in the NL West (ARI, SD 2; LAD,  SF 1 ; COL 0).  This is Bob Melvin's 1st ejection since  August 8, 2024 (Stu Scheurwater; QOC = N [Balls/Strikes]) .  This is Ramon De Jesus' 1st ejection since  Sept 27, 2024 (Carlos Mendoza; QOC = Y [Balls/Strikes]) .   Wrap:  San Francisco Giants vs Minnesota Twins, 5/11/25  | Video as follows:       Alternate Link:  Melvin ejected by De Jesus for arguing check swing strike 3 from dugout  ",
+        "officialFeed": "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/6-feed.json",
+        "inning": 9,
+        "pitchNumber": 3,
+        "pitchEvent": {
+          "details": {
+            "call": {
+              "code": "S",
+              "description": "Swinging Strike"
+            },
+            "description": "Swinging Strike",
+            "code": "S",
+            "ballColor": "rgba(170, 21, 11, 1.0)",
+            "trailColor": "rgba(50, 50, 50, 1.0)",
+            "isInPlay": false,
+            "isStrike": true,
+            "isBall": false,
+            "type": {
+              "code": "ST",
+              "description": "Sweeper"
+            },
+            "isOut": true,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 0,
+            "strikes": 3,
+            "outs": 0
+          },
+          "pitchData": {
+            "startSpeed": 80.8,
+            "endSpeed": 74.2,
+            "strikeZoneTop": 3.6,
+            "strikeZoneBottom": 1.67,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 17.0,
+            "coordinates": {
+              "aY": 22.644760642011413,
+              "aZ": -37.489127399323216,
+              "pfxX": -6.9326332109193505,
+              "pfxZ": -3.798027845637897,
+              "pX": -0.46739934068374583,
+              "pZ": 3.966127442607619,
+              "vX0": 2.7423198563493,
+              "vY0": -117.68131424062561,
+              "vZ0": 2.415890931006614,
+              "x": 134.82,
+              "y": 131.69,
+              "x0": -0.748140175871609,
+              "y0": 50.00060817054851,
+              "z0": 6.402535300518247,
+              "aX": -9.707831019243482
+            },
+            "breaks": {
+              "breakAngle": 14.4,
+              "breakLength": 10.8,
+              "breakY": 24.0,
+              "breakVertical": -47.9,
+              "breakVerticalInduced": -6.0,
+              "breakHorizontal": 11.9,
+              "spinRate": 2599,
+              "spinDirection": 313
+            },
+            "zone": 11,
+            "typeConfidence": 0.91,
+            "plateTime": 0.46568924174754356,
+            "extension": 6.028039510399862
+          },
+          "index": 4,
+          "playId": "48aa3546-c89f-312c-8dc0-a2dc566faf35",
+          "pitchNumber": 3,
+          "startTime": "2025-05-11T20:33:42.789Z",
+          "endTime": "2025-05-11T20:33:48.586Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "notes": "Side replay follows appeal signal but selected window excludes that signal and ends before Melvin reaction crossfade633.8. Complete forward extension and retreat visible."
+      },
+      "secondaryAudit": "/workspace/check-swing/expansion500/archive/audit-koss.json",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "koss20250511",
+        "status": "accept",
+        "start": 631.4,
+        "end": 633.75,
+        "gamePk": 777956,
+        "date": "2025-05-11",
+        "playId": "48aa3546-c89f-312c-8dc0-a2dc566faf35",
+        "umpire": "Ramon De Jesus · first base",
+        "reason": "Independently inspected10fps actual footage628–634: clean first-base-side loaded stance at631.4, full forward extension632.0–632.4 and recoil by633.7; cut before Melvin dissolve633.8. Prior signal excluded. Official feed confirms top9 atBat71 pitch3 swinging strike three; crew confirms De Jesus1B. Direct CCS report explicitly attributes swing appeal to De Jesus. No current catalog duplicate.",
+        "proof": [
+          "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/6-1-dense.jpg",
+          "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/6-feed.json",
+          "/workspace/check-swing/expansion500/archive/koss-report.html"
+        ],
+        "reviewer": "expand_unresolved_archive"
+      }
+    },
+    {
+      "id": "desmond20141007",
+      "batter": "Ian Desmond",
+      "date": "2014-10-07",
+      "matchup": "WSH at SF",
+      "base": 1,
+      "strike": true,
+      "start": 0,
+      "end": 3.9,
+      "umpire": "Hunter Wendelstedt · home plate",
+      "context": "Wendelstedt ruled that Desmond swung at Santiago Casilla’s 1–2 curveball for strike three in the ninth inning of NLDS Game4. First-base umpire Mike Winters was not asked for an appeal.",
+      "evidence": "https://blogs.fangraphs.com/lets-take-check-swings-away-from-home-plate-umpires/",
+      "source": "https://blogs.fangraphs.com/lets-take-check-swings-away-from-home-plate-umpires/",
+      "video": "https://pdglenn.com/check-swing/assets/desmond20141007.mp4",
+      "gamePk": 416361,
+      "playId": "04163616-0696-0043-000c-f08cd117d70a",
+      "transcodedFrom": "https://blogs.fangraphs.com/wp-content/uploads/2014/10/desmond-nlds-check-swing.gif",
+      "review": {
+        "status": "accepted by primary review and independent audit",
+        "localVideo": "/workspace/check-swing/expansion500/mlb_search/analytics-sources/desmond20141007.mp4",
+        "sourceGif": "/workspace/check-swing/expansion500/mlb_search/analytics-sources/Desmond.gif",
+        "durationSeconds": 6.5,
+        "frames": [
+          "/workspace/check-swing/expansion500/mlb_search/analytics-sources/Desmond-dense-first.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/analytics-sources/Desmond-dense-last.jpg"
+        ],
+        "angle": "first-base-side FOX Sports broadcast replay",
+        "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/416361/feed/live",
+        "feedDescription": "Swinging Strike (Blocked)",
+        "inning": 9,
+        "pitchNumber": 4,
+        "notes": "Full65-frame original inspected. Proposed0–3.9s contains load, forward check and retraction; ends before visible HP strikeout signal. Public FanGraphs GIF preserves real2014 broadcast motion. Official final-out clip36772963 was also inspected but contains Ramos groundout/celebration only. No interpolated/synthetic frames.",
+        "independentAudit": "/workspace/check-swing/expansion500/legacy_middle/audit-desmond.json"
+      },
+      "provenance": {
+        "publisher": "FanGraphs",
+        "articleAuthor": "Dave Cameron",
+        "articlePublished": "2014-10-08",
+        "originalBroadcast": "FOX Sports1",
+        "attribution": "FOX Sports replay, via Dave Cameron / FanGraphs (October8,2014).",
+        "sourceUrl": "https://blogs.fangraphs.com/wp-content/uploads/2014/10/desmond-nlds-check-swing.gif",
+        "sourceSha256": "d210a582cb6272bf2748342ecf6c65c831cd9834c8352688482ef69b55bc0dae",
+        "outputSha256": "0674c6722e355f1093fb7dad016790cea0762ec913720e9152608e16248ec436",
+        "sourceFrameCount": 65,
+        "outputFrameCount": 65,
+        "frameRate": 10,
+        "durationSeconds": 6.5,
+        "frameTimingVerified": true,
+        "conversion": "ffmpeg libx264 CRF18; yuv420p; fps_mode passthrough; every source presentation timestamp preserved; no audio, no frame interpolation",
+        "rightsNotes": "Public broadcast excerpt published for baseball analysis. Publisher and original broadcaster credited; no separate open license identified."
+      },
+      "availableFrom": "2026-11-01",
+      "footageCredit": "FOX Sports footage · via FanGraphs",
+      "independentAudit": {
+        "id": "desmond20141007",
+        "status": "accept",
+        "approvedStart": 0,
+        "approvedEnd": 3.9,
+        "timingFix": null,
+        "reason": "First frame has hands/bat loaded behind shoulder and front leg before stride; complete forward check and retraction visible through3.9. Side angle displays full bat and plate. HP strike signal and batter reaction occur later, excluded. Actual converted MP4 frames visually inspected independently alongside all65 source GIF frames.",
+        "gamePk": 416361,
+        "playId": "04163616-0696-0043-000c-f08cd117d70a",
+        "rulingVerification": "Official feed game date2014-10-07, top9 Ian Desmond vs Santiago Casilla, pitch4 on1–2 knuckle curve82.5mph recorded Swinging Strike (Blocked) and strikeout. FanGraphs article publishedOct8 explicitly describes prior-night pitch and Hunter Wendelstedt ruling swing without appeal; official crew confirms WendelstedtHP, Winters1B.",
+        "umpire": "Hunter Wendelstedt · home plate",
+        "frameTimingVerification": {
+          "sourceFrameCount": 65,
+          "outputFrameCount": 65,
+          "sourceFrameDurationMs": 100,
+          "sourceDurationSeconds": 6.5,
+          "outputDurationSeconds": 6.5,
+          "identicalPresentationTimestamps": true,
+          "proof": "/workspace/check-swing/expansion500/legacy_middle/audit-desmond-frame-proof.json"
+        },
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/mlb_search/analytics-sources/Desmond-dense-first.jpg",
+          "/workspace/check-swing/expansion500/mlb_search/analytics-sources/Desmond-dense-last.jpg",
+          "/workspace/check-swing/expansion500/legacy_middle/audit-desmond-output-first4.jpg"
+        ],
+        "sourceArticle": "https://blogs.fangraphs.com/lets-take-check-swings-away-from-home-plate-umpires/",
+        "sourceGif": "https://blogs.fangraphs.com/wp-content/uploads/2014/10/desmond-nlds-check-swing.gif",
+        "officialFeedFile": "/workspace/check-swing/expansion500/mlb_search/analytics-sources/desmond-416361-feed.json",
+        "duplicateCheck": {
+          "catalogCount": 143,
+          "matches": []
+        },
+        "scope": "Visual/ruling/provenance timing audit only. Hosting/rights decision remains with root; candidate URL is planned output and not asserted already deployed."
+      }
+    },
+    {
+      "id": "santana20190507",
+      "batter": "Carlos Santana",
+      "date": "2019-05-07",
+      "matchup": "CWS at CLE",
+      "base": 3,
+      "strike": false,
+      "start": 6.9,
+      "end": 8.75,
+      "umpire": "Marty Foster · third base",
+      "context": "Foster ruled no swing on the second pitch of Santana’s eighth-inning plate appearance, making the count 1–1. This is ball one, before the eventual strikeout featured in the clip title.",
+      "evidence": "https://www.mlb.com/video/carlos-santana-called-out-on-strikes",
+      "source": "https://www.mlb.com/video/carlos-santana-called-out-on-strikes",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-05/07/d7d8d876-58303e54-13032b47-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "gamePk": 565331,
+      "playId": "890a4a43-7c2e-4e09-b1cd-37e5b849946d",
+      "localVideo": "/workspace/check-swing/expansion500/archive/caption-review/43.mp4",
+      "reviewQueuePosition": 43,
+      "reviewStatus": "primary-approved-pending-independent-audit",
+      "reviewProof": [
+        "/workspace/check-swing/expansion500/archive/caption-review/43-exact.jpg",
+        "/workspace/check-swing/expansion500/archive/caption-review/santana-count.jpg",
+        "/workspace/check-swing/expansion500/archive/caption-review/feed-565331.json",
+        "/workspace/check-swing/expansion500/archive/caption-mining/53d18fb894ebb6d8.vtt"
+      ],
+      "rulingProof": {
+        "captionUrl": "https://mlb-cuts-diamond.mlb.com/GENIE/e861d020-7208-11e9-83e1-f3dd30a43ed9/20190507-CHW-CLE-RENTERIA-EJECTION-STRIKEOUT.vtt",
+        "captionQuote": "Check swing he didn’t go ... says Marty Foster at third.",
+        "officialFeed": "/workspace/check-swing/expansion500/archive/caption-review/feed-565331.json",
+        "atBatIndex": 63,
+        "inning": 8,
+        "pitchNumber": 2,
+        "pitchEvent": {
+          "details": {
+            "call": {
+              "code": "B",
+              "description": "Ball"
+            },
+            "description": "Ball",
+            "code": "B",
+            "ballColor": "rgba(39, 161, 39, 1.0)",
+            "trailColor": "rgba(152, 0, 101, 1.0)",
+            "isInPlay": false,
+            "isStrike": false,
+            "isBall": true,
+            "type": {
+              "code": "FC",
+              "description": "Cutter"
+            },
+            "isOut": false,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 1,
+            "strikes": 1,
+            "outs": 2
+          },
+          "pitchData": {
+            "startSpeed": 87.0,
+            "endSpeed": 79.8,
+            "strikeZoneTop": 3.426359762326264,
+            "strikeZoneBottom": 1.6037366264116493,
+            "coordinates": {
+              "aY": 26.9834618245506,
+              "aZ": -26.3958663380052,
+              "pfxX": 3.637118927327148,
+              "pfxZ": 3.5928210840818995,
+              "pX": 0.32208675053946,
+              "pZ": 1.02995333016025,
+              "vX0": 2.67003907883622,
+              "vY0": -126.351374374054,
+              "vZ0": -7.33729723165212,
+              "x": 104.72,
+              "y": 210.97,
+              "x0": -1.22262747671321,
+              "y0": 50.0,
+              "z0": 6.10778677119153,
+              "aX": 5.84942456647546
+            },
+            "breaks": {
+              "breakAngle": 13.2,
+              "breakLength": 7.2,
+              "breakY": 24.0,
+              "breakVertical": -32.0,
+              "breakVerticalInduced": 5.2,
+              "breakHorizontal": -7.3,
+              "spinRate": 2086,
+              "spinDirection": 124
+            },
+            "zone": 14,
+            "typeConfidence": 2.0,
+            "plateTime": 0.43882517617975,
+            "extension": 5.79614831380492
+          },
+          "index": 3,
+          "playId": "890a4a43-7c2e-4e09-b1cd-37e5b849946d",
+          "pitchNumber": 2,
+          "startTime": "2019-05-08T00:47:07.863Z",
+          "endTime": "2019-05-08T00:47:13.169Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "crew": [
+          {
+            "official": {
+              "id": 427339,
+              "fullName": "Jerry Meals",
+              "link": "/api/v1/people/427339"
+            },
+            "officialType": "Home Plate"
+          },
+          {
+            "official": {
+              "id": 573597,
+              "fullName": "Gabe Morales",
+              "link": "/api/v1/people/573597"
+            },
+            "officialType": "First Base"
+          },
+          {
+            "official": {
+              "id": 427292,
+              "fullName": "Ron Kulpa",
+              "link": "/api/v1/people/427292"
+            },
+            "officialType": "Second Base"
+          },
+          {
+            "official": {
+              "id": 427168,
+              "fullName": "Marty Foster",
+              "link": "/api/v1/people/427168"
+            },
+            "officialType": "Third Base"
+          }
+        ],
+        "notes": "Full side replay inspected at10fps; selected window contains loaded stance, forward check and stopped/retracted bat before result. Original count plus pitcher/batter identifies exact pitch, not asset title."
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "santana20190507",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/archive/caption-review/candidates.json",
+        "approvedStart": 6.9,
+        "approvedEnd": 8.75,
+        "gamePk": 565331,
+        "playId": "890a4a43-7c2e-4e09-b1cd-37e5b849946d",
+        "batter": "Carlos Santana",
+        "date": "2019-05-07",
+        "inning": 8,
+        "pitchNumber": 2,
+        "feedDescription": "Ball",
+        "strike": false,
+        "umpire": "Marty Foster · third base",
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "complete_check_not_reset_only",
+          "no_visual_ruling_reveal",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "notes": "Complete third-base-side loaded stance, forward check, stop and retraction. No visible deciding signal inside selected window. Live 0–1 count, two outs, eighth inning, Colomé and Santana match pitch two in the feed: ball one. The clip title describes the eventual strikeout, not this earlier no-swing pitch. Broadcast caption explicitly identifies Marty Foster at third; official crew confirms his position.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/archive/caption-review/43-exact.jpg",
+          "/workspace/check-swing/expansion500/archive/caption-review/santana-count.jpg"
+        ],
+        "rulingEvidence": "https://mlb-cuts-diamond.mlb.com/GENIE/e861d020-7208-11e9-83e1-f3dd30a43ed9/20190507-CHW-CLE-RENTERIA-EJECTION-STRIKEOUT.vtt",
+        "rulingQuote": "Check swing he didn’t go ... says Marty Foster at third.",
+        "officialGameFile": "/workspace/check-swing/expansion500/archive/caption-review/feed-565331.json",
+        "duplicateMatches": []
+      }
+    },
+    {
+      "id": "springer20260820",
+      "batter": "George Springer",
+      "date": "2026-08-20",
+      "matchup": "TOR at TB",
+      "base": 1,
+      "strike": true,
+      "start": 515.85,
+      "end": 519.15,
+      "umpire": "John Libka · first base",
+      "context": "Libka ruled that Springer swung at Casey Legumina’s first pitch in the seventh inning for strike one. Springer later singled in this plate appearance.",
+      "evidence": "https://www.mlb.com/video/condensed-game-tor-tb-8-20-26",
+      "source": "https://www.mlb.com/video/condensed-game-tor-tb-8-20-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/20/1fb8cee1-f8e1fd11-448462e4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 822934,
+      "playId": "bb8dafc9-0248-3473-a43a-ac9fd7d62766",
+      "localVideo": "/workspace/check-swing/expansion500/archive/caption-review/46.mp4",
+      "reviewQueuePosition": 46,
+      "reviewStatus": "primary-approved-pending-independent-audit",
+      "reviewProof": [
+        "/workspace/check-swing/expansion500/archive/caption-review/46-exact.jpg",
+        "/workspace/check-swing/expansion500/archive/caption-review/springer-count.jpg",
+        "/workspace/check-swing/expansion500/archive/caption-review/feed-822934.json",
+        "/workspace/check-swing/expansion500/archive/caption-mining/68f61541486e62ff.vtt"
+      ],
+      "rulingProof": {
+        "captionUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/WEBVTT/2026/2026-08/20/20260820TOR-TBR-CG_CC.c3po.vtt",
+        "captionQuote": "Springer on the appeal went around says John Lipka [caption spelling; official crew: Libka].",
+        "officialFeed": "/workspace/check-swing/expansion500/archive/caption-review/feed-822934.json",
+        "atBatIndex": 51,
+        "inning": 7,
+        "pitchNumber": 1,
+        "pitchEvent": {
+          "details": {
+            "call": {
+              "code": "S",
+              "description": "Swinging Strike"
+            },
+            "description": "Swinging Strike",
+            "code": "S",
+            "ballColor": "rgba(170, 21, 11, 1.0)",
+            "trailColor": "rgba(50, 0, 221, 1.0)",
+            "isInPlay": false,
+            "isStrike": true,
+            "isBall": false,
+            "type": {
+              "code": "SI",
+              "description": "Sinker"
+            },
+            "isOut": false,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 0,
+            "strikes": 1,
+            "outs": 1
+          },
+          "pitchData": {
+            "startSpeed": 92.9,
+            "endSpeed": 84.7,
+            "strikeZoneTop": 3.267,
+            "strikeZoneBottom": 1.649,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 8.5,
+            "coordinates": {
+              "aY": 30.34620151996626,
+              "aZ": -24.26558804417807,
+              "pfxX": -11.265769186724487,
+              "pfxZ": 4.289746026257488,
+              "pX": -1.2922086501806225,
+              "pZ": 2.404619241965551,
+              "vX0": 5.715852802789829,
+              "vY0": -135.17553523347541,
+              "vZ0": -0.9676348633611616,
+              "x": 166.26,
+              "y": 173.86,
+              "x0": -1.974032171695109,
+              "y0": 50.00459455042416,
+              "z0": 4.475801997093009,
+              "aX": -20.784058466732798
+            },
+            "breaks": {
+              "breakAngle": 38.4,
+              "breakLength": 7.2,
+              "breakY": 24.0,
+              "breakVertical": -24.0,
+              "breakVerticalInduced": 7.8,
+              "breakHorizontal": 19.1,
+              "spinRate": 2285,
+              "spinDirection": 235
+            },
+            "zone": 13,
+            "typeConfidence": 0.92,
+            "plateTime": 0.40569379015090234,
+            "extension": 6.811656110000566
+          },
+          "index": 1,
+          "playId": "bb8dafc9-0248-3473-a43a-ac9fd7d62766",
+          "pitchNumber": 1,
+          "startTime": "2026-08-20T19:00:23.607Z",
+          "endTime": "2026-08-20T19:00:30.310Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "crew": [
+          {
+            "official": {
+              "id": 503493,
+              "fullName": "Sean Barber",
+              "link": "/api/v1/people/503493"
+            },
+            "officialType": "Home Plate"
+          },
+          {
+            "official": {
+              "id": 596805,
+              "fullName": "John Libka",
+              "link": "/api/v1/people/596805"
+            },
+            "officialType": "First Base"
+          },
+          {
+            "official": {
+              "id": 428442,
+              "fullName": "James Hoye",
+              "link": "/api/v1/people/428442"
+            },
+            "officialType": "Second Base"
+          },
+          {
+            "official": {
+              "id": 676581,
+              "fullName": "James Jean",
+              "link": "/api/v1/people/676581"
+            },
+            "officialType": "Third Base"
+          }
+        ],
+        "notes": "Full side replay inspected at10fps; selected window contains loaded stance, forward check and stopped/retracted bat before result. Original count plus pitcher/batter identifies exact pitch, not asset title."
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "springer20260820",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/archive/caption-review/candidates.json",
+        "approvedStart": 515.85,
+        "approvedEnd": 519.15,
+        "gamePk": 822934,
+        "playId": "bb8dafc9-0248-3473-a43a-ac9fd7d62766",
+        "batter": "George Springer",
+        "date": "2026-08-20",
+        "inning": 7,
+        "pitchNumber": 1,
+        "feedDescription": "Swinging Strike",
+        "strike": true,
+        "umpire": "John Libka · first base",
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "complete_check_not_reset_only",
+          "no_visual_ruling_reveal",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "notes": "Complete first-base-side load, forward check, stop and retraction. This is actual pitch motion, not a reset-only shot. Live top-seven bases-loaded setting and Legumina match the first pitch, recorded swinging strike one. Broadcast explicitly says Springer went around on appeal and identifies John Libka; caption Lipka is a transcription typo corrected against the official crew. No visible result signal in the window.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/archive/caption-review/46-exact.jpg",
+          "/workspace/check-swing/expansion500/archive/caption-review/springer-count.jpg"
+        ],
+        "rulingEvidence": "https://mlb-cuts-diamond.mlb.com/FORGE/WEBVTT/2026/2026-08/20/20260820TOR-TBR-CG_CC.c3po.vtt",
+        "rulingQuote": "Springer on the appeal went around says John Lipka [caption spelling; official crew: Libka].",
+        "officialGameFile": "/workspace/check-swing/expansion500/archive/caption-review/feed-822934.json",
+        "duplicateMatches": []
+      }
+    },
+    {
+      "id": "diaz20260820",
+      "batter": "Yandy Díaz",
+      "date": "2026-08-20",
+      "matchup": "TOR at TB",
+      "base": 1,
+      "strike": true,
+      "start": 638.2,
+      "end": 640.5,
+      "umpire": "Sean Barber · home plate",
+      "context": "Barber ruled that Díaz swung at Louie Varland’s 1–2 pitch in the ninth inning for strike three.",
+      "evidence": "https://www.mlb.com/video/condensed-game-tor-tb-8-20-26",
+      "source": "https://www.mlb.com/video/condensed-game-tor-tb-8-20-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/20/1fb8cee1-f8e1fd11-448462e4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "gamePk": 822934,
+      "playId": "2bc4bf1e-d066-31ac-8252-99ef7c6ce8fa",
+      "localVideo": "/workspace/check-swing/expansion500/archive/caption-review/46.mp4",
+      "reviewQueuePosition": 46,
+      "reviewStatus": "primary-approved-pending-independent-audit",
+      "reviewProof": [
+        "/workspace/check-swing/expansion500/archive/caption-review/46-diaz-exact.jpg",
+        "/workspace/check-swing/expansion500/archive/caption-review/diaz-635.8.jpg",
+        "/workspace/check-swing/expansion500/archive/caption-review/feed-822934.json",
+        "/workspace/check-swing/expansion500/archive/caption-mining/68f61541486e62ff.vtt"
+      ],
+      "rulingProof": {
+        "captionUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/WEBVTT/2026/2026-08/20/20260820TOR-TBR-CG_CC.c3po.vtt",
+        "captionQuote": "He went around. Home plate umpire Sean Barber rings him up, 2 down.",
+        "officialFeed": "/workspace/check-swing/expansion500/archive/caption-review/feed-822934.json",
+        "atBatIndex": 71,
+        "inning": 9,
+        "pitchNumber": 7,
+        "pitchEvent": {
+          "details": {
+            "call": {
+              "code": "S",
+              "description": "Swinging Strike"
+            },
+            "description": "Swinging Strike",
+            "code": "S",
+            "ballColor": "rgba(170, 21, 11, 1.0)",
+            "trailColor": "rgba(0, 0, 254, 1.0)",
+            "isInPlay": false,
+            "isStrike": true,
+            "isBall": false,
+            "type": {
+              "code": "SL",
+              "description": "Slider"
+            },
+            "isOut": true,
+            "hasReview": false
+          },
+          "count": {
+            "balls": 1,
+            "strikes": 3,
+            "outs": 1
+          },
+          "pitchData": {
+            "startSpeed": 92.8,
+            "endSpeed": 85.1,
+            "strikeZoneTop": 3.228,
+            "strikeZoneBottom": 1.629,
+            "strikeZoneWidth": 17.0,
+            "strikeZoneDepth": 8.5,
+            "coordinates": {
+              "aY": 30.021430003362614,
+              "aZ": -27.22237962043566,
+              "pfxX": 1.1285804197938072,
+              "pfxZ": 2.705058958566055,
+              "pX": 1.3624560932508891,
+              "pZ": 1.318967942571243,
+              "vX0": 10.181264863741356,
+              "vY0": -134.6943944842711,
+              "vZ0": -5.491660632995155,
+              "x": 65.07,
+              "y": 203.17,
+              "x0": -2.6176224623677773,
+              "y0": 50.00475812224183,
+              "z0": 5.316029371536922,
+              "aX": 2.0681686053781796
+            },
+            "breaks": {
+              "breakAngle": 8.4,
+              "breakLength": 6.0,
+              "breakY": 24.0,
+              "breakVertical": -28.2,
+              "breakVerticalInduced": 3.8,
+              "breakHorizontal": -4.3,
+              "spinRate": 2520,
+              "spinDirection": 166
+            },
+            "zone": 14,
+            "typeConfidence": 0.9,
+            "plateTime": 0.40707518861860015,
+            "extension": 6.808994147361074
+          },
+          "index": 6,
+          "playId": "2bc4bf1e-d066-31ac-8252-99ef7c6ce8fa",
+          "pitchNumber": 7,
+          "startTime": "2026-08-20T19:46:10.402Z",
+          "endTime": "2026-08-20T19:46:16.211Z",
+          "isPitch": true,
+          "type": "pitch"
+        },
+        "crew": [
+          {
+            "official": {
+              "id": 503493,
+              "fullName": "Sean Barber",
+              "link": "/api/v1/people/503493"
+            },
+            "officialType": "Home Plate"
+          },
+          {
+            "official": {
+              "id": 596805,
+              "fullName": "John Libka",
+              "link": "/api/v1/people/596805"
+            },
+            "officialType": "First Base"
+          },
+          {
+            "official": {
+              "id": 428442,
+              "fullName": "James Hoye",
+              "link": "/api/v1/people/428442"
+            },
+            "officialType": "Second Base"
+          },
+          {
+            "official": {
+              "id": 676581,
+              "fullName": "James Jean",
+              "link": "/api/v1/people/676581"
+            },
+            "officialType": "Third Base"
+          }
+        ],
+        "notes": "Full side replay inspected at10fps; selected window contains loaded stance, forward check and stopped/retracted bat before result. Original count plus pitcher/batter identifies exact pitch, not asset title."
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "diaz20260820",
+        "status": "accepted",
+        "reviewer": "expand_mlb_search",
+        "sourceCandidateFile": "/workspace/check-swing/expansion500/archive/caption-review/candidates.json",
+        "approvedStart": 638.2,
+        "approvedEnd": 640.5,
+        "gamePk": 822934,
+        "playId": "2bc4bf1e-d066-31ac-8252-99ef7c6ce8fa",
+        "batter": "Yandy Díaz",
+        "date": "2026-08-20",
+        "inning": 9,
+        "pitchNumber": 7,
+        "feedDescription": "Swinging Strike",
+        "strike": true,
+        "umpire": "Sean Barber · home plate",
+        "verifiedFields": [
+          "full_side_angle_motion",
+          "complete_check_not_reset_only",
+          "no_visual_ruling_reveal",
+          "on_field_ruling",
+          "deciding_umpire_and_position",
+          "official_game_date",
+          "exact_playId",
+          "batter",
+          "pitch_number",
+          "not_duplicate_of_current_catalog"
+        ],
+        "notes": "Complete first-base-side loaded stance, forward check and stop with retraction beginning before the cut. The ninth-inning 1–2 live count and Varland match pitch seven, recorded swinging strike three. Broadcast explicitly identifies Sean Barber at home plate as the deciding umpire; no invented first-base appeal. No visible result gesture in the window. Audio announces the outcome during the replay, so preserve the game’s muted playback.",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/archive/caption-review/46-diaz-exact.jpg",
+          "/workspace/check-swing/expansion500/archive/caption-review/diaz-635.8.jpg"
+        ],
+        "rulingEvidence": "https://mlb-cuts-diamond.mlb.com/FORGE/WEBVTT/2026/2026-08/20/20260820TOR-TBR-CG_CC.c3po.vtt",
+        "rulingQuote": "He went around. Home plate umpire Sean Barber rings him up, 2 down.",
+        "officialGameFile": "/workspace/check-swing/expansion500/archive/caption-review/feed-822934.json",
+        "duplicateMatches": []
+      }
+    }
+  ],
+  "dailyActivation": "2026-11-01"
+}

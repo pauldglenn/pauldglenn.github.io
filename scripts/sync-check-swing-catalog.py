@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Validate the reviewed catalog and embed identical selections in game and score API."""
-import argparse,json,re
+import argparse,json,re,hashlib
 from pathlib import Path
 from urllib.parse import urlparse
 ROOT=Path(__file__).resolve().parents[1]
-PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom']
+PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom','footageCredit']
 API_FIELDS=['id','batter','date','base','strike','evidence','availableFrom','mediaProvider']
 def validate(rows):
     seen=set()
@@ -19,7 +19,13 @@ def validate(rows):
         for field in ['evidence','source','video']:
             u=urlparse(row[field]);assert u.scheme=='https' and u.hostname,'Invalid source URL'
         host=urlparse(row['video']).hostname
-        if not (host=='mlb.com' or host.endswith('.mlb.com')):
+        if host=='pdglenn.com':
+            u=urlparse(row['video']);assert u.path=='/check-swing/assets/'+identity+'.mp4' and not u.query and not u.fragment,'Invalid excerpt asset URL'
+            origin=urlparse(row.get('transcodedFrom',''));assert origin.scheme=='https' and origin.hostname=='blogs.fangraphs.com','Unapproved excerpt source'
+            asset=ROOT/'content/check-swing/assets'/(identity+'.mp4');provenance=row.get('provenance',{})
+            assert asset.is_file() and hashlib.sha256(asset.read_bytes()).hexdigest()==provenance.get('outputSha256'),'Excerpt asset missing or changed'
+            assert row.get('footageCredit') and provenance.get('frameTimingVerified') is True,'Excerpt attribution/timing evidence required'
+        elif not (host=='mlb.com' or host.endswith('.mlb.com')):
             m=row.get('mediaProvider',{});u=urlparse(row['video'])
             assert u.netloc=='did-he-go-scores.paul-glenn280578.chatgpt.site' and u.path=='/media/'+identity and not u.query,'Invalid managed media URL: '+identity
             assert m.get('provider')=='brightcove' and m.get('accountId')=='1704050871' and m.get('playerId')=='JCdte3tMv','Unapproved broadcaster: '+identity
