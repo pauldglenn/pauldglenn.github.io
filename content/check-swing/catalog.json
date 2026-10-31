@@ -8745,5 +8745,27 @@
       "pitchNumber": 4,
       "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3"
     }
+  },
+  {
+    "id": "guerrero20260908",
+    "batter": "Vladimir Guerrero Jr.",
+    "date": "2026-09-08",
+    "matchup": "TOR at ATH",
+    "base": 1,
+    "strike": true,
+    "start": 47.719967,
+    "end": 50.119967,
+    "umpire": "Jonathan Parra",
+    "context": "Top of the first, scoreless with one out: Guerrero checks Jack Perkins’s 1–2, 87.7 mph sweeper. The official ruling is swinging strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824957/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-tor-ath-9-8-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/08/37e64f07-51f40755-75f6602a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 824957,
+      "atBatIndex": 2,
+      "pitchNumber": 4,
+      "playId": "f405782a-46e3-3757-9c1f-ab82dc0d04b1"
+    }
   }
 ]

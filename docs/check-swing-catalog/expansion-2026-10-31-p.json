@@ -1,0 +1,376 @@
+{
+  "added": 1,
+  "total": 454,
+  "dailyActivation": "2026-11-01",
+  "discovery": "Public MLB condensed-game replay identified in English captions. Two independent Luna reviews verify the exact pitch, entire checked motion, camera side, clean bounds, and actual first-base strike gesture matched to the crew.",
+  "clips": [
+    {
+      "id": "guerrero20260908",
+      "batter": "Vladimir Guerrero Jr.",
+      "date": "2026-09-08",
+      "matchup": "TOR at ATH",
+      "base": 1,
+      "strike": true,
+      "start": 47.719967,
+      "end": 50.119967,
+      "umpire": "Jonathan Parra",
+      "context": "Top of the first, scoreless with one out: Guerrero checks Jack Perkins’s 1–2, 87.7 mph sweeper. The official ruling is swinging strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824957/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-tor-ath-9-8-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/08/37e64f07-51f40755-75f6602a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 824957,
+        "atBatIndex": 2,
+        "pitchNumber": 4,
+        "playId": "f405782a-46e3-3757-9c1f-ab82dc0d04b1"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "guerrero20260908",
+          "batter": "Vladimir Guerrero Jr.",
+          "date": "2026-09-08",
+          "matchup": "TOR at ATH",
+          "base": 1,
+          "strike": true,
+          "start": 47.719967,
+          "end": 50.119967,
+          "umpire": "Unknown",
+          "context": "Top of the first, scoreless with one out: Guerrero checks Jack Perkins’s 1–2, 87.7 mph sweeper. The official ruling is swinging strike three.",
+          "availableFrom": "2026-11-01",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/824957/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-tor-ath-9-8-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/08/37e64f07-51f40755-75f6602a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        },
+        "proof": {
+          "gamePk": 824957,
+          "atBatIndex": 2,
+          "pitchNumber": 4,
+          "playId": "f405782a-46e3-3757-9c1f-ab82dc0d04b1",
+          "freshPitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(50, 50, 50, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "ST",
+                "description": "Sweeper"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 1,
+              "strikes": 3,
+              "outs": 1
+            },
+            "pitchData": {
+              "startSpeed": 87.7,
+              "endSpeed": 81.0,
+              "strikeZoneTop": 3.209,
+              "strikeZoneBottom": 1.619,
+              "strikeZoneWidth": 17.0,
+              "strikeZoneDepth": 8.5,
+              "coordinates": {
+                "aY": 25.246809771262864,
+                "aZ": -23.919223935230903,
+                "pfxX": 5.148847547476437,
+                "pfxZ": 4.974842719540642,
+                "pX": 1.1527453017298754,
+                "pZ": 1.2472203846838001,
+                "vX0": 4.321769388777215,
+                "vY0": -127.7053968362007,
+                "vZ0": -5.124008007723408,
+                "x": 73.06,
+                "y": 205.11,
+                "x0": -1.2277657365879036,
+                "y0": 50.00190952215625,
+                "z0": 5.150933767437379,
+                "aX": 8.538873446013877
+              },
+              "breaks": {
+                "breakAngle": 20.4,
+                "breakLength": 6.0,
+                "breakY": 24.0,
+                "breakVertical": -27.2,
+                "breakVerticalInduced": 8.2,
+                "breakHorizontal": -10.3,
+                "spinRate": 2923,
+                "spinDirection": 50
+              },
+              "zone": 14,
+              "typeConfidence": 2.0,
+              "plateTime": 0.42820130770165443,
+              "extension": 6.2802378194847215
+            },
+            "index": 3,
+            "playId": "f405782a-46e3-3757-9c1f-ab82dc0d04b1",
+            "pitchNumber": 4,
+            "startTime": "2026-09-09T01:45:27.713Z",
+            "endTime": "2026-09-09T01:45:34.476Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshMatchup": {
+            "batter": {
+              "id": 665489,
+              "fullName": "Vladimir Guerrero Jr.",
+              "link": "/api/v1/people/665489"
+            },
+            "batSide": {
+              "code": "R",
+              "description": "Right"
+            },
+            "pitcher": {
+              "id": 678022,
+              "fullName": "Jack Perkins",
+              "link": "/api/v1/people/678022"
+            },
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "postOnFirst": {
+              "id": 664770,
+              "fullName": "Nathan Lukes",
+              "link": "/api/v1/people/664770"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_RHP",
+              "pitcher": "vs_RHB",
+              "menOnBase": "Men_On"
+            }
+          },
+          "freshAbout": {
+            "atBatIndex": 2,
+            "halfInning": "top",
+            "isTopInning": true,
+            "inning": 1,
+            "startTime": "2026-09-09T01:43:51.212Z",
+            "endTime": "2026-09-09T01:45:34.476Z",
+            "isComplete": true,
+            "isScoringPlay": false,
+            "hasReview": false,
+            "hasOut": true,
+            "captivatingIndex": 14
+          },
+          "freshCrew": [
+            {
+              "official": {
+                "id": 427344,
+                "fullName": "Bill Miller",
+                "link": "/api/v1/people/427344"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 485856,
+                "fullName": "Jonathan Parra",
+                "link": "/api/v1/people/485856"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 665281,
+                "fullName": "Brian Walsh",
+                "link": "/api/v1/people/665281"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 431232,
+                "fullName": "Chad Fairchild",
+                "link": "/api/v1/people/431232"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "feedPath": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/824957-fresh-feed.json",
+          "freshFeedSHA256": "a669fbd0b2b4f4771e8306dde9f715c5f9f26d633f5207422898ac9e918a6953",
+          "identityBasis": "Live top1 1–2/one out score0–0 Guerrero vs Perkins; immediate first-base strike call and following side replay. ExactAB2p4S87.7ST. SideplayerTorontojersey27matchesVlad, live follows preceding fielderschoice atfirst.",
+          "motionBasis": "Clean whole loaded barrel atnative1.30 beforeforward1.6–1.8. Checkedforwardpath arrestsnear2.5–2.8 andbarrelreturnstowarduprightthrough3.7. Nativecontinuesfullsourcetailuntil5.8cuttonextpitchwithoutfullshoulderwrap; independentcatcher/crowdmotionconfirmsphysicalrecoil.",
+          "cameraBasis": "ActualRHBchest-facingcamera1.",
+          "callerBasis": "Unknownpendingindependentcallercheck. Originalsource43.65–46.65 shows1Bump80fist/pointaround45.8, freshcrewParra1B. Do notnamefromcrewalone; reviewer mustresolvegesture.",
+          "sourceOffset": 46.419967,
+          "sourceEnd": 53.419967,
+          "nativeLocalVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-0-native.mp4",
+          "nativeSHA256": "fce16e9bc4e7992501532439a4a2bae311d26f6c09227759b85041d794c66327",
+          "actualMp4TimingVerified": true,
+          "timingBasis": "AccurateMP4seek; absolute46.419967+nativePTS, no crop; selected1.30–3.70afterdissolveandbeforeappeal/result/departure.",
+          "callerVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-caller-native.mp4",
+          "callerSourceOffset": 43.65,
+          "duplicateCheck": {
+            "catalogCount": 453,
+            "canonicalMatches": [],
+            "publishedExactIndexCount": 387,
+            "publishedMatches": []
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-0-native-grid.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-0-full-1.3.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-0-full-3.9.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-caller-grid.jpg"
+          ]
+        },
+        "rowOffset": 263,
+        "windowKey": "263-0",
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/263-0-native.mp4",
+        "localVideoSourceOffset": 46.419967,
+        "status": "proposed-awaiting-independent-audit"
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-remaining-block260-root/audit-f-second/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/reviews2026-remaining-block260-root/audit-f-second/audit.json": {
+      "reviewer": "independent second reviewer (Luna)",
+      "scope": "2026 remaining-stream origin 263 Vladimir Guerrero Jr.; origin 267 Ty France",
+      "independentEvidence": {
+        "freshFeedFiles": [
+          {
+            "path": "audit-f-second/824957-fresh.json",
+            "sha256": "a669fbd0b2b4f4771e8306dde9f715c5f9f26d633f5207422898ac9e918a6953"
+          },
+          {
+            "path": "audit-f-second/823251-fresh.json",
+            "sha256": "5734f6b7f396c6c275e8cb39c476040c0a10060b57fa3a360a16ccb5011754d7"
+          }
+        ],
+        "nativeSources": [
+          {
+            "path": "263-0-native.mp4",
+            "sha256": "fce16e9bc4e7992501532439a4a2bae311d26f6c09227759b85041d794c66327",
+            "sourceOffset": 46.419967,
+            "seek": "accurate original-MP4 seek; no local crop"
+          },
+          {
+            "path": "267-0-native.mp4",
+            "sha256": "7aade496ab0777fd3615feb65f77f32d31b801abfe0eeadb61fa6285dea8324f",
+            "sourceOffset": 354.460967,
+            "seek": "accurate original-MP4 seek; no local crop"
+          },
+          {
+            "path": "267-1-wide-native.mp4",
+            "sha256": "bb08953c1c53375f69480156ced51f8f417a45f8e92453771b3f9c56c5ff99d9",
+            "sourceOffset": 443.555967,
+            "seek": "accurate original-MP4 seek; no local crop"
+          }
+        ],
+        "dedup": {
+          "publishedPitchIndexCount": 387,
+          "canonicalMatchFound": false,
+          "publishedExactIdentityMatchFound": false
+        }
+      },
+      "reviews": [
+        {
+          "origin": 263,
+          "candidateId": "guerrero20260908",
+          "decision": "approve",
+          "identity": {
+            "gamePk": 824957,
+            "date": "2026-09-08",
+            "matchup": "TOR at ATH",
+            "atBatIndex": 2,
+            "pitchNumber": 4,
+            "playId": "f405782a-46e3-3757-9c1f-ab82dc0d04b1",
+            "batter": "Vladimir Guerrero Jr.",
+            "pitcher": "Jack Perkins",
+            "countBefore": "1-2",
+            "outsBefore": 1,
+            "pitch": "87.7 mph sweeper",
+            "call": "Swinging Strike"
+          },
+          "identityBasis": "The fresh feed exact pitch is pitch 4 of Guerrero's first-inning AB. The condensed source shows the prior live pitch at 1-2, the first-base strike signal, then a same-batter side replay, and only afterward the next live pitch. The edited replay is the same pitch, not the next pitch.",
+          "motion": {
+            "camera": "camera 1, actual right-handed batter chest-facing camera",
+            "candidateAbsoluteWindow": [
+              47.719967,
+              50.119967
+            ],
+            "nativeLocalWindow": [
+              1.3,
+              3.7
+            ],
+            "observation": "At local 1.3 the side replay shows the complete raised barrel with Guerrero fully loaded before forward movement; the barrel remains visible. Hands/barrel move forward by about local 1.5-1.6, the path arrests around local 2.5-2.8, and he recoils toward upright through 3.7. No full shoulder wrap. This window contains both pre-onset and full check/recoil, ending before the appeal/result and subsequent live pitch."
+          },
+          "caller": {
+            "name": "Jonathan Parra",
+            "role": "first-base umpire",
+            "basis": "Own caller clip at source offset 43.65 shows a close, decisive closed-fist strike signal around local 2.3 (absolute 45.95); fresh feed crew identifies Parra as first-base umpire. Scorebug shows Guerrero, 1-2, one out."
+          },
+          "evidencePaths": [
+            "audit-f-second/263-independent-1.3.png",
+            "audit-f-second/263-independent-1.5.png",
+            "audit-f-second/263-native-local-2.5.png",
+            "audit-f-second/263-native-local-3.4.png",
+            "audit-f-second/263-native-local-3.7.png",
+            "audit-f-second/263-caller-native-local-2.3.png",
+            "263-0-grid.jpg"
+          ]
+        },
+        {
+          "origin": 267,
+          "candidateId": "france20260909",
+          "decision": "hold",
+          "identity": {
+            "gamePk": 823251,
+            "date": "2026-09-09",
+            "matchup": "WSH at SD",
+            "atBatIndex": 26,
+            "pitchNumber": 3,
+            "playId": "983e4130-46de-3ae6-8a10-0fb258407e58",
+            "batter": "Ty France",
+            "pitcher": "Jackson Kent",
+            "countBefore": "1-2",
+            "outsBefore": 2,
+            "pitch": "curveball",
+            "call": "Ball In Dirt"
+          },
+          "identityBasis": "The first-base appeal/replay follows the pitch-3 live sequence; feed pitch 4 is the distinct next live pitch and results in play. The side replay is consistent with pitch 3 and the shown 1-2 count. Fresh feed has Emil Jimenez at first base; caller identity is not needed for eligibility.",
+          "motion": {
+            "camera": "side replay, usable right-handed batter angle",
+            "observation": "The wider 267-1 replay repeats the same side shot. In the loaded/early frames the bat's rounded barrel cap is cropped above the top edge; by the first frames where the cap is visible, hands and barrel have already begun moving forward. The visible continuation appears to carry through the body, but the source does not permit a complete loaded-to-arrest/recoil judgment. Do not infer a check from the no-swing call."
+          },
+          "caller": {
+            "name": "Unknown",
+            "basis": "Appeal sequence visible; caller identity is not needed and I did not identify a decisive caller gesture."
+          },
+          "evidencePaths": [
+            "audit-f-second/267-native-own-grid.jpg",
+            "audit-f-second/267-native-local-0.6.png",
+            "audit-f-second/267-native-local-1.0.png",
+            "audit-f-second/267-native-local-2.4.png",
+            "france-wide-2.5.png",
+            "france-wide-2.65.png",
+            "france-wide-2.8.png",
+            "france-wide-3.0.png",
+            "france-wide-3.5.png",
+            "france-wide-4.25.png",
+            "audit-f-second/267-1-own-full-grid.jpg"
+          ]
+        }
+      ]
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "France20260909": "Exact preceding checked pitch/replay identified separately from next live single. Loaded bat tip remains cropped in both replay edits; held out, despite a recorded no-swing ruling.",
+    "VladReplaySequence": "Live pitch and strike signal precede side replay in source clock. The replay still depicts the same exact pitch; reviewers verified the complete source sequence instead of mistaking it for the next pitch.",
+    "Caller": "Jonathan Parra established from actual decisive first-base fist plus fresh crew; primary Unknown is superseded only in accepted copy."
+  }
+}
