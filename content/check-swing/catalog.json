@@ -8855,5 +8855,49 @@
       "pitchNumber": 4,
       "playId": "15e805bd-e1f8-41b7-9223-dae844520e8c"
     }
+  },
+  {
+    "id": "cabrera20210910",
+    "batter": "Miguel Cabrera",
+    "date": "2021-09-10",
+    "matchup": "TB at DET",
+    "base": 1,
+    "strike": true,
+    "start": 403.220967,
+    "end": 407.020967,
+    "umpire": "Unknown",
+    "context": "Bottom of the sixth, tied 1–1: Cabrera tries to hold up on J.P. Feyereisen’s 1–2, 85.6 mph slider. The first-base appeal is ruled a swing for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/632543/feed/live",
+    "source": "https://www.mlb.com/video/cg-tb-det-9-10-21",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/10/f86c3f9d-958a6aaf-bd463e02-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 632543,
+      "atBatIndex": 48,
+      "pitchNumber": 4,
+      "playId": "115d0ebb-0aab-4273-a2d6-c9465331b69d"
+    }
+  },
+  {
+    "id": "gonzalez20220909",
+    "batter": "Marwin Gonzalez",
+    "date": "2022-09-09",
+    "matchup": "TB at NYY",
+    "base": 3,
+    "strike": true,
+    "start": 304.0,
+    "end": 306.4,
+    "umpire": "Nick Mahrley",
+    "context": "Bottom of the fifth, the Yankees trailing 4–0 with one out: Gonzalez tries to hold up on Drew Rasmussen’s full-count, 95.5 mph fastball. Nick Mahrley rules the third-base appeal a swing for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/661234/feed/live",
+    "source": "https://www.mlb.com/video/cg-tb-nyy-9-9-22",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/09/c5359a54-d95901b7-37b6d652-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 661234,
+      "atBatIndex": 44,
+      "pitchNumber": 7,
+      "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75"
+    }
   }
 ]
