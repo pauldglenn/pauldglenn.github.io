@@ -28,9 +28,16 @@ def validate(rows):
         elif not (host=='mlb.com' or host.endswith('.mlb.com')):
             m=row.get('mediaProvider',{});u=urlparse(row['video'])
             assert u.netloc=='did-he-go-scores.paul-glenn280578.chatgpt.site' and u.path=='/media/'+identity and not u.query,'Invalid managed media URL: '+identity
-            assert m.get('provider')=='brightcove' and m.get('accountId')=='1704050871' and m.get('playerId')=='JCdte3tMv','Unapproved broadcaster: '+identity
-            assert re.fullmatch(r'\d+',m.get('videoId','')) and m.get('durationMs',0)>row['end']*1000,'Invalid source identity: '+identity
-            assert m.get('sourcePath','').startswith('/media/v1/pmp4/static/clear/1704050871/') and m['sourcePath'].endswith('.mp4'),'Invalid reviewed source path: '+identity
+            if m.get('provider')=='brightcove':
+                assert m.get('accountId')=='1704050871' and m.get('playerId')=='JCdte3tMv','Unapproved broadcaster: '+identity
+                assert re.fullmatch(r'\d+',m.get('videoId','')) and m.get('durationMs',0)>row['end']*1000,'Invalid source identity: '+identity
+                assert m.get('sourcePath','').startswith('/media/v1/pmp4/static/clear/1704050871/') and m['sourcePath'].endswith('.mp4'),'Invalid reviewed source path: '+identity
+            elif m.get('provider')=='streamable':
+                vid=m.get('videoId','');assert re.fullmatch(r'[a-z0-9]{3,12}',vid),'Invalid video identity'
+                assert m.get('sourceHost') in ['cdn-cf-east.streamable.com','cdn-cf-west.streamable.com'],'Unapproved video host'
+                assert re.fullmatch(r'/video/mp4/'+vid+r'(?:_\d+)?\.mp4',m.get('sourcePath','')),'Invalid reviewed path'
+                spec=m.get('selectedSource',{});assert spec.get('duration',0)>row['end'] and spec.get('size',0)>0 and spec.get('framerate',0)>0,'Missing reviewed video properties'
+            else:raise AssertionError('Unapproved media provider: '+identity)
             assert m.get('selectedSource',{}).get('container')=='MP4' and m['selectedSource'].get('width',0)>0,'Missing reviewed rendition: '+identity
         for field in ['batter','matchup','umpire','context']:assert isinstance(row[field],str) and row[field].strip(),'Missing '+field
     assert len(rows)>=6,'Do not remove the original catalog'
