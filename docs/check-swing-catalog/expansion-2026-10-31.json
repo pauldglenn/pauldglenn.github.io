@@ -1,0 +1,2571 @@
+{
+  "added": 30,
+  "total": 180,
+  "dailyActivation": "2026-11-01",
+  "clips": [
+    {
+      "id": "jean-segura-20190803",
+      "batter": "Jean Segura",
+      "date": "2019-08-03",
+      "matchup": "CWS at PHI",
+      "base": 1,
+      "strike": false,
+      "start": 46.9,
+      "end": 49.4,
+      "umpire": "Tim Timmons · home plate",
+      "context": "Bottom of the seventh: Segura checks on an 0–2 splitter from Dylan Covey. The crew awards hit by pitch, and that call is upheld on replay. The final HBP ruling means no swing; a separate base-umpire appeal is not established.",
+      "evidence": "https://www.mlb.com/video/segura-hit-by-a-pitch",
+      "source": "https://www.mlb.com/video/segura-hit-by-a-pitch",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-08/03/eee9ce95-875d7b3c-dcb4cf01-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "expand_legacy_2014",
+        "queueIndex": 24,
+        "captionHitIndex": 1,
+        "queue": "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/selection.json",
+        "gamePk": 567117,
+        "playId": "0e199d0d-a5a7-4630-bc95-d38c90c893cf",
+        "notes": "Full check motion from first-base side in replay at46.90–49.40. Bat/hands begin back, advance, and stop without followthrough. Actual HBP upheld is supported by official pitch feed and source clip; attribution names plate umpire for HBP ruling, not an invented appeal official.",
+        "localVideo": "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/1.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/1-grid.jpg",
+          "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/segura-dense.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.mlb.com/video/segura-hit-by-a-pitch",
+          "https://statsapi.mlb.com/api/v1.1/game/567117/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/game-567117.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/segura-20190803-pitch-proof.json"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "jean-segura-20190803",
+        "status": "accept",
+        "changes": {},
+        "reason": "Usable first-base-side slow-motion replay shows Segura load, advance his hands and barrel toward the pitch, then arrest the swing without a followthrough as the ball strikes him. This is a real aborted swing, rather than a stationary take or pure duck. The final official ruling is HBP upheld; this supports no swing but does not establish a separate base-umpire appeal. Existing wording and Tim Timmons home-plate attribution correctly preserve that distinction.",
+        "evidence": {
+          "visualReviewed": [
+            "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/segura-dense.jpg",
+            "/workspace/check-swing/expansion500/audit-next-v2/segura-window.jpg"
+          ],
+          "video": "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/1.mp4",
+          "window": {
+            "start": 46.9,
+            "end": 49.4,
+            "baseSide": "first base",
+            "fullMotion": true,
+            "resultReveal": false,
+            "notes": "Starts with bat/hands back during the load. Motion then advances into a checked position and stops. No umpire decision, final HBP announcement, or subsequent plate appearance is visible within this replay window."
+          },
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/567117/feed/live",
+          "officialLocalFeed": "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/game-567117.json",
+          "source": "https://www.mlb.com/video/segura-hit-by-a-pitch",
+          "officialDate": "2019-08-03",
+          "matchup": "CWS at PHI",
+          "inning": "bottom 7",
+          "gamePk": 567117,
+          "atBatIndex": 54,
+          "pitchNumber": 3,
+          "playId": "0e199d0d-a5a7-4630-bc95-d38c90c893cf",
+          "countBefore": "0-2",
+          "pitcher": "Dylan Covey",
+          "pitchType": "Splitter",
+          "pitchSpeedMph": 86.3,
+          "finalRuling": "Hit By Pitch; White Sox challenge upheld",
+          "caller": "Tim Timmons, Home Plate (HBP ruling; no separate appeal established)",
+          "duplicateCheck": {
+            "catalog": "/workspace/base-site/content/check-swing/catalog.json",
+            "catalogCount": 150,
+            "catalogSha256": "e595617823a4b58bd5eeeeda74972496e4cb4b7252114a72472bc462b80b7840",
+            "sameBatterDate": [],
+            "sameVideoAsset": [],
+            "samePlayId": []
+          }
+        }
+      }
+    },
+    {
+      "id": "jurickson-profar-20210923",
+      "batter": "Jurickson Profar",
+      "date": "2021-09-23",
+      "matchup": "SF at SD",
+      "base": 3,
+      "strike": false,
+      "start": 25.45,
+      "end": 32.25,
+      "umpire": "Chris Guccione · home plate",
+      "context": "Bottom of the first: Profar checks on an 0–2 sweeper from Logan Webb. San Francisco challenges the hit-by-pitch ruling, which is upheld and forces in a run. The final HBP ruling means no swing; a separate base-umpire appeal is not established.",
+      "evidence": "https://www.mlb.com/video/jurickson-profar-hbp-after-review",
+      "source": "https://www.mlb.com/video/jurickson-profar-hbp-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/23/76ae8e80-e566d2b1-ed6d340e-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2019_2021_v2",
+        "status": "needs-independent-review",
+        "gamePk": 632370,
+        "playId": "2ff90062-de03-43d8-a5ab-ad850b14708f",
+        "notes": "Full side replay contains initial stance, hand advance and arrested barrel without full followthrough. Needs independent motion review before publication. Dense timestamps are relative to extraction:478 +25s,486 +39s,494 +15.7s,509 +38s,572 +49.5s. Official final pitch and caller proof saved; HBP caller is plate umpire unless a visible base appeal is separately established.",
+        "localVideo": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478-dense.jpg",
+          "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.mlb.com/video/jurickson-profar-hbp-after-review",
+          "https://statsapi.mlb.com/api/v1.1/game/632370/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/game-632370.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478-pitch-proof.json"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "jurickson-profar-20210923",
+        "status": "accept",
+        "changes": {
+          "end": 32.25
+        },
+        "overrides": {
+          "end": 32.25
+        },
+        "reason": "Profar loads and strides, then starts his hands forward/down and brings the barrel into an abbreviated swing path before holding it short. The third-base-side replay retains the stance, movement and stop. This is an observable checked swing, with HBP upheld as the final no-swing result.",
+        "evidence": {
+          "localVideo": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478.mp4",
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/audit-next-v2/jurickson-profar-20210923-audit.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478-dense.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/478-grid.jpg"
+          ],
+          "source": "https://www.mlb.com/video/jurickson-profar-hbp-after-review",
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/632370/feed/live",
+          "officialGameFile": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/game-632370.json",
+          "officialDate": "2021-09-23",
+          "matchup": "SF at SD",
+          "gamePk": 632370,
+          "atBatIndex": 7,
+          "inning": "bottom 1",
+          "batter": "Jurickson Profar",
+          "pitcher": "Logan Webb",
+          "pitchNumber": 3,
+          "playId": "2ff90062-de03-43d8-a5ab-ad850b14708f",
+          "countBefore": "0-2",
+          "pitchType": {
+            "code": "ST",
+            "description": "Sweeper"
+          },
+          "speedMph": 84.6,
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "atBatResult": {
+            "type": "atBat",
+            "event": "Hit By Pitch",
+            "eventType": "hit_by_pitch",
+            "description": "Giants challenged (hit by pitch), call on the field was upheld: Jurickson Profar hit by pitch. Adam Frazier scores. Fernando Tatis to 3rd. Eric Hosmer to 2nd.",
+            "rbi": 1,
+            "awayScore": 0,
+            "homeScore": 1,
+            "isOut": false
+          },
+          "reviewDetails": {
+            "isOverturned": false,
+            "inProgress": false,
+            "reviewType": "MI",
+            "challengeTeamId": 137
+          },
+          "officials": [
+            {
+              "official": {
+                "id": 427197,
+                "fullName": "Chris Guccione",
+                "link": "/api/v1/people/427197"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427533,
+                "fullName": "Mark Wegner",
+                "link": "/api/v1/people/427533"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 484198,
+                "fullName": "Alan Porter",
+                "link": "/api/v1/people/484198"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 594151,
+                "fullName": "Ramon De Jesus",
+                "link": "/api/v1/people/594151"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "callerAssessment": "Named home-plate official matches official crew. This identifies the HBP plate ruling, not a separately established base-umpire swing appeal.",
+          "duplicateIds": [],
+          "proposedWindow": {
+            "start": 25.45,
+            "end": 32.55,
+            "base": 3
+          },
+          "approvedWindow": {
+            "start": 25.45,
+            "end": 32.25,
+            "base": 3,
+            "fullMotion": true,
+            "resultReveal": false
+          },
+          "windowNotes": "Trim32.55→32.25 conservatively before the following dissolve into a plate-umpire decision scene; stance and arrested swing remain complete."
+        }
+      }
+    },
+    {
+      "id": "jean-segura-20210831",
+      "batter": "Jean Segura",
+      "date": "2021-08-31",
+      "matchup": "PHI at WSH",
+      "base": 1,
+      "strike": false,
+      "start": 15.75,
+      "end": 17.6,
+      "umpire": "Dan Iassogna · home plate",
+      "context": "Top of the sixth: Segura checks on an 0–1 sinker from Andrés Machado. The hit-by-pitch ruling is upheld after Washington challenges. The final HBP ruling means no swing; a separate base-umpire appeal is not established.",
+      "evidence": "https://www.mlb.com/video/segura-takes-first-after-review",
+      "source": "https://www.mlb.com/video/segura-takes-first-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-08/31/ef07fdb2-9561a94e-8f25ea67-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2019_2021_v2",
+        "status": "needs-independent-review",
+        "gamePk": 632677,
+        "playId": "d83782c7-36fc-44c9-a8e7-5e161e2253c4",
+        "notes": "Full side replay contains initial stance, hand advance and arrested barrel without full followthrough. Needs independent motion review before publication. Dense timestamps are relative to extraction:478 +25s,486 +39s,494 +15.7s,509 +38s,572 +49.5s. Official final pitch and caller proof saved; HBP caller is plate umpire unless a visible base appeal is separately established.",
+        "localVideo": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494-dense.jpg",
+          "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.mlb.com/video/segura-takes-first-after-review",
+          "https://statsapi.mlb.com/api/v1.1/game/632677/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/game-632677.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494-pitch-proof.json"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "jean-segura-20210831",
+        "status": "accept",
+        "changes": {
+          "end": 17.6
+        },
+        "overrides": {
+          "end": 17.6
+        },
+        "reason": "Segura strides and drives the hands/barrel forward, then arrests the barrel in front of the body without wrapping into a full followthrough. The first-base-side view shows the complete initiation and stop. End must be shortened before the plate umpire enters and gestures.",
+        "evidence": {
+          "localVideo": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494.mp4",
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/audit-next-v2/jean-segura-20210831-audit.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494-dense.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/494-grid.jpg",
+            "/workspace/check-swing/expansion500/audit-next-v2/494-audit-detail.jpg"
+          ],
+          "source": "https://www.mlb.com/video/segura-takes-first-after-review",
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/632677/feed/live",
+          "officialGameFile": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/game-632677.json",
+          "officialDate": "2021-08-31",
+          "matchup": "PHI at WSH",
+          "gamePk": 632677,
+          "atBatIndex": 55,
+          "inning": "top 6",
+          "batter": "Jean Segura",
+          "pitcher": "Andrés Machado",
+          "pitchNumber": 2,
+          "playId": "d83782c7-36fc-44c9-a8e7-5e161e2253c4",
+          "countBefore": "0-1",
+          "pitchType": {
+            "code": "SI",
+            "description": "Sinker"
+          },
+          "speedMph": 93.7,
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "atBatResult": {
+            "type": "atBat",
+            "event": "Hit By Pitch",
+            "eventType": "hit_by_pitch",
+            "description": "Nationals challenged (hit by pitch), call on the field was upheld: Jean Segura hit by pitch. Freddy Galvis to 2nd.",
+            "rbi": 0,
+            "awayScore": 5,
+            "homeScore": 5,
+            "isOut": false
+          },
+          "reviewDetails": {
+            "isOverturned": false,
+            "inProgress": false,
+            "reviewType": "MI",
+            "challengeTeamId": 120
+          },
+          "officials": [
+            {
+              "official": {
+                "id": 427248,
+                "fullName": "Dan Iassogna",
+                "link": "/api/v1/people/427248"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 545402,
+                "fullName": "John Bacon",
+                "link": "/api/v1/people/545402"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 605672,
+                "fullName": "Jeremie Rehak",
+                "link": "/api/v1/people/605672"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 482608,
+                "fullName": "Scott Barry",
+                "link": "/api/v1/people/482608"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "callerAssessment": "Named home-plate official matches official crew. This identifies the HBP plate ruling, not a separately established base-umpire swing appeal.",
+          "duplicateIds": [],
+          "proposedWindow": {
+            "start": 15.75,
+            "end": 18.85,
+            "base": 1
+          },
+          "approvedWindow": {
+            "start": 15.75,
+            "end": 17.6,
+            "base": 1,
+            "fullMotion": true,
+            "resultReveal": false
+          },
+          "windowNotes": "Trim18.85→17.60: full swing/check stops before17.60; umpire enters around17.8 and gestures afterward. New ending excludes that reveal."
+        }
+      }
+    },
+    {
+      "id": "gleyber-torres-20210731",
+      "batter": "Gleyber Torres",
+      "date": "2021-07-31",
+      "matchup": "NYY at MIA",
+      "base": 1,
+      "strike": false,
+      "start": 38.05,
+      "end": 47.65,
+      "umpire": "Jeremy Riggs · first base",
+      "context": "Top of the sixth: Torres checks on a 1–1 sinker from Zach Pop. The first-base umpire signals no swing. New York’s hit-by-pitch challenge fails, so the pitch remains ball two.",
+      "evidence": "https://www.mlb.com/video/torres-not-hit-by-pitch",
+      "source": "https://www.mlb.com/video/torres-not-hit-by-pitch",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-07/31/5c7fd47a-0d3dc765-6eae30ad-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2019_2021_v2",
+        "status": "needs-independent-review",
+        "gamePk": 633092,
+        "playId": "22fef309-9e24-4786-ab60-9e502ea97ee1",
+        "notes": "Full side replay contains initial stance, hand advance and arrested barrel without full followthrough. Needs independent motion review before publication. Dense timestamps are relative to extraction:478 +25s,486 +39s,494 +15.7s,509 +38s,572 +49.5s. Official final pitch and caller proof saved; HBP caller is plate umpire unless a visible base appeal is separately established.",
+        "localVideo": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509-dense.jpg",
+          "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509-grid.jpg"
+        ],
+        "supportingEvidence": [
+          "https://www.mlb.com/video/torres-not-hit-by-pitch",
+          "https://statsapi.mlb.com/api/v1.1/game/633092/feed/live"
+        ],
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/game-633092.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509-pitch-proof.json"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "gleyber-torres-20210731",
+        "status": "accept",
+        "changes": {},
+        "overrides": {},
+        "reason": "Torres loads, advances the hands/barrel, and checks with no complete followthrough in a continuous first-base-side replay. Separately, the live sequence visibly cuts to the first-base umpire giving a no-swing signal around7.3–8.8 seconds. The official feed identifies Jeremy Riggs at first and confirms ball two after the failed HBP challenge.",
+        "evidence": {
+          "localVideo": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509.mp4",
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/audit-next-v2/gleyber-torres-20210731-audit.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509-dense.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/509-grid.jpg",
+            "/workspace/check-swing/expansion500/audit-next-v2/509-audit-detail.jpg"
+          ],
+          "source": "https://www.mlb.com/video/torres-not-hit-by-pitch",
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/633092/feed/live",
+          "officialGameFile": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/game-633092.json",
+          "officialDate": "2021-07-31",
+          "matchup": "NYY at MIA",
+          "gamePk": 633092,
+          "atBatIndex": 46,
+          "inning": "top 6",
+          "batter": "Gleyber Torres",
+          "pitcher": "Zach Pop",
+          "pitchNumber": 3,
+          "playId": "22fef309-9e24-4786-ab60-9e502ea97ee1",
+          "countBefore": "1-1",
+          "pitchType": {
+            "code": "SI",
+            "description": "Sinker"
+          },
+          "speedMph": 96.5,
+          "finalPitchCall": {
+            "code": "B",
+            "description": "Ball"
+          },
+          "atBatResult": {
+            "type": "atBat",
+            "event": "Flyout",
+            "eventType": "field_out",
+            "description": "Gleyber Torres flies out to left fielder Lewis Brinson.",
+            "rbi": 0,
+            "awayScore": 3,
+            "homeScore": 2,
+            "isOut": true
+          },
+          "reviewDetails": {
+            "isOverturned": false,
+            "inProgress": false,
+            "reviewType": "MI",
+            "challengeTeamId": 147
+          },
+          "officials": [
+            {
+              "official": {
+                "id": 427520,
+                "fullName": "Larry Vanover",
+                "link": "/api/v1/people/427520"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 573769,
+                "fullName": "Jeremy Riggs",
+                "link": "/api/v1/people/573769"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 484183,
+                "fullName": "Cory Blaser",
+                "link": "/api/v1/people/484183"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 483564,
+                "fullName": "Dan Bellino",
+                "link": "/api/v1/people/483564"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "callerAssessment": "Jeremy Riggs first-base no-swing appeal is visually established at7.3–8.8 seconds.",
+          "duplicateIds": [],
+          "proposedWindow": {
+            "start": 38.05,
+            "end": 47.65,
+            "base": 1
+          },
+          "approvedWindow": {
+            "start": 38.05,
+            "end": 47.65,
+            "base": 1,
+            "fullMotion": true,
+            "resultReveal": false
+          },
+          "windowNotes": "38.05–47.65 contains the continuous side replay and no umpire signal or final review outcome."
+        }
+      }
+    },
+    {
+      "id": "andres-gimenez-20221016",
+      "batter": "Andrés Giménez",
+      "date": "2022-10-16",
+      "matchup": "NYY at CLE",
+      "base": 3,
+      "strike": false,
+      "start": 11.25,
+      "end": 15.8,
+      "umpire": "Will Little · home plate",
+      "context": "Bottom of the fourth: Giménez checks on a 1–1 knuckle curve from Gerrit Cole. New York’s hit-by-pitch challenge overturns the initial award, and the pitch becomes ball two. The final ball ruling establishes no swing; a separate base-umpire appeal is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/715750/feed/live",
+      "source": "https://www.mlb.com/video/gimenez-not-hbp-after-a-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-10/16/16a54683-72afa39d-0c6fe192-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2022_2023_v2",
+        "status": "independently-accepted",
+        "queueIndex": 4,
+        "gamePk": 715750,
+        "playId": "144a041b-2b85-437d-8f81-cfdfc7f8f8de",
+        "pitchNumber": 3,
+        "inning": 4,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/4.mp4",
+        "localCandidate": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/4-candidate.mp4",
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-715750.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/4-pitch-proof.json",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/4-dense.jpg"
+        ],
+        "notes": "Dense timestamps are relative to source +9s. Needs independent visual review of actual checking versus avoidance and safe endpoints. The feed establishes the exact pitch and final ruling. Swing-deciding official is unknown unless an identifiable signal is shown.",
+        "candidateDuration": 4.55455,
+        "independentAudit": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-2023.json",
+        "independentReviewer": "hbp_2019_2021_v2"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "andres-gimenez-20221016",
+        "status": "accept",
+        "decision": "accept-with-corrections",
+        "changes": {
+          "umpire": "Will Little · home plate",
+          "context": "Bottom of the fourth: Giménez checks on a 1–1 knuckle curve from Gerrit Cole. New York’s hit-by-pitch challenge overturns the initial award, and the pitch becomes ball two. The final ball ruling establishes no swing; a separate base-umpire appeal is not established."
+        },
+        "reason": "Usable third-base-side replay begins with the bat/hands back above the rear shoulder; the hands then move forward/down and the barrel starts turning toward the ball before the motion is arrested. It is a short real aborted swing, with full onset and stop shown, rather than a stationary take or only a duck. Official pitch is Ball after an overturned Yankees HBP challenge. Home-plate caller/context correction avoids inventing a separate swing appeal.",
+        "evidence": {
+          "visualReviewed": [
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-4-motion.jpg",
+            "/workspace/check-swing/expansion500/hbp-2022-2023-v2/4-dense.jpg"
+          ],
+          "video": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/4.mp4",
+          "window": {
+            "start": 11.25,
+            "end": 15.8,
+            "baseSide": "third base",
+            "fullMotion": true,
+            "resultReveal": false,
+            "notes": "Initial loaded bat position, forward checking motion, and arrest are visible; no ruling signal or final review announcement within the candidate window."
+          },
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/715750/feed/live",
+          "officialLocalFeed": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-715750.json",
+          "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/4-pitch-proof.json",
+          "source": "https://www.mlb.com/video/gimenez-not-hbp-after-a-review",
+          "officialDate": "2022-10-16",
+          "matchup": "NYY at CLE",
+          "inning": "bottom 4",
+          "gamePk": 715750,
+          "atBatIndex": 29,
+          "pitchNumber": 3,
+          "playId": "144a041b-2b85-437d-8f81-cfdfc7f8f8de",
+          "countBefore": "1-1",
+          "pitcher": "Gerrit Cole",
+          "pitchType": "Knuckle Curve",
+          "pitchSpeedMph": 84.8,
+          "finalRuling": "Ball two; initial HBP award overturned after Yankees challenge",
+          "caller": "Will Little · home plate",
+          "duplicateCheck": {
+            "catalog": "/workspace/base-site/content/check-swing/catalog.json",
+            "catalogCount": 150,
+            "catalogSha256": "f2cfe538a6a92b46e366d95599dcee9750bf95fcb4f78f05ab0287253f2c0c30",
+            "sameBatterDate": [],
+            "sameVideoAsset": [],
+            "samePlayId": []
+          }
+        }
+      }
+    },
+    {
+      "id": "trey-mancini-20221015",
+      "batter": "Trey Mancini",
+      "date": "2022-10-15",
+      "matchup": "HOU at SEA",
+      "base": 1,
+      "strike": false,
+      "start": 10.0,
+      "end": 16.6,
+      "umpire": "Marvin Hudson · home plate",
+      "context": "Top of the fourth: Mancini checks on George Kirby’s first-pitch sinker. The hit-by-pitch ruling is upheld after Seattle challenges. The final HBP ruling means no swing; a separate base-umpire appeal is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/715756/feed/live",
+      "source": "https://www.mlb.com/video/trey-mancini-hit-by-pitch-yordan-alvarez-to-3rd-kyle-tucker-to-2nd",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-10/15/3a18fcbd-f7d3d8f3-e903feea-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2022_2023_v2",
+        "status": "independently-accepted",
+        "queueIndex": 5,
+        "gamePk": 715756,
+        "playId": "ee4834b5-b3be-4a7d-aad4-35159098196e",
+        "pitchNumber": 1,
+        "inning": 4,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/5.mp4",
+        "localCandidate": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/5-candidate.mp4",
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-715756.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/5-pitch-proof.json",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/5-dense.jpg"
+        ],
+        "notes": "Dense timestamps are relative to source +10s. Needs independent visual review of actual checking versus avoidance and safe endpoints. The feed establishes the exact pitch and final ruling. Swing-deciding official is unknown unless an identifiable signal is shown.",
+        "candidateDuration": 6.6066,
+        "independentAudit": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-2023.json",
+        "independentReviewer": "hbp_2019_2021_v2"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "trey-mancini-20221015",
+        "status": "accept",
+        "decision": "accept-with-corrections",
+        "changes": {
+          "umpire": "Marvin Hudson · home plate",
+          "context": "Top of the fourth: Mancini checks on George Kirby’s first-pitch sinker. The hit-by-pitch ruling is upheld after Seattle challenges. The final HBP ruling means no swing; a separate base-umpire appeal is not established."
+        },
+        "reason": "Complete first-base-side slow-motion replay shows Mancini load, move his hands forward and turn the barrel down toward the pitch, then arrest the swing before a followthrough as the ball strikes him. Full onset and stop are visible. Official final HBP is upheld; plate-umpire attribution and explicit final-HBP context distinguish that ruling from an unestablished base appeal.",
+        "evidence": {
+          "visualReviewed": [
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-5-motion.jpg",
+            "/workspace/check-swing/expansion500/hbp-2022-2023-v2/5-dense.jpg"
+          ],
+          "video": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/5.mp4",
+          "window": {
+            "start": 10.0,
+            "end": 16.6,
+            "baseSide": "first base",
+            "fullMotion": true,
+            "resultReveal": false,
+            "notes": "Initial loaded bat position, forward checking motion, and arrest are visible; no ruling signal or final review announcement within the candidate window."
+          },
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/715756/feed/live",
+          "officialLocalFeed": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-715756.json",
+          "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/5-pitch-proof.json",
+          "source": "https://www.mlb.com/video/trey-mancini-hit-by-pitch-yordan-alvarez-to-3rd-kyle-tucker-to-2nd",
+          "officialDate": "2022-10-15",
+          "matchup": "HOU at SEA",
+          "inning": "top 4",
+          "gamePk": 715756,
+          "atBatIndex": 27,
+          "pitchNumber": 1,
+          "playId": "ee4834b5-b3be-4a7d-aad4-35159098196e",
+          "countBefore": "0-0",
+          "pitcher": "George Kirby",
+          "pitchType": "Sinker",
+          "pitchSpeedMph": 94.9,
+          "finalRuling": "Hit By Pitch upheld after Mariners challenge",
+          "caller": "Marvin Hudson · home plate",
+          "duplicateCheck": {
+            "catalog": "/workspace/base-site/content/check-swing/catalog.json",
+            "catalogCount": 150,
+            "catalogSha256": "f2cfe538a6a92b46e366d95599dcee9750bf95fcb4f78f05ab0287253f2c0c30",
+            "sameBatterDate": [],
+            "sameVideoAsset": [],
+            "samePlayId": []
+          }
+        }
+      }
+    },
+    {
+      "id": "wilmer-flores-20221003",
+      "batter": "Wilmer Flores",
+      "date": "2022-10-03",
+      "matchup": "SF at SD",
+      "base": 1,
+      "strike": false,
+      "start": 28.42,
+      "end": 30.85,
+      "umpire": "Alan Porter · home plate",
+      "context": "Top of the ninth: Flores checks on an 0–1 sinker from Josh Hader. San Diego challenges the hit-by-pitch ruling, which is upheld. The final HBP ruling means no swing; a separate base-umpire appeal is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/662239/feed/live",
+      "source": "https://www.mlb.com/video/flores-hit-by-pitch-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-10/03/66d2b1dc-6a8f2009-baa1308a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2022_2023_v2",
+        "status": "independently-accepted",
+        "queueIndex": 8,
+        "gamePk": 662239,
+        "playId": "6aa50318-d10a-48da-b205-20dda45438c7",
+        "pitchNumber": 2,
+        "inning": 9,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/8.mp4",
+        "localCandidate": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/8-candidate.mp4",
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-662239.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/8-pitch-proof.json",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/8-dense.jpg"
+        ],
+        "notes": "Dense timestamps are relative to source +27s. Needs independent visual review of actual checking versus avoidance and safe endpoints. The feed establishes the exact pitch and final ruling. Swing-deciding official is unknown unless an identifiable signal is shown.",
+        "candidateDuration": 2.435767,
+        "independentAudit": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-2023.json",
+        "independentReviewer": "hbp_2019_2021_v2"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "wilmer-flores-20221003",
+        "status": "accept",
+        "decision": "accept-with-corrections",
+        "changes": {
+          "umpire": "Alan Porter · home plate",
+          "context": "Top of the ninth: Flores checks on an 0–1 sinker from Josh Hader. San Diego challenges the hit-by-pitch ruling, which is upheld. The final HBP ruling means no swing; a separate base-umpire appeal is not established."
+        },
+        "reason": "Short but complete first-base-side replay shows Flores with hands/bat still loaded before forward movement; his hands then advance and the barrel rotates down toward the pitch before he arrests it and recoils. The side angle begins before the checking motion, despite the stride already being underway. Official HBP upheld supplies the final no-swing result; plate-umpire/context correction preserves the lack of a separate established appeal.",
+        "evidence": {
+          "visualReviewed": [
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-8-motion.jpg",
+            "/workspace/check-swing/expansion500/hbp-2022-2023-v2/8-dense.jpg"
+          ],
+          "video": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/8.mp4",
+          "window": {
+            "start": 28.42,
+            "end": 30.85,
+            "baseSide": "first base",
+            "fullMotion": true,
+            "resultReveal": false,
+            "notes": "Initial loaded bat position, forward checking motion, and arrest are visible; no ruling signal or final review announcement within the candidate window."
+          },
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/662239/feed/live",
+          "officialLocalFeed": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-662239.json",
+          "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/8-pitch-proof.json",
+          "source": "https://www.mlb.com/video/flores-hit-by-pitch-after-review",
+          "officialDate": "2022-10-03",
+          "matchup": "SF at SD",
+          "inning": "top 9",
+          "gamePk": 662239,
+          "atBatIndex": 72,
+          "pitchNumber": 2,
+          "playId": "6aa50318-d10a-48da-b205-20dda45438c7",
+          "countBefore": "0-1",
+          "pitcher": "Josh Hader",
+          "pitchType": "Sinker",
+          "pitchSpeedMph": 97.7,
+          "finalRuling": "Hit By Pitch upheld after Padres challenge",
+          "caller": "Alan Porter · home plate",
+          "duplicateCheck": {
+            "catalog": "/workspace/base-site/content/check-swing/catalog.json",
+            "catalogCount": 150,
+            "catalogSha256": "f2cfe538a6a92b46e366d95599dcee9750bf95fcb4f78f05ab0287253f2c0c30",
+            "sameBatterDate": [],
+            "sameVideoAsset": [],
+            "samePlayId": []
+          }
+        }
+      }
+    },
+    {
+      "id": "austin-riley-20220922",
+      "batter": "Austin Riley",
+      "date": "2022-09-22",
+      "matchup": "ATL at PHI",
+      "base": 1,
+      "strike": false,
+      "start": 19.08,
+      "end": 25.85,
+      "umpire": "Gabe Morales · first base",
+      "context": "Top of the eighth: Riley checks on an 0–1 sinker from Zach Eflin. The first-base umpire signals no swing. Philadelphia challenges the hit-by-pitch ruling, and the call is upheld.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/661609/feed/live",
+      "source": "https://www.mlb.com/video/after-review-austin-riley-hbp",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/22/bc5c3d46-41ff76bb-65685681-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "review": {
+        "reviewer": "hbp_2022_2023_v2",
+        "status": "independently-accepted",
+        "queueIndex": 17,
+        "gamePk": 661609,
+        "playId": "777ee845-3509-437c-9573-0964fc54a214",
+        "pitchNumber": 2,
+        "inning": 8,
+        "localVideo": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/17.mp4",
+        "localCandidate": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/17-candidate.mp4",
+        "officialGameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-661609.json",
+        "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/17-pitch-proof.json",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/17-dense.jpg"
+        ],
+        "notes": "Dense timestamps are relative to source +18.8s. Needs independent visual review of actual checking versus avoidance and safe endpoints. The feed establishes the exact pitch and final ruling. Swing-deciding official is unknown unless an identifiable signal is shown. First-base no-swing signal at source 5.3–6.3s; crew lists Gabe Morales at first base.",
+        "candidateDuration": 6.773433,
+        "independentAudit": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-2023.json",
+        "independentReviewer": "hbp_2019_2021_v2"
+      },
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "austin-riley-20220922",
+        "status": "accept",
+        "decision": "accept-with-corrections",
+        "changes": {
+          "context": "Top of the eighth: Riley checks on an 0–1 sinker from Zach Eflin. The first-base umpire signals no swing. Philadelphia challenges the hit-by-pitch ruling, and the call is upheld."
+        },
+        "reason": "Complete first-base-side slow-motion replay shows a genuine checked swing: hands and barrel move forward/down and stop without a full followthrough. The source independently shows a first-base no-swing signal at5.25–6.6s, and the official crew identifies Gabe Morales at first base. Official final HBP upheld matches the pitch and source. Caller and window need no change; minor context wording correction clarifies that the HBP call, not the Phillies challenge, is upheld.",
+        "evidence": {
+          "visualReviewed": [
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-17-motion.jpg",
+            "/workspace/check-swing/expansion500/hbp-2022-2023-v2/17-dense.jpg",
+            "/workspace/check-swing/expansion500/hbp-2019-2021-v2/audit-2022-17-appeal.jpg"
+          ],
+          "video": "/workspace/check-swing/expansion500/legacy_late/hbp-pass/17.mp4",
+          "window": {
+            "start": 19.08,
+            "end": 25.85,
+            "baseSide": "first base",
+            "fullMotion": true,
+            "resultReveal": false,
+            "notes": "Initial loaded bat position, forward checking motion, and arrest are visible; no ruling signal or final review announcement within the candidate window."
+          },
+          "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/661609/feed/live",
+          "officialLocalFeed": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-661609.json",
+          "officialPitchProof": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/17-pitch-proof.json",
+          "source": "https://www.mlb.com/video/after-review-austin-riley-hbp",
+          "officialDate": "2022-09-22",
+          "matchup": "ATL at PHI",
+          "inning": "top 8",
+          "gamePk": 661609,
+          "atBatIndex": 57,
+          "pitchNumber": 2,
+          "playId": "777ee845-3509-437c-9573-0964fc54a214",
+          "countBefore": "0-1",
+          "pitcher": "Zach Eflin",
+          "pitchType": "Sinker",
+          "pitchSpeedMph": 92.7,
+          "finalRuling": "No swing on first-base appeal; Hit By Pitch upheld after Phillies challenge",
+          "caller": "Gabe Morales · first base",
+          "duplicateCheck": {
+            "catalog": "/workspace/base-site/content/check-swing/catalog.json",
+            "catalogCount": 150,
+            "catalogSha256": "f2cfe538a6a92b46e366d95599dcee9750bf95fcb4f78f05ab0287253f2c0c30",
+            "sameBatterDate": [],
+            "sameVideoAsset": [],
+            "samePlayId": []
+          }
+        }
+      }
+    },
+    {
+      "id": "austinwells20250404",
+      "batter": "Austin Wells",
+      "date": "2025-04-04",
+      "matchup": "NYY at PIT",
+      "base": 3,
+      "strike": false,
+      "start": 24.05,
+      "end": 29.45,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of inning 4: Austin Wells checks on Mitch Keller’s four-seam fastball. The reviewed pitch is ruled hit by pitch, awarding first base.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778461/feed/live",
+      "source": "https://www.mlb.com/video/pirates-challenged-hit-by-pitch-call-on-the-field-was-upheld-austin-wells",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/04/ba2d7ec5-cd2e5ad5-ca5bd965-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "austinwells20250404",
+        "key": "2025-98",
+        "status": "accepted",
+        "reviewer": "hbp_2022_2023_v2",
+        "independentFrom": "hbp_2024_2026_v2",
+        "visualPass": true,
+        "fullBaseSideMotion": true,
+        "visualReason": "Clear third-base full checking motion. Loaded hands/bat are visible before forward movement; barrel drops and advances across chest to approximately waist height, then remains stopped in front without a full followthrough. Subsequent duck does not replace the observable check.",
+        "sourceVideo": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/2025-98.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-2025-98.jpg"
+        ],
+        "denseSourceOffset": 23.599999999999998,
+        "closeSheetOffset": null,
+        "proposedStart": 23.9,
+        "proposedEnd": 29.45,
+        "approvedStart": 24.05,
+        "approvedEnd": 29.45,
+        "trimReason": "Moved start slightly after dissolve; loaded stance remains before any checking motion.",
+        "officialVerification": {
+          "feed": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/feed-778461.json",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/778461/feed/live",
+          "gamePk": 778461,
+          "playId": "79eff045-c7bb-3355-83ad-888e5b768126",
+          "date": "2025-04-04",
+          "batter": "Austin Wells",
+          "pitcher": "Mitch Keller",
+          "pitchNumber": 2,
+          "atBatIndex": 35,
+          "inning": 4,
+          "halfInning": "top",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 1
+          },
+          "pitchType": {
+            "code": "FF",
+            "description": "Four-Seam Fastball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "finalPlayDescription": "Pirates challenged (hit by pitch), call on the field was upheld: Austin Wells hit by pitch. Paul Goldschmidt to 2nd.",
+          "strike": false
+        },
+        "umpire": "Unknown",
+        "callerReason": "No separately identifiable swing-deciding official is established. Do not substitute the review announcer or home-plate crew assignment.",
+        "duplicatesAgainst150": [],
+        "dedupMethod": "Compared source URL, video URL, and same batter/date against the current 150-item catalog; no matches.",
+        "correctedCandidate": {
+          "id": "austinwells20250404",
+          "batter": "Austin Wells",
+          "date": "2025-04-04",
+          "matchup": "NYY at PIT",
+          "base": 3,
+          "strike": false,
+          "start": 24.05,
+          "end": 29.45,
+          "umpire": "Unknown",
+          "context": "Top of inning 4: Austin Wells checks on Mitch Keller’s four-seam fastball. The reviewed pitch is ruled hit by pitch, awarding first base.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/778461/feed/live",
+          "source": "https://www.mlb.com/video/pirates-challenged-hit-by-pitch-call-on-the-field-was-upheld-austin-wells",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/04/ba2d7ec5-cd2e5ad5-ca5bd965-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "willsoncontreras20240702",
+      "batter": "Willson Contreras",
+      "date": "2024-07-02",
+      "matchup": "STL at PIT",
+      "base": 1,
+      "strike": false,
+      "start": 24.5,
+      "end": 27.75,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of inning 1: Willson Contreras checks on Mitch Keller’s four-seam fastball. The reviewed pitch is ruled hit by pitch, awarding first base.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/745482/feed/live",
+      "source": "https://www.mlb.com/video/wilson-contreras-is-hit-by-pitch-after-a-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/996fb4ce-a44dede1-24f21f00-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "willsoncontreras20240702",
+        "key": "2024-850",
+        "status": "accepted",
+        "reviewer": "hbp_2022_2023_v2",
+        "independentFrom": "hbp_2024_2026_v2",
+        "visualPass": true,
+        "fullBaseSideMotion": true,
+        "visualReason": "Clear first-base initiation and arrested motion. Hands/bat start loaded, then advance and lower in front; the checking motion is visible before Contreras turns away after the hand hit. His later body turn is an avoidance reaction rather than uninterrupted full-swing followthrough.",
+        "sourceVideo": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/2024-850.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-2024-850.jpg"
+        ],
+        "denseSourceOffset": 23.95,
+        "closeSheetOffset": null,
+        "proposedStart": 24.25,
+        "proposedEnd": 27.75,
+        "approvedStart": 24.5,
+        "approvedEnd": 27.75,
+        "trimReason": "Moved start slightly after dissolve; loaded stance remains before any checking motion.",
+        "officialVerification": {
+          "feed": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/feed-745482.json",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/745482/feed/live",
+          "gamePk": 745482,
+          "playId": "d3b5706a-6be3-45b2-983a-2b4ac584e7a0",
+          "date": "2024-07-02",
+          "batter": "Willson Contreras",
+          "pitcher": "Mitch Keller",
+          "pitchNumber": 2,
+          "atBatIndex": 2,
+          "inning": 1,
+          "halfInning": "top",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 1
+          },
+          "pitchType": {
+            "code": "FF",
+            "description": "Four-Seam Fastball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "finalPlayDescription": "Pirates challenged (hit by pitch), call on the field was upheld: Willson Contreras hit by pitch.",
+          "strike": false
+        },
+        "umpire": "Unknown",
+        "callerReason": "No separately identifiable swing-deciding official is established. Do not substitute the review announcer or home-plate crew assignment.",
+        "duplicatesAgainst150": [],
+        "dedupMethod": "Compared source URL, video URL, and same batter/date against the current 150-item catalog; no matches.",
+        "correctedCandidate": {
+          "id": "willsoncontreras20240702",
+          "batter": "Willson Contreras",
+          "date": "2024-07-02",
+          "matchup": "STL at PIT",
+          "base": 1,
+          "strike": false,
+          "start": 24.5,
+          "end": 27.75,
+          "umpire": "Unknown",
+          "context": "Top of inning 1: Willson Contreras checks on Mitch Keller’s four-seam fastball. The reviewed pitch is ruled hit by pitch, awarding first base.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/745482/feed/live",
+          "source": "https://www.mlb.com/video/wilson-contreras-is-hit-by-pitch-after-a-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-07/02/996fb4ce-a44dede1-24f21f00-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "kyletucker20250601",
+      "batter": "Kyle Tucker",
+      "date": "2025-06-01",
+      "matchup": "CIN at CHC",
+      "base": 3,
+      "strike": false,
+      "start": 14.1,
+      "end": 18.2,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of inning 1: Kyle Tucker checks on Nick Martinez’s cutter. The reviewed pitch is ruled hit by pitch, awarding first base.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/777687/feed/live",
+      "source": "https://www.mlb.com/video/nick-martinez-ball-to-kyle-tucker",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/7d1cdeef-3655db72-c69d3760-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "kyletucker20250601",
+        "key": "2025-62",
+        "status": "accepted",
+        "reviewer": "hbp_2022_2023_v2",
+        "independentFrom": "hbp_2024_2026_v2",
+        "visualPass": true,
+        "fullBaseSideMotion": true,
+        "visualReason": "Short but actual third-base check. Hands advance from the rear shoulder toward the chest and the barrel moves from its loaded rearward diagonal toward upright; this movement is then arrested, followed by a downward withdrawal/duck. The onset and stop are both visible.",
+        "sourceVideo": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/2025-62.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-2025-62.jpg",
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-close-2025-62.jpg"
+        ],
+        "denseSourceOffset": 13.7,
+        "closeSheetOffset": 14.7,
+        "proposedStart": 14.0,
+        "proposedEnd": 18.2,
+        "approvedStart": 14.1,
+        "approvedEnd": 18.2,
+        "trimReason": "Moved start slightly after dissolve; loaded stance remains before any checking motion.",
+        "officialVerification": {
+          "feed": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/feed-777687.json",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/777687/feed/live",
+          "gamePk": 777687,
+          "playId": "8bfeb264-7449-3645-904a-0ff28b5e6de8",
+          "date": "2025-06-01",
+          "batter": "Kyle Tucker",
+          "pitcher": "Nick Martinez",
+          "pitchNumber": 2,
+          "atBatIndex": 5,
+          "inning": 1,
+          "halfInning": "bottom",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 1
+          },
+          "pitchType": {
+            "code": "FC",
+            "description": "Cutter"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "finalPlayDescription": "Kyle Tucker hit by pitch.",
+          "strike": false
+        },
+        "umpire": "Unknown",
+        "callerReason": "No separately identifiable swing-deciding official is established. Do not substitute the review announcer or home-plate crew assignment.",
+        "duplicatesAgainst150": [],
+        "dedupMethod": "Compared source URL, video URL, and same batter/date against the current 150-item catalog; no matches.",
+        "correctedCandidate": {
+          "id": "kyletucker20250601",
+          "batter": "Kyle Tucker",
+          "date": "2025-06-01",
+          "matchup": "CIN at CHC",
+          "base": 3,
+          "strike": false,
+          "start": 14.1,
+          "end": 18.2,
+          "umpire": "Unknown",
+          "context": "Bottom of inning 1: Kyle Tucker checks on Nick Martinez’s cutter. The reviewed pitch is ruled hit by pitch, awarding first base.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/777687/feed/live",
+          "source": "https://www.mlb.com/video/nick-martinez-ball-to-kyle-tucker",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/01/7d1cdeef-3655db72-c69d3760-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "ellydelacruz20250501",
+      "batter": "Elly De La Cruz",
+      "date": "2025-05-01",
+      "matchup": "STL at CIN",
+      "base": 3,
+      "strike": false,
+      "start": 9.0,
+      "end": 12.8,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of inning 7: Elly De La Cruz checks on Riley O'Brien’s sweeper. The reviewed pitch is ruled hit by pitch, awarding first base.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778107/feed/live",
+      "source": "https://www.mlb.com/video/elly-de-la-cruz-ruled-hit-by-pitch-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/01/34edbaf7-ed73747b-9aa3a353-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "ellydelacruz20250501",
+        "key": "2025-86",
+        "status": "accepted",
+        "reviewer": "hbp_2022_2023_v2",
+        "independentFrom": "hbp_2024_2026_v2",
+        "visualPass": true,
+        "fullBaseSideMotion": true,
+        "visualReason": "Complete third-base angle along the foul line. Loaded bat advances down and forward to waist height, visibly stops, and returns upward. Foreground umpire does not obscure the batter or bat. This is a check rather than avoidance alone.",
+        "sourceVideo": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/2025-86.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-2025-86.jpg"
+        ],
+        "denseSourceOffset": 8.7,
+        "closeSheetOffset": null,
+        "proposedStart": 9.0,
+        "proposedEnd": 12.8,
+        "approvedStart": 9.0,
+        "approvedEnd": 12.8,
+        "trimReason": "Original interval includes loaded onset, initiation, stop and separation.",
+        "officialVerification": {
+          "feed": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/feed-778107.json",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/778107/feed/live",
+          "gamePk": 778107,
+          "playId": "ca0f5ef9-614a-313d-8efb-4d59ef9e31fd",
+          "date": "2025-05-01",
+          "batter": "Elly De La Cruz",
+          "pitcher": "Riley O'Brien",
+          "pitchNumber": 3,
+          "atBatIndex": 56,
+          "inning": 7,
+          "halfInning": "bottom",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "ST",
+            "description": "Sweeper"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "finalPlayDescription": "Elly De La Cruz hit by pitch.",
+          "strike": false
+        },
+        "umpire": "Unknown",
+        "callerReason": "No separately identifiable swing-deciding official is established. Do not substitute the review announcer or home-plate crew assignment.",
+        "duplicatesAgainst150": [],
+        "dedupMethod": "Compared source URL, video URL, and same batter/date against the current 150-item catalog; no matches.",
+        "correctedCandidate": {
+          "id": "ellydelacruz20250501",
+          "batter": "Elly De La Cruz",
+          "date": "2025-05-01",
+          "matchup": "STL at CIN",
+          "base": 3,
+          "strike": false,
+          "start": 9.0,
+          "end": 12.8,
+          "umpire": "Unknown",
+          "context": "Bottom of inning 7: Elly De La Cruz checks on Riley O'Brien’s sweeper. The reviewed pitch is ruled hit by pitch, awarding first base.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/778107/feed/live",
+          "source": "https://www.mlb.com/video/elly-de-la-cruz-ruled-hit-by-pitch-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/01/34edbaf7-ed73747b-9aa3a353-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "mickeygasper20240829",
+      "batter": "Mickey Gasper",
+      "date": "2024-08-29",
+      "matchup": "TOR at BOS",
+      "base": 3,
+      "strike": false,
+      "start": 10.6,
+      "end": 14.85,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of inning 9: Mickey Gasper checks on Chad Green’s slider. The reviewed pitch is ruled hit by pitch, awarding first base.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/746914/feed/live",
+      "source": "https://www.mlb.com/video/mickey-gasper-hit-by-pitch-1nyyxo",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/29/b329f5bc-9be142e9-19bee118-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "mickeygasper20240829",
+        "key": "2024-828",
+        "status": "accepted",
+        "reviewer": "hbp_2022_2023_v2",
+        "independentFrom": "hbp_2024_2026_v2",
+        "visualPass": true,
+        "fullBaseSideMotion": true,
+        "visualReason": "Short but actual third-base check, confirmed in larger close frames. Hands advance/downward from the loaded rear shoulder across the chest, the bat changes orientation forward, and both stop before Gasper retracts/ducks. Full loaded onset is present.",
+        "sourceVideo": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/2024-828.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-2024-828.jpg",
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-close-2024-828.jpg"
+        ],
+        "denseSourceOffset": 10.299999999999999,
+        "closeSheetOffset": 12.2,
+        "proposedStart": 10.6,
+        "proposedEnd": 14.85,
+        "approvedStart": 10.6,
+        "approvedEnd": 14.85,
+        "trimReason": "Original interval includes loaded onset, initiation, stop and separation.",
+        "officialVerification": {
+          "feed": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/feed-746914.json",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/746914/feed/live",
+          "gamePk": 746914,
+          "playId": "75079068-7074-415d-a345-0052feab0e22",
+          "date": "2024-08-29",
+          "batter": "Mickey Gasper",
+          "pitcher": "Chad Green",
+          "pitchNumber": 1,
+          "atBatIndex": 64,
+          "inning": 9,
+          "halfInning": "bottom",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 0
+          },
+          "pitchType": {
+            "code": "SL",
+            "description": "Slider"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "finalPlayDescription": "Blue Jays challenged (hit by pitch), call on the field was upheld: Mickey Gasper hit by pitch.",
+          "strike": false
+        },
+        "umpire": "Unknown",
+        "callerReason": "No separately identifiable swing-deciding official is established. Do not substitute the review announcer or home-plate crew assignment.",
+        "duplicatesAgainst150": [],
+        "dedupMethod": "Compared source URL, video URL, and same batter/date against the current 150-item catalog; no matches.",
+        "correctedCandidate": {
+          "id": "mickeygasper20240829",
+          "batter": "Mickey Gasper",
+          "date": "2024-08-29",
+          "matchup": "TOR at BOS",
+          "base": 3,
+          "strike": false,
+          "start": 10.6,
+          "end": 14.85,
+          "umpire": "Unknown",
+          "context": "Bottom of inning 9: Mickey Gasper checks on Chad Green’s slider. The reviewed pitch is ruled hit by pitch, awarding first base.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/746914/feed/live",
+          "source": "https://www.mlb.com/video/mickey-gasper-hit-by-pitch-1nyyxo",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-08/29/b329f5bc-9be142e9-19bee118-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "jorgemateo20240502",
+      "batter": "Jorge Mateo",
+      "date": "2024-05-02",
+      "matchup": "NYY at BAL",
+      "base": 1,
+      "strike": false,
+      "start": 18.9,
+      "end": 23.5,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of inning 2: Jorge Mateo checks on Carlos Rodón’s slider. The reviewed pitch is ruled hit by pitch, awarding first base.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/747044/feed/live",
+      "source": "https://www.mlb.com/video/carlos-rodon-ball-in-dirt-to-jorge-mateo",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/02/495eaa24-ad914f39-392f2381-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "jorgemateo20240502",
+        "key": "2024-882",
+        "status": "accepted",
+        "reviewer": "hbp_2022_2023_v2",
+        "independentFrom": "hbp_2024_2026_v2",
+        "visualPass": true,
+        "fullBaseSideMotion": true,
+        "visualReason": "Clear first-base full check. Bat moves from above/rear shoulder into a low forward near-horizontal position and remains arrested in front of the body; no full followthrough. Loaded onset, initiation, and held stop are all visible.",
+        "sourceVideo": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/2024-882.mp4",
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/audit-2024-882.jpg"
+        ],
+        "denseSourceOffset": 18.599999999999998,
+        "closeSheetOffset": null,
+        "proposedStart": 18.9,
+        "proposedEnd": 23.5,
+        "approvedStart": 18.9,
+        "approvedEnd": 23.5,
+        "trimReason": "Original interval includes loaded onset, initiation, stop and separation.",
+        "officialVerification": {
+          "feed": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/feed-747044.json",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/747044/feed/live",
+          "gamePk": 747044,
+          "playId": "a9089940-8d5f-4da3-9c45-2427256ace56",
+          "date": "2024-05-02",
+          "batter": "Jorge Mateo",
+          "pitcher": "Carlos Rodón",
+          "pitchNumber": 5,
+          "atBatIndex": 14,
+          "inning": 2,
+          "halfInning": "bottom",
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "SL",
+            "description": "Slider"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "finalPlayDescription": "Jorge Mateo hit by pitch. Anthony Santander to 3rd. Jordan Westburg to 2nd.",
+          "strike": false
+        },
+        "umpire": "Unknown",
+        "callerReason": "No separately identifiable swing-deciding official is established. Do not substitute the review announcer or home-plate crew assignment.",
+        "duplicatesAgainst150": [],
+        "dedupMethod": "Compared source URL, video URL, and same batter/date against the current 150-item catalog; no matches.",
+        "correctedCandidate": {
+          "id": "jorgemateo20240502",
+          "batter": "Jorge Mateo",
+          "date": "2024-05-02",
+          "matchup": "NYY at BAL",
+          "base": 1,
+          "strike": false,
+          "start": 18.9,
+          "end": 23.5,
+          "umpire": "Unknown",
+          "context": "Bottom of inning 2: Jorge Mateo checks on Carlos Rodón’s slider. The reviewed pitch is ruled hit by pitch, awarding first base.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/747044/feed/live",
+          "source": "https://www.mlb.com/video/carlos-rodon-ball-in-dirt-to-jorge-mateo",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-05/02/495eaa24-ad914f39-392f2381-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "urias20230807",
+      "batter": "Luis Urías",
+      "date": "2023-08-07",
+      "matchup": "KC at BOS",
+      "base": 1,
+      "strike": false,
+      "start": 22.9,
+      "end": 26.35,
+      "umpire": "Vic Carapazza · first base",
+      "context": "Carapazza affirmed no swing on Urías’s full-count fastball, loading the bases in the ninth.",
+      "evidence": "https://www.closecallsports.com/2023/08/mlb-ejection-185-vic-carapazza-5-matt.html",
+      "source": "https://www.mlb.com/video/matt-quatraro-ejected-from-game",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-08/07/1a480a98-3d9c9e5d-c12e598f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "urias20230807",
+        "queueIndex": 19,
+        "decision": "approved",
+        "candidate": {
+          "id": "urias20230807",
+          "batter": "Luis Urías",
+          "date": "2023-08-07",
+          "matchup": "KC at BOS",
+          "base": 1,
+          "strike": false,
+          "start": 22.9,
+          "end": 26.35,
+          "umpire": "Vic Carapazza · first base",
+          "context": "Carapazza affirmed no swing on Urías’s full-count fastball, loading the bases in the ninth.",
+          "evidence": "https://www.closecallsports.com/2023/08/mlb-ejection-185-vic-carapazza-5-matt.html",
+          "source": "https://www.mlb.com/video/matt-quatraro-ejected-from-game",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-08/07/1a480a98-3d9c9e5d-c12e598f-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        },
+        "overrides": {},
+        "reasons": [
+          "Side replay begins at loaded bat before forward check and continues through arrest/recoil. Report explicitly establishes Carapazza no-swing appeal; feed gives ball four."
+        ],
+        "duplicateIds": [],
+        "visualVerified": true,
+        "fullMotionVerified": true,
+        "rulingVerified": true,
+        "dateVerified": true,
+        "exactPitchVerified": true,
+        "callerVerified": true,
+        "callerPolicy": "Named caller verified from report and/or visible appeal.",
+        "proof": {
+          "gamePk": 717089,
+          "officialDate": "2023-08-07",
+          "atBatIndex": 69,
+          "pitchNumber": 6,
+          "playId": "6aa50bf7-e3a6-4210-b2d0-c79e05806f4e",
+          "batter": "Luis Urías",
+          "pitcher": "Carlos Hernández",
+          "inning": 9,
+          "halfInning": "bottom",
+          "countBefore": {
+            "balls": 3,
+            "strikes": 2
+          },
+          "recordedCall": {
+            "code": "B",
+            "description": "Ball"
+          },
+          "countAfter": {
+            "balls": 4,
+            "strikes": 2,
+            "outs": 2
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Walk",
+            "eventType": "walk",
+            "description": "Luis Urias walks. Rafael Devers to 3rd. Triston Casas to 2nd.",
+            "rbi": 0,
+            "awayScore": 2,
+            "homeScore": 2,
+            "isOut": false
+          },
+          "feedPath": "/workspace/check-swing/expansion500/legacy_middle/retrosheet-pass2/19-feed.json",
+          "feedUrl": "https://statsapi.mlb.com/api/v1.1/game/717089/feed/live",
+          "reportUrl": "https://www.closecallsports.com/2023/08/mlb-ejection-185-vic-carapazza-5-matt.html",
+          "evidenceExcerpt": "ruled a ball by HP Umpire Nick Mahrley and affirmed as no swing on appeal by 1B Umpire Carapazza"
+        },
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/urias20230807-audit-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/19-15-grid-01.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/urias-dense.jpg"
+        ],
+        "callerVisualEvidence": []
+      }
+    },
+    {
+      "id": "trout20230419",
+      "batter": "Mike Trout",
+      "date": "2023-04-19",
+      "matchup": "LAA at NYY",
+      "base": 1,
+      "strike": true,
+      "start": 449.25,
+      "end": 450.75,
+      "umpire": "Will Little · first base",
+      "context": "Little ruled a swing on Trout’s full-count slider, ending the top of the ninth.",
+      "evidence": "https://www.closecallsports.com/2023/04/mlb-ejection-021-will-little-2-phil.html",
+      "source": "https://www.mlb.com/video/cg-laa-nyy-4-19-23",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/19/26c14086-c8e6a760-26e0e8ea-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "trout20230419",
+        "queueIndex": 21,
+        "decision": "approved_with_overrides",
+        "candidate": {
+          "id": "trout20230419",
+          "batter": "Mike Trout",
+          "date": "2023-04-19",
+          "matchup": "LAA at NYY",
+          "base": 1,
+          "strike": true,
+          "start": 449.25,
+          "end": 450.75,
+          "umpire": "Will Little · first base",
+          "context": "Little ruled a swing on Trout’s full-count slider, ending the top of the ninth.",
+          "evidence": "https://www.closecallsports.com/2023/04/mlb-ejection-021-will-little-2-phil.html",
+          "source": "https://www.mlb.com/video/cg-laa-nyy-4-19-23",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/19/26c14086-c8e6a760-26e0e8ea-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        },
+        "overrides": {
+          "start": 449.25
+        },
+        "reasons": [
+          "Use449.25s for a clean fully loaded side-view start after crossfade; loaded bat remains visible before forward motion. Full short check finishes by450.75s."
+        ],
+        "duplicateIds": [],
+        "visualVerified": true,
+        "fullMotionVerified": true,
+        "rulingVerified": true,
+        "dateVerified": true,
+        "exactPitchVerified": true,
+        "callerVerified": true,
+        "callerPolicy": "Named caller verified from report and/or visible appeal.",
+        "proof": {
+          "gamePk": 718504,
+          "officialDate": "2023-04-19",
+          "atBatIndex": 70,
+          "pitchNumber": 6,
+          "playId": "366289db-2a49-4406-9637-49018d638c95",
+          "batter": "Mike Trout",
+          "pitcher": "Clay Holmes",
+          "inning": 9,
+          "halfInning": "top",
+          "countBefore": {
+            "balls": 3,
+            "strikes": 2
+          },
+          "recordedCall": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "countAfter": {
+            "balls": 3,
+            "strikes": 3,
+            "outs": 2
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Strikeout",
+            "eventType": "strikeout",
+            "description": "Mike Trout strikes out swinging.",
+            "rbi": 0,
+            "awayScore": 2,
+            "homeScore": 2,
+            "isOut": true
+          },
+          "feedPath": "/workspace/check-swing/expansion500/legacy_middle/retrosheet-pass2/21-feed.json",
+          "feedUrl": "https://statsapi.mlb.com/api/v1.1/game/718504/feed/live",
+          "reportUrl": "https://www.closecallsports.com/2023/04/mlb-ejection-021-will-little-2-phil.html",
+          "evidenceExcerpt": "ruled a ball by HP Umpire Lance Barksdale and called a swinging strike on appeal by 1B Umpire Little"
+        },
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/trout20230419-audit-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/21-1-grid-04.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/21-1-dense.jpg"
+        ],
+        "callerVisualEvidence": []
+      }
+    },
+    {
+      "id": "cabrera20230628",
+      "batter": "Miguel Cabrera",
+      "date": "2023-06-28",
+      "matchup": "DET at TEX",
+      "base": 1,
+      "strike": true,
+      "start": 303.45,
+      "end": 307.8,
+      "umpire": "Ben May · first base",
+      "context": "May ruled a swing on Cabrera’s 1-2 slider from Dane Dunning in the fifth inning.",
+      "evidence": "https://www.closecallsports.com/2023/06/mlb-ejection-126-ben-may-1-miguel.html",
+      "source": "https://www.mlb.com/video/condensed-game-det-tex-6-28-23",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-06/28/57d7bc6e-c611b61f-e32915e8-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "cabrera20230628",
+        "queueIndex": 35,
+        "decision": "approved_with_overrides",
+        "candidate": {
+          "id": "cabrera20230628",
+          "batter": "Miguel Cabrera",
+          "date": "2023-06-28",
+          "matchup": "DET at TEX",
+          "base": 1,
+          "strike": true,
+          "start": 303.45,
+          "end": 307.8,
+          "umpire": "Ben May · first base",
+          "context": "May ruled a swing on Cabrera’s 1-2 slider from Dane Dunning in the fifth inning.",
+          "evidence": "https://www.closecallsports.com/2023/06/mlb-ejection-126-ben-may-1-miguel.html",
+          "source": "https://www.mlb.com/video/condensed-game-det-tex-6-28-23",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-06/28/57d7bc6e-c611b61f-e32915e8-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        },
+        "overrides": {
+          "start": 303.45
+        },
+        "reasons": [
+          "Use303.45s after crossfade for clean loaded stance. Complete forward bat, arrest and recoil precede307.8s. Catcher request for appeal is visible, but deciding umpire and call are outside this question interval."
+        ],
+        "duplicateIds": [],
+        "visualVerified": true,
+        "fullMotionVerified": true,
+        "rulingVerified": true,
+        "dateVerified": true,
+        "exactPitchVerified": true,
+        "callerVerified": true,
+        "callerPolicy": "Named caller verified from report and/or visible appeal.",
+        "proof": {
+          "gamePk": 717580,
+          "officialDate": "2023-06-28",
+          "atBatIndex": 38,
+          "pitchNumber": 4,
+          "playId": "c4ca9afd-fedf-4b48-a8b2-258b5f066c57",
+          "batter": "Miguel Cabrera",
+          "pitcher": "Dane Dunning",
+          "inning": 5,
+          "halfInning": "top",
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2
+          },
+          "recordedCall": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "countAfter": {
+            "balls": 1,
+            "strikes": 3,
+            "outs": 1
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Strikeout",
+            "eventType": "strikeout",
+            "description": "Miguel Cabrera strikes out swinging.",
+            "rbi": 0,
+            "awayScore": 0,
+            "homeScore": 6,
+            "isOut": true
+          },
+          "feedPath": "/workspace/check-swing/expansion500/legacy_middle/retrosheet-pass2/35-feed.json",
+          "feedUrl": "https://statsapi.mlb.com/api/v1.1/game/717580/feed/live",
+          "reportUrl": "https://www.closecallsports.com/2023/06/mlb-ejection-126-ben-may-1-miguel.html",
+          "evidenceExcerpt": "ruled a ball by HP Umpire Chris Segal and called a swinging third strike on appeal by 1B Umpire May"
+        },
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/cabrera20230628-audit-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/cabrera-dense.jpg"
+        ],
+        "callerVisualEvidence": []
+      }
+    },
+    {
+      "id": "andrus20230409",
+      "batter": "Elvis Andrus",
+      "date": "2023-04-09",
+      "matchup": "CWS at PIT",
+      "base": 1,
+      "strike": true,
+      "start": 78.6,
+      "end": 82.7,
+      "umpire": "On-field crew · deciding umpire unconfirmed",
+      "context": "Andrus checked his swing on an 0–1 sinker from Johan Oviedo in the fifth inning. The pitch was recorded as swinging strike two. The deciding umpire is unconfirmed in the available evidence.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/718653/feed/live",
+      "source": "https://www.mlb.com/video/white-sox-vs-pirates-highlights-x0700",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/09/be2c3932-3b9a5070-8180193c-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "andrus20230409",
+        "queueIndex": 28,
+        "decision": "approved_with_overrides",
+        "candidate": {
+          "id": "andrus20230409",
+          "batter": "Elvis Andrus",
+          "date": "2023-04-09",
+          "matchup": "CWS at PIT",
+          "base": 1,
+          "strike": true,
+          "start": 78.6,
+          "end": 82.7,
+          "umpire": "On-field crew · deciding umpire unconfirmed",
+          "context": "Andrus checked his swing on an 0–1 sinker from Johan Oviedo in the fifth inning. The pitch was recorded as swinging strike two. The deciding umpire is unconfirmed in the available evidence.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718653/feed/live",
+          "source": "https://www.mlb.com/video/white-sox-vs-pirates-highlights-x0700",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/09/be2c3932-3b9a5070-8180193c-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        },
+        "overrides": {
+          "umpire": "On-field crew · deciding umpire unconfirmed",
+          "context": "Andrus checked his swing on an 0–1 sinker from Johan Oviedo in the fifth inning. The pitch was recorded as swinging strike two. The deciding umpire is unconfirmed in the available evidence.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718653/feed/live"
+        },
+        "reasons": [
+          "Do not attribute decision to Fletcher from his first-base assignment or Clevinger ejection. Those facts do not establish he made the check decision. Named-caller version is rejected; accurate unknown-caller version is approved."
+        ],
+        "duplicateIds": [],
+        "visualVerified": true,
+        "fullMotionVerified": true,
+        "rulingVerified": true,
+        "dateVerified": true,
+        "exactPitchVerified": true,
+        "callerVerified": false,
+        "callerPolicy": "Explicit unknown-caller label; do not infer a person.",
+        "proof": {
+          "gamePk": 718653,
+          "officialDate": "2023-04-09",
+          "atBatIndex": 32,
+          "pitchNumber": 2,
+          "playId": "2de8c4e0-5d32-4b3a-a957-48269d3644e6",
+          "batter": "Elvis Andrus",
+          "pitcher": "Johan Oviedo",
+          "inning": 5,
+          "halfInning": "top",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 1
+          },
+          "recordedCall": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "countAfter": {
+            "balls": 0,
+            "strikes": 2,
+            "outs": 2
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Flyout",
+            "eventType": "field_out",
+            "description": "Elvis Andrus flies out to center fielder Jack Suwinski.",
+            "rbi": 0,
+            "awayScore": 0,
+            "homeScore": 1,
+            "isOut": true
+          },
+          "feedPath": "/workspace/check-swing/expansion500/legacy_middle/retrosheet-pass2/28-feed.json",
+          "feedUrl": "https://statsapi.mlb.com/api/v1.1/game/718653/feed/live",
+          "reportUrl": "https://www.retrosheet.org/events/2023eve.zip",
+          "evidenceExcerpt": "MLB feed play2de8c4e0-5d32-4b3a-a957-48269d3644e6, pitch2: Swinging Strike S, count0–2. Ejection action names Fletcher but not check caller."
+        },
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/andrus20230409-audit-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/andrus-highlight-dense.jpg"
+        ],
+        "callerVisualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/andrus-caller.jpg"
+        ]
+      }
+    },
+    {
+      "id": "phillips20220805",
+      "batter": "Brett Phillips",
+      "date": "2022-08-05",
+      "matchup": "PIT at BAL",
+      "base": 3,
+      "strike": false,
+      "start": 168.05,
+      "end": 171.75,
+      "umpire": "Chris Conroy · third base (three-umpire crew)",
+      "context": "Conroy ruled no swing on Phillips’s 1–0 sinker in the eighth, making the count 2–0. Conroy worked from the middle infield in a three-umpire crew.",
+      "evidence": "https://www.closecallsports.com/2022/08/mlb-ejection-121-edwin-moscoso-1-derek.html",
+      "source": "https://www.mlb.com/video/pirates-vs-orioles-highlights",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-08/05/f017227f-c0944b59-d05668e2-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "phillips20220805",
+        "queueIndex": 39,
+        "decision": "approved_with_overrides",
+        "candidate": {
+          "id": "phillips20220805",
+          "batter": "Brett Phillips",
+          "date": "2022-08-05",
+          "matchup": "PIT at BAL",
+          "base": 3,
+          "strike": false,
+          "start": 168.05,
+          "end": 171.75,
+          "umpire": "Chris Conroy · third base (three-umpire crew)",
+          "context": "Conroy ruled no swing on Phillips’s 1–0 sinker in the eighth, making the count 2–0. Conroy worked from the middle infield in a three-umpire crew.",
+          "evidence": "https://www.closecallsports.com/2022/08/mlb-ejection-121-edwin-moscoso-1-derek.html",
+          "source": "https://www.mlb.com/video/pirates-vs-orioles-highlights",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-08/05/f017227f-c0944b59-d05668e2-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        },
+        "overrides": {
+          "umpire": "Chris Conroy · third base (three-umpire crew)",
+          "context": "Conroy ruled no swing on Phillips’s 1–0 sinker in the eighth, making the count 2–0. Conroy worked from the middle infield in a three-umpire crew."
+        },
+        "reasons": [
+          "CCS body says 'swinging strike' while heading/incident says ball two. Feed pitch2 is B with count2–0, broadcast scoreboard2–0, and live Conroy arms-out no-swing signal at about155.0–155.4s establish no swing. CCS explicitly identifies Conroy as appeal caller; this is not inferred merely from crew assignment."
+        ],
+        "duplicateIds": [],
+        "visualVerified": true,
+        "fullMotionVerified": true,
+        "rulingVerified": true,
+        "dateVerified": true,
+        "exactPitchVerified": true,
+        "callerVerified": true,
+        "callerPolicy": "Named caller verified from report and/or visible appeal.",
+        "proof": {
+          "gamePk": 661048,
+          "officialDate": "2022-08-05",
+          "atBatIndex": 63,
+          "pitchNumber": 2,
+          "playId": "e8f08f41-edc8-4a5a-ac4a-2d407bedc2c8",
+          "batter": "Brett Phillips",
+          "pitcher": "Yohan Ramírez",
+          "inning": 8,
+          "halfInning": "bottom",
+          "countBefore": {
+            "balls": 1,
+            "strikes": 0
+          },
+          "recordedCall": {
+            "code": "B",
+            "description": "Ball"
+          },
+          "countAfter": {
+            "balls": 2,
+            "strikes": 0,
+            "outs": 2
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Pop Out",
+            "eventType": "field_out",
+            "description": "Brett Phillips pops out to shortstop Oneil Cruz.",
+            "rbi": 0,
+            "awayScore": 0,
+            "homeScore": 1,
+            "isOut": true
+          },
+          "feedPath": "/workspace/check-swing/expansion500/legacy_middle/retrosheet-pass2/39-feed.json",
+          "feedUrl": "https://statsapi.mlb.com/api/v1.1/game/661048/feed/live",
+          "reportUrl": "https://www.closecallsports.com/2022/08/mlb-ejection-121-edwin-moscoso-1-derek.html",
+          "evidenceExcerpt": "report heading/check swing ball two; body explicitly names appeal by3B Umpire Chris Conroy working from C position; live arms-out signal and feedB count2–0 resolve contradictory swinging-strike wording."
+        },
+        "visualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/phillips20220805-audit-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/phillips-highlight-dense.jpg"
+        ],
+        "callerVisualEvidence": [
+          "/workspace/check-swing/expansion500/hbp-2024-2026-v2/phillips-caller.jpg"
+        ]
+      }
+    },
+    {
+      "id": "bubba-thompson-20220811",
+      "batter": "Bubba Thompson",
+      "date": "2022-08-11",
+      "matchup": "TEX at HOU",
+      "base": 1,
+      "strike": false,
+      "start": 14.65,
+      "end": 18.9,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the third: Thompson checks on an 0–2 sinker from Framber Valdez. Houston’s hit-by-pitch challenge is upheld.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/662722/feed/live",
+      "source": "https://www.mlb.com/video/thompson-hbp-stands-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-08/11/1086ce12-a87a14db-77175f01-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "bubba-thompson-20220811",
+        "queueIndex": 40,
+        "status": "approved_with_corrections",
+        "reason": "Clear forward bat/hand movement followed by arrest and return in a complete first-base-side replay.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/40-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-40-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 662722,
+          "officialDate": "2022-08-11",
+          "atBatIndex": 20,
+          "inning": 3,
+          "halfInning": "top",
+          "batter": "Bubba Thompson",
+          "pitcher": "Framber Valdez",
+          "pitchNumber": 5,
+          "playId": "6e17facb-97f5-4b5a-a23a-1132f1b50275",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "SI",
+            "description": "Sinker"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Astros challenged (hit by pitch), call on the field was upheld: Bubba Thompson hit by pitch. Ezequiel Duran to 2nd.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-662722.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "bubba-thompson-20220811",
+          "batter": "Bubba Thompson",
+          "date": "2022-08-11",
+          "matchup": "TEX at HOU",
+          "base": 1,
+          "strike": false,
+          "start": 14.65,
+          "end": 18.9,
+          "umpire": "Unknown",
+          "context": "Top of the third: Thompson checks on an 0–2 sinker from Framber Valdez. Houston’s hit-by-pitch challenge is upheld.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/662722/feed/live",
+          "source": "https://www.mlb.com/video/thompson-hbp-stands-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-08/11/1086ce12-a87a14db-77175f01-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "anthony-rizzo-20220726",
+      "batter": "Anthony Rizzo",
+      "date": "2022-07-26",
+      "matchup": "NYY at NYM",
+      "base": 3,
+      "strike": false,
+      "start": 40.6,
+      "end": 46.7,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the seventh: Rizzo checks on a 2–2 sweeper from Adam Ottavino and is awarded hit by pitch after review.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/662438/feed/live",
+      "source": "https://www.mlb.com/video/rizzo-hbp-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-07/26/188ad95a-4d83b1b7-110e1db2-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "anthony-rizzo-20220726",
+        "queueIndex": 47,
+        "status": "approved_with_corrections",
+        "reason": "Full left-handed forward bat movement, arrest, and return are visible from the third-base side. Trim end to46.7 to omit catcher appeal/reaction; proposed start40.6 is already after preceding umpire shot.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/47-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-47-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 662438,
+          "officialDate": "2022-07-26",
+          "atBatIndex": 55,
+          "inning": 7,
+          "halfInning": "top",
+          "batter": "Anthony Rizzo",
+          "pitcher": "Adam Ottavino",
+          "pitchNumber": 5,
+          "playId": "8edf71b5-cc0d-49e1-b191-85cb3715e92a",
+          "countBefore": {
+            "balls": 2,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "ST",
+            "description": "Sweeper"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Anthony Rizzo hit by pitch. Aaron Judge to 2nd.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-662438.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "anthony-rizzo-20220726",
+          "batter": "Anthony Rizzo",
+          "date": "2022-07-26",
+          "matchup": "NYY at NYM",
+          "base": 3,
+          "strike": false,
+          "start": 40.6,
+          "end": 46.7,
+          "umpire": "Unknown",
+          "context": "Top of the seventh: Rizzo checks on a 2–2 sweeper from Adam Ottavino and is awarded hit by pitch after review.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/662438/feed/live",
+          "source": "https://www.mlb.com/video/rizzo-hbp-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-07/26/188ad95a-4d83b1b7-110e1db2-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "jt-realmuto-20220528",
+      "batter": "J.T. Realmuto",
+      "date": "2022-05-28",
+      "matchup": "PHI at NYM",
+      "base": 1,
+      "strike": false,
+      "start": 19.55,
+      "end": 24.8,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the eighth: Realmuto checks on a first-pitch changeup from Adam Ottavino. Philadelphia successfully challenges the pitch and Realmuto is awarded hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/662556/feed/live",
+      "source": "https://www.mlb.com/video/realmuto-hbp-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/28/ec7a2b07-2bfafdb3-f989dda8-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "jt-realmuto-20220528",
+        "queueIndex": 78,
+        "status": "approved",
+        "reason": "Hands and bat initiate forward before stopping; full load-to-check sequence is visible from the first-base side.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/78-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-78-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 662556,
+          "officialDate": "2022-05-28",
+          "atBatIndex": 67,
+          "inning": 8,
+          "halfInning": "top",
+          "batter": "J.T. Realmuto",
+          "pitcher": "Adam Ottavino",
+          "pitchNumber": 1,
+          "playId": "c5c7287b-0f56-49df-b937-69dff16223fe",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 0
+          },
+          "pitchType": {
+            "code": "CH",
+            "description": "Changeup"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "J.T. Realmuto hit by pitch. Rhys Hoskins to 2nd.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-662556.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "jt-realmuto-20220528",
+          "batter": "J.T. Realmuto",
+          "date": "2022-05-28",
+          "matchup": "PHI at NYM",
+          "base": 1,
+          "strike": false,
+          "start": 19.55,
+          "end": 24.8,
+          "umpire": "Unknown",
+          "context": "Top of the eighth: Realmuto checks on a first-pitch changeup from Adam Ottavino. Philadelphia successfully challenges the pitch and Realmuto is awarded hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/662556/feed/live",
+          "source": "https://www.mlb.com/video/realmuto-hbp-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/28/ec7a2b07-2bfafdb3-f989dda8-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "jonathan-schoop-20220515",
+      "batter": "Jonathan Schoop",
+      "date": "2022-05-15",
+      "matchup": "BAL at DET",
+      "base": 1,
+      "strike": false,
+      "start": 36.85,
+      "end": 45.5,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of the eighth: Schoop checks on a first-pitch fastball from Bryan Baker. Detroit’s challenge overturns the initial call and Schoop is awarded hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/662843/feed/live",
+      "source": "https://www.mlb.com/video/jonathan-schoop-hbp-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/15/f2a900e3-1be51eea-f1b8c95a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "jonathan-schoop-20220515",
+        "queueIndex": 85,
+        "status": "approved",
+        "reason": "Clear bat acceleration forward then arrest before a full follow-through; full loaded stance and checked position visible.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/85-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-85-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 662843,
+          "officialDate": "2022-05-15",
+          "atBatIndex": 61,
+          "inning": 8,
+          "halfInning": "bottom",
+          "batter": "Jonathan Schoop",
+          "pitcher": "Bryan Baker",
+          "pitchNumber": 1,
+          "playId": "99ae6f82-7821-4611-9209-4622081d41e9",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 0
+          },
+          "pitchType": {
+            "code": "FF",
+            "description": "Four-Seam Fastball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Tigers challenged (hit by pitch), call on the field was overturned: Jonathan Schoop hit by pitch. Miguel Cabrera to 2nd.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-662843.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "jonathan-schoop-20220515",
+          "batter": "Jonathan Schoop",
+          "date": "2022-05-15",
+          "matchup": "BAL at DET",
+          "base": 1,
+          "strike": false,
+          "start": 36.85,
+          "end": 45.5,
+          "umpire": "Unknown",
+          "context": "Bottom of the eighth: Schoop checks on a first-pitch fastball from Bryan Baker. Detroit’s challenge overturns the initial call and Schoop is awarded hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/662843/feed/live",
+          "source": "https://www.mlb.com/video/jonathan-schoop-hbp-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/15/f2a900e3-1be51eea-f1b8c95a-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "matt-chapman-20230720",
+      "batter": "Matt Chapman",
+      "date": "2023-07-20",
+      "matchup": "SD at TOR",
+      "base": 1,
+      "strike": false,
+      "start": 19.95,
+      "end": 25.1,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of the seventh: Chapman checks on a fastball from Luis García. The reviewed pitch is ruled hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/717331/feed/live",
+      "source": "https://www.mlb.com/video/matt-chapman-hit-by-a-pitch",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-07/20/cb5e9d4b-44dcc524-265a61e5-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "matt-chapman-20230720",
+        "queueIndex": 151,
+        "status": "approved",
+        "reason": "Chapman begins a forward bat turn and stops it as the pitch reaches the hands; continuous full first-base-side sequence.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/151-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-151-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 717331,
+          "officialDate": "2023-07-20",
+          "atBatIndex": 58,
+          "inning": 7,
+          "halfInning": "bottom",
+          "batter": "Matt Chapman",
+          "pitcher": "Luis García",
+          "pitchNumber": 3,
+          "playId": "36f316ba-b16c-470b-ae3a-da0554e8115f",
+          "countBefore": {
+            "balls": 2,
+            "strikes": 0
+          },
+          "pitchType": {
+            "code": "FF",
+            "description": "Four-Seam Fastball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Matt Chapman hit by pitch.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-717331.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "matt-chapman-20230720",
+          "batter": "Matt Chapman",
+          "date": "2023-07-20",
+          "matchup": "SD at TOR",
+          "base": 1,
+          "strike": false,
+          "start": 19.95,
+          "end": 25.1,
+          "umpire": "Unknown",
+          "context": "Bottom of the seventh: Chapman checks on a fastball from Luis García. The reviewed pitch is ruled hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/717331/feed/live",
+          "source": "https://www.mlb.com/video/matt-chapman-hit-by-a-pitch",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-07/20/cb5e9d4b-44dcc524-265a61e5-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "ty-france-20230703",
+      "batter": "Ty France",
+      "date": "2023-07-03",
+      "matchup": "SEA at SF",
+      "base": 1,
+      "strike": false,
+      "start": 35.05,
+      "end": 41.0,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the ninth: France checks on Camilo Doval’s pitch with two strikes. The reviewed pitch is ruled hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/717516/feed/live",
+      "source": "https://www.mlb.com/video/france-hbp-after-a-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-07/04/ea5ad91f-27b59759-39aea166-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "ty-france-20230703",
+        "queueIndex": 158,
+        "status": "approved",
+        "reason": "France starts the bat forward and visibly stops it before falling away. Complete onset/check is visible; evasive fall follows the checking motion.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/158-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-158-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 717516,
+          "officialDate": "2023-07-03",
+          "atBatIndex": 63,
+          "inning": 9,
+          "halfInning": "top",
+          "batter": "Ty France",
+          "pitcher": "Camilo Doval",
+          "pitchNumber": 4,
+          "playId": "6850f83c-a28f-4663-a17c-90852c853586",
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "FC",
+            "description": "Cutter"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Giants challenged (hit by pitch), call on the field was upheld: Ty France hit by pitch.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-717516.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "ty-france-20230703",
+          "batter": "Ty France",
+          "date": "2023-07-03",
+          "matchup": "SEA at SF",
+          "base": 1,
+          "strike": false,
+          "start": 35.05,
+          "end": 41.0,
+          "umpire": "Unknown",
+          "context": "Top of the ninth: France checks on Camilo Doval’s pitch with two strikes. The reviewed pitch is ruled hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/717516/feed/live",
+          "source": "https://www.mlb.com/video/france-hbp-after-a-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-07/04/ea5ad91f-27b59759-39aea166-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "ezequiel-tovar-20230702",
+      "batter": "Ezequiel Tovar",
+      "date": "2023-07-02",
+      "matchup": "DET at COL",
+      "base": 1,
+      "strike": false,
+      "start": 26.85,
+      "end": 31.75,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of the first: Tovar checks on Matt Manning’s four-seam fastball. The third pitch of the plate appearance is ruled hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/717523/feed/live",
+      "source": "https://www.mlb.com/video/tigers-challenged-hit-by-pitch-call-on-the-field-was-upheld-ezequiel-tova",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-07/02/9bbbd572-042e4ef8-2eac0e8d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "ezequiel-tovar-20230702",
+        "queueIndex": 160,
+        "status": "approved",
+        "reason": "Tovar initiates forward bat movement, arrests it, and keeps the barrel from following through. Loaded stance and maximum checked extent are present.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/160-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-160-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 717523,
+          "officialDate": "2023-07-02",
+          "atBatIndex": 8,
+          "inning": 1,
+          "halfInning": "bottom",
+          "batter": "Ezequiel Tovar",
+          "pitcher": "Matt Manning",
+          "pitchNumber": 3,
+          "playId": "7b723c1c-c0ea-44dc-a573-f1c17d0e2356",
+          "countBefore": {
+            "balls": 1,
+            "strikes": 1
+          },
+          "pitchType": {
+            "code": "FF",
+            "description": "Four-Seam Fastball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Tigers challenged (hit by pitch), call on the field was upheld: Ezequiel Tovar hit by pitch.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-717523.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "ezequiel-tovar-20230702",
+          "batter": "Ezequiel Tovar",
+          "date": "2023-07-02",
+          "matchup": "DET at COL",
+          "base": 1,
+          "strike": false,
+          "start": 26.85,
+          "end": 31.75,
+          "umpire": "Unknown",
+          "context": "Bottom of the first: Tovar checks on Matt Manning’s four-seam fastball. The third pitch of the plate appearance is ruled hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/717523/feed/live",
+          "source": "https://www.mlb.com/video/tigers-challenged-hit-by-pitch-call-on-the-field-was-upheld-ezequiel-tova",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-07/02/9bbbd572-042e4ef8-2eac0e8d-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "pete-alonso-20230526",
+      "batter": "Pete Alonso",
+      "date": "2023-05-26",
+      "matchup": "NYM at COL",
+      "base": 1,
+      "strike": false,
+      "start": 16.35,
+      "end": 22.45,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the ninth: Alonso checks on an 0–1 sweeper from Brad Hand. Colorado’s hit-by-pitch challenge is upheld.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/718016/feed/live",
+      "source": "https://www.mlb.com/video/pete-alonso-hbp-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-05/26/190a87ad-98c6992a-61d7ee37-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "pete-alonso-20230526",
+        "queueIndex": 173,
+        "status": "approved_with_corrections",
+        "reason": "Alonso starts his hands/barrel forward, then checks; complete loaded stance through arrested bat is visible.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/173-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-173-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 718016,
+          "officialDate": "2023-05-26",
+          "atBatIndex": 70,
+          "inning": 9,
+          "halfInning": "top",
+          "batter": "Pete Alonso",
+          "pitcher": "Brad Hand",
+          "pitchNumber": 2,
+          "playId": "3a4dc4a6-f17c-425f-8da3-0b3c7a86c265",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 1
+          },
+          "pitchType": {
+            "code": "ST",
+            "description": "Sweeper"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Rockies challenged (hit by pitch), call on the field was upheld: Pete Alonso hit by pitch.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-718016.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "pete-alonso-20230526",
+          "batter": "Pete Alonso",
+          "date": "2023-05-26",
+          "matchup": "NYM at COL",
+          "base": 1,
+          "strike": false,
+          "start": 16.35,
+          "end": 22.45,
+          "umpire": "Unknown",
+          "context": "Top of the ninth: Alonso checks on an 0–1 sweeper from Brad Hand. Colorado’s hit-by-pitch challenge is upheld.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718016/feed/live",
+          "source": "https://www.mlb.com/video/pete-alonso-hbp-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-05/26/190a87ad-98c6992a-61d7ee37-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "anthony-rizzo-20230416",
+      "batter": "Anthony Rizzo",
+      "date": "2023-04-16",
+      "matchup": "MIN at NYY",
+      "base": 3,
+      "strike": false,
+      "start": 20.55,
+      "end": 27.4,
+      "umpire": "Deciding umpire not identified",
+      "context": "Bottom of the third: Rizzo checks on Pablo López’s first-pitch curveball. The reviewed pitch is ruled hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/718557/feed/live",
+      "source": "https://www.mlb.com/video/anthony-rizzo-s-hbp-stands",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/16/801a8608-95bb68c3-d67224bd-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "anthony-rizzo-20230416",
+        "queueIndex": 191,
+        "status": "approved",
+        "reason": "Rizzo starts forward, checks the barrel and holds the bat in front as he recoils. Complete third-base-side sequence.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/191-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-191-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 718557,
+          "officialDate": "2023-04-16",
+          "atBatIndex": 20,
+          "inning": 3,
+          "halfInning": "bottom",
+          "batter": "Anthony Rizzo",
+          "pitcher": "Pablo López",
+          "pitchNumber": 1,
+          "playId": "cd7d326f-0b2f-4c9d-a91f-961b27832ad0",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 0
+          },
+          "pitchType": {
+            "code": "CU",
+            "description": "Curveball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Twins challenged (hit by pitch), call on the field was upheld: Anthony Rizzo hit by pitch. Aaron Judge to 2nd.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-718557.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "anthony-rizzo-20230416",
+          "batter": "Anthony Rizzo",
+          "date": "2023-04-16",
+          "matchup": "MIN at NYY",
+          "base": 3,
+          "strike": false,
+          "start": 20.55,
+          "end": 27.4,
+          "umpire": "Unknown",
+          "context": "Bottom of the third: Rizzo checks on Pablo López’s first-pitch curveball. The reviewed pitch is ruled hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718557/feed/live",
+          "source": "https://www.mlb.com/video/anthony-rizzo-s-hbp-stands",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/16/801a8608-95bb68c3-d67224bd-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "andrew-mccutchen-20230405",
+      "batter": "Andrew McCutchen",
+      "date": "2023-04-05",
+      "matchup": "PIT at BOS",
+      "base": 1,
+      "strike": false,
+      "start": 26.1,
+      "end": 30.8,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the ninth: McCutchen checks on Zack Kelly’s four-seam fastball with two strikes. The reviewed pitch is ruled hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/718702/feed/live",
+      "source": "https://www.mlb.com/video/andrew-mccutchen-s-hbp-stands",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/05/b04a7bfe-919feda0-c3a6524c-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "andrew-mccutchen-20230405",
+        "queueIndex": 197,
+        "status": "approved",
+        "reason": "McCutchen starts the hands/barrel forward, arrests the swing, then recoils. Complete first-base-side sequence.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/197-dense.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-197-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 718702,
+          "officialDate": "2023-04-05",
+          "atBatIndex": 67,
+          "inning": 9,
+          "halfInning": "top",
+          "batter": "Andrew McCutchen",
+          "pitcher": "Zack Kelly",
+          "pitchNumber": 3,
+          "playId": "1b1fbed7-583a-4ed4-9f94-f77b74f99049",
+          "countBefore": {
+            "balls": 0,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "FF",
+            "description": "Four-Seam Fastball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "Red Sox challenged (hit by pitch), call on the field was upheld: Andrew McCutchen hit by pitch. Bryan Reynolds to 2nd.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-718702.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "andrew-mccutchen-20230405",
+          "batter": "Andrew McCutchen",
+          "date": "2023-04-05",
+          "matchup": "PIT at BOS",
+          "base": 1,
+          "strike": false,
+          "start": 26.1,
+          "end": 30.8,
+          "umpire": "Unknown",
+          "context": "Top of the ninth: McCutchen checks on Zack Kelly’s four-seam fastball with two strikes. The reviewed pitch is ruled hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718702/feed/live",
+          "source": "https://www.mlb.com/video/andrew-mccutchen-s-hbp-stands",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/05/b04a7bfe-919feda0-c3a6524c-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    },
+    {
+      "id": "lamonte-wade-jr-20230402",
+      "batter": "LaMonte Wade Jr.",
+      "date": "2023-04-02",
+      "matchup": "SF at NYY",
+      "base": 3,
+      "strike": false,
+      "start": 37.05,
+      "end": 44.5,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of the eighth: Wade checks on Colten Brewer’s curveball with two strikes. The reviewed pitch is ruled hit by pitch.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/718747/feed/live",
+      "source": "https://www.mlb.com/video/lamonte-wade-jr-hbp-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/02/1aff084b-01a9a430-57eec926-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "independentAudit": {
+        "id": "lamonte-wade-jr-20230402",
+        "queueIndex": 198,
+        "status": "approved",
+        "reason": "Wade begins the bat turn forward before stopping and pulling it back; the continuous third-base-side replay includes onset and checked extent.",
+        "duplicateCanonical150": [],
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/198-dense.jpg",
+          "/workspace/check-swing/expansion500/hbp-2022-2023-v2/198-dense2.jpg",
+          "/workspace/check-swing/expansion500/event-recovery-v2/audit-hbp-198-full.jpg"
+        ],
+        "exactFeedProof": {
+          "gamePk": 718747,
+          "officialDate": "2023-04-02",
+          "atBatIndex": 59,
+          "inning": 8,
+          "halfInning": "top",
+          "batter": "LaMonte Wade Jr.",
+          "pitcher": "Colten Brewer",
+          "pitchNumber": 4,
+          "playId": "ce3ec09e-4bf4-4a5c-9abc-5853892ec7d8",
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2
+          },
+          "pitchType": {
+            "code": "CU",
+            "description": "Curveball"
+          },
+          "finalPitchCall": {
+            "code": "H",
+            "description": "Hit By Pitch"
+          },
+          "plateAppearanceResult": "LaMonte Wade Jr. hit by pitch.",
+          "gameFile": "/workspace/check-swing/expansion500/hbp-2022-2023-v2/game-718747.json"
+        },
+        "callerReview": "Keep Unknown. No identifiable swing-decision signal was independently established; game crew membership or HBP/replay award alone does not identify the check caller.",
+        "approvedCandidate": {
+          "id": "lamonte-wade-jr-20230402",
+          "batter": "LaMonte Wade Jr.",
+          "date": "2023-04-02",
+          "matchup": "SF at NYY",
+          "base": 3,
+          "strike": false,
+          "start": 37.05,
+          "end": 44.5,
+          "umpire": "Unknown",
+          "context": "Top of the eighth: Wade checks on Colten Brewer’s curveball with two strikes. The reviewed pitch is ruled hit by pitch.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718747/feed/live",
+          "source": "https://www.mlb.com/video/lamonte-wade-jr-hbp-after-review",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/02/1aff084b-01a9a430-57eec926-csvm-diamondx64-asset_1280x720_59_4000K.mp4"
+        }
+      }
+    }
+  ]
+}
