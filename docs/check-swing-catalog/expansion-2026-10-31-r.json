@@ -1,0 +1,543 @@
+{
+  "added": 2,
+  "total": 460,
+  "dailyActivation": "2026-11-01",
+  "discovery": "Public MLB condensed-game caption mining, followed by primary and independent footage/ruling review of exact fresh pitches. Actual specific appeals establish these attempted checks ruled swings; full side motion and clean bounds are independently verified.",
+  "clips": [
+    {
+      "id": "cabrera20210910",
+      "batter": "Miguel Cabrera",
+      "date": "2021-09-10",
+      "matchup": "TB at DET",
+      "base": 1,
+      "strike": true,
+      "start": 403.220967,
+      "end": 407.020967,
+      "umpire": "Unknown",
+      "context": "Bottom of the sixth, tied 1–1: Cabrera tries to hold up on J.P. Feyereisen’s 1–2, 85.6 mph slider. The first-base appeal is ruled a swing for strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/632543/feed/live",
+      "source": "https://www.mlb.com/video/cg-tb-det-9-10-21",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/10/f86c3f9d-958a6aaf-bd463e02-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 632543,
+        "atBatIndex": 48,
+        "pitchNumber": 4,
+        "playId": "115d0ebb-0aab-4273-a2d6-c9465331b69d"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "cabrera20210910",
+          "batter": "Miguel Cabrera",
+          "date": "2021-09-10",
+          "matchup": "TB at DET",
+          "base": 1,
+          "strike": true,
+          "start": 403.220967,
+          "end": 407.020967,
+          "umpire": "Unknown",
+          "context": "Bottom of the sixth, tied 1–1: Cabrera tries to hold up on J.P. Feyereisen’s 1–2, 85.6 mph slider. The first-base appeal is ruled a swing for strike three.",
+          "source": "https://www.mlb.com/video/cg-tb-det-9-10-21",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/632543/feed/live",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/10/f86c3f9d-958a6aaf-bd463e02-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "availableFrom": "2026-11-01"
+        },
+        "proof": {
+          "gamePk": 632543,
+          "atBatIndex": 48,
+          "pitchNumber": 4,
+          "playId": "115d0ebb-0aab-4273-a2d6-c9465331b69d",
+          "freshFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block620-root/632543-root-fresh-feed.json",
+          "freshFeedSha256": "a45a5b1917d700d3921d26f79bf355a6d0dba3d722011864491cdf2d9f3c4eb4",
+          "pitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(0, 0, 254, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "SL",
+                "description": "Slider"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 1,
+              "strikes": 3,
+              "outs": 1
+            },
+            "pitchData": {
+              "startSpeed": 85.6,
+              "endSpeed": 79.5,
+              "strikeZoneTop": 3.549,
+              "strikeZoneBottom": 1.627,
+              "coordinates": {
+                "aY": 22.948178305274364,
+                "aZ": -28.893789240793843,
+                "pfxX": 2.7812145916517537,
+                "pfxZ": 2.071227149627145,
+                "pX": 1.9690531768945356,
+                "pZ": 2.219502827418152,
+                "vX0": 9.23823569380589,
+                "vY0": -124.45168880845138,
+                "vZ0": -3.3877131983429587,
+                "x": 41.94,
+                "y": 178.85,
+                "x0": -2.139284987175613,
+                "y0": 50.000961901781395,
+                "z0": 5.969426133538254,
+                "aX": 4.399082814095847
+              },
+              "breaks": {
+                "breakAngle": 10.8,
+                "breakLength": 7.2,
+                "breakY": 24.0,
+                "breakVertical": -34.0,
+                "breakVerticalInduced": 3.2,
+                "breakHorizontal": -7.0,
+                "spinRate": 2665,
+                "spinDirection": 126
+              },
+              "zone": 14,
+              "typeConfidence": 0.9,
+              "plateTime": 0.438652279679292,
+              "extension": 5.7814300328320485
+            },
+            "index": 5,
+            "playId": "115d0ebb-0aab-4273-a2d6-c9465331b69d",
+            "pitchNumber": 4,
+            "startTime": "2021-09-11T01:05:44.966Z",
+            "endTime": "2021-09-11T01:05:52.839Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "atBat": {
+            "about": {
+              "atBatIndex": 48,
+              "halfInning": "bottom",
+              "isTopInning": false,
+              "inning": 6,
+              "startTime": "2021-09-11T01:03:32.379Z",
+              "endTime": "2021-09-11T01:05:52.839Z",
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 14
+            },
+            "matchup": {
+              "batter": {
+                "id": 408234,
+                "fullName": "Miguel Cabrera",
+                "link": "/api/v1/people/408234"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 656420,
+                "fullName": "J.P. Feyereisen",
+                "link": "/api/v1/people/656420"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 543257,
+                "fullName": "Robbie Grossman",
+                "link": "/api/v1/people/543257"
+              },
+              "postOnThird": {
+                "id": 668731,
+                "fullName": "Akil Baddoo",
+                "link": "/api/v1/people/668731"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_RHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "RISP"
+              }
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Miguel Cabrera strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 1,
+              "homeScore": 1,
+              "isOut": true
+            }
+          },
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block620-root/629-native.mp4",
+          "localVideoSha256": "cd3e98fddff101eef189685e5f44121cf67cfc7757f95b81da9287e901aadfbb",
+          "nativeSourceOffset": 402.22096700000003,
+          "localCrop": 0,
+          "acceptedLocalBounds": [
+            1,
+            4.8
+          ],
+          "camera": "RHB chest-facing native replay is first-base side. Entire rounded loaded barrel visible at1.0–2.0 before forward launch around2.4.",
+          "motion": "Forward swing attempt through its finish/initial return by4.8. Actual appeal proves this is the judged check attempt; no unsupported claim of discrete physical brake/recoil. Native tail shows catcher makes separate appeal gesture much later around6.5; cut end before catcher rise/headturn/gesture.",
+          "sequence": "Full original coarse source: live Cabrera1–2 pitch and actual first-base strike fist before same-pitch side replay. Next live batter after replay. Raw caption explicitly says Appeal down the first James Hoyt ... rung him up; fresh crew James Hoye1B. Primary keepsUnknown pending independently verified native gesture/name.",
+          "captionExcerpts": [
+            "Nine straight hits for Cabrera the longest streak by a player 38 or older. Here's the one to get. He hold up. He went.",
+            "the longest streak by a player 38 or older. Here's the one to get. He hold up. He went.",
+            "38 or older. Here's the one to get. He hold up. He went. Appeal down the first James Hoyt",
+            "Here's the one to get. He hold up. He went. Appeal down the first James Hoyt Zack Greinke him up look like the right call.",
+            "He hold up. He went. Appeal down the first James Hoyt Zack Greinke him up look like the right call. Yeah sure they're really good on",
+            "He went. Appeal down the first James Hoyt Zack Greinke him up look like the right call. Yeah sure they're really good on that call.",
+            "Appeal down the first James Hoyt Zack Greinke him up look like the right call. Yeah sure they're really good on that call. Forwarding close to be in the strike."
+          ],
+          "crew": [
+            {
+              "official": {
+                "id": 490319,
+                "fullName": "Jordan Baker",
+                "link": "/api/v1/people/490319"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 428442,
+                "fullName": "James Hoye",
+                "link": "/api/v1/people/428442"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 503493,
+                "fullName": "Sean Barber",
+                "link": "/api/v1/people/503493"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 427053,
+                "fullName": "Mark Carlson",
+                "link": "/api/v1/people/427053"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "dedup": "ExactplayId absent both publishedcatalog/index; normalized batterdate absent canonical."
+        },
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block620-root/629-native.mp4",
+        "localVideoSourceOffset": 402.22096700000003
+      },
+      "independentAuditGroup": "season-condensed/reviews2021-season-block620-root/audit-luna-c/audit.json"
+    },
+    {
+      "id": "gonzalez20220909",
+      "batter": "Marwin Gonzalez",
+      "date": "2022-09-09",
+      "matchup": "TB at NYY",
+      "base": 3,
+      "strike": true,
+      "start": 304.0,
+      "end": 306.4,
+      "umpire": "Nick Mahrley",
+      "context": "Bottom of the fifth, the Yankees trailing 4–0 with one out: Gonzalez tries to hold up on Drew Rasmussen’s full-count, 95.5 mph fastball. Nick Mahrley rules the third-base appeal a swing for strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/661234/feed/live",
+      "source": "https://www.mlb.com/video/cg-tb-nyy-9-9-22",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/09/c5359a54-d95901b7-37b6d652-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 661234,
+        "atBatIndex": 44,
+        "pitchNumber": 7,
+        "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75"
+      },
+      "primaryEvidence": {
+        "id": "gonzalez20220909",
+        "batter": "Marwin Gonzalez",
+        "date": "2022-09-09",
+        "matchup": "TB at NYY",
+        "base": 3,
+        "strike": true,
+        "start": 304.0,
+        "end": 306.8,
+        "umpire": "Nick Mahrley",
+        "context": "Bottom 5, 3–2 count with one out: left-handed Marwin Gonzalez swings at Drew Rasmussen’s 95.5 mph four-seam fastball. Commentary says he tried to sell that he had checked, then reports the third-base appeal by Nick Mahrley as a swing and miss for strike three. Side replay shows a loaded pre-launch stance and the complete continuous swing/finish; no discrete stop/recoil is claimed.",
+        "availableFrom": "2022-09-10",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/661234/feed/live",
+        "source": "https://www.mlb.com/video/cg-tb-nyy-9-9-22",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-09/09/c5359a54-d95901b7-37b6d652-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "pitchIdentity": {
+          "gamePk": 661234,
+          "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75",
+          "atBatIndex": 44,
+          "pitchNumber": 7,
+          "callCode": "S",
+          "pitchType": "FF",
+          "startSpeed": 95.5
+        },
+        "proof": {
+          "gamePk": 661234,
+          "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75",
+          "atBatIndex": 44,
+          "pitchNumber": 7,
+          "freshPitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(188, 0, 33, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "FF",
+                "description": "Four-Seam Fastball"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 3,
+              "outs": 1
+            },
+            "pitchData": {
+              "startSpeed": 95.5,
+              "endSpeed": 87.1,
+              "strikeZoneTop": 3.53,
+              "strikeZoneBottom": 1.69,
+              "coordinates": {
+                "aY": 32.25104696284189,
+                "aZ": -12.639546762792113,
+                "pfxX": 0.17942363540709705,
+                "pfxZ": 10.07440938861684,
+                "pX": 0.9935722358190638,
+                "pZ": 2.0695679369614797,
+                "vX0": 7.139827950188965,
+                "vY0": -138.68200403617595,
+                "vZ0": -7.989693653990937,
+                "x": 79.13,
+                "y": 182.9,
+                "x0": -1.6424761976301296,
+                "y0": 50.00679897000758,
+                "z0": 5.8393585230473395,
+                "aX": 0.34829634373910456
+              },
+              "breaks": {
+                "breakAngle": 7.2,
+                "breakLength": 3.6,
+                "breakY": 24.0,
+                "breakVertical": -13.6,
+                "breakVerticalInduced": 16.7,
+                "breakHorizontal": -1.9,
+                "spinRate": 2505,
+                "spinDirection": 198
+              },
+              "zone": 14,
+              "typeConfidence": 2.0,
+              "plateTime": 0.39558800438821873,
+              "extension": 6.545154606769519
+            },
+            "index": 6,
+            "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75",
+            "pitchNumber": 7,
+            "startTime": "2022-09-10T01:32:41.391Z",
+            "endTime": "2022-09-10T01:32:47.243Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshMatchup": {
+            "batter": {
+              "id": 503556,
+              "fullName": "Marwin Gonzalez",
+              "link": "/api/v1/people/503556"
+            },
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "pitcher": {
+              "id": 656876,
+              "fullName": "Drew Rasmussen",
+              "link": "/api/v1/people/656876"
+            },
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "postOnFirst": {
+              "id": 543309,
+              "fullName": "Kyle Higashioka",
+              "link": "/api/v1/people/543309"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_RHP",
+              "pitcher": "vs_LHB",
+              "menOnBase": "Men_On"
+            }
+          },
+          "freshAbout": {
+            "atBatIndex": 44,
+            "halfInning": "bottom",
+            "isTopInning": false,
+            "inning": 5,
+            "startTime": "2022-09-10T01:29:11.839Z",
+            "endTime": "2022-09-10T01:32:47.243Z",
+            "isComplete": true,
+            "isScoringPlay": false,
+            "hasReview": false,
+            "hasOut": true,
+            "captivatingIndex": 14
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Strikeout",
+            "eventType": "strikeout",
+            "description": "Marwin Gonzalez strikes out swinging.",
+            "rbi": 0,
+            "awayScore": 4,
+            "homeScore": 0,
+            "isOut": true
+          },
+          "countBeforePitch": {
+            "balls": 3,
+            "strikes": 2,
+            "outs": 1
+          },
+          "freshFeedUrl": "https://statsapi.mlb.com/api/v1.1/game/661234/feed/live",
+          "freshFeedFile": "661234-fresh-feed.json",
+          "freshFeedSha256": "0c74d092a7921c438b5107fd6bc6182cec315ea9d0f225699b739d6aea0d9d44",
+          "native": {
+            "nativePath": "651-1-native-complete.mp4",
+            "sha256": "294b7ac4e391b5550669b934fc3c4f245ddd7a81a3ec8bae0de00461e7555843",
+            "sourceOffsetSeconds": 304.0,
+            "localCropStartSeconds": 0.0,
+            "relevantLocalIntervalSeconds": [
+              0.0,
+              2.8
+            ],
+            "absoluteSourceIntervalSeconds": [
+              304.0,
+              306.8
+            ],
+            "resolution": "1280x720",
+            "frameRate": "60000/1001",
+            "camera": "base-side/chest-facing view of left-handed Gonzalez",
+            "basis": "Clean loaded position at entry; forward launch at ~0.2–0.4, full continuous swing/finish, upright at 2.8 before catcher rise and transition. No discrete stop/recoil. Broadcast explicitly describes a checked attempt claim and third-base appeal."
+          },
+          "captionCue": "“Gonzalez tried to sell that he had checked. And on the appeal down the third Nick Mahrley says he is out on strikes and a swing and miss to retire the side.”",
+          "callerAttribution": "Nick Mahrley is named in broadcast narration for the third-base appeal; gesture/role is not isolated on the side replay."
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2022-archive-block640-659-luna/audit-root/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/reviews2021-season-block620-root/audit-luna-c/audit.json": {
+      "schemaVersion": 1,
+      "reviewer": "Luna",
+      "decision": "accept",
+      "candidateId": "cabrera20210910",
+      "candidatePath": "approved-candidates.json",
+      "candidateSha256": "f5ac245afdbb4180a66c2a7e8add813745158458d158cc69e20760019de39079",
+      "evidenceManifest": "evidence-manifest.json",
+      "finding": "Independent positive review. Exact official feed pitch, full native loaded-to-finish first-base-side attempt, and same-pitch specific appeal are supported. The attempted checked swing qualifies on the actual appeal ruling; do not claim physical brake/recoil. Caller remains Unknown. Candidate source bounds are absolute source 403.220967–407.020967s and independent extracted proof local 0–3.8s. Later catcher gesture at native original local ~6.5s excluded.",
+      "checks": {
+        "exactPitch": true,
+        "completeLoadedOnset": true,
+        "fullFinishOrReturn": true,
+        "specificSamePitchAppeal": true,
+        "cleanNoSpoilerBounds": true,
+        "callerVerified": false,
+        "physicalRecoilClaimed": false,
+        "deduplicated": true
+      }
+    },
+    "season-condensed/reviews2022-archive-block640-659-luna/audit-root/audit.json": {
+      "candidateId": "gonzalez20220909",
+      "reviewer": "root independent",
+      "decision": "accept-with-shorter-end",
+      "primaryFile": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/candidates.json",
+      "primarySha256": "c12cdf2e13c46187936d1b2a4c3348d9d4a08d3026af5c69137d873e35706556",
+      "gamePk": 661234,
+      "atBatIndex": 44,
+      "pitchNumber": 7,
+      "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75",
+      "freshFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/661234-root-fresh-feed.json",
+      "freshFeedSha256": "0c74d092a7921c438b5107fd6bc6182cec315ea9d0f225699b739d6aea0d9d44",
+      "ownVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/marwin-peer-motion.mp4",
+      "ownVideoSha256": "6cb21b9539215beb6740d4856466943ff7da1dcb53122b4280faaa9ff524254a",
+      "originalVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/651-1-native-complete.mp4",
+      "originalVideoSha256": "294b7ac4e391b5550669b934fc3c4f245ddd7a81a3ec8bae0de00461e7555843",
+      "sourceOffset": 304.0,
+      "localCrop": 0,
+      "acceptedLocalBounds": [
+        0,
+        2.4
+      ],
+      "acceptedSourceBounds": [
+        304.0,
+        306.4
+      ],
+      "motion": "Whole rounded loaded barrel and hands before forward initiation visible in own full native0/.1/.2. Forward action continues through low finish and initial return by2.4. Actual appealed attempt ruled a swing; no claim of successful physical arrest/recoil.",
+      "camera": "LHB chest/front view from third-base side; verified batter14 after finish and fresh Gonzalez LHB matchup.",
+      "boundaries": "Shorten primary end2.8 to2.4 because catcher begins separate appeal/headturn and rising/gesturing around2.6–2.8. End2.4 retains low complete forward finish/initial return before that spoiler. Source0 clean loaded before initiation.",
+      "sequence": "Reviewed retained live→appeal→sameGonzalezLHB14 side→nextinning sequence; freshAB44 bottom5 fullcount withoneout fits4–0Rayslead, Rasmussen95.5FF andstrikeout.",
+      "appealAndCaller": "Frozen raw broadcast cues explicitly say Gonzalez tried to sell he had checked; on appeal down the third Nick Mahrley says he is out on strikes. Actual source-linked wording, not guessed from crew. Own fresh crew verifies Nick Mahrley third base. Namedcaller accepted from matched explicit raw attribution+freshcrew.",
+      "dedup": "ExactplayId and normalizedGonzalezdate absent current458 canonical and published-pitch index.",
+      "evidence": {
+        "marwin-peer-grid.jpg": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/marwin-peer-grid.jpg",
+          "sha256": "4c4a66bdbe0053a03ee8f1f630012d078714ddc28c2bc30e03155d35e9cb941b"
+        },
+        "marwin-peer-0.0.png": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/marwin-peer-0.0.png",
+          "sha256": "87230bcce5cae8beac58590eb9f287ab747017516a1e79e4ef569151b38e1f77"
+        },
+        "marwin-peer-0.1.png": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/marwin-peer-0.1.png",
+          "sha256": "c3908b3199661f5291ab1771d724dc1506e8af12e40525f965e6b5eddf486191"
+        },
+        "marwin-peer-0.2.png": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/marwin-peer-0.2.png",
+          "sha256": "5bde4f6f275346a337bc80e75b8a0bd549cdbcf4599f17d8bf3aeb587382d328"
+        },
+        "marwin-peer-2.8.png": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/audit-root/marwin-peer-2.8.png",
+          "sha256": "361284bdeeb6f21df86249dd03e487a9f2bae23e0a7507c5edfef83efbefa72f"
+        },
+        "651-1-extended-grid.jpg": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2022-archive-block640-659-luna/651-1-extended-grid.jpg",
+          "sha256": "40df2d3834e499f2e48ad41f3f284c531b4e79bbb7424fe570958cf5632bac33"
+        }
+      }
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "GonzalezEnd": "Independent end306.4 instead of306.8 ends before catcher’s separate appeal/headturn/rise while retaining complete forward action and initial return.",
+    "CabreraTail": "Selected native1.0–4.8 excludes later catcher appeal around6.5. CallerUnknown; no inferred name fromcrew alone.",
+    "Riley20200912": "Primary was withdrawn after root found proposed sidefootage depicts earlier Ozuna20 contact single; Riley27 checkedpitch is later center-fieldonly. Not published.",
+    "Bellinger20220902": "Exact corrected AB39p4 identified, but first clean side frame is after onset/dissolve. Not published.",
+    "Olson20220623": "Actual third-base fist recovered, correcting no-appeal negative; replay starts during forward motion, held for missing onset. Not published."
+  }
+}
