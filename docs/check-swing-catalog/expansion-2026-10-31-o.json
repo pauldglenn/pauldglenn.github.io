@@ -1,0 +1,934 @@
+{
+  "added": 3,
+  "total": 453,
+  "dailyActivation": "2026-11-01",
+  "discovery": "Public MLB condensed-game footage located in cached captions and extended replay tails; all three pitches independently reviewed by Luna. Corrected2022archivefilter has recovered2349publicvideo URLs for further discovery; none are counted as playable without review.",
+  "clips": [
+    {
+      "id": "walker20260815",
+      "batter": "Christian Walker",
+      "date": "2026-08-15",
+      "matchup": "SEA at HOU",
+      "base": 1,
+      "strike": true,
+      "start": 163.2,
+      "end": 167.2,
+      "umpire": "Unknown",
+      "context": "Bottom one, one out, bases loaded: Christian Walker checks on an 0–2, 79.4 mph sweeper from Emerson Hancock. The official pitch is swinging strike three. Caller identity is not asserted.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824157/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-sea-hou-8-15-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/15/b00e2e5c-43e4ca71-a27a34f4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 824157,
+        "atBatIndex": 8,
+        "pitchNumber": 3,
+        "playId": "83ad9b07-6473-3e76-b526-dc545fdf098d"
+      },
+      "primaryEvidence": {
+        "id": "walker20260815",
+        "batter": "Christian Walker",
+        "date": "2026-08-15",
+        "matchup": "SEA at HOU",
+        "base": 1,
+        "start": 163.2,
+        "end": 167.2,
+        "umpire": "Unknown · deciding umpire",
+        "context": "Bottom one, one out, bases loaded: Christian Walker checks on an 0–2, 79.4 mph sweeper from Emerson Hancock. The official pitch is swinging strike three. Caller identity is not asserted.",
+        "strike": true,
+        "source": "https://www.mlb.com/video/condensed-game-sea-hou-8-15-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/15/b00e2e5c-43e4ca71-a27a34f4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/824157/feed/live",
+        "availableFrom": "2026-11-01",
+        "pitchIdentity": {
+          "gamePk": 824157,
+          "atBatIndex": 8,
+          "pitchNumber": 3,
+          "playId": "83ad9b07-6473-3e76-b526-dc545fdf098d"
+        },
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna_primary120_addendum",
+          "originReviewQueueIndex": 123,
+          "queueKey": "2920ca7ac12f2d7a-1",
+          "gamePk": 824157,
+          "atBatIndex": 8,
+          "pitchNumber": 3,
+          "playId": "83ad9b07-6473-3e76-b526-dc545fdf098d",
+          "officialCode": "S",
+          "officialPitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/game-824157.json",
+          "nativeVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-native.mp4",
+          "nativeSourceOffset": 161.7,
+          "nativeRetrieval": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-provenance.json",
+          "localCandidate": "paired MP4 source 163.20–167.20; downstream independent reviewer/root should extract if accepted",
+          "localCandidateStart": 1.5,
+          "notes": "Full rounded loaded cap visible at native local1.50/source163.20 before forward initiation around1.75/source163.45. Complete forward checking motion and physical brake, followed by clear initial recoil/recovery by local5.25–5.50/source166.95–167.20. The extended original shows the shot continues beyond the old 166.8 crop end; the recovery was not absent from the broadcast. Stop at167.20 before subsequent catcher/batter interaction and caller/result context. Base-side replay; RHB chest-facing geometry Camera1.",
+          "callerEvidence": "Unknown; no exact decisive gesture is established for this clip. Fresh crew lists Tripp Gibson at first, but crew alone is insufficient.",
+          "timing": "Actual paired MP4 source offsets. Original focus161.7–166.8 was extended with a second bounded fetch through176.7.",
+          "dedup": {
+            "canonicalCount": 418,
+            "canonicalMatches": [],
+            "publishedIndexCount": 352,
+            "publishedMatches": []
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-frame-4.50.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-frame-4.75.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-frame-5.25.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-frame-5.50.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-frame-5.75.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-extended-frame-6.00.png"
+          ]
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-remaining-block120/audit-luna-addendum/audit.json"
+    },
+    {
+      "id": "cronenworth20260819",
+      "batter": "Jake Cronenworth",
+      "date": "2026-08-19",
+      "matchup": "SD at NYM",
+      "base": 3,
+      "strike": true,
+      "start": 182.349967,
+      "end": 185.149967,
+      "umpire": "Unknown",
+      "context": "Top of the third, 0–0 with no outs and a 2–2 count: Cronenworth checks Robert Stock’s 90.5 mph cutter, ruled a swinging strike for strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/823587/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-sd-nym-8-19-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/19/bd837bd9-a1fa12ef-1990d50c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 823587,
+        "atBatIndex": 16,
+        "pitchNumber": 5,
+        "playId": "ae90065e-0467-3c57-962f-a3eb5bfeaabf"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "cronenworth20260819",
+          "batter": "Jake Cronenworth",
+          "date": "2026-08-19",
+          "matchup": "SD at NYM",
+          "base": 3,
+          "start": 182.189967,
+          "end": 185.169967,
+          "umpire": "Unknown",
+          "context": "Top of the third, 0–0 with no outs and a 2–2 count: Cronenworth checks Robert Stock’s 90.5 mph cutter, ruled a swinging strike for strike three.",
+          "strike": true,
+          "availableFrom": "2026-11-01",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/823587/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-sd-nym-8-19-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/19/bd837bd9-a1fa12ef-1990d50c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        },
+        "proof": {
+          "gamePk": 823587,
+          "atBatIndex": 16,
+          "pitchNumber": 5,
+          "playId": "ae90065e-0467-3c57-962f-a3eb5bfeaabf",
+          "freshPitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(152, 0, 101, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "FC",
+                "description": "Cutter"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 3,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 90.5,
+              "endSpeed": 84.4,
+              "strikeZoneTop": 3.172,
+              "strikeZoneBottom": 1.601,
+              "strikeZoneWidth": 17.0,
+              "strikeZoneDepth": 8.5,
+              "coordinates": {
+                "aY": 23.44277085979919,
+                "aZ": -21.832225160140123,
+                "pfxX": -0.9292274201832013,
+                "pfxZ": 5.811847209773355,
+                "pX": 0.13214217943436216,
+                "pZ": 0.7525297530064963,
+                "vX0": 10.647796999336634,
+                "vY0": -131.4304584480622,
+                "vZ0": -6.389513697646796,
+                "x": 111.96,
+                "y": 218.46,
+                "x0": -3.821983027989853,
+                "y0": 50.002687256292276,
+                "z0": 4.797036163908866,
+                "aX": -1.655575644616366
+              },
+              "breaks": {
+                "breakAngle": 0.0,
+                "breakLength": 4.8,
+                "breakY": 24.0,
+                "breakVertical": -23.6,
+                "breakVerticalInduced": 9.5,
+                "breakHorizontal": -0.2,
+                "spinRate": 2420,
+                "spinDirection": 231
+              },
+              "zone": 14,
+              "typeConfidence": 2.0,
+              "plateTime": 0.41409369373225813,
+              "extension": 6.037392415160076
+            },
+            "index": 5,
+            "playId": "ae90065e-0467-3c57-962f-a3eb5bfeaabf",
+            "pitchNumber": 5,
+            "startTime": "2026-08-19T17:45:33.710Z",
+            "endTime": "2026-08-19T17:45:39.676Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshMatchup": {
+            "batter": {
+              "id": 630105,
+              "fullName": "Jake Cronenworth",
+              "link": "/api/v1/people/630105"
+            },
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "pitcher": {
+              "id": 476594,
+              "fullName": "Robert Stock",
+              "link": "/api/v1/people/476594"
+            },
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_RHP",
+              "pitcher": "vs_LHB",
+              "menOnBase": "Empty"
+            }
+          },
+          "freshCrew": [
+            {
+              "official": "Edwin Jimenez",
+              "officialType": "Home Plate"
+            },
+            {
+              "official": "Erich Bacchus",
+              "officialType": "First Base"
+            },
+            {
+              "official": "Chris Segal",
+              "officialType": "Second Base"
+            },
+            {
+              "official": "Laz Diaz",
+              "officialType": "Third Base"
+            }
+          ],
+          "identityBasis": "The retained broadcast first shows Cronenworth in the top of the third at 2–2, then shows the 90 mph Stock pitch and the call. It cuts into a side-angle replay of that same pitch after the strikeout; the replay follows directly in the same at-bat sequence. Fresh StatsAPI gamePk 823587 AB16 pitch 5 matches the pre-pitch count, Stock’s 90.5 mph cutter, and Swinging Strike call (playId ae90065e-0467-3c57-962f-a3eb5bfeaabf). The 0–0 scorebug appears only after the strikeout as the next at-bat begins; it is not the replay pitch count.",
+          "motionBasis": "The 1280x720 side-angle replay has a complete loaded barrel and hands behind the body at local 0.92, still held through about 1.16. Forward hand/barrel motion begins around 1.24; the bat advances then brakes by about 1.70. The hands and barrel drop/retract through about 2.20. By 3.80 Cronenworth has arrested and brought the bat across his chest without a conventional full shoulder wrap. The same live/replay shot remains through the selected end frame at local 3.88; the later cut is outside the proposed 3.90 end.",
+          "cameraBasis": "Actual left-handed batter is chest-facing in a third-base-side view, so this is camera 3. The base-side angle is usable; the home-plate official is a separate person from the camera-side caller.",
+          "callerBasis": "Unknown. The retained action angle does not show a decisive identifiable umpire gesture. Fresh game crew lists Edwin Jimenez at home plate and Laz Diaz at third; crew position alone is not used to name the caller.",
+          "sourceOffset": 181.269967,
+          "sourceEnd": 185.769967,
+          "feedPath": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/feed-823587-fresh.json",
+          "freshFeedSHA256": "88600245f146303d41da0856ca588d43817590dacf64956d1ae7eddba4e2c0d3",
+          "nativeLocalVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-native.mp4",
+          "nativeSHA256": "1616cf3a03d677e98c10aaade359a866536fa3492d062adc1a1f19ed3499d712",
+          "actualMp4TimingVerified": true,
+          "timingBasis": "Native clip was cut from the listed public MP4 at source offset 181.269967; selected full-resolution frames are indexed as local MP4 seconds added to that source offset. Proposed source bounds 182.189967–185.169967 preserve the complete clean load, initiation, brake and recoil, and end before the cut to the next batter.",
+          "duplicateCheck": {
+            "catalogCount": 418,
+            "canonicalMatches": [],
+            "publishedExactIndexCount": 352,
+            "publishedMatches": [],
+            "proposalScanFiles": 247,
+            "proposalMatches": [],
+            "method": "Checked canonical normalized batter/date; published exact gamePk/playId index; all candidate/proposal JSON files in season-condensed (247 files)."
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-native-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-pre-onset.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-onset.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-brake.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-recoil.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-return.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-end.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-pitch-sequence-context.png"
+          ],
+          "pitchSequenceContextPath": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-pitch-sequence-context.png",
+          "evidenceSHA256": {
+            "cronenworth-native-dense.jpg": "111231020ce75c94117e7aef37b704288854cb22646950da764afda52aec75e6",
+            "cronenworth-pre-onset.png": "1076d0ec336113a89c5e34822546aaec4414ae29eaaa61db20ae5c6eccb21f10",
+            "cronenworth-onset.png": "997cb493d2cb1cb21d8e00f6a551bfd54851632286a1c81b98114a99667d137b",
+            "cronenworth-brake.png": "45d40d06447a65ea779106122efa42da17f8a31141ae7e218d20fce323ca726a",
+            "cronenworth-recoil.png": "a3e5c15cf4c60473560fd08c80101f2cf02d1e101f07bf5b922c1593ce4fa884",
+            "cronenworth-return.png": "5458b427699151727ef25f6c211ff50d17d867ba546ed9b1e801e99d448ded29",
+            "cronenworth-end.png": "fbd118569bb4cf35e65965d5d88655deae4d772225f50f5b1743d6ae1110996f",
+            "cronenworth-pitch-sequence-context.png": "a5c436ca9ca9a1eee65de9f2ece93e8c2df23836644dca7680cda745ec64bcfb"
+          }
+        },
+        "rowOffset": 143,
+        "windowKey": "143-0",
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-native.mp4",
+        "localVideoSourceOffset": 181.269967,
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-native-dense.jpg",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-pre-onset.png",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-onset.png",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-brake.png",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-recoil.png",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/cronenworth-return.png"
+        ],
+        "status": "proposed-awaiting-independent-audit"
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-remaining-block140/audit-luna/audit.json"
+    },
+    {
+      "id": "harris20260610",
+      "batter": "Michael Harris II",
+      "date": "2026-06-10",
+      "matchup": "ATL at CWS",
+      "base": 3,
+      "strike": true,
+      "start": 279.582967,
+      "end": 281.282967,
+      "umpire": "Jonathan Parra",
+      "context": "Top of the third, 0–0 with no outs and a 1–2 count: Harris checks Davis Martin’s 82.7 mph curveball, ruled a swinging strike for strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824590/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-atl-cws-6-10-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/9c0e2974-3d08f7b9-66867c04-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 824590,
+        "atBatIndex": 18,
+        "pitchNumber": 4,
+        "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "harris20260610",
+          "batter": "Michael Harris II",
+          "date": "2026-06-10",
+          "matchup": "ATL at CWS",
+          "base": 3,
+          "strike": true,
+          "start": 279.582967,
+          "end": 281.282967,
+          "umpire": "Jonathan Parra",
+          "context": "Top of the third, 0–0 with no outs and a 1–2 count: Harris checks Davis Martin’s 82.7 mph curveball, ruled a swinging strike for strike three.",
+          "availableFrom": "2026-11-01",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/824590/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-atl-cws-6-10-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/9c0e2974-3d08f7b9-66867c04-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        },
+        "proof": {
+          "gamePk": 824590,
+          "atBatIndex": 18,
+          "pitchNumber": 4,
+          "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3",
+          "freshPitch": {
+            "details": {
+              "call": {
+                "code": "W",
+                "description": "Swinging Strike (Blocked)"
+              },
+              "description": "Swinging Strike (Blocked)",
+              "code": "W",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(0, 34, 255, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "CU",
+                "description": "Curveball"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 1,
+              "strikes": 3,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 82.7,
+              "endSpeed": 76.7,
+              "strikeZoneTop": 3.181,
+              "strikeZoneBottom": 1.606,
+              "strikeZoneWidth": 17.0,
+              "strikeZoneDepth": 8.5,
+              "coordinates": {
+                "aY": 24.1416066435012,
+                "aZ": -37.29089053622123,
+                "pfxX": 9.679544679161438,
+                "pfxZ": -3.50918883899039,
+                "pX": 1.7497864547973156,
+                "pZ": 0.6148971300572248,
+                "vX0": 5.5643827790934415,
+                "vY0": -120.26601974893073,
+                "vZ0": -4.41122053877136,
+                "x": 50.3,
+                "y": 222.18,
+                "x0": -1.8540234462422698,
+                "y0": 50.00075833933282,
+                "z0": 5.793405224077652,
+                "aX": 14.123820901195103
+              },
+              "breaks": {
+                "breakAngle": 21.6,
+                "breakLength": 10.8,
+                "breakY": 24.0,
+                "breakVertical": -47.3,
+                "breakVerticalInduced": -7.2,
+                "breakHorizontal": -18.8,
+                "spinRate": 2973,
+                "spinDirection": 46
+              },
+              "zone": 14,
+              "typeConfidence": 0.91,
+              "plateTime": 0.4560820533283585,
+              "extension": 6.252422842225278
+            },
+            "index": 4,
+            "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3",
+            "pitchNumber": 4,
+            "startTime": "2026-06-11T00:17:38.578Z",
+            "endTime": "2026-06-11T00:17:43.818Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshMatchup": {
+            "batter": {
+              "id": 671739,
+              "fullName": "Michael Harris II",
+              "link": "/api/v1/people/671739"
+            },
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "pitcher": {
+              "id": 663436,
+              "fullName": "Davis Martin",
+              "link": "/api/v1/people/663436"
+            },
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_RHP",
+              "pitcher": "vs_LHB",
+              "menOnBase": "Empty"
+            }
+          },
+          "freshAbout": {
+            "atBatIndex": 18,
+            "halfInning": "top",
+            "isTopInning": true,
+            "inning": 3,
+            "startTime": "2026-06-11T00:16:31.914Z",
+            "endTime": "2026-06-11T00:17:43.818Z",
+            "isComplete": true,
+            "isScoringPlay": false,
+            "hasReview": false,
+            "hasOut": true,
+            "captivatingIndex": 14
+          },
+          "freshCrew": [
+            {
+              "official": {
+                "id": 489985,
+                "fullName": "Chad Whitson",
+                "link": "/api/v1/people/489985"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 665281,
+                "fullName": "Brian Walsh",
+                "link": "/api/v1/people/665281"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427344,
+                "fullName": "Bill Miller",
+                "link": "/api/v1/people/427344"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 485856,
+                "fullName": "Jonathan Parra",
+                "link": "/api/v1/people/485856"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "feedPath": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/824590-fresh-feed.json",
+          "freshFeedSHA256": "d67fd114b055c0e5b67490608c7cc75742f315a8b82b38b17845a579e02f4f64",
+          "identityBasis": "Live broadcast top3 1–2, Michael Harris II jersey23 vs Davis Martin65, curveball below zone blocked, immediate third-base call and directly following replay. Exact fresh feed AB18p4 W82.7CU. The separate first-inning Harris strikeout is AB0p5 W82.2CU, excluded by inning/count/source sequence.",
+          "motionBasis": "Native side replay begins aboutlocal2.35. Full loaded rounded barrel visible at2.45 before forward initiation about2.8. Forward path brakes about3.3–3.5 and barrel/hands recoil downward through3.9–4.15. Extended source through6.3 shows reset to upright bat without conventional shoulder wrap. Catcher/crowd motion establishes actual motion beyond slow-motion cadence.",
+          "cameraBasis": "Actual LHB chest-facing with full Atlanta jersey front visible; third-base-side camera3.",
+          "callerBasis": "Matched raw source caption says appeal to third and Jonathan Parra on the call; exact fresh crew lists Jonathan Parra at third base. The preceding live cut shows umpire80, but do not rely on portrait alone. Independent reviewer must verify attribution.",
+          "sourceOffset": 277.132967,
+          "sourceEnd": 288.132967,
+          "nativeLocalVideo": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-0-native.mp4",
+          "nativeSHA256": "9d44d2a81a84fbfd5d554a6e24ab5afa39e829ec59733c1e12e6ce2c78a784ae",
+          "actualMp4TimingVerified": true,
+          "timingBasis": "Accurately sought native MP4; absolute=277.132967+nativePTS, no local crop. Proposed2.45–4.15 hides previous ruling/scorebug and later appeal; full useful check retained.",
+          "duplicateCheck": {
+            "catalogCount": 450,
+            "canonicalMatches": [],
+            "publishedExactIndexCount": 384,
+            "publishedMatches": []
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-0-native-grid.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-full-3.3.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-full-2.45.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-full-3.9.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-full-2.7.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-full-4.3.png"
+          ],
+          "captionProvenance": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-source-caption-provenance.json"
+        },
+        "rowOffset": 28,
+        "windowKey": "28-0",
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/28-0-native.mp4",
+        "localVideoSourceOffset": 277.132967,
+        "status": "proposed-awaiting-independent-audit"
+      },
+      "independentAuditGroup": "season-condensed/reviews-supplemental-v2-block20-root/audit-luna/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/reviews2026-remaining-block120/audit-luna-addendum/audit.json": {
+      "reviewer": "Luna",
+      "sourceAddendum": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-tail-addendum.json",
+      "sourceAddendumSha256": "12a53619a2d99975f0c08755f79e4abf2c494885f39818e54b05caed5b316509",
+      "sourceCandidateFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/walker-addendum-candidates.json",
+      "sourceCandidateSha256": "2d9da2608dbc41b72c1cf04884a135b2653d44ffc73cecc056fe9e90c8712233",
+      "decision": "approved",
+      "approvedCount": 1,
+      "heldCount": 0,
+      "reason": "Own extraction from the extended 1280x720 native clip confirms whole rounded loaded barrel at163.20 before forward advance around163.45. The complete checked swing reaches front extension, physically arrests, then recoils toward the body and lifts the barrel back upright by166.95–167.20. Catcher and background continue changing, so this is not an editorial hold. The proposed end167.20 leaves out subsequent batter/catcher interaction and caller/result context. Actual right-handed Walker is chest-facing in a first-base-side view (camera1). Caller remains Unknown. Fresh fullfeed event exactly matches playId, gamePk, AB, pitch, player, 0–2 count, sweeper, 79.4 mph and swinging-strike call. No same batter/date canonical record or exact indexed play was found; index metadata is stale and root must repeat current dedup before merging.",
+      "exactPitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/exact-pitch-proof.json",
+      "ownVisualEvidence": [
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-163.00.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-163.20.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-163.35.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-163.45.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-163.70.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-164.10.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-164.50.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-165.00.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-165.50.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-166.00.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-166.50.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-166.80.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-166.95.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-167.05.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-167.20.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-167.45.png",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block120/audit-luna-addendum/walker-own-grid.jpg"
+      ],
+      "canonicalEdited": false
+    },
+    "season-condensed/reviews2026-remaining-block140/audit-luna/audit.json": {
+      "reviewer": "Luna",
+      "sourceCandidateFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/candidates.json",
+      "sourceCandidateSha256": "3c0922346d1d0e593033d768c90a0b2989b49cb93bcd7d0bbf7bae63cb7de9da",
+      "decision": "approved",
+      "reviewed": 1,
+      "approvedCount": 1,
+      "heldCount": 0,
+      "canonicalEdited": false,
+      "ownNativeExtractions": true,
+      "freshFullFeeds": true,
+      "exactPitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/exact-pitch-proof.json",
+      "freshFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/823587-independent-fresh.json",
+      "freshFeedSha256": "88600245f146303d41da0856ca588d43817590dacf64956d1ae7eddba4e2c0d3",
+      "records": [
+        {
+          "id": "cronenworth20260819",
+          "decision": "approved",
+          "approvedStart": 182.349967,
+          "approvedEnd": 185.149967,
+          "exactPitch": {
+            "gamePk": 823587,
+            "playId": "ae90065e-0467-3c57-962f-a3eb5bfeaabf",
+            "atBatIndex": 16,
+            "pitchNumber": 5
+          },
+          "freshPitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(152, 0, 101, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "FC",
+                "description": "Cutter"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 3,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 90.5,
+              "endSpeed": 84.4,
+              "strikeZoneTop": 3.172,
+              "strikeZoneBottom": 1.601,
+              "strikeZoneWidth": 17.0,
+              "strikeZoneDepth": 8.5,
+              "coordinates": {
+                "aY": 23.44277085979919,
+                "aZ": -21.832225160140123,
+                "pfxX": -0.9292274201832013,
+                "pfxZ": 5.811847209773355,
+                "pX": 0.13214217943436216,
+                "pZ": 0.7525297530064963,
+                "vX0": 10.647796999336634,
+                "vY0": -131.4304584480622,
+                "vZ0": -6.389513697646796,
+                "x": 111.96,
+                "y": 218.46,
+                "x0": -3.821983027989853,
+                "y0": 50.002687256292276,
+                "z0": 4.797036163908866,
+                "aX": -1.655575644616366
+              },
+              "breaks": {
+                "breakAngle": 0.0,
+                "breakLength": 4.8,
+                "breakY": 24.0,
+                "breakVertical": -23.6,
+                "breakVerticalInduced": 9.5,
+                "breakHorizontal": -0.2,
+                "spinRate": 2420,
+                "spinDirection": 231
+              },
+              "zone": 14,
+              "typeConfidence": 2.0,
+              "plateTime": 0.41409369373225813,
+              "extension": 6.037392415160076
+            },
+            "index": 5,
+            "playId": "ae90065e-0467-3c57-962f-a3eb5bfeaabf",
+            "pitchNumber": 5,
+            "startTime": "2026-08-19T17:45:33.710Z",
+            "endTime": "2026-08-19T17:45:39.676Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshMatchup": {
+            "batter": {
+              "id": 630105,
+              "fullName": "Jake Cronenworth",
+              "link": "/api/v1/people/630105"
+            },
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "pitcher": {
+              "id": 476594,
+              "fullName": "Robert Stock",
+              "link": "/api/v1/people/476594"
+            },
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_RHP",
+              "pitcher": "vs_LHB",
+              "menOnBase": "Empty"
+            }
+          },
+          "notes": "Independent original-frame extraction confirms a complete loaded barrel at local1.08, before forward initiation about1.24. Forward motion reaches front/down extension and physically arrests about1.7–1.8; the hands and barrel then recoil/retract toward the body from about1.9 through3.7–3.88 without a conventional full shoulder wrap. The entire available native tail was inspected through the next-shot dissolve around4.0–4.1. Stop at3.88 after the complete return, before cut/result context. Actual left-handed Cronenworth is chest-facing in a third-base-side view (camera3). Caller remains Unknown.",
+          "cameraSide": 3,
+          "caller": "Unknown",
+          "independentVisualEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-full-sequence.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-0.88.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-1.08.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-1.20.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-1.28.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-1.48.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-1.68.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-1.92.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-2.20.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-2.80.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-3.40.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-3.72.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-3.88.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block140/audit-luna/cronenworth-independent-4.10.png"
+          ],
+          "nativeSha256": "1616cf3a03d677e98c10aaade359a866536fa3492d062adc1a1f19ed3499d712",
+          "freshFeedSHA256": "88600245f146303d41da0856ca588d43817590dacf64956d1ae7eddba4e2c0d3",
+          "canonicalSameBatterDateMatches": [],
+          "publishedExactPitchMatches": [],
+          "otherCandidateFileMatches": []
+        }
+      ],
+      "independentDedup": {
+        "canonicalCount": 450,
+        "sameBatterOfficialDateMatches": [],
+        "publishedIndexClipCount": 352,
+        "exactGamePkPlayIdMatches": [],
+        "proposalExactPlayIdMatchesOutsidePrimary": [],
+        "result": "no duplicate found in current canonical or exact-pitch index; no other candidate file contains this exact playId"
+      }
+    },
+    "season-condensed/reviews-supplemental-v2-block20-root/audit-luna/audit.json": {
+      "reviewer": "Luna",
+      "sourceCandidateFile": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/candidates.json",
+      "sourceCandidateSha256": "b16eb026859afa137f7559f7628870fa6677d1bb8889114c8e8248ee7004f7ff",
+      "decision": "approved",
+      "reviewed": 1,
+      "approvedCount": 1,
+      "heldCount": 0,
+      "canonicalEdited": false,
+      "ownNativeExtractions": true,
+      "freshFullFeeds": true,
+      "exactPitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/exact-pitch-proof.json",
+      "freshFeed": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/824590-fresh-feed-luna.json",
+      "freshFeedSha256": "d67fd114b055c0e5b67490608c7cc75742f315a8b82b38b17845a579e02f4f64",
+      "records": [
+        {
+          "id": "harris20260610",
+          "decision": "approved",
+          "approvedStart": 279.582967,
+          "approvedEnd": 281.282967,
+          "exactPitch": {
+            "gamePk": 824590,
+            "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3",
+            "atBatIndex": 18,
+            "pitchNumber": 4
+          },
+          "freshPitch": {
+            "details": {
+              "call": {
+                "code": "W",
+                "description": "Swinging Strike (Blocked)"
+              },
+              "description": "Swinging Strike (Blocked)",
+              "code": "W",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(0, 34, 255, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "CU",
+                "description": "Curveball"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 1,
+              "strikes": 3,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 82.7,
+              "endSpeed": 76.7,
+              "strikeZoneTop": 3.181,
+              "strikeZoneBottom": 1.606,
+              "strikeZoneWidth": 17.0,
+              "strikeZoneDepth": 8.5,
+              "coordinates": {
+                "aY": 24.1416066435012,
+                "aZ": -37.29089053622123,
+                "pfxX": 9.679544679161438,
+                "pfxZ": -3.50918883899039,
+                "pX": 1.7497864547973156,
+                "pZ": 0.6148971300572248,
+                "vX0": 5.5643827790934415,
+                "vY0": -120.26601974893073,
+                "vZ0": -4.41122053877136,
+                "x": 50.3,
+                "y": 222.18,
+                "x0": -1.8540234462422698,
+                "y0": 50.00075833933282,
+                "z0": 5.793405224077652,
+                "aX": 14.123820901195103
+              },
+              "breaks": {
+                "breakAngle": 21.6,
+                "breakLength": 10.8,
+                "breakY": 24.0,
+                "breakVertical": -47.3,
+                "breakVerticalInduced": -7.2,
+                "breakHorizontal": -18.8,
+                "spinRate": 2973,
+                "spinDirection": 46
+              },
+              "zone": 14,
+              "typeConfidence": 0.91,
+              "plateTime": 0.4560820533283585,
+              "extension": 6.252422842225278
+            },
+            "index": 4,
+            "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3",
+            "pitchNumber": 4,
+            "startTime": "2026-06-11T00:17:38.578Z",
+            "endTime": "2026-06-11T00:17:43.818Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshMatchup": {
+            "batter": {
+              "id": 671739,
+              "fullName": "Michael Harris II",
+              "link": "/api/v1/people/671739"
+            },
+            "batSide": {
+              "code": "L",
+              "description": "Left"
+            },
+            "pitcher": {
+              "id": 663436,
+              "fullName": "Davis Martin",
+              "link": "/api/v1/people/663436"
+            },
+            "pitchHand": {
+              "code": "R",
+              "description": "Right"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_RHP",
+              "pitcher": "vs_LHB",
+              "menOnBase": "Empty"
+            }
+          },
+          "freshAbout": {
+            "atBatIndex": 18,
+            "halfInning": "top",
+            "isTopInning": true,
+            "inning": 3,
+            "startTime": "2026-06-11T00:16:31.914Z",
+            "endTime": "2026-06-11T00:17:43.818Z",
+            "isComplete": true,
+            "isScoringPlay": false,
+            "hasReview": false,
+            "hasOut": true,
+            "captivatingIndex": 14
+          },
+          "freshCrew": [
+            {
+              "official": {
+                "id": 489985,
+                "fullName": "Chad Whitson",
+                "link": "/api/v1/people/489985"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 665281,
+                "fullName": "Brian Walsh",
+                "link": "/api/v1/people/665281"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427344,
+                "fullName": "Bill Miller",
+                "link": "/api/v1/people/427344"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 485856,
+                "fullName": "Jonathan Parra",
+                "link": "/api/v1/people/485856"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "motionBasis": "Independent full-resolution frames show a complete rounded loaded barrel at source 279.582967 before forward initiation (about 279.9). The bat travels forward/down, then the hands and barrel brake at the front/low position and begin the inward/downward recoil by about 280.9–281.28, without a conventional shoulder wrap. The independent native source continues through 289.3; the target side replay remains arrested and then changes to separate catcher/post-play coverage, with no later full wrap. The selected end at 281.282967 is after the physical arrest/initial recoil and before the appeal/call, result, updated count or obvious strikeout departure is visible.",
+          "cameraSide": 3,
+          "caller": "Jonathan Parra",
+          "callerBasis": "Named caller verified independently from source VTT: “Jonathan Parra on the call” and “Parra at 3rd.” Fresh feed crew lists Jonathan Parra as Third Base.",
+          "independentVisualEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-motion-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-full-2.78.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-full-3.30.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-full-3.70.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-full-4.10.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-full-4.48.png",
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/harris-full-6.10.png"
+          ],
+          "nativeSourceOffset": 276.8,
+          "nativeSourceEnd": 289.3,
+          "nativeSha256": "5cf3b2a6df852de4342960f8664b47e267b1879a0639d4af073ab18384930039",
+          "freshFeedSHA256": "d67fd114b055c0e5b67490608c7cc75742f315a8b82b38b17845a579e02f4f64",
+          "captionSegmentSHA256": "e8c362eaf3f344d63aa77d88cde95fe6560b8b2a64b64e64ff894ca5fc6ba53e",
+          "canonicalSameBatterDateMatches": [],
+          "publishedExactPitchMatches": [],
+          "otherCandidateFileMatches": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/candidates.json"
+          ],
+          "duplicateCheck": "No canonical entry with normalized batter Michael Harris II and official date 2026-06-10; no exact playId in published-pitch-index clips; no other season candidate/approved-candidate file matching this player/date/video/playId. The only matching proposal is the primary object under audit.",
+          "captionProvenance": "/workspace/check-swing/expansion500/season-condensed/reviews-supplemental-v2-block20-root/audit-luna/caption-provenance-luna.json"
+        }
+      ]
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "Walker": "Original focused extract ended before the actual recoil. Positive append-only primary addendum and independent extension verify complete physical brake/recoil through original source tail.",
+    "Cronenworth": "Independent bounds start182.349967 after the source dissolve and end185.149967 before cut.",
+    "Dubon20260819": "Actual side replay found after ejection discussion by extending55seconds beyond original window. Dissolve already overlaps forward hands; missing clean loaded onset means HOLD, not addition.",
+    "2022sources": "2349recovered public URLs and caption leads are unverified source locators, not additional playable clips."
+  }
+}

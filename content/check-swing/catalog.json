@@ -8679,5 +8679,71 @@
       "pitchNumber": 5,
       "playId": "f5d4fa61-1d64-399f-9235-bd461f7f5a09"
     }
+  },
+  {
+    "id": "walker20260815",
+    "batter": "Christian Walker",
+    "date": "2026-08-15",
+    "matchup": "SEA at HOU",
+    "base": 1,
+    "strike": true,
+    "start": 163.2,
+    "end": 167.2,
+    "umpire": "Unknown",
+    "context": "Bottom one, one out, bases loaded: Christian Walker checks on an 0–2, 79.4 mph sweeper from Emerson Hancock. The official pitch is swinging strike three. Caller identity is not asserted.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824157/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-sea-hou-8-15-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/15/b00e2e5c-43e4ca71-a27a34f4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 824157,
+      "atBatIndex": 8,
+      "pitchNumber": 3,
+      "playId": "83ad9b07-6473-3e76-b526-dc545fdf098d"
+    }
+  },
+  {
+    "id": "cronenworth20260819",
+    "batter": "Jake Cronenworth",
+    "date": "2026-08-19",
+    "matchup": "SD at NYM",
+    "base": 3,
+    "strike": true,
+    "start": 182.349967,
+    "end": 185.149967,
+    "umpire": "Unknown",
+    "context": "Top of the third, 0–0 with no outs and a 2–2 count: Cronenworth checks Robert Stock’s 90.5 mph cutter, ruled a swinging strike for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/823587/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-sd-nym-8-19-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/19/bd837bd9-a1fa12ef-1990d50c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 823587,
+      "atBatIndex": 16,
+      "pitchNumber": 5,
+      "playId": "ae90065e-0467-3c57-962f-a3eb5bfeaabf"
+    }
+  },
+  {
+    "id": "harris20260610",
+    "batter": "Michael Harris II",
+    "date": "2026-06-10",
+    "matchup": "ATL at CWS",
+    "base": 3,
+    "strike": true,
+    "start": 279.582967,
+    "end": 281.282967,
+    "umpire": "Jonathan Parra",
+    "context": "Top of the third, 0–0 with no outs and a 1–2 count: Harris checks Davis Martin’s 82.7 mph curveball, ruled a swinging strike for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824590/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-atl-cws-6-10-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/10/9c0e2974-3d08f7b9-66867c04-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 824590,
+      "atBatIndex": 18,
+      "pitchNumber": 4,
+      "playId": "62c9602e-e33b-34fa-94ac-ccc05c43a1e3"
+    }
   }
 ]
