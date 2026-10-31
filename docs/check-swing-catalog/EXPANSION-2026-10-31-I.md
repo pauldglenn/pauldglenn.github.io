@@ -1,0 +1,11 @@
+# Fourteenth expansion batch: 2026-10-31
+
+Adds 12 independently audited pitches, taking the playable library from 319 to 331. Practice access is immediate; daily eligibility begins November 1 UTC. All 319 published entries retain their exact values and order. October 31 and earlier daily questions remain fixed.
+
+The additions come from public 2023–2025 condensed-game subtitle discovery. Each received primary and independent native-frame review of a complete loaded barrel before forward initiation, physical arrest and recoil, usable base-side perspective, hidden outcome, exact official pitch/date/ruling, caller evidence and duplicate identity. Exact MLB gamePk/playId metadata accompanies every addition. The [provenance file](expansion-2026-10-31-i.json) preserves accepted primary records and independent audits.
+
+Guillorme uses a first-base-side oblique camera while the deciding umpire is Mark Wegner at third base. Camera perspective and caller position are separate fields. The foreground official and baserunner do not obscure the loaded bat or checked path. Own native review establishes Wegner’s actual fist and sleeve number 14, matched to the exact crew and MLB umpire biography. Trout, Rojas, O’Hearn and Singleton likewise have decisive gesture evidence. Henderson and Cave have explicit matched broadcast attribution. Other callers remain unknown.
+
+Winker starts at a later clean loaded stance, before actual forward initiation; the short window still contains the entire checked stroke and physical arrest. Melendez’s complete native continuation confirms front recovery without a conventional shoulder wrap. Cave’s count is reconciled with an earlier non-pitch automatic-strike violation. O’Hearn’s evidence corrects the live score to Washington 6–Baltimore 0; Hamilton’s evidence corrects the uniform number to 17. Neither correction changes the published ruling or clip timing.
+
+The target remains 500, with 169 further verified clips needed. Parallel native reviews continue across the 2023–2026 public-caption queues. A separate cached-caption search for phrases such as “went too far” and “tried to check” supplies 185 additional unverified source leads without changing existing frozen queues. Leads are not counted as playable clips. No local video assets, database migrations or instant-reveal behavior change in this release.
