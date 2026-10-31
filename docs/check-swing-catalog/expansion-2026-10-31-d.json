@@ -1,0 +1,2382 @@
+{
+  "added": 13,
+  "total": 239,
+  "dailyActivation": "2026-11-01",
+  "discovery": "Public condensed-game HLS caption locators, exact official pitch feeds and independent actual-frame review; neighboring checks included after separate verification.",
+  "clips": [
+    {
+      "id": "tommypham20260418",
+      "batter": "Tommy Pham",
+      "date": "2026-04-18",
+      "matchup": "NYM at CHC",
+      "base": 1,
+      "strike": true,
+      "start": 602.291967,
+      "end": 604.891967,
+      "umpire": "Deciding umpire not identified",
+      "context": "Top of inning 9: Tommy Pham checks on Caleb Thielbar’s 2–2 curveball. The official pitch record rules a swinging strike for strike three; the footage does not establish the individual caller.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824694/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-nym-chc-4-18-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/18/d619f0d8-5f189070-e77eb449-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 824694,
+        "atBatIndex": 66,
+        "pitchNumber": 6,
+        "playId": "82a95389-e55a-351f-8b94-52b2cfa5d1ee"
+      },
+      "primaryEvidence": {
+        "id": "tommypham20260418",
+        "batter": "Tommy Pham",
+        "date": "2026-04-18",
+        "matchup": "NYM at CHC",
+        "base": 1,
+        "strike": true,
+        "start": 602.291967,
+        "end": 604.891967,
+        "umpire": "Deciding umpire not identified",
+        "context": "Top of inning 9: Tommy Pham checks on Caleb Thielbar’s 2–2 curveball. The official pitch record rules a swinging strike for strike three; the footage does not establish the individual caller.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/824694/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-nym-chc-4-18-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/18/d619f0d8-5f189070-e77eb449-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "reviewer": "hbp_2024_2026_v2",
+          "status": "needs-independent-review",
+          "queueRow": 61,
+          "queueKey": "096c62eb682e-0",
+          "gamePk": 824694,
+          "atBatIndex": 66,
+          "pitchNumber": 6,
+          "playId": "82a95389-e55a-351f-8b94-52b2cfa5d1ee",
+          "officialGameFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/feed-824694.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd.mp4",
+          "sourceOffset": 602.0,
+          "focusedWholeCueVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/096c62eb682e-0-mp4.mp4",
+          "focusedWholeCueSourceOffset": 589.241967,
+          "denseExtraction": {
+            "video": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd.mp4",
+            "localStart": 0,
+            "fps": 20,
+            "width": 640,
+            "proof": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd-dense.jpg",
+            "labels": "seconds relative to extraction start"
+          },
+          "tailExtraction": {
+            "video": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd.mp4",
+            "localStart": 1.9,
+            "fps": 10,
+            "width": 800,
+            "proof": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd-tail.jpg"
+          },
+          "motion": "Complete first-base-side replay: loaded stance, hands and barrel initiate, bat advances downward in front, arrests low, then recoils/returns upward in front. No shoulder wrap in the continued moving tail.",
+          "freezeCheck": "Inspected dense native-HD range and continued tail through the subsequent cut. Catcher and crowd continue moving while the bat arrests and returns; no whole-image hold substitutes for physical arrest.",
+          "window": "Own paired MP4 timing: 602.291967–604.891967. Starts after replay dissolve with clean loaded stance, includes forward motion and physical arrest/recoil, ends before catcher raises his request arm at about605.0. No count change or umpire decision in selected replay.",
+          "hlsLocator": "Exact HLS variant was separately viewed; complete side replay occurs approximately local13.5–16.6 in the retained HLS range. HLS cue times were not copied into the MP4 candidate.",
+          "ruling": "Exact official pitch code S / Swinging Strike, 2–2 curveball77.6mph, strike three. Broadcast says he went around and identifies Pham/Thielbar. This is not inferred from a generic strike count.",
+          "caller": "Unknown. A first-base umpire cut is present after the live pitch, but this review does not establish an actual individual decision gesture. Crew identity alone is not attribution.",
+          "duplicateCheck": {
+            "canonicalCount": 226,
+            "pendingCandidateFilesChecked": 17,
+            "matches": []
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/pham-hd-tail.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/096c62eb682e-0-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/096c62eb682e-0-hls-grid.jpg"
+          ]
+        }
+      },
+      "independentAuditGroup": "season-condensed/root-audits/audit-pham20260418.json"
+    },
+    {
+      "id": "ohoppe20250411",
+      "batter": "Logan O'Hoppe",
+      "date": "2025-04-11",
+      "matchup": "LAA at HOU",
+      "base": 1,
+      "strike": true,
+      "start": 111.75,
+      "end": 113.38,
+      "umpire": "Alex MacKay · first base",
+      "context": "Top of the second: Alex MacKay ruled a swing on appeal on Logan O’Hoppe’s full-count changeup from Ronel Blanco, striking him out.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778368/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-11-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/d6270399-2a283851-a30e87a7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778368,
+        "atBatIndex": 7,
+        "pitchNumber": 6,
+        "playId": "9e0cfec6-3edb-3438-8a62-8fb1afdc833f"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "ohoppe20250411",
+          "batter": "Logan O'Hoppe",
+          "date": "2025-04-11",
+          "matchup": "LAA at HOU",
+          "base": 1,
+          "strike": true,
+          "start": 111.75,
+          "end": 113.38,
+          "umpire": "Alex MacKay · first base",
+          "context": "O'Hoppe was ruled to have swung on a full-count changeup from Ronel Blanco in the second inning.",
+          "evidence": "https://www.mlb.com/gameday/778368",
+          "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-11-25",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/d6270399-2a283851-a30e87a7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+        },
+        "rowOffset": 38,
+        "windowKey": "38-0",
+        "status": "proposed-awaiting-independent-audit",
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/ohoppe-native.mp4",
+        "localVideoSourceOffset": 109.3,
+        "visualEvidencePaths": [
+          "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/ohoppe-side-dense.jpg",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/ohoppe-live-dense.jpg",
+          "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/38-0-grid.jpg"
+        ],
+        "proof": {
+          "gamePk": 778368,
+          "feedPath": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/778368-feed.json",
+          "atBatIndex": 7,
+          "pitchNumber": 6,
+          "playId": "9e0cfec6-3edb-3438-8a62-8fb1afdc833f",
+          "pitcher": "Ronel Blanco",
+          "inning": 2,
+          "half": "top",
+          "countBefore": "3-2",
+          "feedDetails": {
+            "call": {
+              "code": "S",
+              "description": "Swinging Strike"
+            },
+            "description": "Swinging Strike",
+            "code": "S",
+            "ballColor": "rgba(170, 21, 11, 1.0)",
+            "trailColor": "rgba(0, 85, 254, 1.0)",
+            "isInPlay": false,
+            "isStrike": true,
+            "isBall": false,
+            "type": {
+              "code": "CH",
+              "description": "Changeup"
+            },
+            "isOut": true,
+            "hasReview": false
+          },
+          "speed": 86.1,
+          "sourceOffset": 109.3,
+          "sourceEnd": 115.7,
+          "actualMp4TimingVerified": true,
+          "rulingBasis": "Explicit fresh MLB feed S Swinging Strike. Live 3-2 scorebug displays 86mph changeup, then first-base closed fist and O'Hoppe strikeout. No inference from foul/called-strike/contact.",
+          "callerAttribution": "Live edit shows first-base appeal responder raising/holding closed fist at110.5–111.2. Caption explicitly identifies first-base umpire Alex MacKay; fresh official crew independently assigns Alex MacKay first base. HP Chris Segal is not substituted as caller.",
+          "motionBasis": "Clean loaded stance111.75 after preceding dissolve; forward onset approximately112.0; bat arrests in front by112.6 and returns toward chest113.0–113.3. Catcher continues receiving while bat reverses, excluding global frozen replay. No full shoulder wrap. Proposed crop ends113.38 before catcher begins outward appeal gesture around113.5.",
+          "identityBasis": "Actual live shot names LOGAN O'HOPPE, Blanco pitching at Houston with0-0 top2, full count and86mph changeup. Exact feed778368 atBat7pitch6S86.1CH matches; prior batter Soler grounds out, next batter Schanuel follows. Official date2025-04-11 despite UTC start2025-04-12. Paired MP4 inspected directly; no HLS timestamp transfer assumed.",
+          "duplicateCheck": {
+            "catalogCount": 226,
+            "catalogMatches": [],
+            "otherCgCandidateMatches": [],
+            "method": "Canonical batter/date scan and recursive season-condensed candidates scan; no O'Hoppe2025-04-11 proposal. Exact game/atBat/pitch identity recorded."
+          }
+        }
+      },
+      "independentAuditGroup": "season-condensed/root-audits/audit-ohoppe20250411.json"
+    },
+    {
+      "id": "konnorgriffin20260406",
+      "batter": "Konnor Griffin",
+      "date": "2026-04-06",
+      "matchup": "SD at PIT",
+      "base": 1,
+      "strike": true,
+      "start": 593.85,
+      "end": 595.95,
+      "umpire": "Deciding umpire not identified",
+      "context": "Griffin checked on a curveball from David Morgan in the ninth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/823401/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-sd-pit-4-6-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/9a0a7ee2-07fc5071-c828f774-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 823401,
+        "playId": "4872ba14-5be1-3954-a4ba-25b0183010dd"
+      },
+      "primaryEvidence": {
+        "id": "konnorgriffin20260406",
+        "batter": "Konnor Griffin",
+        "date": "2026-04-06",
+        "matchup": "SD at PIT",
+        "base": 1,
+        "strike": true,
+        "start": 593.85,
+        "end": 595.95,
+        "umpire": "Unknown caller",
+        "context": "Griffin checked on a curveball from David Morgan in the ninth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/823401/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-sd-pit-4-6-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/9a0a7ee2-07fc5071-c828f774-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "gamePk": 823401,
+        "playId": "4872ba14-5be1-3954-a4ba-25b0183010dd",
+        "review": {
+          "status": "pending-independent-audit",
+          "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/griffin-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/griffin-native.mp4",
+          "localVideoGlobalStart": 592.8,
+          "audioMustRemainMuted": true
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-b200-block50/audit-block20/audit.json"
+    },
+    {
+      "id": "willbenson20260406",
+      "batter": "Will Benson",
+      "date": "2026-04-06",
+      "matchup": "CIN at MIA",
+      "base": 3,
+      "strike": true,
+      "start": 278.6,
+      "end": 280.95,
+      "umpire": "Sean Barber · third base",
+      "context": "Barber ruled a swing on Benson’s check of a changeup from Janson Junk in the fifth inning. The official pitch was swinging strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/823886/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-cin-mia-4-6-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/ac173586-c5ed10f5-0fe6d87e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 823886,
+        "playId": "0305a68c-75c1-3db4-9a8b-204e0c473211"
+      },
+      "primaryEvidence": {
+        "id": "willbenson20260406",
+        "batter": "Will Benson",
+        "date": "2026-04-06",
+        "matchup": "CIN at MIA",
+        "base": 3,
+        "strike": true,
+        "start": 278.6,
+        "end": 280.95,
+        "umpire": "Sean Barber · third base",
+        "context": "Barber ruled a swing on Benson’s check of a changeup from Janson Junk in the fifth inning. The official pitch was swinging strike three.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/823886/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-cin-mia-4-6-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/ac173586-c5ed10f5-0fe6d87e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "gamePk": 823886,
+        "playId": "0305a68c-75c1-3db4-9a8b-204e0c473211",
+        "review": {
+          "status": "pending-independent-audit",
+          "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/benson-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/benson-native.mp4",
+          "localVideoGlobalStart": 278.2,
+          "audioMustRemainMuted": true
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-b200-block50/audit-block20/audit.json"
+    },
+    {
+      "id": "taylorwalls20260407",
+      "batter": "Taylor Walls",
+      "date": "2026-04-07",
+      "matchup": "CHC at TB",
+      "base": 3,
+      "strike": true,
+      "start": 379.45,
+      "end": 381.45,
+      "umpire": "Brian Walsh · third base",
+      "context": "Walsh ruled a swing on Walls’s check of a changeup from Javier Assad in the sixth inning. The official pitch was swinging strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/822999/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-7-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/07/2ccc1007-9bcaf271-4f8a1186-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 822999,
+        "playId": "7008db26-f99a-3fd5-a2fc-d57091fe5d93"
+      },
+      "primaryEvidence": {
+        "id": "taylorwalls20260407",
+        "batter": "Taylor Walls",
+        "date": "2026-04-07",
+        "matchup": "CHC at TB",
+        "base": 3,
+        "strike": true,
+        "start": 379.45,
+        "end": 381.45,
+        "umpire": "Brian Walsh · third base",
+        "context": "Walsh ruled a swing on Walls’s check of a changeup from Javier Assad in the sixth inning. The official pitch was swinging strike three.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/822999/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-7-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/07/2ccc1007-9bcaf271-4f8a1186-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "gamePk": 822999,
+        "playId": "7008db26-f99a-3fd5-a2fc-d57091fe5d93",
+        "review": {
+          "status": "pending-independent-audit",
+          "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/walls-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/walls-native.mp4",
+          "localVideoGlobalStart": 378.6,
+          "audioMustRemainMuted": true
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-b200-block50/audit-block20/audit.json"
+    },
+    {
+      "id": "jakemeyers20260408",
+      "batter": "Jake Meyers",
+      "date": "2026-04-08",
+      "matchup": "HOU at COL",
+      "base": 1,
+      "strike": false,
+      "start": 167.95,
+      "end": 170.25,
+      "umpire": "Deciding umpire not identified",
+      "context": "Meyers checked on a curveball from Michael Lorenzen in the second inning. The official pitch was ball two, implying no swing; no separate appeal caller is established. Meyers then left mid-at-bat with an injury, and Brice Matthews completed the plate appearance.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824374/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-hou-col-4-8-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/fdf90ee5-7392d904-cc80e857-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 824374,
+        "playId": "428c8f11-3c35-3f73-8ad4-663eb09e67e8"
+      },
+      "primaryEvidence": {
+        "id": "jakemeyers20260408",
+        "batter": "Jake Meyers",
+        "date": "2026-04-08",
+        "matchup": "HOU at COL",
+        "base": 1,
+        "strike": false,
+        "start": 167.95,
+        "end": 170.25,
+        "umpire": "Unknown caller",
+        "context": "Meyers checked on a curveball from Michael Lorenzen in the second inning. The official pitch was ball two, implying no swing; no separate appeal caller is established. Meyers then left mid-at-bat with an injury, and Brice Matthews completed the plate appearance.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/824374/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-hou-col-4-8-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/fdf90ee5-7392d904-cc80e857-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "gamePk": 824374,
+        "playId": "428c8f11-3c35-3f73-8ad4-663eb09e67e8",
+        "review": {
+          "status": "pending-independent-audit",
+          "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/meyers-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/meyers-native.mp4",
+          "localVideoGlobalStart": 166.6,
+          "audioMustRemainMuted": true
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-b200-block50/audit-block20/audit.json"
+    },
+    {
+      "id": "michaelbusch20260408",
+      "batter": "Michael Busch",
+      "date": "2026-04-08",
+      "matchup": "CHC at TB",
+      "base": 3,
+      "strike": true,
+      "start": 246.3,
+      "end": 249.7,
+      "umpire": "Deciding umpire not identified",
+      "context": "Busch checked on a slider from Joe Boyle in the fourth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/823000/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-8-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/70053c09-d573c1df-00a685d2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 823000,
+        "playId": "15f08130-810c-3a7a-8fb1-1e7cc77dcde2"
+      },
+      "primaryEvidence": {
+        "id": "michaelbusch20260408",
+        "batter": "Michael Busch",
+        "date": "2026-04-08",
+        "matchup": "CHC at TB",
+        "base": 3,
+        "strike": true,
+        "start": 246.3,
+        "end": 249.7,
+        "umpire": "Unknown caller",
+        "context": "Busch checked on a slider from Joe Boyle in the fourth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/823000/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-8-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/70053c09-d573c1df-00a685d2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "gamePk": 823000,
+        "playId": "15f08130-810c-3a7a-8fb1-1e7cc77dcde2",
+        "review": {
+          "status": "pending-independent-audit",
+          "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/busch-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/busch-native.mp4",
+          "localVideoGlobalStart": 245.6,
+          "audioMustRemainMuted": true
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2026-b200-block50/audit-block20/audit.json"
+    },
+    {
+      "id": "mookie-betts-20250406",
+      "batter": "Mookie Betts",
+      "date": "2025-04-06",
+      "matchup": "LAD at PHI",
+      "base": 1,
+      "strike": true,
+      "start": 214.15,
+      "end": 217.15,
+      "umpire": "Caller not established",
+      "context": "Top of the 3rd: Mookie Betts checks on a 1–2 slider from Cristopher Sánchez. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778434/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-lad-phi-4-6-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/b9ababc5-f86c101b-213ec010-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778434,
+        "atBatIndex": 18,
+        "pitchNumber": 4,
+        "playId": "5b3248b4-7df6-39e3-9a6e-17396403c73b"
+      },
+      "primaryEvidence": {
+        "id": "mookie-betts-20250406",
+        "batter": "Mookie Betts",
+        "date": "2025-04-06",
+        "matchup": "LAD at PHI",
+        "base": 1,
+        "strike": true,
+        "start": 214.15,
+        "end": 217.15,
+        "umpire": "Caller not established",
+        "context": "Top of the 3rd: Mookie Betts checks on a 1–2 slider from Cristopher Sánchez. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/778434/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-lad-phi-4-6-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/06/b9ababc5-f86c101b-213ec010-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "status": "primary-proposal-needs-independent-audit",
+          "reviewQueueIndex": 8,
+          "originReviewQueueIndex": 8,
+          "rowIndex": 8,
+          "windowIndex": 0,
+          "gamePk": 778434,
+          "atBatIndex": 18,
+          "pitchNumber": 4,
+          "playId": "5b3248b4-7df6-39e3-9a6e-17396403c73b",
+          "pitchType": "Slider",
+          "pitchSpeedMph": 86.7,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 1
+          },
+          "finalRuling": "Swinging Strike (Blocked)",
+          "caller": null,
+          "callerEvidence": "Caller left unknown: official swinging-strike feed and actual checked motion establish result, but no unsupported individual/base appeal attribution is made.",
+          "localHDClip": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/betts-hd.mp4",
+          "localHDSourceStart": 213.7,
+          "denseGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/betts-hd-grid.jpg",
+          "fullMotion": "Loaded bat before forward onset, distinct partial advance/braking and return inspected continuously on actual side replay. No whole-image freezes detected; moving background/catcher visible. Full follow-through does not complete.",
+          "window": "Own paired MP4 window checked independently of HLS cue baseline. Starts after dissolve with loaded bat; includes brake and return; ends before angle transition/result cue.",
+          "freezeDiagnostic": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/betts-freeze-analysis.txt",
+          "pitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/proposal-pitch-proofs.json",
+          "dedup": {
+            "canonicalCount": 226,
+            "exactPitchMatches": [],
+            "sameBatterDateForInvestigation": [],
+            "pendingExactPitchFiles": [],
+            "result": "clear"
+          }
+        }
+      },
+      "independentAuditGroup": "hbp-2019-2021-v2/audit-2025-season-block0.json"
+    },
+    {
+      "id": "adley-rutschman-20250406",
+      "batter": "Adley Rutschman",
+      "date": "2025-04-06",
+      "matchup": "BAL at KC",
+      "base": 1,
+      "strike": true,
+      "start": 431.22,
+      "end": 434.6,
+      "umpire": "Caller not established",
+      "context": "Top of the 6th: Adley Rutschman checks on a 2–2 changeup from Kris Bubic. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-bal-kc-4-6-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/0d4d67bd-b5330bb3-c55cca07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778422,
+        "atBatIndex": 44,
+        "pitchNumber": 8,
+        "playId": "44fbf4cf-79fd-3227-85ef-abb091bd669b"
+      },
+      "primaryEvidence": {
+        "id": "adley-rutschman-20250406",
+        "batter": "Adley Rutschman",
+        "date": "2025-04-06",
+        "matchup": "BAL at KC",
+        "base": 1,
+        "strike": true,
+        "start": 431.22,
+        "end": 434.6,
+        "umpire": "Caller not established",
+        "context": "Top of the 6th: Adley Rutschman checks on a 2–2 changeup from Kris Bubic. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-bal-kc-4-6-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/0d4d67bd-b5330bb3-c55cca07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "status": "primary-proposal-needs-independent-audit",
+          "reviewQueueIndex": 11,
+          "originReviewQueueIndex": 11,
+          "rowIndex": 11,
+          "windowIndex": 1,
+          "gamePk": 778422,
+          "atBatIndex": 44,
+          "pitchNumber": 8,
+          "playId": "44fbf4cf-79fd-3227-85ef-abb091bd669b",
+          "pitchType": "Changeup",
+          "pitchSpeedMph": 85.3,
+          "countBefore": {
+            "balls": 2,
+            "strikes": 2,
+            "outs": 1
+          },
+          "finalRuling": "Swinging Strike (Blocked)",
+          "caller": null,
+          "callerEvidence": "Caller left unknown: official swinging-strike feed and actual checked motion establish result, but no unsupported individual/base appeal attribution is made.",
+          "localHDClip": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/rutschman-hd.mp4",
+          "localHDSourceStart": 430.2,
+          "denseGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/rutschman-hd-grid.jpg",
+          "fullMotion": "Loaded bat before forward onset, distinct partial advance/braking and return inspected continuously on actual side replay. No whole-image freezes detected; moving background/catcher visible. Full follow-through does not complete.",
+          "window": "Own paired MP4 window checked independently of HLS cue baseline. Starts after dissolve with loaded bat; includes brake and return; ends before angle transition/result cue.",
+          "freezeDiagnostic": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/rutschman-freeze-analysis.txt",
+          "pitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/proposal-pitch-proofs.json",
+          "dedup": {
+            "canonicalCount": 226,
+            "exactPitchMatches": [],
+            "sameBatterDateForInvestigation": [],
+            "pendingExactPitchFiles": [],
+            "result": "clear"
+          }
+        }
+      },
+      "independentAuditGroup": "hbp-2019-2021-v2/audit-2025-season-block0.json"
+    },
+    {
+      "id": "jordan-westburg-20250406",
+      "batter": "Jordan Westburg",
+      "date": "2025-04-06",
+      "matchup": "BAL at KC",
+      "base": 1,
+      "strike": true,
+      "start": 595.18,
+      "end": 597.15,
+      "umpire": "Caller not established",
+      "context": "Top of the 9th: Jordan Westburg checks on a 1–2 slider from Carlos Estévez. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-bal-kc-4-6-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/0d4d67bd-b5330bb3-c55cca07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778422,
+        "atBatIndex": 64,
+        "pitchNumber": 4,
+        "playId": "bb3b9fd4-07a3-3b54-a84d-874473209f5b"
+      },
+      "primaryEvidence": {
+        "id": "jordan-westburg-20250406",
+        "batter": "Jordan Westburg",
+        "date": "2025-04-06",
+        "matchup": "BAL at KC",
+        "base": 1,
+        "strike": true,
+        "start": 595.1,
+        "end": 597.15,
+        "umpire": "Caller not established",
+        "context": "Top of the 9th: Jordan Westburg checks on a 1–2 slider from Carlos Estévez. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-bal-kc-4-6-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-05/06/0d4d67bd-b5330bb3-c55cca07-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "status": "primary-proposal-needs-independent-audit",
+          "reviewQueueIndex": 11,
+          "originReviewQueueIndex": 11,
+          "rowIndex": 11,
+          "windowIndex": 2,
+          "gamePk": 778422,
+          "atBatIndex": 64,
+          "pitchNumber": 4,
+          "playId": "bb3b9fd4-07a3-3b54-a84d-874473209f5b",
+          "pitchType": "Slider",
+          "pitchSpeedMph": 86.6,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 0
+          },
+          "finalRuling": "Swinging Strike",
+          "caller": null,
+          "callerEvidence": "Caller left unknown: official swinging-strike feed and actual checked motion establish result, but no unsupported individual/base appeal attribution is made.",
+          "localHDClip": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/westburg-hd.mp4",
+          "localHDSourceStart": 594.2,
+          "denseGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/westburg-hd-grid.jpg",
+          "fullMotion": "Loaded bat before forward onset, distinct partial advance/braking and return inspected continuously on actual side replay. No whole-image freezes detected; moving background/catcher visible. Full follow-through does not complete.",
+          "window": "Own paired MP4 window checked independently of HLS cue baseline. Starts after dissolve with loaded bat; includes brake and return; ends before angle transition/result cue.",
+          "freezeDiagnostic": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/westburg-freeze-analysis.txt",
+          "pitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/proposal-pitch-proofs.json",
+          "dedup": {
+            "canonicalCount": 226,
+            "exactPitchMatches": [],
+            "sameBatterDateForInvestigation": [],
+            "pendingExactPitchFiles": [],
+            "result": "clear"
+          }
+        }
+      },
+      "independentAuditGroup": "hbp-2019-2021-v2/audit-2025-season-block0.json"
+    },
+    {
+      "id": "christian-walker-20250407",
+      "batter": "Christian Walker",
+      "date": "2025-04-07",
+      "matchup": "HOU at SEA",
+      "base": 1,
+      "strike": true,
+      "start": 239.4,
+      "end": 243.2,
+      "umpire": "Caller not established",
+      "context": "Top of the 4th: Christian Walker checks on a 2–2 splitter from Logan Gilbert. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/778405/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-hou-sea-4-7-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/07/5fa00279-2a834ef9-44db6ecc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778405,
+        "atBatIndex": 22,
+        "pitchNumber": 5,
+        "playId": "6a90eab4-5f12-3994-9bb3-93403049d329"
+      },
+      "primaryEvidence": {
+        "id": "christian-walker-20250407",
+        "batter": "Christian Walker",
+        "date": "2025-04-07",
+        "matchup": "HOU at SEA",
+        "base": 1,
+        "strike": true,
+        "start": 239.4,
+        "end": 243.2,
+        "umpire": "Caller not established",
+        "context": "Top of the 4th: Christian Walker checks on a 2–2 splitter from Logan Gilbert. The official pitch record rules a swinging strike for strike three; the individual caller is not established.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/778405/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-hou-sea-4-7-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/07/5fa00279-2a834ef9-44db6ecc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "status": "primary-proposal-needs-independent-audit",
+          "reviewQueueIndex": 16,
+          "originReviewQueueIndex": 16,
+          "rowIndex": 16,
+          "windowIndex": 0,
+          "gamePk": 778405,
+          "atBatIndex": 22,
+          "pitchNumber": 5,
+          "playId": "6a90eab4-5f12-3994-9bb3-93403049d329",
+          "pitchType": "Splitter",
+          "pitchSpeedMph": 80.6,
+          "countBefore": {
+            "balls": 2,
+            "strikes": 2,
+            "outs": 1
+          },
+          "finalRuling": "Swinging Strike",
+          "caller": null,
+          "callerEvidence": "Caller left unknown: official swinging-strike feed and actual checked motion establish result, but no unsupported individual/base appeal attribution is made.",
+          "localHDClip": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/walker-hd.mp4",
+          "localHDSourceStart": 238.7,
+          "denseGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/walker-hd-grid.jpg",
+          "fullMotion": "Loaded bat before forward onset, distinct partial advance/braking and return inspected continuously on actual side replay. No whole-image freezes detected; moving background/catcher visible. Full follow-through does not complete.",
+          "window": "Own paired MP4 window checked independently of HLS cue baseline. Starts after dissolve with loaded bat; includes brake and return; ends before angle transition/result cue.",
+          "freezeDiagnostic": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/walker-freeze-analysis.txt",
+          "pitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/proposal-pitch-proofs.json",
+          "dedup": {
+            "canonicalCount": 226,
+            "exactPitchMatches": [],
+            "sameBatterDateForInvestigation": [],
+            "pendingExactPitchFiles": [],
+            "result": "clear"
+          }
+        }
+      },
+      "independentAuditGroup": "hbp-2019-2021-v2/audit-2025-season-block0.json"
+    },
+    {
+      "id": "altuve20250412",
+      "batter": "Jose Altuve",
+      "date": "2025-04-12",
+      "matchup": "LAA at HOU",
+      "base": 1,
+      "strike": true,
+      "start": 418.1,
+      "end": 421.58,
+      "umpire": "Unknown",
+      "context": "Bottom eight, one out: Altuve was ruled to have swung on an 0–2 pitch from Ryan Zeferjahn for strike three. The official feed labels the88.1mph pitch a slider; the broadcast graphic calls it a cutter.",
+      "evidence": "https://www.mlb.com/video/condensed-game-laa-hou-4-12-25",
+      "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-12-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/12/32b35d6d-7d170243-8721896b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778351,
+        "atBatIndex": 60,
+        "pitchNumber": 3,
+        "playId": "11946e09-eefa-3ddc-b9ca-1fac821b183a"
+      },
+      "primaryEvidence": {
+        "id": "altuve20250412",
+        "batter": "Jose Altuve",
+        "date": "2025-04-12",
+        "matchup": "LAA at HOU",
+        "base": 1,
+        "strike": true,
+        "start": 418.1,
+        "end": 421.58,
+        "umpire": "Unknown · deciding umpire",
+        "context": "Bottom eight, one out: Altuve is ruled to have swung on an 0–2 slider from Ryan Zeferjahn for strike three.",
+        "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-12-25",
+        "evidence": "https://www.mlb.com/video/condensed-game-laa-hou-4-12-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/12/32b35d6d-7d170243-8721896b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "reviewer": "hbp_2022_2023_v2",
+          "status": "needs-independent-review",
+          "gamePk": 778351,
+          "atBatIndex": 60,
+          "pitchNumber": 3,
+          "playId": "11946e09-eefa-3ddc-b9ca-1fac821b183a",
+          "officialGameFile": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/game-778351.json",
+          "officialPitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/24a3bb0b982e35a2-0-pitch-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/24a3bb0b982e35a2-0.mp4",
+          "sourceOffset": 404.038967,
+          "localCandidate": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/altuve-proposed.mp4",
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/altuve-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/altuve-call.jpg"
+          ],
+          "freezeProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/freeze-check.json",
+          "notes": "Elevated first-base-side oblique replay shows loaded bat, forward initiation and low arrested bat held in front, then recovery without shoulder wrap. Angle needs independent eligibility assessment. First-base cut is after the signal; caller remains unknown. Official feed classifies88.1mph SL Slider; broadcast CUTTER graphic discrepancy preserved and feed used in context.",
+          "callerEvidence": "Feed confirms S; edit cuts to first-base umpire after gesture ended. No name assigned from reaction or position alone.",
+          "dedup": {
+            "canonicalCount": 226,
+            "canonicalExactMatches": [],
+            "otherCGExactPitchClaims": [],
+            "method": "Exact playId search across candidate/disposition/audit/held ledgers before writing this proposal; no matches."
+          }
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2025-season-block20/audit-block40/audit.json"
+    },
+    {
+      "id": "adell20250413",
+      "batter": "Jo Adell",
+      "date": "2025-04-13",
+      "matchup": "LAA at HOU",
+      "base": 1,
+      "strike": true,
+      "start": 523.96,
+      "end": 526.3,
+      "umpire": "Jim Wolf · first base",
+      "context": "Top nine, one out: Wolf rules a swing on an 0–2 slider from Josh Hader, striking out Adell.",
+      "evidence": "https://www.mlb.com/video/condensed-game-laa-hou-4-13-25",
+      "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-13-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/0db9ceef-ea68718e-2bdf3c9a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-01",
+      "pitchIdentity": {
+        "gamePk": 778329,
+        "atBatIndex": 68,
+        "pitchNumber": 3,
+        "playId": "60817fe0-8bf0-3c15-8dbb-4d4bbe453987"
+      },
+      "primaryEvidence": {
+        "id": "adell20250413",
+        "batter": "Jo Adell",
+        "date": "2025-04-13",
+        "matchup": "LAA at HOU",
+        "base": 1,
+        "strike": true,
+        "start": 523.96,
+        "end": 526.3,
+        "umpire": "Jim Wolf · first base",
+        "context": "Top nine, one out: Wolf rules a swing on an 0–2 slider from Josh Hader, striking out Adell.",
+        "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-13-25",
+        "evidence": "https://www.mlb.com/video/condensed-game-laa-hou-4-13-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/0db9ceef-ea68718e-2bdf3c9a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "review": {
+          "reviewer": "hbp_2022_2023_v2",
+          "status": "needs-independent-review",
+          "gamePk": 778329,
+          "atBatIndex": 68,
+          "pitchNumber": 3,
+          "playId": "60817fe0-8bf0-3c15-8dbb-4d4bbe453987",
+          "officialGameFile": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/game-778329.json",
+          "officialPitchProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/b49e89670ab323e2-1-pitch-proof.json",
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/b49e89670ab323e2-1.mp4",
+          "sourceOffset": 508.84396699999996,
+          "localCandidate": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/adell-proposed.mp4",
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/adell-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/adell-call.jpg"
+          ],
+          "freezeProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/freeze-check.json",
+          "notes": "Complete first-base replay shows loaded bat then forward initiation into stopped low-front barrel, followed by a relaxed lowering. Catcher/glove and crowd continue moving; no whole-image freeze or resumed full wrap.",
+          "callerEvidence": "Actual fist on first-base appeal, exact crew position and broadcast footage.",
+          "dedup": {
+            "canonicalCount": 226,
+            "canonicalExactMatches": [],
+            "otherCGExactPitchClaims": [],
+            "method": "Exact playId search across candidate/disposition/audit/held ledgers before writing this proposal; no matches."
+          }
+        }
+      },
+      "independentAuditGroup": "season-condensed/reviews2025-season-block20/audit-block40/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/root-audits/audit-pham20260418.json": {
+      "id": "tommypham20260418",
+      "reviewer": "root",
+      "status": "accept",
+      "overrides": {},
+      "window": {
+        "start": 602.291967,
+        "end": 604.891967,
+        "base": 1,
+        "fullMotion": true,
+        "resultReveal": false
+      },
+      "motion": "Independently rendered6fps640px grid from retained original-HD range602.0. Pure side loaded stance precedes initiation, forward barrel movement and clear low/front arrest; return remains in front. Catcher/crowd move through arrest and continued tail; no full shoulder wrap. End precedes later catcher request.",
+      "ownVisualProof": "/workspace/check-swing/expansion500/season-condensed/root-audits/pham-own-dense.jpg",
+      "identity": {
+        "gamePk": 824694,
+        "officialDate": "2026-04-18",
+        "atBatIndex": 66,
+        "pitchNumber": 6,
+        "playId": "82a95389-e55a-351f-8b94-52b2cfa5d1ee",
+        "batter": {
+          "id": 502054,
+          "fullName": "Tommy Pham",
+          "link": "/api/v1/people/502054"
+        },
+        "pitcher": {
+          "id": 573204,
+          "fullName": "Caleb Thielbar",
+          "link": "/api/v1/people/573204"
+        },
+        "pitchType": {
+          "code": "CU",
+          "description": "Curveball"
+        },
+        "speedMph": 77.6,
+        "finalPitchCall": {
+          "code": "S",
+          "description": "Swinging Strike"
+        },
+        "result": {
+          "type": "atBat",
+          "event": "Strikeout",
+          "eventType": "strikeout",
+          "description": "Tommy Pham strikes out swinging.",
+          "rbi": 0,
+          "awayScore": 2,
+          "homeScore": 4,
+          "isOut": true
+        }
+      },
+      "caller": "Unknown retained: no independently established decision gesture or named deciding official. Crew assignment alone insufficient.",
+      "duplicateCheck": {
+        "canonicalCount": 226,
+        "matches": []
+      },
+      "canonicalEdited": false
+    },
+    "season-condensed/root-audits/audit-ohoppe20250411.json": {
+      "id": "ohoppe20250411",
+      "reviewer": "root",
+      "status": "accept",
+      "overrides": {
+        "context": "Top of the second: Alex MacKay ruled a swing on appeal on Logan O’Hoppe’s full-count changeup from Ronel Blanco, striking him out.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/778368/feed/live"
+      },
+      "window": {
+        "start": 111.75,
+        "end": 113.38,
+        "base": 1,
+        "fullMotion": true,
+        "resultReveal": false
+      },
+      "motionAssessment": "Independently viewed dense actual native-source side sequence and live appeal sequence. Clean loaded stance precedes forward hand/barrel stroke; bat clearly brakes low/front and returns while catcher and spectators move. No full wrap or editorial hold. End precedes catcher outward request/umpire response; selected replay contains no result signal.",
+      "identity": {
+        "gamePk": 778368,
+        "officialDate": "2025-04-11",
+        "atBatIndex": 7,
+        "pitchNumber": 6,
+        "playId": "9e0cfec6-3edb-3438-8a62-8fb1afdc833f",
+        "batter": {
+          "id": 681351,
+          "fullName": "Logan O'Hoppe",
+          "link": "/api/v1/people/681351"
+        },
+        "pitcher": {
+          "id": 669854,
+          "fullName": "Ronel Blanco",
+          "link": "/api/v1/people/669854"
+        },
+        "type": {
+          "code": "CH",
+          "description": "Changeup"
+        },
+        "speedMph": 86.1,
+        "finalPitchCall": {
+          "code": "S",
+          "description": "Swinging Strike"
+        },
+        "result": {
+          "type": "atBat",
+          "event": "Strikeout",
+          "eventType": "strikeout",
+          "description": "Logan O'Hoppe strikes out swinging.",
+          "rbi": 0,
+          "awayScore": 0,
+          "homeScore": 0,
+          "isOut": true
+        }
+      },
+      "callerAssessment": "Independent live-dense frame review shows first-base official raised closed fist at original110.5–111.2. Exact feed assigns Alex MacKay at first; primary caption separately names him. Attribution is actual first-base appeal, not HP crew inference.",
+      "viewedEvidence": [
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/ohoppe-side-dense.jpg",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/ohoppe-live-dense.jpg"
+      ],
+      "sourceOffset": 109.3,
+      "duplicateCheck": {
+        "canonicalCount": 226,
+        "matches": []
+      },
+      "correctedCandidate": {
+        "id": "ohoppe20250411",
+        "batter": "Logan O'Hoppe",
+        "date": "2025-04-11",
+        "matchup": "LAA at HOU",
+        "base": 1,
+        "strike": true,
+        "start": 111.75,
+        "end": 113.38,
+        "umpire": "Alex MacKay · first base",
+        "context": "Top of the second: Alex MacKay ruled a swing on appeal on Logan O’Hoppe’s full-count changeup from Ronel Blanco, striking him out.",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/778368/feed/live",
+        "source": "https://www.mlb.com/video/condensed-game-laa-hou-4-11-25",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/11/d6270399-2a283851-a30e87a7-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+      },
+      "canonicalEdited": false
+    },
+    "season-condensed/reviews2026-b200-block50/audit-block20/audit.json": {
+      "primaryFinalFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/candidates.json",
+      "reviewer": "hbp_2024_2026_v2",
+      "reviewed": 5,
+      "approved": 5,
+      "held": 0,
+      "rejected": 0,
+      "duplicates": 0,
+      "canonicalCountAtScreen": 226,
+      "entries": [
+        {
+          "id": "konnorgriffin20260406",
+          "status": "approved",
+          "gamePk": 823401,
+          "playId": "4872ba14-5be1-3954-a4ba-25b0183010dd",
+          "atBatIndex": 76,
+          "pitchNumber": 7,
+          "pitchType": {
+            "code": "CU",
+            "description": "Curveball"
+          },
+          "speed": 83.6,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 1
+          },
+          "actualBatter": "Konnor Griffin",
+          "pitcher": "David Morgan",
+          "call": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "window": [
+            593.85,
+            595.95
+          ],
+          "motionAssessment": "Loaded stance through forward stroke, low physical arrest, then recoil in front. Catcher and crowd continue moving. Entire post-window native tail inspected, with no resumed full followthrough.",
+          "cleanWindowAssessment": "Starts after dissolve with clean loaded stance and includes physical arrest. No decisive umpire signal, changed count, first-base departure, next hitter, or result-revealing edit in selected side replay. Muted playback required.",
+          "callerAssessment": "Unknown retained. No decisive actual individual call established.",
+          "exactIdentityAssessment": "Own full feed lookup by exact playId plus source batter/pitcher/inning sequence matches primary identification.",
+          "overrides": {
+            "umpire": {
+              "from": "Unknown caller",
+              "to": "Deciding umpire not identified",
+              "reason": "Standard unknown attribution; no caller inferred."
+            }
+          },
+          "duplicateScreen": {
+            "canonicalCount": 226,
+            "pendingFiles": 18,
+            "matches": []
+          },
+          "ownEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/griffin-own-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/griffin-extraction.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/griffin-full-tail.jpg"
+          ],
+          "correctedCandidate": {
+            "id": "konnorgriffin20260406",
+            "batter": "Konnor Griffin",
+            "date": "2026-04-06",
+            "matchup": "SD at PIT",
+            "base": 1,
+            "strike": true,
+            "start": 593.85,
+            "end": 595.95,
+            "umpire": "Deciding umpire not identified",
+            "context": "Griffin checked on a curveball from David Morgan in the ninth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/823401/feed/live",
+            "source": "https://www.mlb.com/video/condensed-game-sd-pit-4-6-26",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/9a0a7ee2-07fc5071-c828f774-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "gamePk": 823401,
+            "playId": "4872ba14-5be1-3954-a4ba-25b0183010dd",
+            "review": {
+              "status": "independently-approved",
+              "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/griffin-proof.json",
+              "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/griffin-native.mp4",
+              "localVideoGlobalStart": 592.8,
+              "audioMustRemainMuted": true,
+              "independentReviewer": "hbp_2024_2026_v2",
+              "independentAuditFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/audit.json",
+              "independentEvidence": [
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/griffin-own-dense.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/griffin-extraction.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/griffin-full-tail.jpg"
+              ]
+            }
+          }
+        },
+        {
+          "id": "willbenson20260406",
+          "status": "approved",
+          "gamePk": 823886,
+          "playId": "0305a68c-75c1-3db4-9a8b-204e0c473211",
+          "atBatIndex": 29,
+          "pitchNumber": 3,
+          "pitchType": {
+            "code": "CH",
+            "description": "Changeup"
+          },
+          "speed": 86.8,
+          "countBefore": {
+            "balls": 0,
+            "strikes": 2,
+            "outs": 0
+          },
+          "actualBatter": "Will Benson",
+          "pitcher": "Janson Junk",
+          "call": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "window": [
+            278.6,
+            280.95
+          ],
+          "motionAssessment": "Loaded stance, forward hands/barrel, early arrest into a held bat in front. Catcher keeps reaching and receiving as bat is held; crowd also moves. Continued tail never becomes a full followthrough.",
+          "cleanWindowAssessment": "Starts after dissolve with clean loaded stance and includes physical arrest. No decisive umpire signal, changed count, first-base departure, next hitter, or result-revealing edit in selected side replay. Muted playback required.",
+          "callerAssessment": "Actual closed right fist in third-base umpire cut after live check, source274.7–274.9, preceded by plate appeal. Sleeve29 visible; official feed lists Sean Barber at third. Attribution combines actual signal with location/jersey and official crew.",
+          "exactIdentityAssessment": "Own full feed lookup by exact playId plus source batter/pitcher/inning sequence matches primary identification.",
+          "overrides": {},
+          "duplicateScreen": {
+            "canonicalCount": 226,
+            "pendingFiles": 18,
+            "matches": []
+          },
+          "ownEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-own-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-extraction.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-own-context.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-full-tail.jpg"
+          ],
+          "correctedCandidate": {
+            "id": "willbenson20260406",
+            "batter": "Will Benson",
+            "date": "2026-04-06",
+            "matchup": "CIN at MIA",
+            "base": 3,
+            "strike": true,
+            "start": 278.6,
+            "end": 280.95,
+            "umpire": "Sean Barber · third base",
+            "context": "Barber ruled a swing on Benson’s check of a changeup from Janson Junk in the fifth inning. The official pitch was swinging strike three.",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/823886/feed/live",
+            "source": "https://www.mlb.com/video/condensed-game-cin-mia-4-6-26",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/06/ac173586-c5ed10f5-0fe6d87e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "gamePk": 823886,
+            "playId": "0305a68c-75c1-3db4-9a8b-204e0c473211",
+            "review": {
+              "status": "independently-approved",
+              "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/benson-proof.json",
+              "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/benson-native.mp4",
+              "localVideoGlobalStart": 278.2,
+              "audioMustRemainMuted": true,
+              "independentReviewer": "hbp_2024_2026_v2",
+              "independentAuditFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/audit.json",
+              "independentEvidence": [
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-own-dense.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-extraction.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-own-context.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/benson-full-tail.jpg"
+              ]
+            }
+          }
+        },
+        {
+          "id": "taylorwalls20260407",
+          "status": "approved",
+          "gamePk": 822999,
+          "playId": "7008db26-f99a-3fd5-a2fc-d57091fe5d93",
+          "atBatIndex": 46,
+          "pitchNumber": 4,
+          "pitchType": {
+            "code": "CH",
+            "description": "Changeup"
+          },
+          "speed": 86.6,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 0
+          },
+          "actualBatter": "Taylor Walls",
+          "pitcher": "Javier Assad",
+          "call": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "window": [
+            379.45,
+            381.45
+          ],
+          "motionAssessment": "Loaded bat, substantial forward stroke, low arrest/held bat. Catcher and crowd continue moving through the held phase, establishing physical arrest. Proposed end381.45 precedes dissolve at about381.5.",
+          "cleanWindowAssessment": "Starts after dissolve with clean loaded stance and includes physical arrest. No decisive umpire signal, changed count, first-base departure, next hitter, or result-revealing edit in selected side replay. Muted playback required.",
+          "callerAssessment": "Plate-to-third appeal followed by actual third-base umpire raised closed fist source376.2–377.0. Third-base line/location visible and sleeve90. Official feed lists Brian Walsh at third.",
+          "exactIdentityAssessment": "Own full feed lookup by exact playId plus source batter/pitcher/inning sequence matches primary identification.",
+          "overrides": {},
+          "duplicateScreen": {
+            "canonicalCount": 226,
+            "pendingFiles": 18,
+            "matches": []
+          },
+          "ownEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-own-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-extraction.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-own-context.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-full-tail.jpg"
+          ],
+          "correctedCandidate": {
+            "id": "taylorwalls20260407",
+            "batter": "Taylor Walls",
+            "date": "2026-04-07",
+            "matchup": "CHC at TB",
+            "base": 3,
+            "strike": true,
+            "start": 379.45,
+            "end": 381.45,
+            "umpire": "Brian Walsh · third base",
+            "context": "Walsh ruled a swing on Walls’s check of a changeup from Javier Assad in the sixth inning. The official pitch was swinging strike three.",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/822999/feed/live",
+            "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-7-26",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/07/2ccc1007-9bcaf271-4f8a1186-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "gamePk": 822999,
+            "playId": "7008db26-f99a-3fd5-a2fc-d57091fe5d93",
+            "review": {
+              "status": "independently-approved",
+              "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/walls-proof.json",
+              "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/walls-native.mp4",
+              "localVideoGlobalStart": 378.6,
+              "audioMustRemainMuted": true,
+              "independentReviewer": "hbp_2024_2026_v2",
+              "independentAuditFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/audit.json",
+              "independentEvidence": [
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-own-dense.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-extraction.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-own-context.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/walls-full-tail.jpg"
+              ]
+            }
+          }
+        },
+        {
+          "id": "jakemeyers20260408",
+          "status": "approved",
+          "gamePk": 824374,
+          "playId": "428c8f11-3c35-3f73-8ad4-663eb09e67e8",
+          "atBatIndex": 13,
+          "pitchNumber": 4,
+          "pitchType": {
+            "code": "CU",
+            "description": "Curveball"
+          },
+          "speed": 82.8,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 2
+          },
+          "actualBatter": "Jake Meyers",
+          "pitcher": "Michael Lorenzen",
+          "call": {
+            "code": "B",
+            "description": "Ball"
+          },
+          "window": [
+            167.95,
+            170.25
+          ],
+          "motionAssessment": "Full loaded stance and forward downward bat initiation, early arrest and return in front. Catcher receives and crowd moves; later discomfort follows but does not turn into a full followthrough.",
+          "cleanWindowAssessment": "Starts after dissolve with clean loaded stance and includes physical arrest. No decisive umpire signal, changed count, first-base departure, next hitter, or result-revealing edit in selected side replay. Muted playback required.",
+          "callerAssessment": "Unknown retained. Exact Ball code implies no swing; no separate appealed caller established.",
+          "exactIdentityAssessment": "Whole cue independently inspected: prior full-swing/foul, first checked ball and first injury assessment, then another live check and renewed right-side discomfort, then side replay. Visible Meyers6 and immediate second injury map replay to second check, AB13pitch4CU82.8, from1–2 to2–2. Feed records pitch3CH83.2Ball, injury at1–2, pitch4CU82.8Ball, injury at2–2, then Brice Matthews replacing Jake Meyers. Final AB matchup/result names Matthews because he completed it; actual pitch4 batter was Meyers.",
+          "overrides": {
+            "umpire": {
+              "from": "Unknown caller",
+              "to": "Deciding umpire not identified",
+              "reason": "Standard unknown attribution; no caller inferred."
+            }
+          },
+          "duplicateScreen": {
+            "canonicalCount": 226,
+            "pendingFiles": 18,
+            "matches": []
+          },
+          "ownEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-own-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-extraction.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-own-context.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-full-tail.jpg"
+          ],
+          "correctedCandidate": {
+            "id": "jakemeyers20260408",
+            "batter": "Jake Meyers",
+            "date": "2026-04-08",
+            "matchup": "HOU at COL",
+            "base": 1,
+            "strike": false,
+            "start": 167.95,
+            "end": 170.25,
+            "umpire": "Deciding umpire not identified",
+            "context": "Meyers checked on a curveball from Michael Lorenzen in the second inning. The official pitch was ball two, implying no swing; no separate appeal caller is established. Meyers then left mid-at-bat with an injury, and Brice Matthews completed the plate appearance.",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/824374/feed/live",
+            "source": "https://www.mlb.com/video/condensed-game-hou-col-4-8-26",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/fdf90ee5-7392d904-cc80e857-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "gamePk": 824374,
+            "playId": "428c8f11-3c35-3f73-8ad4-663eb09e67e8",
+            "review": {
+              "status": "independently-approved",
+              "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/meyers-proof.json",
+              "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/meyers-native.mp4",
+              "localVideoGlobalStart": 166.6,
+              "audioMustRemainMuted": true,
+              "independentReviewer": "hbp_2024_2026_v2",
+              "independentAuditFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/audit.json",
+              "independentEvidence": [
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-own-dense.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-extraction.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-own-context.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/meyers-full-tail.jpg"
+              ]
+            }
+          }
+        },
+        {
+          "id": "michaelbusch20260408",
+          "status": "approved",
+          "gamePk": 823000,
+          "playId": "15f08130-810c-3a7a-8fb1-1e7cc77dcde2",
+          "atBatIndex": 24,
+          "pitchNumber": 5,
+          "pitchType": {
+            "code": "SL",
+            "description": "Slider"
+          },
+          "speed": 89.5,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 0
+          },
+          "actualBatter": "Michael Busch",
+          "pitcher": "Joe Boyle",
+          "call": {
+            "code": "S",
+            "description": "Swinging Strike"
+          },
+          "window": [
+            246.3,
+            249.7
+          ],
+          "motionAssessment": "Full loaded stance to forward stroke and low physical arrest/hold. Catcher continues receiving, moving glove/head/legs while bat remains in front. Native resumed tail also inspected: no full wrap/followthrough. Isolated near-duplicate slow-motion frames are not a sustained whole-image freeze.",
+          "cleanWindowAssessment": "Starts after dissolve with clean loaded stance and includes physical arrest. No decisive umpire signal, changed count, first-base departure, next hitter, or result-revealing edit in selected side replay. Muted playback required.",
+          "callerAssessment": "Unknown retained. Do not infer Chad Fairchild from third-base crew assignment or ambiguous home-plate relay.",
+          "exactIdentityAssessment": "Own full feed lookup by exact playId plus source batter/pitcher/inning sequence matches primary identification.",
+          "overrides": {
+            "umpire": {
+              "from": "Unknown caller",
+              "to": "Deciding umpire not identified",
+              "reason": "Standard unknown attribution; no caller inferred."
+            }
+          },
+          "duplicateScreen": {
+            "canonicalCount": 226,
+            "pendingFiles": 18,
+            "matches": []
+          },
+          "ownEvidence": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/busch-own-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/busch-extraction.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/busch-full-tail.jpg"
+          ],
+          "correctedCandidate": {
+            "id": "michaelbusch20260408",
+            "batter": "Michael Busch",
+            "date": "2026-04-08",
+            "matchup": "CHC at TB",
+            "base": 3,
+            "strike": true,
+            "start": 246.3,
+            "end": 249.7,
+            "umpire": "Deciding umpire not identified",
+            "context": "Busch checked on a slider from Joe Boyle in the fourth inning. The official pitch was swinging strike three; the deciding checked-swing caller is not established by the edited source.",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/823000/feed/live",
+            "source": "https://www.mlb.com/video/condensed-game-chc-tb-4-8-26",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-04/08/70053c09-d573c1df-00a685d2-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "gamePk": 823000,
+            "playId": "15f08130-810c-3a7a-8fb1-1e7cc77dcde2",
+            "review": {
+              "status": "independently-approved",
+              "proofFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/busch-proof.json",
+              "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/busch-native.mp4",
+              "localVideoGlobalStart": 245.6,
+              "audioMustRemainMuted": true,
+              "independentReviewer": "hbp_2024_2026_v2",
+              "independentAuditFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/audit.json",
+              "independentEvidence": [
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/busch-own-dense.jpg",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/busch-extraction.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/quantitative-freeze-check.json",
+                "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/busch-full-tail.jpg"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "hbp-2019-2021-v2/audit-2025-season-block0.json": {
+      "auditedAt": "2026-10-31T04:14:11.598441+00:00",
+      "reviewer": "hbp_2019_2021_v2 independent second visual audit",
+      "sourceCandidates": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/candidates.json",
+      "sourceSha256": "9109049f827701cc145867266d7a0773f0e81eb73d5fdc867b84739e9a1bfa05",
+      "summary": {
+        "reviewed": 4,
+        "accepted": 4,
+        "rejected": 0,
+        "windowCorrections": [
+          "jordan-westburg-20250406 start595.10 ->595.18"
+        ],
+        "callerCorrections": []
+      },
+      "canonical": {
+        "path": "/workspace/base-site/content/check-swing/catalog.json",
+        "count": 226,
+        "sha256": "668ee6e108d7b507e72e54b6b7ee02599465e276d463fedc820cef394ed03586"
+      },
+      "otherCandidateFilesScanned": [
+        "/workspace/base-site/content/check-swing/catalog.json",
+        "/workspace/check-swing/expansion500/phrases/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_late/candidates-more2.json",
+        "/workspace/check-swing/expansion500/legacy_late/candidates-more.json",
+        "/workspace/check-swing/expansion500/legacy_late/candidates-more3.json",
+        "/workspace/check-swing/expansion500/legacy_late/candidates.json",
+        "/workspace/check-swing/expansion500/streamable-discovery/candidates.json",
+        "/workspace/check-swing/expansion500/mlb_search/candidates-more.json",
+        "/workspace/check-swing/expansion500/mlb_search/candidates-more3.json",
+        "/workspace/check-swing/expansion500/mlb_search/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2019-2021-v2/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_2014/candidates-more4.json",
+        "/workspace/check-swing/expansion500/legacy_2014/candidates-more.json",
+        "/workspace/check-swing/expansion500/legacy_2014/candidates-more3.json",
+        "/workspace/check-swing/expansion500/legacy_2014/candidates.json",
+        "/workspace/check-swing/expansion500/event-recovery-v2/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more7.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more4.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more2.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more6.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more5.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-more3.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates-initial.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2024-2026-v2/candidates.json",
+        "/workspace/check-swing/expansion500/audit-next-v2/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_middle/candidates.json",
+        "/workspace/check-swing/expansion500/ccs_lower/candidates-more.json",
+        "/workspace/check-swing/expansion500/ccs_lower/candidates.json",
+        "/workspace/check-swing/expansion500/archive/candidates.json",
+        "/workspace/check-swing/expansion500/semien-20250712/candidates.json",
+        "/workspace/check-swing/expansion500/asr-primary-v1/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block12/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block24/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block36/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block47/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block0/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block65/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-block8/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-root40/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-block24/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-block32/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-block16/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block0/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block20/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block40/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-block0/candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block24/audit-gimenez/approved-candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block24/audit-root40/approved-candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/approved-candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2025-block8/audit-bohm/approved-candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews2026-b200-block50/audit-block20/approved-candidates.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block0/audit-block24/primary-candidates-snapshot.json",
+        "/workspace/check-swing/expansion500/season-condensed/reviews-block0/audit-block24/approved-candidates.json",
+        "/workspace/check-swing/expansion500/legacy_late/retrosheet-pass1/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_late/next-pass-2/candidates.json",
+        "/workspace/check-swing/expansion500/mlb_search/analytics-sources/candidates.json",
+        "/workspace/check-swing/expansion500/mlb_search/spanish/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2019-2021-v2/wave2/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_2014/caption-pass/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_2014/compilations/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_2014/hbp-pass/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_2014/next-pass-2/candidates.json",
+        "/workspace/check-swing/expansion500/event-recovery-v2/wave2/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2022-2023-v2/wave2/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2024-2026-v2/wave3/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-2024-2026-v2/wave2/candidates.json",
+        "/workspace/check-swing/expansion500/audit-next-v2/hidden-hls-primary/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_middle/caption-pass/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_middle/more2/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_middle/nonexplicit/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_middle/event-first/candidates.json",
+        "/workspace/check-swing/expansion500/legacy_middle/next-pass/candidates.json",
+        "/workspace/check-swing/expansion500/ccs_lower/espn/candidates.json",
+        "/workspace/check-swing/expansion500/archive/caption-review/candidates.json",
+        "/workspace/check-swing/expansion500/archive/next-pass-2/candidates.json",
+        "/workspace/check-swing/expansion500/hbp-reviews/primary/candidates.json"
+      ],
+      "sameAssetAssessment": "Rutschman and Westburg share game778422 and one video but are distinct exact pitches. Rutschman AB44 top6 pitch8 play44fbf4cf-79fd-3227-85ef-abb091bd669b versus Westburg AB64 top9 pitch4 playbb3b9fd4-07a3-3b54-a84d-874473209f5b. Both are independently verified checks; shared URL is not an exact-pitch duplicate.",
+      "walkerPitchCorrection": "Walker is Logan Gilbert80.6mph splitter FS, not a curve; source JSON was already correct.",
+      "results": [
+        {
+          "id": "mookie-betts-20250406",
+          "status": "accept",
+          "reason": "First-base-side loaded bat before forward onset, partial forward stroke followed by low arrest and recoil. Catcher, batter legs and spectators continue moving through the held-bat period. No completed followthrough, contact, result gesture or cut inside approved window.",
+          "changes": {},
+          "overrides": {},
+          "evidence": {
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/betts-hd.mp4",
+            "localVideoGlobalOffset": 213.7,
+            "independentMotionGrid": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/mookie-betts-20250406-audit-motion.jpg",
+            "nativeStartFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/mookie-betts-20250406-audit-start.jpg",
+            "nativeEndFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/mookie-betts-20250406-audit-end.jpg",
+            "approvedWindow": {
+              "start": 214.15,
+              "end": 217.15,
+              "base": 1
+            },
+            "mp4TimingVerified": true,
+            "physicalStopVerified": true,
+            "physicalStopBasis": "Continuous independent15fps actual MP4 frames show hands/barrel arrested with catcher, batter body or background still moving; no full-image freeze. Native boundary frames inspected independently.",
+            "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/778434/feed/live",
+            "localOfficialFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/game-778434.json",
+            "officialDate": "2025-04-06",
+            "about": {
+              "atBatIndex": 18,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 3,
+              "startTime": "2025-04-06T18:12:29.421Z",
+              "endTime": "2025-04-06T18:13:39.922Z",
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 14
+            },
+            "matchup": {
+              "batter": {
+                "id": 605141,
+                "fullName": "Mookie Betts",
+                "link": "/api/v1/people/605141"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 650911,
+                "fullName": "Cristopher Sánchez",
+                "link": "/api/v1/people/650911"
+              },
+              "pitchHand": {
+                "code": "L",
+                "description": "Left"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_LHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "Empty"
+              }
+            },
+            "pitch": {
+              "details": {
+                "call": {
+                  "code": "W",
+                  "description": "Swinging Strike (Blocked)"
+                },
+                "description": "Swinging Strike (Blocked)",
+                "code": "W",
+                "ballColor": "rgba(170, 21, 11, 1.0)",
+                "trailColor": "rgba(0, 0, 254, 1.0)",
+                "isInPlay": false,
+                "isStrike": true,
+                "isBall": false,
+                "type": {
+                  "code": "SL",
+                  "description": "Slider"
+                },
+                "isOut": true,
+                "hasReview": false
+              },
+              "count": {
+                "balls": 1,
+                "strikes": 3,
+                "outs": 1
+              },
+              "pitchData": {
+                "startSpeed": 86.7,
+                "endSpeed": 80.1,
+                "strikeZoneTop": 3.2,
+                "strikeZoneBottom": 1.52,
+                "strikeZoneWidth": 17.0,
+                "strikeZoneDepth": 17.0,
+                "coordinates": {
+                  "aY": 25.33949705494989,
+                  "aZ": -27.916432155752734,
+                  "pfxX": 0.8576120636575544,
+                  "pfxZ": 2.6540607776520204,
+                  "pX": -1.0750328400668534,
+                  "pZ": 0.3880855148440185,
+                  "vX0": -7.214102353783604,
+                  "vY0": -125.87754724889894,
+                  "vZ0": -8.041564154936022,
+                  "x": 157.98,
+                  "y": 228.3,
+                  "x0": 1.715620580953019,
+                  "y0": 50.004937263509774,
+                  "z0": 5.881488302358502,
+                  "aX": 1.3776231393353071
+                },
+                "breaks": {
+                  "breakAngle": 0.0,
+                  "breakLength": 7.2,
+                  "breakY": 24.0,
+                  "breakVertical": -33.4,
+                  "breakVerticalInduced": 3.1,
+                  "breakHorizontal": 0.1,
+                  "spinRate": 2184,
+                  "spinDirection": 241
+                },
+                "zone": 13,
+                "typeConfidence": 2.0,
+                "plateTime": 0.43498186390303584,
+                "extension": 6.931197777919151
+              },
+              "index": 3,
+              "playId": "5b3248b4-7df6-39e3-9a6e-17396403c73b",
+              "pitchNumber": 4,
+              "startTime": "2025-04-06T18:13:34.462Z",
+              "endTime": "2025-04-06T18:13:39.922Z",
+              "isPitch": true,
+              "type": "pitch"
+            },
+            "countBefore": {
+              "balls": 1,
+              "strikes": 2,
+              "outs": 1
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Mookie Betts strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 2,
+              "homeScore": 0,
+              "isOut": true
+            },
+            "officials": [
+              {
+                "official": {
+                  "id": 427537,
+                  "fullName": "Hunter Wendelstedt",
+                  "link": "/api/v1/people/427537"
+                },
+                "officialType": "Home Plate"
+              },
+              {
+                "official": {
+                  "id": 503077,
+                  "fullName": "Adam Hamari",
+                  "link": "/api/v1/people/503077"
+                },
+                "officialType": "First Base"
+              },
+              {
+                "official": {
+                  "id": 598411,
+                  "fullName": "Nestor Ceja",
+                  "link": "/api/v1/people/598411"
+                },
+                "officialType": "Second Base"
+              },
+              {
+                "official": {
+                  "id": 429805,
+                  "fullName": "Todd Tichenor",
+                  "link": "/api/v1/people/429805"
+                },
+                "officialType": "Third Base"
+              }
+            ],
+            "callerAssessment": "Unknown retained. Swinging strike establishes adjudicated swing; no independently verified decisive individual checked-swing gesture and identity are claimed. Base1 describes replay camera side, not a caller inference.",
+            "audioMustRemainMuted": true,
+            "duplicateMatches": []
+          }
+        },
+        {
+          "id": "adley-rutschman-20250406",
+          "status": "accept",
+          "reason": "Clean first-base-side loaded stance before forward hand/barrel movement, followed by a distinct low brake with torso recoil. Catcher and background continue moving as the bat is held. No full wrap or contact. Window ends on held/braked bat before transition.",
+          "changes": {},
+          "overrides": {},
+          "evidence": {
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/rutschman-hd.mp4",
+            "localVideoGlobalOffset": 430.2,
+            "independentMotionGrid": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/adley-rutschman-20250406-audit-motion.jpg",
+            "nativeStartFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/adley-rutschman-20250406-audit-start.jpg",
+            "nativeEndFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/adley-rutschman-20250406-audit-end.jpg",
+            "approvedWindow": {
+              "start": 431.22,
+              "end": 434.6,
+              "base": 1
+            },
+            "mp4TimingVerified": true,
+            "physicalStopVerified": true,
+            "physicalStopBasis": "Continuous independent15fps actual MP4 frames show hands/barrel arrested with catcher, batter body or background still moving; no full-image freeze. Native boundary frames inspected independently.",
+            "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+            "localOfficialFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/game-778422.json",
+            "officialDate": "2025-04-06",
+            "about": {
+              "atBatIndex": 44,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 6,
+              "startTime": "2025-04-06T19:32:46.184Z",
+              "endTime": "2025-04-06T19:35:36.989Z",
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 14
+            },
+            "matchup": {
+              "batter": {
+                "id": 668939,
+                "fullName": "Adley Rutschman",
+                "link": "/api/v1/people/668939"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 663460,
+                "fullName": "Kris Bubic",
+                "link": "/api/v1/people/663460"
+              },
+              "pitchHand": {
+                "code": "L",
+                "description": "Left"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_LHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "Empty"
+              }
+            },
+            "pitch": {
+              "details": {
+                "call": {
+                  "code": "W",
+                  "description": "Swinging Strike (Blocked)"
+                },
+                "description": "Swinging Strike (Blocked)",
+                "code": "W",
+                "ballColor": "rgba(170, 21, 11, 1.0)",
+                "trailColor": "rgba(0, 85, 254, 1.0)",
+                "isInPlay": false,
+                "isStrike": true,
+                "isBall": false,
+                "type": {
+                  "code": "CH",
+                  "description": "Changeup"
+                },
+                "isOut": true,
+                "hasReview": false
+              },
+              "count": {
+                "balls": 2,
+                "strikes": 3,
+                "outs": 1
+              },
+              "pitchData": {
+                "startSpeed": 85.3,
+                "endSpeed": 79.3,
+                "strikeZoneTop": 3.37,
+                "strikeZoneBottom": 1.65,
+                "strikeZoneWidth": 17.0,
+                "strikeZoneDepth": 17.0,
+                "coordinates": {
+                  "aY": 22.68453651948375,
+                  "aZ": -32.1737330701253,
+                  "pfxX": 6.547095372903414,
+                  "pfxZ": -0.002166758386757728,
+                  "pX": -0.6954756570140427,
+                  "pZ": 0.6259221559156889,
+                  "vX0": -8.479178826642935,
+                  "vY0": -124.04123845381537,
+                  "vZ0": -5.210637441608717,
+                  "x": 143.51,
+                  "y": 221.88,
+                  "x0": 1.9021109734871087,
+                  "y0": 50.00204368394403,
+                  "z0": 5.408075113423224,
+                  "aX": 10.29615169823449
+                },
+                "breaks": {
+                  "breakAngle": 15.6,
+                  "breakLength": 8.4,
+                  "breakY": 24.0,
+                  "breakVertical": -38.3,
+                  "breakVerticalInduced": -1.0,
+                  "breakHorizontal": -10.1,
+                  "spinRate": 1683,
+                  "spinDirection": 109
+                },
+                "zone": 13,
+                "typeConfidence": 2.0,
+                "plateTime": 0.4400287575545736,
+                "extension": 6.621248850194291
+              },
+              "index": 8,
+              "playId": "44fbf4cf-79fd-3227-85ef-abb091bd669b",
+              "pitchNumber": 8,
+              "startTime": "2025-04-06T19:35:31.492Z",
+              "endTime": "2025-04-06T19:35:36.989Z",
+              "isPitch": true,
+              "type": "pitch"
+            },
+            "countBefore": {
+              "balls": 2,
+              "strikes": 2,
+              "outs": 1
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Adley Rutschman strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 0,
+              "homeScore": 4,
+              "isOut": true
+            },
+            "officials": [
+              {
+                "official": {
+                  "id": 490319,
+                  "fullName": "Jordan Baker",
+                  "link": "/api/v1/people/490319"
+                },
+                "officialType": "Home Plate"
+              },
+              {
+                "official": {
+                  "id": 521889,
+                  "fullName": "Stu Scheurwater",
+                  "link": "/api/v1/people/521889"
+                },
+                "officialType": "First Base"
+              },
+              {
+                "official": {
+                  "id": 605670,
+                  "fullName": "Dan Merzel",
+                  "link": "/api/v1/people/605670"
+                },
+                "officialType": "Second Base"
+              },
+              {
+                "official": {
+                  "id": 427053,
+                  "fullName": "Mark Carlson",
+                  "link": "/api/v1/people/427053"
+                },
+                "officialType": "Third Base"
+              }
+            ],
+            "callerAssessment": "Unknown retained. Swinging strike establishes adjudicated swing; no independently verified decisive individual checked-swing gesture and identity are claimed. Base1 describes replay camera side, not a caller inference.",
+            "audioMustRemainMuted": true,
+            "duplicateMatches": [],
+            "actualFootageIdentity": "Despite FORGE2025/2025-05/06 path, footage is BAL at KC April6: Rutschman versus Bubic (#50), top6 2–2 BAL0 KC4; later Westburg versus Estévez (#53), top9 1–2 BAL1 KC4. Both named batter/pitcher, count, inning, score and final strikeout match game778422. MLB source slug also names4-6-25. Asset directory date is not used as game date.",
+            "wholeCueGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/11-1-grid.jpg"
+          }
+        },
+        {
+          "id": "jordan-westburg-20250406",
+          "status": "accept",
+          "reason": "First-base-side loaded hands and rearward barrel remain visible after the opening dissolve. Forward stroke arrests in front of the body and returns; catcher movement continues. No completed followthrough/contact. Original start595.10 retained a faint dissolve, so corrected start595.18 clears it while preserving loaded bat before forward onset.",
+          "changes": {
+            "start": 595.18
+          },
+          "overrides": {
+            "start": 595.18
+          },
+          "evidence": {
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/westburg-hd.mp4",
+            "localVideoGlobalOffset": 594.2,
+            "independentMotionGrid": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/jordan-westburg-20250406-audit-motion.jpg",
+            "nativeStartFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/jordan-westburg-20250406-audit-start-corrected.jpg",
+            "nativeEndFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/jordan-westburg-20250406-audit-end.jpg",
+            "approvedWindow": {
+              "start": 595.18,
+              "end": 597.15,
+              "base": 1
+            },
+            "mp4TimingVerified": true,
+            "physicalStopVerified": true,
+            "physicalStopBasis": "Continuous independent15fps actual MP4 frames show hands/barrel arrested with catcher, batter body or background still moving; no full-image freeze. Native boundary frames inspected independently.",
+            "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/778422/feed/live",
+            "localOfficialFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/game-778422.json",
+            "officialDate": "2025-04-06",
+            "about": {
+              "atBatIndex": 64,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 9,
+              "startTime": "2025-04-06T20:25:38.659Z",
+              "endTime": "2025-04-06T20:26:34.009Z",
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 14
+            },
+            "matchup": {
+              "batter": {
+                "id": 676059,
+                "fullName": "Jordan Westburg",
+                "link": "/api/v1/people/676059"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 608032,
+                "fullName": "Carlos Estévez",
+                "link": "/api/v1/people/608032"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_RHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "Empty"
+              }
+            },
+            "pitch": {
+              "details": {
+                "call": {
+                  "code": "S",
+                  "description": "Swinging Strike"
+                },
+                "description": "Swinging Strike",
+                "code": "S",
+                "ballColor": "rgba(170, 21, 11, 1.0)",
+                "trailColor": "rgba(0, 0, 254, 1.0)",
+                "isInPlay": false,
+                "isStrike": true,
+                "isBall": false,
+                "type": {
+                  "code": "SL",
+                  "description": "Slider"
+                },
+                "isOut": true,
+                "hasReview": false
+              },
+              "count": {
+                "balls": 1,
+                "strikes": 3,
+                "outs": 0
+              },
+              "pitchData": {
+                "startSpeed": 86.6,
+                "endSpeed": 79.7,
+                "strikeZoneTop": 3.53,
+                "strikeZoneBottom": 1.68,
+                "strikeZoneWidth": 17.0,
+                "strikeZoneDepth": 17.0,
+                "coordinates": {
+                  "aY": 25.66441669653854,
+                  "aZ": -26.29575965767205,
+                  "pfxX": 3.232749460039992,
+                  "pfxZ": 3.660169716107551,
+                  "pX": 1.1690690436730542,
+                  "pZ": 2.1400754850503585,
+                  "vX0": 5.6392482594196425,
+                  "vY0": -126.00400179491074,
+                  "vZ0": -4.467150277002968,
+                  "x": 72.44,
+                  "y": 181.0,
+                  "x0": -1.5183902399310427,
+                  "y0": 50.00573536084715,
+                  "z0": 6.061320081499082,
+                  "aX": 5.197512808552065
+                },
+                "breaks": {
+                  "breakAngle": 13.2,
+                  "breakLength": 7.2,
+                  "breakY": 24.0,
+                  "breakVertical": -30.7,
+                  "breakVerticalInduced": 5.9,
+                  "breakHorizontal": -7.2,
+                  "spinRate": 2078,
+                  "spinDirection": 184
+                },
+                "zone": 14,
+                "typeConfidence": 0.9,
+                "plateTime": 0.43472855957079704,
+                "extension": 5.945645505935454
+              },
+              "index": 5,
+              "playId": "bb3b9fd4-07a3-3b54-a84d-874473209f5b",
+              "pitchNumber": 4,
+              "startTime": "2025-04-06T20:26:27.769Z",
+              "endTime": "2025-04-06T20:26:34.009Z",
+              "isPitch": true,
+              "type": "pitch"
+            },
+            "countBefore": {
+              "balls": 1,
+              "strikes": 2,
+              "outs": 0
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Jordan Westburg strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 1,
+              "homeScore": 4,
+              "isOut": true
+            },
+            "officials": [
+              {
+                "official": {
+                  "id": 490319,
+                  "fullName": "Jordan Baker",
+                  "link": "/api/v1/people/490319"
+                },
+                "officialType": "Home Plate"
+              },
+              {
+                "official": {
+                  "id": 521889,
+                  "fullName": "Stu Scheurwater",
+                  "link": "/api/v1/people/521889"
+                },
+                "officialType": "First Base"
+              },
+              {
+                "official": {
+                  "id": 605670,
+                  "fullName": "Dan Merzel",
+                  "link": "/api/v1/people/605670"
+                },
+                "officialType": "Second Base"
+              },
+              {
+                "official": {
+                  "id": 427053,
+                  "fullName": "Mark Carlson",
+                  "link": "/api/v1/people/427053"
+                },
+                "officialType": "Third Base"
+              }
+            ],
+            "callerAssessment": "Unknown retained. Swinging strike establishes adjudicated swing; no independently verified decisive individual checked-swing gesture and identity are claimed. Base1 describes replay camera side, not a caller inference.",
+            "audioMustRemainMuted": true,
+            "duplicateMatches": [],
+            "onsetDiagnostic": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/westburg-audit-onset.jpg",
+            "actualFootageIdentity": "Despite FORGE2025/2025-05/06 path, footage is BAL at KC April6: Rutschman versus Bubic (#50), top6 2–2 BAL0 KC4; later Westburg versus Estévez (#53), top9 1–2 BAL1 KC4. Both named batter/pitcher, count, inning, score and final strikeout match game778422. MLB source slug also names4-6-25. Asset directory date is not used as game date.",
+            "wholeCueGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/11-2-grid.jpg"
+          }
+        },
+        {
+          "id": "christian-walker-20250407",
+          "status": "accept",
+          "reason": "First-base-side loaded stance and forward initiation are fully visible. Bat stops low in front of the body and returns while catcher glove/body continue moving. This is a physical brake, not an editorial freeze. No contact, complete wrap, result gesture or transition inside selected window.",
+          "changes": {},
+          "overrides": {},
+          "evidence": {
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/walker-hd.mp4",
+            "localVideoGlobalOffset": 238.7,
+            "independentMotionGrid": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/christian-walker-20250407-audit-motion.jpg",
+            "nativeStartFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/christian-walker-20250407-audit-start.jpg",
+            "nativeEndFrame": "/workspace/check-swing/expansion500/hbp-2019-2021-v2/christian-walker-20250407-audit-end.jpg",
+            "approvedWindow": {
+              "start": 239.4,
+              "end": 243.2,
+              "base": 1
+            },
+            "mp4TimingVerified": true,
+            "physicalStopVerified": true,
+            "physicalStopBasis": "Continuous independent15fps actual MP4 frames show hands/barrel arrested with catcher, batter body or background still moving; no full-image freeze. Native boundary frames inspected independently.",
+            "officialFeed": "https://statsapi.mlb.com/api/v1.1/game/778405/feed/live",
+            "localOfficialFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block0/game-778405.json",
+            "officialDate": "2025-04-07",
+            "about": {
+              "atBatIndex": 22,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 4,
+              "startTime": "2025-04-08T02:34:21.960Z",
+              "endTime": "2025-04-08T02:37:00.228Z",
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 14
+            },
+            "matchup": {
+              "batter": {
+                "id": 572233,
+                "fullName": "Christian Walker",
+                "link": "/api/v1/people/572233"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 669302,
+                "fullName": "Logan Gilbert",
+                "link": "/api/v1/people/669302"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 670623,
+                "fullName": "Isaac Paredes",
+                "link": "/api/v1/people/670623"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_RHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "Men_On"
+              }
+            },
+            "pitch": {
+              "details": {
+                "call": {
+                  "code": "S",
+                  "description": "Swinging Strike"
+                },
+                "description": "Swinging Strike",
+                "code": "S",
+                "ballColor": "rgba(170, 21, 11, 1.0)",
+                "trailColor": "rgba(119, 0, 152, 1.0)",
+                "isInPlay": false,
+                "isStrike": true,
+                "isBall": false,
+                "type": {
+                  "code": "FS",
+                  "description": "Splitter"
+                },
+                "isOut": true,
+                "hasReview": false
+              },
+              "count": {
+                "balls": 2,
+                "strikes": 3,
+                "outs": 1
+              },
+              "pitchData": {
+                "startSpeed": 80.6,
+                "endSpeed": 73.2,
+                "strikeZoneTop": 3.31,
+                "strikeZoneBottom": 1.55,
+                "strikeZoneWidth": 17.0,
+                "strikeZoneDepth": 17.0,
+                "coordinates": {
+                  "aY": 26.50384569294391,
+                  "aZ": -37.42881575915757,
+                  "pfxX": -2.1889919807606573,
+                  "pfxZ": -3.8567078994719814,
+                  "pX": 0.25426613948455573,
+                  "pZ": 1.1133558153199503,
+                  "vX0": 3.4461399142828952,
+                  "vY0": -117.2904954312964,
+                  "vZ0": -1.9696829573415204,
+                  "x": 107.31,
+                  "y": 208.72,
+                  "x0": -0.9637220359986213,
+                  "y0": 50.001167614753044,
+                  "z0": 5.523659356936025,
+                  "aX": -2.986444604892282
+                },
+                "breaks": {
+                  "breakAngle": 3.6,
+                  "breakLength": 10.8,
+                  "breakY": 24.0,
+                  "breakVertical": -49.9,
+                  "breakVerticalInduced": -7.2,
+                  "breakHorizontal": 2.9,
+                  "spinRate": 618,
+                  "spinDirection": 301
+                },
+                "zone": 14,
+                "typeConfidence": 2.0,
+                "plateTime": 0.4707800260821813,
+                "extension": 7.556553820770566
+              },
+              "index": 6,
+              "playId": "6a90eab4-5f12-3994-9bb3-93403049d329",
+              "pitchNumber": 5,
+              "startTime": "2025-04-08T02:36:54.163Z",
+              "endTime": "2025-04-08T02:37:00.228Z",
+              "isPitch": true,
+              "type": "pitch"
+            },
+            "countBefore": {
+              "balls": 2,
+              "strikes": 2,
+              "outs": 1
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Christian Walker strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 0,
+              "homeScore": 0,
+              "isOut": true
+            },
+            "officials": [
+              {
+                "official": {
+                  "id": 427315,
+                  "fullName": "Alfonso Márquez",
+                  "link": "/api/v1/people/427315"
+                },
+                "officialType": "Home Plate"
+              },
+              {
+                "official": {
+                  "id": 483561,
+                  "fullName": "Lance Barrett",
+                  "link": "/api/v1/people/483561"
+                },
+                "officialType": "First Base"
+              },
+              {
+                "official": {
+                  "id": 547380,
+                  "fullName": "Carlos Torres",
+                  "link": "/api/v1/people/547380"
+                },
+                "officialType": "Second Base"
+              },
+              {
+                "official": {
+                  "id": 605671,
+                  "fullName": "Charlie Ramos",
+                  "link": "/api/v1/people/605671"
+                },
+                "officialType": "Third Base"
+              }
+            ],
+            "callerAssessment": "Unknown retained. Swinging strike establishes adjudicated swing; no independently verified decisive individual checked-swing gesture and identity are claimed. Base1 describes replay camera side, not a caller inference.",
+            "audioMustRemainMuted": true,
+            "duplicateMatches": []
+          }
+        }
+      ]
+    },
+    "season-condensed/reviews2025-season-block20/audit-block40/audit.json": {
+      "reviewer": "event_recovery_v2",
+      "originalProposalCount": 3,
+      "accepted": 2,
+      "held": 1,
+      "decisions": [
+        {
+          "id": "altuve20250412",
+          "status": "accepted",
+          "approvedStart": 418.1,
+          "approvedEnd": 421.58,
+          "gamePk": 778351,
+          "atBatIndex": 60,
+          "pitchNumber": 3,
+          "playId": "11946e09-eefa-3ddc-b9ca-1fac821b183a",
+          "officialDate": "2025-04-12",
+          "ruling": "S",
+          "speed": 88.1,
+          "type": {
+            "code": "SL",
+            "description": "Slider"
+          },
+          "motion": "Clean loaded stance418.10, forward onset roughly419.6–419.8, clear low-forward arrest420.4–420.8 and held/recovering barrel through421.58. Catcher glove and body move while bat stops. No completed shoulder wrap. Proposed end421.58 precedes outward catcher appeal around421.9.",
+          "angle": "Accepted genuine elevated first-base-side oblique. Full batter, plate, catcher and HP umpire are visible in side profile; home-plate apex/catcher-to-pitch axis run largely left-to-right, with first-base line receding right. Camera is substantially lateral to pitch axis and exposes batter chest/forward barrel. This is not a shot from directly behind catcher or an overhead plan view. Native1280px angle proof retained.",
+          "caller": "Unknown retained. Live edit cuts to first-base umpire only after any gesture; crew Alan Porter at1B does not establish deciding caller.",
+          "broadcastFeedDiscrepancy": "Broadcast labels88mph pitch CUTTER. Independently fetched official feed exact atBat60pitch3 is88.1mph SL Slider, codeS. Count0-2, bottom8LAA4–HOU0, named Altuve/Zeferjahn, low check strikeout all match. Pitch identity is established despite type-label discrepancy; cause of classification difference unknown.",
+          "nativeProof": {
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/12/32b35d6d-7d170243-8721896b-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "sourceOffset": 413.1,
+            "sourceEnd": 423.58,
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/altuve20250412-native.mp4",
+            "candidateStart": 418.1,
+            "candidateEnd": 421.58,
+            "sideSheetSourceOffset": 417.8
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/altuve20250412-side-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/altuve20250412-live-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/altuve20250412-onset.jpg"
+          ],
+          "dedup": {
+            "canonicalCount": 226,
+            "canonicalBatterDateMatches": [],
+            "otherExactPitchCandidateClaims": [],
+            "method": "Fresh canonical batter/date scan plus recursive CG candidates exact playId scan excluding original proposal and this audit."
+          }
+        },
+        {
+          "id": "adell20250413",
+          "status": "accepted",
+          "approvedStart": 523.96,
+          "approvedEnd": 526.3,
+          "gamePk": 778329,
+          "atBatIndex": 68,
+          "pitchNumber": 3,
+          "playId": "60817fe0-8bf0-3c15-8dbb-4d4bbe453987",
+          "officialDate": "2025-04-13",
+          "ruling": "W",
+          "speed": 79.3,
+          "type": {
+            "code": "SL",
+            "description": "Slider"
+          },
+          "motion": "Clean loaded side stance523.96–524.2, forward onset524.3–524.6, low-front arrested barrel524.7–525.5 with subsequent relaxed lowering through526.3. Catcher continues receiving/moving while bat stops; no global freeze or completed wrap. End526.3 precedes catcher standing/next cut.",
+          "angle": "Clear first-base side batting replay with complete motion.",
+          "caller": "Actual first-base closed fist visible519.56–519.76, uniform28; fresh official crew confirms Jim Wolf1B. Earlier original catcher appeal to1B followed by fist establishes caller.",
+          "broadcastFeedDiscrepancy": null,
+          "nativeProof": {
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/13/0db9ceef-ea68718e-2bdf3c9a-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "sourceOffset": 518.96,
+            "sourceEnd": 528.3,
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/adell20250413-native.mp4",
+            "candidateStart": 523.96,
+            "candidateEnd": 526.3,
+            "sideSheetSourceOffset": 523.6600000000001
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/adell20250413-side-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/adell20250413-live-dense.jpg"
+          ],
+          "dedup": {
+            "canonicalCount": 226,
+            "canonicalBatterDateMatches": [],
+            "otherExactPitchCandidateClaims": [],
+            "method": "Fresh canonical batter/date scan plus recursive CG candidates exact playId scan excluding original proposal and this audit."
+          }
+        },
+        {
+          "id": "sosa20250412",
+          "status": "held-onset-truncation",
+          "gamePk": 778349,
+          "atBatIndex": 13,
+          "pitchNumber": 4,
+          "playId": "d6215a22-6195-36ed-9892-393a404dac32",
+          "officialDate": "2025-04-12",
+          "ruling": "S",
+          "caller": "Brian Walsh1B swing fist independently visible in own live sheet and exact first-base crew assignment.",
+          "reason": "Native30fps boundary inspection confirms working119.84 includes dissolve. First fully clean side frame approximately119.89 already follows torso/forward bat initiation during transition; no complete clean pre-onset loaded stance established. Later physical arrest is clear but insufficient. Not counted.",
+          "nativeProof": {
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-04/12/d7fcce97-1cbd4e88-fabba3a4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "sourceOffset": 114.84,
+            "sourceEnd": 124.0,
+            "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/sosa20250412-native.mp4",
+            "candidateStart": 119.84,
+            "candidateEnd": 122.0,
+            "sideSheetSourceOffset": 119.54
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/sosa20250412-onset.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/sosa20250412-side-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block20/audit-block40/sosa20250412-live-dense.jpg"
+          ]
+        }
+      ],
+      "canonicalEdits": false
+    }
+  },
+  "excludedExamples": {
+    "sosa20250412": "Held: initiation begins during replay dissolve; no clean loaded onset established.",
+    "mccarthy20250413": "Held: impact/protective recoil versus checking initiation remains unresolved."
+  }
+}
