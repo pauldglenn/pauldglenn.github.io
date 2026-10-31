@@ -7,10 +7,14 @@ ROOT=Path(__file__).resolve().parents[1]
 PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom','footageCredit']
 API_FIELDS=['id','batter','date','base','strike','evidence','availableFrom','mediaProvider']
 def validate(rows):
-    seen=set()
+    seen=set();seen_pitches=set()
     for row in rows:
         identity=row.get('id');assert isinstance(identity,str) and re.fullmatch(r'[a-z0-9_-]+',identity), 'Invalid clip ID'
         assert identity not in seen,'Duplicate clip ID: '+identity;seen.add(identity)
+        pitch=row.get('pitchIdentity')
+        if pitch:
+            assert type(pitch.get('gamePk')) is int and pitch['gamePk']>0 and re.fullmatch(r'[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}',pitch.get('playId','')),'Invalid exact pitch identity: '+identity
+            key=(pitch['gamePk'],pitch['playId']);assert key not in seen_pitches,'Duplicate exact pitch: '+identity;seen_pitches.add(key)
         assert row['base'] in (1,3) and type(row['strike']) is bool,'Invalid ruling/base: '+identity
         assert isinstance(row['start'],(int,float)) and isinstance(row['end'],(int,float)) and 0<=row['start']<row['end'],'Invalid playback window: '+identity
         assert row['end']-row['start']<=15,'Excessively long window: '+identity
