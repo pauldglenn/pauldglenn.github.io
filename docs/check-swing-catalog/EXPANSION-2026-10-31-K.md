@@ -1,0 +1,13 @@
+# Sixteenth expansion batch: 2026-10-31
+
+Adds 19 independently audited pitches, taking the playable library from 347 to 366. Practice access is immediate; daily eligibility begins November 1 UTC. All 347 published entries retain their exact values and order. October 31 and earlier daily questions remain fixed.
+
+Public 2023–2025 condensed-game captions locate checks and appeals that lack searchable highlight titles. Each addition received primary and independent native-frame review of a complete loaded barrel before forward initiation, the full checked path and physical arrest/recoil, a usable base-side view, hidden outcome, exact official pitch/ruling, caller evidence and duplicates. Exact MLB gamePk/playId metadata accompanies every addition. The [provenance file](expansion-2026-10-31-k.json) retains primary records and independent audits.
+
+Solano and Laureano have tight but independently confirmed complete loaded-barrel starts before actual forward motion. Turner starts later at 267.05, after the complete rounded tip is inside the frame and before launch. Waters starts later at 193.15, after the original 192.95 dissolve and before forward initiation. Haggerty ends earlier at 325.50, retaining arrest and initial recoil while concealing the earliest catcher mitt appeal. Frelick adds a confirmed no-swing ball-four appeal with an actual third-base safe signal by Tripp Gibson.
+
+Named callers include Chris Segal, Nestor Ceja, Jim Wolf, Mark Carlson, Alan Porter, Gabe Morales, Lance Barrett, Alfonso Márquez, Malachi Moore, Mark Wegner, Jordan Baker and D.J. Reyburn. Actual decisive gestures and exact fresh crews support the gesture-based identities; explicit matched raw broadcast attribution supports the home-plate calls and Reyburn. Paris’s compact first-base fist is independently extracted at native 239.13–239.45 and matched to Baker. Unknown callers remain unknown.
+
+India’s HBP replay is held out because the shallow bat lowering/tuck is consistent with pitch avoidance, without a clearly separate forward offer. A no-swing HBP award alone does not establish a checked swing. Other cropped or already-advanced starts are likewise excluded. Rocchio’s very slow replay is checked against full native frames: bat, hands, catcher and crowd genuinely change through the brake and recovery, rather than an editorial still being counted as a physical stop.
+
+The target remains 500, with 134 further verified clips needed. Parallel primary and independent reviews continue across separate public-caption queues. No database migration, local video assets or instant-reveal behavior change in this release.
