@@ -1,0 +1,9 @@
+# Twenty-second expansion batch: 2026-10-31
+
+Adds Gabriel Arias (August 29, 2025), Lourdes Gurriel Jr. (July 29, 2022), Pavin Smith (August 8, 2021), and Tzu-Wei Lin (August 18, 2020), taking the playable library from 454 to 458. Practice access is immediate; daily eligibility begins November 1 UTC. All 454 existing entries retain every value and their order, preserving October 31 and earlier daily questions.
+
+Each addition passed primary and independent footage/ruling review against a fresh exact MLB pitch record. Reviews verify a complete loaded bat before forward initiation, the entire attempted check through its finish, a true first/third-base-side replay, clean question boundaries, an actual appeal for that pitch, and duplicate checks. Alex Tosi is verified from the actual first-base swing signal for Gurriel; other deciding umpires remain Unknown. The [provenance file](expansion-2026-10-31-q.json) retains primary evidence and independent audits.
+
+A real checked attempt can be ruled a swing because the batter failed to stop. Such attempts qualify only with independently demonstrated specific appeal evidence and the entire visible motion; ordinary unrelated swinging strikes remain excluded. The Gurriel and Lin audits describe continuous motion honestly, without inventing an arrest or recoil. Earlier negative audits remain preserved, with append-only reassessments. Lin’s primary crop was independently widened to include the loaded stance and shortened before a dissolve; Gurriel’s end was extended to include the full finish. Pavin’s third-base camera assignment was corrected in independent review before publication.
+
+A Bellinger lead remains unpublished while its exact at-bat and clean loaded onset are reconciled. No database migration, local video assets or scoring changes accompany this release. The 500-live target remains in progress, with 42 additional verified clips needed.

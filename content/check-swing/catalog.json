@@ -8767,5 +8767,93 @@
       "pitchNumber": 4,
       "playId": "f405782a-46e3-3757-9c1f-ab82dc0d04b1"
     }
+  },
+  {
+    "id": "arias20250829",
+    "batter": "Gabriel Arias",
+    "date": "2025-08-29",
+    "matchup": "SEA at CLE",
+    "base": 1,
+    "strike": false,
+    "start": 213.342967,
+    "end": 217.742967,
+    "umpire": "Unknown",
+    "context": "Bottom of the second, Seattle ahead 4–0: Arias starts to offer at George Kirby’s first-pitch, 94.7 mph sinker before it hits his arms. The first-base appeal is ruled no swing, and he is awarded first base.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/776547/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-sea-cle-8-29-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/29/b0bb77b5-62034fb6-9fd855b3-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 776547,
+      "atBatIndex": 16,
+      "pitchNumber": 1,
+      "playId": "1ad3ca77-d120-3cff-8356-f9f37e0cb56c"
+    }
+  },
+  {
+    "id": "gurriel20220729",
+    "batter": "Lourdes Gurriel Jr.",
+    "date": "2022-07-29",
+    "matchup": "DET at TOR",
+    "base": 1,
+    "strike": true,
+    "start": 115.466967,
+    "end": 117.666967,
+    "umpire": "Alex Tosi",
+    "context": "Bottom of the second, scoreless with nobody out: Gurriel makes a checked attempt at Bryan Garcia’s full-count, 85.6 mph slider. The blocked-pitch appeal at first base rules that he went, strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/661713/feed/live",
+    "source": "https://www.mlb.com/video/cg-det-tor-7-29-22",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-07/29/c12eee19-9d60f98c-aa5c9cf1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 661713,
+      "atBatIndex": 11,
+      "pitchNumber": 6,
+      "playId": "ab033c50-8767-44cd-983c-7fa2774c8f52"
+    }
+  },
+  {
+    "id": "pavinsmith20210808",
+    "batter": "Pavin Smith",
+    "date": "2021-08-08",
+    "matchup": "ARI at SD",
+    "base": 3,
+    "strike": true,
+    "start": 304.271967,
+    "end": 306.271967,
+    "umpire": "Unknown",
+    "context": "Top of the seventh, Arizona behind 2–0 with one out: Smith tries to hold up on Blake Snell’s 2–2, 83.5 mph slider. The appeal is ruled a swing for a blocked strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/633051/feed/live",
+    "source": "https://www.mlb.com/video/cg-ari-sd-8-8-21",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-08/08/f660e666-8a337233-e54306a9-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 633051,
+      "atBatIndex": 47,
+      "pitchNumber": 6,
+      "playId": "c5cf5453-7d26-4bd5-84d7-ea34fa290126"
+    }
+  },
+  {
+    "id": "tzu-wei-lin-20200818-p4-appealed-check",
+    "batter": "Tzu-Wei Lin",
+    "date": "2020-08-18",
+    "matchup": "PHI at BOS",
+    "base": 3,
+    "strike": true,
+    "start": 100.75,
+    "end": 103.75,
+    "umpire": "Unknown",
+    "context": "Bottom of the second, Boston ahead 1–0 with one out: Lin tries to hold up on Zach Eflin’s 1–2, 89.2 mph slider. The third-base appeal is ruled a swing for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/631651/feed/live",
+    "source": "https://www.mlb.com/video/cg-phi-bos-8-18-20",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-08/18/5e442dc7-100cf737-9b9755a1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-01",
+    "pitchIdentity": {
+      "gamePk": 631651,
+      "atBatIndex": 15,
+      "pitchNumber": 4,
+      "playId": "15e805bd-e1f8-41b7-9223-dae844520e8c"
+    }
   }
 ]
