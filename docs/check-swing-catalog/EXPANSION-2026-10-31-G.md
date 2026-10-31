@@ -1,0 +1,13 @@
+# Twelfth expansion batch: 2026-10-31
+
+Adds 17 independently audited pitches and withdraws one not-yet-daily-eligible replay, taking the playable library from 284 to 300. Practice access is immediate; daily eligibility for additions begins November 1 UTC. All other 283 published entries retain their exact values and relative order. October 31 and earlier daily questions remain fixed.
+
+Public condensed-game HLS captions and adjacent-play references locate checks without searchable highlight titles. Every addition received primary and independent native frame review of loaded onset, forward checked motion, physical arrest and recoil, usable base-side perspective, concealed ruling, exact official pitch/date/ruling, caller evidence and duplicate identity. Exact MLB gamePk/playId metadata accompanies each new canonical pitch. The [provenance file](expansion-2026-10-31-g.json) preserves accepted primary records, independent audits, and the withdrawal addendum.
+
+A fresh full-resolution check found that Rodgers’s April 8, 2024 replay crops a substantial part of the loaded barrel through forward initiation. The prior audit understated this as a brief tip touch. Its physical check and official ruling remain established, but it fails the complete-footage criterion and is withdrawn before its November 1 daily eligibility. No already-published daily question includes it. Morel is likewise excluded for a cropped loaded barrel; an ABS-overturned called strike to Trout is held because it does not establish a separate swing ruling.
+
+Independent audits move Jansen’s start to 597.30 to clear a faint dissolve, Lopez to 119.90 for a clear barrel margin, and Tauchman to 329.45 to retain a later complete loaded stance. Turang’s native full tail confirms a sustained stop and recovery without a conventional wrap. Jensen’s repeated slow-motion frames are distinguished from physical arrest by newly changing frames and the continued native tail. Aranda ends before a result-revealing appeal gesture.
+
+Named callers require actual deciding gestures with exact crew assignments or explicit matched broadcast attribution. Martin is downgraded to unknown because the fist shot does not securely identify its field location or uniform number. Unknowns remain unknown. Tauchman’s HBP establishes no swing; the evidence does not invent a separate appeal.
+
+The target remains 500, with 200 further verified clips needed. Caption review across 2024–2026 continues and a 2023 public condensed-game inventory is underway. Unreviewed source leads are excluded from the playable total. No local video assets, database migrations or instant-reveal behavior change in this release.
