@@ -9466,5 +9466,28 @@
       "pitchNumber": 3,
       "playId": "03194906-0236-0033-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "justin-maxwell-20130922-349075-0376-0053-1b-appeal",
+    "batter": "Justin Maxwell",
+    "date": "2013-09-22",
+    "matchup": "Rangers at Royals",
+    "base": 1,
+    "strike": true,
+    "start": 3998.5,
+    "end": 4004.2,
+    "umpire": "Sam Holbrook · first-base umpire",
+    "context": "Justin Maxwell faces right-hander Alexi Ogando with a 3–1 count, two outs and the bases empty in the bottom of the fifth. Texas and Kansas City are tied 0–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/349075/feed/live",
+    "source": "https://www.mlb.com/video/royals-win-on-walk-off-grand-slam",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2013/2013-09/22/4a770318-14a12384-cd530203-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / 2013 Texas Rangers at Kansas City Royals broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 349075,
+      "atBatIndex": 36,
+      "pitchNumber": 5,
+      "playId": "03490756-0376-0053-000c-f08cd117d70a"
+    }
   }
 ]

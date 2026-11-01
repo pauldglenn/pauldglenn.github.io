@@ -1,0 +1,238 @@
+{
+  "added": 1,
+  "total": 486,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Expanded source-absolute speech-locator recall and dense original-MP4 chronology identify Justin Maxwell 2013. Full-resolution pre-count3–1 distinguishes p5S from adjacent p4C; a brief actual first-base fist missed by a single still is verified before the complete first-base-side replay. Primary, independent peer and root verify full cap/whole attempt, exact pitch, Sam Holbrook first base and clean question bounds. Public pre-pitch context neutral. All485 published entries/order and historical daily selections unchanged.",
+  "clips": [
+    {
+      "id": "justin-maxwell-20130922-349075-0376-0053-1b-appeal",
+      "batter": "Justin Maxwell",
+      "date": "2013-09-22",
+      "matchup": "Rangers at Royals",
+      "base": 1,
+      "strike": true,
+      "start": 3998.5,
+      "end": 4004.2,
+      "umpire": "Sam Holbrook · first-base umpire",
+      "context": "Justin Maxwell faces right-hander Alexi Ogando with a 3–1 count, two outs and the bases empty in the bottom of the fifth. Texas and Kansas City are tied 0–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/349075/feed/live",
+      "source": "https://www.mlb.com/video/royals-win-on-walk-off-grand-slam",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2013/2013-09/22/4a770318-14a12384-cd530203-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / 2013 Texas Rangers at Kansas City Royals broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 349075,
+        "atBatIndex": 36,
+        "pitchNumber": 5,
+        "playId": "03490756-0376-0053-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "justin-maxwell-20130922-349075-0376-0053-1b-appeal",
+          "batter": "Justin Maxwell",
+          "strike": true,
+          "start": 3998.5,
+          "end": 4004.2,
+          "umpire": "Sam Holbrook · first-base umpire",
+          "context": "Justin Maxwell faces right-hander Alexi Ogando with a 3–1 count, two outs and the bases empty in the bottom of the fifth. Texas and Kansas City are tied 0–0.",
+          "date": "2013-09-22",
+          "matchup": "Rangers at Royals",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/349075/feed/live",
+          "source": "https://www.mlb.com/video/royals-win-on-walk-off-grand-slam",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2013/2013-09/22/4a770318-14a12384-cd530203-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / 2013 Texas Rangers at Kansas City Royals broadcast"
+        },
+        "review": {
+          "gamePk": 349075,
+          "atBatIndex": 36,
+          "pitchNumber": 5,
+          "playId": "03490756-0376-0053-000c-f08cd117d70a",
+          "status": "primary-proposed-for-independent-peer-review",
+          "atBat": {
+            "halfInning": "bottom",
+            "inning": 5,
+            "outsBefore": 2,
+            "scoreBefore": {
+              "away": 0,
+              "home": 0
+            },
+            "batter": {
+              "id": 452239,
+              "name": "Justin Maxwell",
+              "batSide": "R"
+            },
+            "pitcher": {
+              "id": 468396,
+              "name": "Alexi Ogando",
+              "pitchHand": "R"
+            },
+            "countBefore": {
+              "balls": 3,
+              "strikes": 1,
+              "outs": 2
+            },
+            "countAfter": {
+              "balls": 3,
+              "strikes": 2,
+              "outs": 2
+            }
+          },
+          "pitch": {
+            "type": "Four-Seam Fastball",
+            "startSpeedMph": 94.4,
+            "feedCallCode": "S",
+            "feedCall": "Swinging Strike",
+            "hasReview": false,
+            "note": "This is separate from p4. The source shows pre-pitch 3–1; the pitch sequence shows the first-base ruling and count becomes 3–2. The generic feed call is not treated as appeal evidence; the same-pitch broadcast signal and words establish it."
+          },
+          "actualRulingEvidence": {
+            "sourceTimeApprox": [
+              3989.0,
+              3990.75
+            ],
+            "audioCue": "Transcript cue at 3989.0: “Did he go? Yes, he did.”",
+            "visual": "Original listed MP4 still at 3983.75 shows fifth inning, 3–1, 0–0, two outs and bases empty before this pitch. At 3989.65, the same 3–1/94 mph graphic remains while the visible first-base umpire makes a raised closed-fist strike signal. At 3990.75 he has returned to hands-on-hips; around 3993.75 the count updates to 3–2. This is p5 (3–1→3–2), not p4 (3–0→3–1).",
+            "caller": "Fresh official crew lists Sam Holbrook at First Base; identified by visible first-base position and same-pitch gesture, with commentary confirming the appeal."
+          },
+          "cameraProof": {
+            "originalMp4": "https://cuts.diamond.mlb.com/FORGE/2013/2013-09/22/4a770318-14a12384-cd530203-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+            "nativeProofPath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/native-349075-4000K/native-3998.5-4006.5.mp4",
+            "nativeProofSha256": "a5416fb85b668b1e1fae6beb304fa8a885d81db4f9996666d807d5f91bb99b83",
+            "nativeProofBytes": 8028868,
+            "sourceBounds": [
+              3998.5,
+              4004.2
+            ],
+            "proofFileBounds": [
+              3998.5,
+              4006.5
+            ],
+            "finding": "True 1B-side full-body profile of a right-handed batter. The rounded cap is fully loaded at the first selected frame 3998.5 before forward motion; the complete forward attempt and finish are visible by ~4003.4."
+          },
+          "exactFeed": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/fresh-feed-349075.json.gz",
+            "sha256": "f7199dce1671a3d36be8955e95edb592d78c7f34a4b93b43c921a5b59bd06e7e",
+            "rawPath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/fresh-feed-349075.json",
+            "rawSha256": "7609a39dccea3c307beac6c8fb3989ed61f8c0f36b5918d801452a868f1a518d",
+            "officialDate": "2013-09-22"
+          },
+          "sourceProof": {
+            "denseChronologyGrid": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/source-3978-3994-4fps.jpg",
+            "sha256": "3abe0e9cc2e1d53062de717e19ad120d304150a0ba81486fe814c8d49d0a7eff",
+            "sourceTimes": [
+              3978,
+              3994
+            ],
+            "directFrames": {
+              "3983.75": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/original-3983.75.png",
+                "sha256": "a89e1e75b13dff3323e3e41b21e632592ede4c229f30c5cdcede6db6ab0cc8a1"
+              },
+              "3989.65": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/original-3989.65.png",
+                "sha256": "5a79995e822e4bca50128c814fbe63fcd400fceaffc63533bd1cc62f139e924f"
+              },
+              "3990.75": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/original-3990.75.png",
+                "sha256": "781e86ca15d29d4fbd1d6a8c3fb47714f33c89e709538221736dccec9de90349"
+              }
+            }
+          },
+          "limitations": [
+            "MP4 dense chronology labels are approximate at 4 fps; direct frames retain requested MP4 timestamps.",
+            "The original hold and incorrect p4 proposal remain unchanged and are superseded by this correction.",
+            "No canonical/backend changes; independent peer review required."
+          ]
+        },
+        "rootReview": {
+          "originalPrimaryPath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/primary-reassessment-349075-p5-correction-20261101/candidate.json",
+          "originalPrimarySha256": "63ee41c8f57bea64ed5965805456e6199116ebfa83cc80df8777cbd93ae0a2c5",
+          "acceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/primary-reassessment-349075-p5-correction-20261101/peer-review-luna/accepted-candidates.json",
+          "acceptedSha256": "1e26e8974cd1b91972a3f263617c091c244848c0980b75f8241a3ad20e693637",
+          "actualPitch": "AB36p5only; fullres3983.75pre3–1;3989.65actual1Bfist;oldp4superseded.",
+          "rootViewed": [
+            "nativewholeattemptgrid",
+            "fullresnativefirstloadedframe",
+            "original3983.75precountPNG",
+            "original3989.65actualfistPNG",
+            "original3990.75neutralPNG"
+          ],
+          "nativeSha256": "a5416fb85b668b1e1fae6beb304fa8a885d81db4f9996666d807d5f91bb99b83",
+          "status": "root-verifiedafterprimary+independentpeer; approvedforcatalogintegration",
+          "publicContext": "Neutralprepitchonly;source/timeline/ruling/identityunchanged."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/primary-reassessment-349075-p5-correction-20261101/peer-review-luna/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/primary-reassessment-349075-p5-correction-20261101/peer-review-luna/audit.json": {
+      "schema": "independent-peer-review/v1",
+      "reviewer": "luna_2020_resume",
+      "reviewDate": "2026-11-01",
+      "decision": "PASS_ACCEPTED",
+      "candidateId": "justin-maxwell-20130922-349075-0376-0053-1b-appeal",
+      "gamePk": 349075,
+      "atBatIndex": 36,
+      "pitchNumber": 5,
+      "playId": "03490756-0376-0053-000c-f08cd117d70a",
+      "proposal": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/primary-reassessment-349075-p5-correction-20261101/candidate.json",
+        "sha256": "63ee41c8f57bea64ed5965805456e6199116ebfa83cc80df8777cbd93ae0a2c5"
+      },
+      "identityAndPitch": {
+        "officialDate": "2013-09-22",
+        "matchup": "Texas Rangers at Kansas City Royals",
+        "inning": "bottom 5",
+        "batter": "Justin Maxwell (RHB; visually #21)",
+        "pitcher": "Alexi Ogando (RHP)",
+        "prePitch": "3-1, two outs, 0-0, bases empty",
+        "pitch": "94.4 mph four-seam fastball",
+        "feedCall": "S / Swinging Strike, count 3-2",
+        "feedSha256": "7609a39dccea3c307beac6c8fb3989ed61f8c0f36b5918d801452a868f1a518d",
+        "crew": "Sam Holbrook, First Base"
+      },
+      "motionReview": {
+        "boundsMP4Seconds": [
+          3998.5,
+          4004.2
+        ],
+        "nativePath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/native-349075-4000K/native-3998.5-4006.5.mp4",
+        "nativeSha256": "a5416fb85b668b1e1fae6beb304fa8a885d81db4f9996666d807d5f91bb99b83",
+        "nativeGridPath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/native-349075-4000K/native-3998.5-4006.5.jpg",
+        "nativeGridSha256": "82b6bd59e86fa1ce7389924fe59da26acf11c440d94eb3868f41b8bf581fccc5",
+        "finding": "Full 1B-side body profile. Rounded cap fully loaded and visible at 3998.5 before forward movement; complete attempt/finish visible by ~4003.4; proposed end 4004.2 precedes bumper and later material."
+      },
+      "rulingReview": {
+        "decision": "Same-pitch GO/strike signal confirmed visually at first base, supported by fresh crew role and pitch/count sequence. At 3989.65 the umpire at first base raises a closed fist while scorebug remains 3-1 and 94 mph; at 3990.75 he is back to neutral. This follows the p5 delivery, not p4. The side replay at 3998.5–4004.2 shows the corresponding p5 motion. Generic feed S alone is not relied upon.",
+        "directFrames": [
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/original-3983.75.png",
+            "sha256": "a89e1e75b13dff3323e3e41b21e632592ede4c229f30c5cdcede6db6ab0cc8a1"
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/original-3989.65.png",
+            "sha256": "5a79995e822e4bca50128c814fbe63fcd400fceaffc63533bd1cc62f139e924f"
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/root-dense-chronology/original-3990.75.png",
+            "sha256": "781e86ca15d29d4fbd1d6a8c3fb47714f33c89e709538221736dccec9de90349"
+          }
+        ]
+      },
+      "dedup": {
+        "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "sha256": "94f8c6e525600018893d7a8acd12d8d1ef11fd35da4da9f2a46133f580290a0e",
+        "result": "No exact p5 playId, gamePk, or Maxwell/date match in indexed published clips. Prior p4 proposal is a distinct, superseded identity."
+      },
+      "acceptedCandidatesPath": "/workspace/check-swing/expansion500/asr-discovery-v2/asr-global-recall-audit-20261101/camera-first3-nextshortlist-luna/primary-reassessment-349075-p5-correction-20261101/peer-review-luna/accepted-candidates.json",
+      "acceptedCandidatesSha256": "1e26e8974cd1b91972a3f263617c091c244848c0980b75f8241a3ad20e693637",
+      "publicationAllowed": "peer pass only; root review/publication remains separate",
+      "canonicalEdited": false
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
