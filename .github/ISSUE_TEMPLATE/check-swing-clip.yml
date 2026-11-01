@@ -1,0 +1,45 @@
+name: Suggest a check-swing clip
+description: Help grow the Did He Go? library with real MLB footage.
+title: "[Check swing clip] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Send a real MLB check swing filmed from the first- or third-base side. The clip should show the attempt from before the bat moves forward through the finish.
+
+        Suggestions are public and reviewed before clips enter the game. Please link to the original video rather than uploading footage here.
+  - type: input
+    id: video_url
+    attributes:
+      label: Video link
+      description: A public link to the clip or original broadcast.
+      placeholder: https://...
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Batter and game
+      description: Include the teams and game date if you know them.
+      placeholder: Batter · away team at home team · YYYY-MM-DD
+    validations:
+      required: true
+  - type: input
+    id: timestamp
+    attributes:
+      label: Timestamp
+      description: When does the check swing or its replay start?
+      placeholder: "e.g. 1:23"
+  - type: dropdown
+    id: ruling
+    attributes:
+      label: What did the umpire rule on the swing?
+      options:
+        - Not sure
+        - Swing
+        - No swing
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Ruling source or other notes
+      description: Link to an article, the umpire’s signal, or anything else that helps identify the pitch and actual call.
