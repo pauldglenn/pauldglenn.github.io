@@ -8943,5 +8943,50 @@
       "pitchNumber": 6,
       "playId": "79130437-4d75-4aca-9ee1-9fd5d17acadb"
     }
+  },
+  {
+    "id": "chourio20250725",
+    "batter": "Jackson Chourio",
+    "date": "2025-07-25",
+    "matchup": "MIA at MIL",
+    "base": 1,
+    "strike": true,
+    "start": 51.1,
+    "end": 54.9,
+    "umpire": "Unknown",
+    "context": "Bottom of the second, scoreless: Chourio is ruled to have swung on appeal on a full-count 93.7 mph fastball from Cal Quantrill that also hits him.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/777008/feed/live",
+    "source": "https://x.com/TalkinBaseball_/status/1948848712358199744",
+    "video": "https://video.twimg.com/amplify_video/1948848293435342848/vid/avc1/1286x720/DfQ-nhBuHL197kaL.mp4",
+    "availableFrom": "2026-11-02",
+    "footageCredit": "MLB broadcast excerpt shared by Talkin’ Baseball; original public post linked in source.",
+    "pitchIdentity": {
+      "gamePk": 777008,
+      "atBatIndex": 13,
+      "pitchNumber": 6,
+      "playId": "92bc3236-f757-309b-b7d7-e7ae2dcf823e"
+    }
+  },
+  {
+    "id": "nathaniellowe20261013",
+    "batter": "Nathaniel Lowe",
+    "date": "2026-10-13",
+    "matchup": "CLE at TB",
+    "base": 3,
+    "strike": true,
+    "start": 182.3,
+    "end": 185.8,
+    "umpire": "Chad Fairchild · third base",
+    "context": "Top of the second: Nathaniel Lowe on a 3–2, 95.9 mph four-seam fastball from Freddy Peralta. The full forward attempt continues through its finish; the exact pitch was ruled a swinging strike after an appeal at third base. The selected question bounds omit the appeal and ruling.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/849813/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-cle-tb-10-13-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/13/fbb0f7c0-38b5cf9b-91cdf26e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 849813,
+      "atBatIndex": 8,
+      "pitchNumber": 8,
+      "playId": "bc65fe34-7aea-3412-ac9d-ef74cf7ab01d"
+    }
   }
 ]
