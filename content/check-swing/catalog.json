@@ -9259,5 +9259,28 @@
       "pitchNumber": 3,
       "playId": "02631776-0646-0033-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "jay-buhner-19951008-68013-00680136-0506-0033",
+    "batter": "Jay Buhner",
+    "date": "1995-10-08",
+    "matchup": "Yankees at Mariners",
+    "base": 1,
+    "strike": true,
+    "start": 6857.5,
+    "end": 6861.5,
+    "umpire": "Dan Morrison · first-base umpire",
+    "context": "Jay Buhner faces David Cone with an 0–2 count and one out in the sixth inning of the deciding 1995 American League Division Series game. Seattle trails New York 4–2.",
+    "evidence": "https://statsapi.mlb.com/api/v1/game/68013/playByPlay",
+    "source": "https://www.mlb.com/video/mariners-advance-to-alcs",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/02/da3ad4e0-82e3d2c1-1e9bf16d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB archived 1995 ALDS Game 5 broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 68013,
+      "atBatIndex": 49,
+      "pitchNumber": 3,
+      "playId": "00680136-0506-0033-000c-f08cd117d70a"
+    }
   }
 ]
