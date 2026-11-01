@@ -1,0 +1,1159 @@
+{
+  "added": 3,
+  "total": 483,
+  "dailyActivation": "2026-11-02",
+  "discovery": "PublicMLB full-game archives, declaredEnglishcaptions, and finite bounded audio scans locate three distinct thirdbase swing appeals. Primary and independent source/pitch/caller/cap/motion reviews verify Fuld2014,Thome2006,Ortiz2003. Fuld boundary resolved with directoriginalfinalframes that show truebatreturn beforewipe; Thome selectedreplay is scorebugfree, excluding earliertransition. All480previousentries and historicaldaily selections remain unchanged.",
+  "clips": [
+    {
+      "id": "sam-fuld-20140930-416345-04163456-0026-0033",
+      "batter": "Sam Fuld",
+      "date": "2014-09-30",
+      "matchup": "Athletics at Royals",
+      "base": 3,
+      "strike": false,
+      "start": 414.9,
+      "end": 421.1,
+      "umpire": "Bill Welke · third-base umpire",
+      "context": "Sam Fuld faces James Shields with a 1–1 count, no outs, and Coco Crisp at first in the first inning of the 2014 American League Wild Card Game. Oakland and Kansas City are tied 0–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/416345/feed/live",
+      "source": "https://www.mlb.com/video/royals-win-2014-al-wild-card-game",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2014/2014-09/30/98bbd6b8-ca1da7c7-798dea4e-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / TBS 2014 American League Wild Card Game broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 416345,
+        "atBatIndex": 1,
+        "pitchNumber": 3,
+        "playId": "04163456-0026-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "sam-fuld-20140930-416345-04163456-0026-0033",
+          "batter": "Sam Fuld",
+          "strike": false,
+          "start": 414.9,
+          "end": 421.1,
+          "umpire": "Bill Welke · third-base umpire",
+          "context": "Sam Fuld bats left-handed against right-handed James Shields with a 1–1 count, no outs, and Coco Crisp at first in the top of the first inning. Oakland and Kansas City are tied 0–0. The third pitch is ruled a ball, moving the count to 2–1.",
+          "date": "2014-09-30",
+          "matchup": "Athletics at Royals",
+          "base": 3,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/416345/feed/live",
+          "source": "https://www.mlb.com/video/royals-win-2014-al-wild-card-game",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2014/2014-09/30/98bbd6b8-ca1da7c7-798dea4e-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / TBS 2014 American League Wild Card Game broadcast"
+        },
+        "review": {
+          "gamePk": 416345,
+          "atBatIndex": 1,
+          "pitchNumber": 3,
+          "playId": "04163456-0026-0033-000c-f08cd117d70a",
+          "status": "primary-proposed-for-independent-peer-reassessment",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "event": "Lineout",
+              "eventType": "field_out",
+              "description": "Sam Fuld lines out to left fielder Alex Gordon.",
+              "rbi": 0,
+              "awayScore": 0,
+              "homeScore": 0,
+              "isOut": true
+            },
+            "about": {
+              "atBatIndex": 1,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 1,
+              "startTime": "2014-10-01T00:11:31.000Z",
+              "endTime": "2014-10-01T00:13:41.000Z",
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 0
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 1,
+              "outs": 1
+            },
+            "matchup": {
+              "batter": {
+                "id": 453539,
+                "fullName": "Sam Fuld",
+                "link": "/api/v1/people/453539"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 448306,
+                "fullName": "James Shields",
+                "link": "/api/v1/people/448306"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 424825,
+                "fullName": "Coco Crisp",
+                "link": "/api/v1/people/424825"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_RHP",
+                "pitcher": "vs_LHB",
+                "menOnBase": "Men_On"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "ballColor": "rgba(170, 21, 11, 1.0)",
+                  "trailColor": "rgba(50, 0, 221, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": true,
+                  "isBall": false,
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  },
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 94.0,
+                  "endSpeed": 86.2,
+                  "strikeZoneTop": 3.19,
+                  "strikeZoneBottom": 1.48,
+                  "coordinates": {
+                    "aY": 31.755,
+                    "aZ": -14.369,
+                    "pfxX": -8.31,
+                    "pfxZ": 9.27,
+                    "pX": -0.674,
+                    "pZ": 3.291,
+                    "vX0": 4.437,
+                    "vY0": -137.715,
+                    "vZ0": -3.901,
+                    "x": 120.17,
+                    "y": 129.52,
+                    "x0": -1.229,
+                    "y0": 50.0,
+                    "z0": 5.703,
+                    "aX": -15.896
+                  },
+                  "breaks": {
+                    "breakAngle": 44.4,
+                    "breakLength": 4.8,
+                    "breakY": 24.0,
+                    "spinRate": 2514,
+                    "spinDirection": 221
+                  },
+                  "zone": 1,
+                  "typeConfidence": 0.88
+                },
+                "index": 0,
+                "pfxId": "140930_191414",
+                "playId": "04163456-0026-0013-000c-f08cd117d70a",
+                "pitchNumber": 1,
+                "startTime": "2014-10-01T00:11:32.723Z",
+                "endTime": "2014-10-01T00:11:54.555Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "*B",
+                    "description": "Ball In Dirt"
+                  },
+                  "description": "Ball In Dirt",
+                  "code": "*B",
+                  "ballColor": "rgba(39, 161, 39, 1.0)",
+                  "trailColor": "rgba(0, 85, 254, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": false,
+                  "isBall": true,
+                  "type": {
+                    "code": "CH",
+                    "description": "Changeup"
+                  },
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 87.6,
+                  "endSpeed": 81.1,
+                  "strikeZoneTop": 2.98,
+                  "strikeZoneBottom": 1.42,
+                  "coordinates": {
+                    "aY": 25.993,
+                    "aZ": -22.833,
+                    "pfxX": -8.52,
+                    "pfxZ": 5.57,
+                    "pX": 0.41,
+                    "pZ": 0.692,
+                    "vX0": 6.549,
+                    "vY0": -128.04,
+                    "vZ0": -7.945,
+                    "x": 87.55,
+                    "y": 190.82,
+                    "x0": -1.071,
+                    "y0": 50.0,
+                    "z0": 5.617,
+                    "aX": -14.174
+                  },
+                  "breaks": {
+                    "breakAngle": 27.6,
+                    "breakLength": 7.2,
+                    "breakY": 24.0,
+                    "spinRate": 1923,
+                    "spinDirection": 236
+                  },
+                  "zone": 14,
+                  "typeConfidence": 0.68
+                },
+                "index": 1,
+                "pfxId": "140930_191436",
+                "playId": "04163456-0026-0023-000c-f08cd117d70a",
+                "pitchNumber": 2,
+                "startTime": "2014-10-01T00:11:54.555Z",
+                "endTime": "2014-10-01T00:12:22.145Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "ballColor": "rgba(39, 161, 39, 1.0)",
+                  "trailColor": "rgba(0, 85, 254, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": false,
+                  "isBall": true,
+                  "type": {
+                    "code": "CH",
+                    "description": "Changeup"
+                  },
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 87.5,
+                  "endSpeed": 81.1,
+                  "strikeZoneTop": 2.95,
+                  "strikeZoneBottom": 1.41,
+                  "coordinates": {
+                    "aY": 26.239,
+                    "aZ": -31.163,
+                    "pfxX": -10.19,
+                    "pfxZ": 0.56,
+                    "pX": -0.585,
+                    "pZ": 1.501,
+                    "vX0": 5.265,
+                    "vY0": -128.156,
+                    "vZ0": -3.928,
+                    "x": 120.17,
+                    "y": 168.37,
+                    "x0": -1.342,
+                    "y0": 50.0,
+                    "z0": 5.484,
+                    "aX": -16.965
+                  },
+                  "breaks": {
+                    "breakAngle": 26.4,
+                    "breakLength": 8.4,
+                    "breakY": 24.0,
+                    "spinRate": 1924,
+                    "spinDirection": 266
+                  },
+                  "zone": 7,
+                  "typeConfidence": 0.9
+                },
+                "index": 2,
+                "pfxId": "140930_191503",
+                "playId": "04163456-0026-0033-000c-f08cd117d70a",
+                "pitchNumber": 3,
+                "startTime": "2014-10-01T00:12:22.145Z",
+                "endTime": "2014-10-01T00:13:00.000Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "description": "Pickoff Attempt 1B",
+                  "code": "1",
+                  "isOut": false,
+                  "hasReview": false,
+                  "fromCatcher": false,
+                  "disengagementNum": 1
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "index": 3,
+                "playId": "04163456-0026-0033-001c-f08cd117d70a",
+                "startTime": "2014-10-01T00:13:00.000Z",
+                "endTime": "2014-10-01T00:13:16.227Z",
+                "isPitch": false,
+                "type": "pickoff"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "X",
+                    "description": "In play, out(s)"
+                  },
+                  "description": "In play, out(s)",
+                  "code": "X",
+                  "ballColor": "rgba(26, 86, 190, 1.0)",
+                  "trailColor": "rgba(50, 0, 221, 1.0)",
+                  "isInPlay": true,
+                  "isStrike": false,
+                  "isBall": false,
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  },
+                  "isOut": true,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 94.3,
+                  "endSpeed": 87.0,
+                  "strikeZoneTop": 3.1,
+                  "strikeZoneBottom": 1.42,
+                  "coordinates": {
+                    "aY": 30.477,
+                    "aZ": -17.157,
+                    "pfxX": -8.38,
+                    "pfxZ": 7.73,
+                    "pX": -0.844,
+                    "pZ": 2.108,
+                    "vX0": 3.992,
+                    "vY0": -138.092,
+                    "vZ0": -6.612,
+                    "x": 127.04,
+                    "y": 154.56,
+                    "x0": -1.22,
+                    "y0": 50.0,
+                    "z0": 5.685,
+                    "aX": -16.19
+                  },
+                  "breaks": {
+                    "breakAngle": 39.6,
+                    "breakLength": 4.8,
+                    "breakY": 24.0,
+                    "spinRate": 2320,
+                    "spinDirection": 227
+                  },
+                  "zone": 13,
+                  "typeConfidence": 0.93
+                },
+                "hitData": {
+                  "trajectory": "line_drive",
+                  "hardness": "medium",
+                  "location": "7",
+                  "coordinates": {
+                    "coordX": 78.31,
+                    "coordY": 76.31
+                  }
+                },
+                "index": 4,
+                "pfxId": "140930_191557",
+                "playId": "04163456-0026-0043-000c-f08cd117d70a",
+                "pitchNumber": 4,
+                "startTime": "2014-10-01T00:13:16.227Z",
+                "endTime": "2014-10-01T00:13:41.000Z",
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ]
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "B",
+                "description": "Ball"
+              },
+              "description": "Ball",
+              "code": "B",
+              "ballColor": "rgba(39, 161, 39, 1.0)",
+              "trailColor": "rgba(0, 85, 254, 1.0)",
+              "isInPlay": false,
+              "isStrike": false,
+              "isBall": true,
+              "type": {
+                "code": "CH",
+                "description": "Changeup"
+              },
+              "isOut": false,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 1,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 87.5,
+              "endSpeed": 81.1,
+              "strikeZoneTop": 2.95,
+              "strikeZoneBottom": 1.41,
+              "coordinates": {
+                "aY": 26.239,
+                "aZ": -31.163,
+                "pfxX": -10.19,
+                "pfxZ": 0.56,
+                "pX": -0.585,
+                "pZ": 1.501,
+                "vX0": 5.265,
+                "vY0": -128.156,
+                "vZ0": -3.928,
+                "x": 120.17,
+                "y": 168.37,
+                "x0": -1.342,
+                "y0": 50.0,
+                "z0": 5.484,
+                "aX": -16.965
+              },
+              "breaks": {
+                "breakAngle": 26.4,
+                "breakLength": 8.4,
+                "breakY": 24.0,
+                "spinRate": 1924,
+                "spinDirection": 266
+              },
+              "zone": 7,
+              "typeConfidence": 0.9
+            },
+            "index": 2,
+            "pfxId": "140930_191503",
+            "playId": "04163456-0026-0033-000c-f08cd117d70a",
+            "pitchNumber": 3,
+            "startTime": "2014-10-01T00:12:22.145Z",
+            "endTime": "2014-10-01T00:13:00.000Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "countBefore": {
+            "balls": 1,
+            "strikes": 1,
+            "outs": 0
+          },
+          "scoreBefore": {
+            "away": 0,
+            "home": 0
+          },
+          "camera": "Retained replay at MP4 source 414.5–420.9 is a true lateral base-side view of left-handed Fuld; full bat and body are visible through the check motion and settled finish. The rounded loaded barrel cap is visible before forward motion.",
+          "motion": "Updated independent review using direct original MP4 samples through source421.2: loaded rounded cap is visible at414.9 before forward motion around416.0. The bat/body continue moving through about420.8; direct originals show the cap at approximately x574,y456 at421.0 and x590,y458 at421.2, reversing right/up from its earlier left/down progression (about x554,y466 at420.4). Hands/body also begin returning. The direct original 421.0/421.2 frames and 420–421.4 original frame grid show independent catcher/crowd movement and no frame freeze through the reversal; the 421.3 wipe is after it. This establishes a completed forward attempt and onset of initial return before the cut. Proposed display bounds 414.9–421.1 exclude the earlier bumper and the final wipe; use the direct original421.2 critical frame as supplemental end-boundary confirmation.",
+          "samePitchEvidence": "The original live sequence is in the exact official listed MP4 at source403–411. On the visible scorebug the pre-pitch count is 1–1 and after the pitch/call it is 2–1; the batter is #33 Fuld and the pitcher is Royals #33 Shields. Retained HLS/ASR source-absolute narration at 399–411 says “They say he checked his swing” (399–407) and “That’s Bill Welkey down at third” (407–411; ASR spelling variant for Bill Welke). The live view shows the plate umpire make the broad no-swing/safe gesture as the count reads 2–1. The delayed side replay at MP4 ~413–421 repeats the same check attempt; adjacent scoreboard/batter context and the exact feed’s p3 1–1→2–1 identify it as the same pitch. The HLS live broadcast clock is about 2–3 seconds later than the listed MP4 at the bumper-to-replay transition; source times are recorded separately and not added to transcript times.",
+          "callerEvidence": "Broadcast narration specifically identifies Bill Welke at third base immediately after describing the checked swing; fresh StatsAPI crew lists Bill Welke (ID 427534) at third base. The call itself is supported by the original live plate-umpire no-swing gesture and the 2–1 Ball result, not crew membership alone. The batter bats left-handed, so the appeal side is third base.",
+          "freshFeedRequest": {
+            "url": "https://statsapi.mlb.com/api/v1.1/game/416345/feed/live",
+            "rawSha256": "a5deb9d95e05b5132066fe7a9ccaceb760ea9d29ba928761eb1cffeebe68463f",
+            "extractPath": "fresh-fuld-feed-extract.json",
+            "extractSha256": "fb2480f2fb3b01a971dc32684521cd34ac296fee17005c37a8fd473767d1a4f8"
+          },
+          "officialCrew": [
+            {
+              "official": {
+                "id": 427344,
+                "fullName": "Bill Miller",
+                "link": "/api/v1/people/427344"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427103,
+                "fullName": "Gerry Davis",
+                "link": "/api/v1/people/427103"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427248,
+                "fullName": "Dan Iassogna",
+                "link": "/api/v1/people/427248"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 427534,
+                "fullName": "Bill Welke",
+                "link": "/api/v1/people/427534"
+              },
+              "officialType": "Third Base"
+            },
+            {
+              "official": {
+                "id": 428442,
+                "fullName": "James Hoye",
+                "link": "/api/v1/people/428442"
+              },
+              "officialType": "Left Field"
+            },
+            {
+              "official": {
+                "id": 429805,
+                "fullName": "Todd Tichenor",
+                "link": "/api/v1/people/429805"
+              },
+              "officialType": "Right Field"
+            }
+          ],
+          "broadcastLocator": {
+            "listedAudioSourceUrl": "https://cuts.diamond.mlb.com/FORGE/2014/2014-09/30/98bbd6b8-ca1da7c7-798dea4e-csvm-diamondx64-asset_450K.m3u8",
+            "sourceKey": "mlb-fullgame-2014-09-30-416345",
+            "sourceStartSeconds": 0.0,
+            "transcriptSegments": [
+              {
+                "start": 397.0,
+                "end": 399.0,
+                "text": "A's but only played seven games.",
+                "tokenIds": [
+                  317,
+                  338,
+                  475,
+                  691,
+                  2826,
+                  3598,
+                  1830,
+                  13
+                ]
+              },
+              {
+                "start": 399.0,
+                "end": 407.0,
+                "text": "They say he checked his swing.",
+                "tokenIds": [
+                  1119,
+                  910,
+                  339,
+                  10667,
+                  465,
+                  9628,
+                  13
+                ]
+              },
+              {
+                "start": 407.0,
+                "end": 411.0,
+                "text": "That's Bill Welkey down at third.",
+                "tokenIds": [
+                  1320,
+                  338,
+                  3941,
+                  22268,
+                  2539,
+                  866,
+                  379,
+                  2368,
+                  13
+                ]
+              },
+              {
+                "start": 411.0,
+                "end": 413.0,
+                "text": "So he began the year with Oakland",
+                "tokenIds": [
+                  1406,
+                  339,
+                  2540,
+                  262,
+                  614,
+                  351,
+                  12369
+                ]
+              }
+            ],
+            "asrResultsPath": "../asr-group-b-caption-corrected-luna/results.json.gz",
+            "asrResultsSha256": "54f8e6193332afc9c78806f17b43f798ad8d0bd752b0bdc1e9d87319e6ade1d8",
+            "caveat": "Transcript is an ASR locator; the native live visual signal and exact feed pitch are also retained."
+          },
+          "nativeProof": {
+            "path": "../native-413-421.mp4",
+            "sha256": "dda7dd4cf5f467d23141abc043f70b29f2ae8701f3453d37092d3431ca1fb0e4",
+            "bytes": 6379582,
+            "originalMp4Start": 413,
+            "duration": 7.991317,
+            "rateChanged": false,
+            "note": "Retained side replay primary, through420.991; the separate direct-original frames below extend the finish/reversal evidence."
+          },
+          "liveCallProof": {
+            "path": "live-call-native/native-403-411.mp4",
+            "sha256": "c98559ffa48a5d2c1a4b572217a4392ac47048db902a16d8c393e8b9a1545a6d",
+            "bytes": 5865256,
+            "originalMp4Start": 403,
+            "duration": 8,
+            "rateChanged": false,
+            "proofAuditPath": "live-call-native/native-403-411.json",
+            "proofAuditSha256": "751ab11a85e4956a4c65fe7b14a2b73f7cd8b626c6be9cf15a24ae1b2908d49a",
+            "gridPath": "live-call-native/native-403-411.jpg",
+            "gridSha256": "96c6dfb38e9eea68c1b02eb5f46544df41fad2c367c92c38bd6b458faaf6c6b9"
+          },
+          "liveTriage": [
+            {
+              "path": "live-380-425-grid.jpg",
+              "sha256": "2f83313789f8fce24d6bf61b8106f527c82301a8d2057bef2e462ca03f79a6ca",
+              "purpose": "45-second low-HLS camera context"
+            },
+            {
+              "path": "live-390-420-labeled.jpg",
+              "sha256": "f5520cec874e514866ca0b532517df94b0cc95b8029721a35ee6ca1dee325721",
+              "purpose": "timestamped low-HLS timeline through live pitch and replay"
+            },
+            {
+              "path": "live-403-411-fps3.jpg",
+              "sha256": "a02c915c86d9b607d89c3c2ef508df717d69977bc057fc12934a3d532148372b",
+              "purpose": "dense low-HLS view of live call gesture"
+            }
+          ],
+          "deduplication": "Published pitch index was checked for gamePk 416345 and exact playId 04163456-0026-0033-000c-f08cd117d70a; no matching published clip was present. No canonical/backend/published data changed.",
+          "reviewedEarlierHold": "The earlier boundary hold and independent completeness reassessment remain preserved append-only. This primary evidence resolves the missing same-pitch ruling/caller concern; it does not modify those prior audits.",
+          "originalEndBoundaryEvidence": [
+            {
+              "path": "../root-peer-temporal-420.4.jpg",
+              "sourceSeconds": 420.4,
+              "sha256": "cca59d82a69307886bda0ad9d65bb88595e464dfe1212e50da5b4f6d8229ce3e",
+              "observation": "Full-resolution reencoded critical frame before reversal; bat cap still on earlier left/down trajectory."
+            },
+            {
+              "path": "../root-peer-direct-original-421.png",
+              "sourceSeconds": 421.0,
+              "sha256": "b60680c136bdf518cc54ff6f3651e6f881e6207f6022c30bcf76c7c48747ba71",
+              "observation": "Direct original listed-MP4 frame; bat cap has reversed right/up from420.4."
+            },
+            {
+              "path": "../root-peer-direct-original-421.2.png",
+              "sourceSeconds": 421.2,
+              "sha256": "27cfde9d6545db478580a921e5e1b897e61c35da2f8631560e42c347469d6765",
+              "observation": "Direct original listed-MP4 frame; right/up return continues before421.3 wipe."
+            },
+            {
+              "path": "../root-direct-original-420-421.4-grid.jpg",
+              "sourceSeconds": [
+                420.0,
+                421.3
+              ],
+              "sha256": "af12ddb82494627836b6f79e0da5a5996701ed68af2925c13bc25030c5b474f1",
+              "observation": "Dense direct-original timeline; 421.3 is the outgoing wipe after reversal."
+            }
+          ]
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/release-p-prep/root-fuld-independent-audit.json"
+    },
+    {
+      "id": "jim-thome-20060701-41139-ab59-p3-appeal-third",
+      "batter": "Jim Thome",
+      "date": "2006-07-01",
+      "matchup": "White Sox at Cubs",
+      "base": 3,
+      "strike": false,
+      "start": 5852.6,
+      "end": 5856.7,
+      "umpire": "Mike Reilly · third-base umpire",
+      "context": "Jim Thome faces Scott Eyre with a 1–1 count, one out, and a runner at third in the seventh inning. The game is tied 5–5.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/41139/feed/live",
+      "source": "https://www.mlb.com/video/a-j-pierzynski-powers-white-sox",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-06/08/018e9d24-20b4d707-2d6323bf-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / FOX archived 2006 White Sox–Cubs broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 41139,
+        "atBatIndex": 59,
+        "pitchNumber": 3,
+        "playId": "00411396-0606-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "jim-thome-20060701-41139-ab59-p3-appeal-third",
+          "batter": "Jim Thome",
+          "batterJersey": "25",
+          "batterHand": "L",
+          "pitcher": "Scott Eyre",
+          "pitcherHand": "L",
+          "date": "2006-07-01",
+          "matchup": "CHW at CHC",
+          "base": 3,
+          "strike": false,
+          "start": 5852.6,
+          "end": 5856.7,
+          "umpire": "Mike Reilly · third base",
+          "context": "Top of the 7th, 1 out, game tied 5–5, runner on third. Jim Thome #25 (LHB) faced Scott Eyre (LHP) on pitch 3 with a 1–1 count. The broadcast says the check swing was appealed to third and “Riley says no.” The fresh official play is Ball, taking the count to 2–1. This is the same pitch as the side-angle replay; the later p4 and following pitches are excluded.",
+          "source": "https://www.mlb.com/video/a-j-pierzynski-powers-white-sox",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-06/08/018e9d24-20b4d707-2d6323bf-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/41139/feed/live",
+          "gamePk": 41139,
+          "atBatIndex": 59,
+          "pitchNumber": 3,
+          "playId": "00411396-0606-0033-000c-f08cd117d70a"
+        },
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna_2023_resume",
+          "sourceKey": "taxonomy-row-136-5f838d1b-ef2f-480c-8e8f-c2a968a232b7",
+          "gamePk": 41139,
+          "atBatIndex": 59,
+          "pitchNumber": 3,
+          "playId": "00411396-0606-0033-000c-f08cd117d70a",
+          "officialCode": "B",
+          "pitchType": null,
+          "pitchSpeedMph": null,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 1,
+            "outs": 1
+          },
+          "countAfterPitch": {
+            "balls": 2,
+            "strikes": 1,
+            "outs": 1
+          },
+          "finalRuling": "Ball / no swing after third-base appeal, exact pitch 3; not the next called-strike pitch or later strikeout.",
+          "caller": "Mike Reilly · Third Base",
+          "callerEvidence": "Original broadcast at source MP4 ~5839.8–5840.2 shows the third-base umpire giving the arms-out no-go gesture. The original listed English-caption sequence at ~5837 says “They appeal it to third. Riley says no”; fresh official boxscore places Mike Reilly at third base. Caller attribution rests on broadcast wording plus same-sequence gesture and crew role, not crew alone.",
+          "rulingBasis": "Fresh StatsAPI feed playId 00411396-0606-0033-000c-f08cd117d70a is AB59, top 7, p3, code B. The feed identifies Jim Thome (batter id 123272, left) vs Scott Eyre (pitcher id 113961, left), one out; p2 left the count 1–1 and p3 changes it to 2–1. The feed has no appeal field, so appeal evidence is taken from the actual original broadcast.",
+          "motion": "Exact page-listed original MP4 side replay: at source 5852.6 the complete rounded bat cap is loaded before hands/barrel forward motion; forward motion is underway by 5853.2; full offer/follow-through is visible by 5854.0 and definite finish by 5856.5. True third-base-side profile for LHB; whole batter, hands, and bat are visible. No catcher request, injury, or play-result reveal occurs within the selected bounds.",
+          "timingBasis": "Bounds and onset/finish inspected in direct frames from the original page-listed MP4; no HLS-to-MP4 offset was assumed. The retained bounded original-MP4 context clip starts at 5850.0 and is 7.991s at source frame rate.",
+          "localHDClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/native-5850-5858.mp4",
+          "localHDSourceStart": 5852.6,
+          "localHDSourceEnd": 5856.7,
+          "localHDContextClipStart": 5850.0,
+          "localHDContextClipEnd": 5857.991317,
+          "localVideoSha256": "0baabddb725357f904b050878613a62590a08a43e1701347c78bdd9dd852aca9",
+          "proofFrames": [
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-2.6.png",
+              "sha256": "b252fdbefc59c9c9fdc7593589d1652b9ae645eddf41f108c3cc65058e14eac1",
+              "sourceTimeSeconds": 5852.6
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-3.2.png",
+              "sha256": "1ca6a9cdac6ff65cf20f5c21f33a9c85ba0e17db01b09ad90afb810f0b22d79f",
+              "sourceTimeSeconds": 5853.2
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-4.0.png",
+              "sha256": "b67e8b5d6962d99c7bd744e8fc1fc3b1c14762fb54b3cd7d0fa8b6fb3c16edae",
+              "sourceTimeSeconds": 5854.0
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-6.5.png",
+              "sha256": "b5e102d475285f17d94dcb50092cbed6513352f1cbd0de92e4dff87409b7f0fb",
+              "sourceTimeSeconds": 5856.5
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/caller-frame-5.8.jpg",
+              "sha256": "f344113633a3a49db48f0bfb875419256bb903a837ca3217759107143f13bc85",
+              "sourceTimeSeconds": 5839.8
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/caller-frame-6.0.jpg",
+              "sha256": "f2c65b38269b3a678217ce11cb03b3085cdeefc9979de134ff2e26c0168dbde4",
+              "sourceTimeSeconds": 5840.0
+            }
+          ],
+          "freshFeedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/fresh-game41139-feed-live.json.gz",
+          "freshFeedRawSha256": "3c07db4fb396d6746ffe42b4a3721fde540f139109898dc4685325da3cb20306",
+          "freshBoxscorePath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/fresh-game41139-boxscore.json.gz",
+          "freshBoxscoreRawSha256": "53e31e37b74263fe79321e80b264f49fc0676a25c3824a22b8537492f58b0761",
+          "captionCue": "“And the next base to Tommy check swing. They appeal it to third. Riley says no.” (source cue locator 5837.296; caption transcription is imperfect, video and feed establish target.)",
+          "sourceOrder": "At source ~5837 target pitch is followed by the appeal and count 2–1. The same-pitch side replay follows around HLS ~5854 (MP4 source ~5852.6). Next live pitch is later; p4 is another ball and p5 is a foul. Candidate stops before either."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/independent-audit-row136-luna-20261101-correction.json"
+    },
+    {
+      "id": "david-ortiz-20031016-18542-00185426-0386-0013",
+      "batter": "David Ortiz",
+      "date": "2003-10-16",
+      "matchup": "Red Sox at Yankees",
+      "base": 3,
+      "strike": false,
+      "start": 3941.0,
+      "end": 3945.0,
+      "umpire": "Derryl Cousins · third-base umpire",
+      "context": "David Ortiz faces Mike Mussina with an 0–0 count and one out in the fifth inning of 2003 ALCS Game 7. Boston leads New York 4–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/18542/feed/live",
+      "source": "https://www.mlb.com/video/2003-alcs-gm-7-bos-nyy-c3691532",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/ebf543b1-e36f6151-562ef898-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / FOX archived 2003 ALCS Game 7 broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 18542,
+        "atBatIndex": 37,
+        "pitchNumber": 1,
+        "playId": "00185426-0386-0013-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "david-ortiz-20031016-18542-00185426-0386-0013",
+          "batter": "David Ortiz",
+          "batterJersey": "34",
+          "batterHand": "L",
+          "pitcher": "Mike Mussina",
+          "pitcherHand": "R",
+          "date": "2003-10-16",
+          "matchup": "BOS at NYY",
+          "base": 3,
+          "strike": false,
+          "start": 3941.0,
+          "end": 3945.0,
+          "umpire": "Derryl Cousins · third base",
+          "context": "Top of the 5th, 1 out, Boston leading 4–0. David Ortiz #34 (LHB) faced Mike Mussina (RHP) with Manny Ramirez on first and Nomar Garciaparra on second; count 0–0 before the pitch. Review the bounded source segment at the exact URL below.",
+          "source": "https://www.mlb.com/video/2003-alcs-gm-7-bos-nyy-c3691532",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/ebf543b1-e36f6151-562ef898-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/18542/feed/live",
+          "gamePk": 18542,
+          "atBatIndex": 37,
+          "pitchNumber": 1,
+          "playId": "00185426-0386-0013-000c-f08cd117d70a"
+        },
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna_2022_resume",
+          "sourceKey": "tax-row-10-1812a8a2-bfa4-488e-9f7f-9a2a8252ae9d",
+          "gamePk": 18542,
+          "atBatIndex": 37,
+          "pitchNumber": 1,
+          "playId": "00185426-0386-0013-000c-f08cd117d70a",
+          "officialCode": "B",
+          "pitchType": null,
+          "pitchSpeedMph": null,
+          "countBefore": {
+            "balls": 0,
+            "strikes": 0,
+            "outs": 1
+          },
+          "countAfterPitch": {
+            "balls": 1,
+            "strikes": 0,
+            "outs": 1
+          },
+          "finalRuling": "Ball on pitch 1; exact count changed 0–0 to 1–0. The time-aligned broadcast describes a third-base check and says the half swing did not go around.",
+          "caller": "Derryl Cousins · Third Base (fresh feed crew lists Cousins at third; live shot shows the no-go gesture and time-aligned commentary names Cousins).",
+          "callerEvidence": "Source-absolute transcript locators 3936–3950: commentary says the home-plate umpire asks the third-base umpire, identifies “Cousins,” then says Ortiz did not go around. HLS live view at 3932.0 shows the third-base umpire gesture with score bug BOS 4–NYY 0, top 5, one out, count 1–0. Fresh PBP identifies David Ortiz #34 L vs Mike Mussina R at atBatIndex 37 and exact pitch 1 playId 00185426-0386-0013-000c-f08cd117d70a, call Ball, count 0–0→1–0; fresh crew lists Derryl Cousins at third. `hasReview:false` is not used as evidence of the check-swing appeal.",
+          "localHDClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/native-clean-bounds/native-3941-3945.mp4",
+          "localHDSourceStart": 3941.0,
+          "localHDSourceEnd": 3945.0,
+          "localVideoSha256": "627c27ca782fc94eb8347a954383f4cbc9007c4c10e1ee584d49965216534ebc",
+          "proofFrames": [
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/native-clean-bounds/native-3941-3945.jpg",
+              "sha256": "d2173e5ac80a40379764c13e8d69e6e0162929cb452c3670b6359c6d83b1d031"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/grid-3925.jpg",
+              "sha256": "9d277fedc53fe13a9663b7348e08a79809b511a51f92bf8a16f14e7146e992d8"
+            }
+          ],
+          "camera": "Lateral third-base-side view for left-handed batter; catcher visible behind and to frame right. Hands, torso, and full rounded bat cap are visible.",
+          "fullLoadedCapBeforeForwardMotion": true,
+          "wholeForwardAttemptThroughDefiniteFinish": true,
+          "wholeAttemptThroughFinishAndInitialReturn": false,
+          "finishClarification": "The exact listed-MP4 replay begins at 3941.0 with a stable loaded stance and whole rounded cap visible through 3942.4. Forward motion begins around 3942.5; the complete forward offer and held finish remain visible through 3944.9. No stance reset/initial return is shown or required. Clip ends at 3945.0 before the following dissolve/cutaway.",
+          "sameExactPitchAndBatter": true,
+          "resultOrCallerIncluded": false,
+          "containsUnrelatedNextPitch": false,
+          "freshFeedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/fresh-pbp-18542.json.gz",
+          "freshFeedRawSha256": "7837acbcd1414d1625ebc1547ddc9ad4dbb9fd39cda0bdc07644040bc97020dd",
+          "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/primary-audit-18542-ortiz-check-luna.json",
+          "primaryAuditSha256": "24c2791de050c6e03cefd563c8c0aa34d95b7314bc9b18cdbba3c57c500c807d",
+          "exactSourceBounds": [
+            3941.0,
+            3945.0
+          ],
+          "sourceBoundBasis": "Direct source clock of exact page-listed MP4; matched replay content/camera to HLS context. No clock offset was added."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/peer-luna-ortiz-20031016/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/release-p-prep/root-fuld-independent-audit.json": {
+      "schema": "root-independent-fuld-review-v1",
+      "candidateId": "sam-fuld-20140930-416345-04163456-0026-0033",
+      "status": "ACCEPTED",
+      "gamePk": 416345,
+      "atBatIndex": 1,
+      "pitchNumber": 3,
+      "playId": "04163456-0026-0033-000c-f08cd117d70a",
+      "ruling": false,
+      "caller": "Bill Welke · third-base umpire",
+      "sourceBounds": [
+        414.9,
+        421.1
+      ],
+      "freshRootFeedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-independent-fresh-416345.json.gz",
+      "freshRootFeedSha256": "a5deb9d95e05b5132066fe7a9ccaceb760ea9d29ba928761eb1cffeebe68463f",
+      "identity": "Fuld LEFT vsShieldsRIGHT,TOP1 AB1p3 Ball87.5CH,1–1→2–1,noouts,Crispfirst,0–0;laterp4lineout excluded.",
+      "actualCall": "Root viewed original403–411 native grid: isolatedthirdbaseofficialactualarms-outno-go at404.5–405.3 aftersamepitch; originalbroadcastspecific BillWelke atthird and rootfreshcrew match.",
+      "cameraAndCap": "Rootviewed entire413–421 native grid and414.9 criticalframe: actualthirdbase lateral forLHB, entire rounded loadedcap beforehands/barrelforward. Start414.9excludeswipe414.5.",
+      "completionCorrection": "Earlier claim settled418.4 disproven byrootframecomparison; actualbarrelstilladvancesleft/down through420.4. New directORIGINAL420–421.4 grid and421.0/421.2 PNGs show cap reversesright/up beforewipe421.3, completingattempt andinitialreturn. This resolves originalboundaryhold usingadditionaloriginalframes; no acceptance frompause/absenceofreset. Final421.1excludeswipe andcontainsinitialreturn.",
+      "criticalEvidence": [
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-peer-temporal-414.9.jpg",
+          "sha256": "4b6d31228b8ab60f5fd338b8df811805c4845621188dd26f642192a0d6c90962"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-peer-temporal-418.4.jpg",
+          "sha256": "fe4b7d693befc7651392b1055827a2da5322c8c7af2206fb7f30dc0e055edfe2"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-peer-temporal-419.4.jpg",
+          "sha256": "7989732248c563822c7b63e98bb2d106dba1423184fa76fbd32b37ce2c9718b9"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-peer-temporal-420.4.jpg",
+          "sha256": "cca59d82a69307886bda0ad9d65bb88595e464dfe1212e50da5b4f6d8229ce3e"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-peer-direct-original-421.png",
+          "sha256": "b60680c136bdf518cc54ff6f3651e6f881e6207f6022c30bcf76c7c48747ba71"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-peer-direct-original-421.2.png",
+          "sha256": "27cfde9d6545db478580a921e5e1b897e61c35da2f8631560e42c347469d6765"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-416345-fuld/root-direct-original-420-421.4-grid.jpg",
+          "sha256": "af12ddb82494627836b6f79e0da5a5996701ed68af2925c13bc25030c5b474f1"
+        }
+      ],
+      "priorRecordsPreserved": true,
+      "publicContextNeutral": true
+    },
+    "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/independent-audit-row136-luna-20261101-correction.json": {
+      "schema": "independent-primary-review-correction-v1",
+      "reviewer": "luna_2019_resume",
+      "candidateId": "jim-thome-20060701-41139-ab59-p3-appeal-third",
+      "supersedesAudit": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/independent-audit-row136-luna-20261101.json",
+        "sha256": "91301e250dc1554ae7e9aff891fc533eac3994890a741148e063b4afc52216b5"
+      },
+      "correction": "The prior result-count hold was a misread. I conflated the 5852.3 transition/dissolve frame with the selected clean replay start at 5852.6. The 5852.6 full-resolution frame has no score/count display; its upper-right shows only the MLB on FOX logo and MLB watermark. The selected 5852.6–5856.7 interval is spoiler-clean.",
+      "independentFindings": {
+        "identityAndExactPitch": {
+          "status": "PASS",
+          "basis": "Fresh gamePk 41139 feed identifies AB59 top 7, Jim Thome #25 LHB vs Scott Eyre LHP. Exact p3 playId 00411396-0606-0033-000c-f08cd117d70a is Ball (B), count 1-1 to 2-1, one out; later AB result is not in the selected clip."
+        },
+        "specificActualAppealAndCaller": {
+          "status": "PASS",
+          "basis": "Page-listed English caption at 01:37:20.166–01:37:23.216 says “They appeal it to third. Riley says no.” Direct original MP4 caller frame at 5839.8 shows the third-base official making the no-go gesture; fresh boxscore places Mike Reilly at third."
+        },
+        "cameraAndMotion": {
+          "status": "PASS",
+          "basis": "Direct listed MP4 loaded frame at 5852.6 shows a full rounded barrel cap in loaded position, whole relevant bat motion and batter legible in a true off-axis third-base-side view. Forward movement is underway by 5853.2; complete offer/finish visible by 5856.5. Candidate bounds 5852.6–5856.7 cover the full attempt and stop before the later call/context."
+        },
+        "spoilerAndBoundaries": {
+          "status": "PASS",
+          "basis": "Exact selected start frame 5852.6 contains no score/count strip or result text. It shows the crowd, Thome, the FOX/MLB logos only. The preceding 5852.3 frame is a transition and is outside the selected bounds. No call, updated count, result, catcher request, or later pitch is included in 5852.6–5856.7."
+        },
+        "deduplication": {
+          "status": "PASS_LOCAL_480_CATALOG",
+          "basis": "Exact read-only scan of current local published catalog /workspace/base-site/content/check-swing/catalog.json found 480 entries and no match by date 2006-07-01, batter Jim Thome, gamePk 41139, or playId 00411396-0606-0033-000c-f08cd117d70a. Catalog SHA-256 546fb9d93d580325718b52237d5c223fe900096f51882be762ef0f9090b6c358."
+        }
+      },
+      "assets": {
+        "candidateWrapper": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-candidate-row136-20261101.json",
+          "sha256": "a46c6809644a6e6e83c0f575759f8a41c66921a60bbfdaf657dfa545f41c0a2f"
+        },
+        "nativeProof": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/native-5850-5858.mp4",
+          "sha256": "0baabddb725357f904b050878613a62590a08a43e1701347c78bdd9dd852aca9",
+          "bytes": 5741293
+        },
+        "directFrames": [
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-2.3.png",
+            "sha256": "b151200f04aed39153b83f105033768bbc9e9d82fe437f869db46c04c01d4793",
+            "bytes": 1745906
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-2.6.png",
+            "sha256": "b252fdbefc59c9c9fdc7593589d1652b9ae645eddf41f108c3cc65058e14eac1",
+            "bytes": 2077703
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-3.2.png",
+            "sha256": "1ca6a9cdac6ff65cf20f5c21f33a9c85ba0e17db01b09ad90afb810f0b22d79f",
+            "bytes": 2116864
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-4.0.png",
+            "sha256": "b67e8b5d6962d99c7bd744e8fc1fc3b1c14762fb54b3cd7d0fa8b6fb3c16edae",
+            "bytes": 2134457
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/original-mp4-frame-6.5.png",
+            "sha256": "b5e102d475285f17d94dcb50092cbed6513352f1cbd0de92e4dff87409b7f0fb",
+            "bytes": 2124368
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/caller-frame-5.8.jpg",
+            "sha256": "f344113633a3a49db48f0bfb875419256bb903a837ca3217759107143f13bc85",
+            "bytes": 83194
+          }
+        ],
+        "freshFeedGzip": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/fresh-game41139-feed-live.json.gz",
+          "sha256": "57f7872e76b2914ac4fe85ad7a3dfced2500e50f9db55104fc862cbd541d9108",
+          "rawSha256": "3c07db4fb396d6746ffe42b4a3721fde540f139109898dc4685325da3cb20306"
+        },
+        "freshBoxscoreGzip": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/primary-resolution-20261101/fresh-game41139-boxscore.json.gz",
+          "sha256": "9c27cf4e0c0d5b85f6204c3ef5944471f25d1d4359bd205e48b9abfab701be66",
+          "rawSha256": "53e31e37b74263fe79321e80b264f49fc0676a25c3824a22b8537492f58b0761"
+        },
+        "captionVttGzip": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/taxonomy-rows-128-143-luna-20261101/captions/line-136.vtt.gz",
+          "sha256": "7aeb2fd7e5775855c7ceb16cd0068b6d030a4b2ea99a12376b0f8d5ec4d1110a"
+        }
+      },
+      "finalDisposition": {
+        "status": "PASS_PEER_ACCEPTED",
+        "candidateApproval": false,
+        "canonicalMutation": false,
+        "candidateBoundsOriginalMp4Seconds": [
+          5852.6,
+          5856.7
+        ],
+        "remainingIssue": "Root final integration/publication review remains."
+      }
+    },
+    "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/peer-luna-ortiz-20031016/audit.json": {
+      "schemaVersion": 1,
+      "reviewer": "luna_2021_mid",
+      "reviewedAtUtc": "2026-11-01",
+      "reviewType": "independent primary peer review",
+      "decision": "ACCEPTED",
+      "candidateId": "david-ortiz-20031016-18542-00185426-0386-0013",
+      "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/primary-audit-18542-ortiz-check-luna.json",
+      "primaryAuditSha256": "24c2791de050c6e03cefd563c8c0aa34d95b7314bc9b18cdbba3c57c500c807d",
+      "primaryWrapperPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/primary-candidate-wrapper-18542-ortiz-check-luna.json",
+      "primaryWrapperSha256": "cf35e7ac144e88fbdc9d5b4afbeb31dbb1805d6102c27d6f927bd93627fb1cbc",
+      "motionReview": {
+        "source": "exact page-listed AVC MP4; the source URL is present in exact page HTML raw SHA c1662340e27cdb5b715c55c760e652f4da5e491a201be9491fde43b49b9860db",
+        "proofPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/native-clean-bounds/native-3941-3945.mp4",
+        "proofSha256": "627c27ca782fc94eb8347a954383f4cbc9007c4c10e1ee584d49965216534ebc",
+        "proofGridPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/native-clean-bounds/native-3941-3945.jpg",
+        "proofGridSha256": "d2173e5ac80a40379764c13e8d69e6e0162929cb452c3670b6359c6d83b1d031",
+        "sourceBounds": [
+          3941.0,
+          3945.0
+        ],
+        "angle": "True third-base-side view for LHB; Ortiz front/chest, full torso/hands and bat are visible, catcher to frame right. Feet and legs are also visible.",
+        "loadedCap": "PASS. At source3941.0 and throughout stable set through roughly3942.4, the whole rounded barrel cap is visibly in the frame above/behind the hands; it is cleanly loaded before hands/barrel advance.",
+        "forwardAndFinish": "PASS. Forward motion begins approximately3942.5–3942.6. The offer progresses continuously through the front of the plate and brakes into a completed held partial-swing finish by approximately3944.4. The endpoint remains stable through3944.9. No stance reset is required; the relevant forward action is complete, not cut mid-motion.",
+        "contactOrOtherAction": "No contact and no unrelated practice swing evident.",
+        "cleanBounds": "PASS. The interval contains the actual same-pitch side replay and ends before the following transition/cutaway and before count/ruling shot; no unrelated next pitch."
+      },
+      "exactFeedReview": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/fresh-pbp-18542.json.gz",
+        "rawSha256": "7837acbcd1414d1625ebc1547ddc9ad4dbb9fd39cda0bdc07644040bc97020dd",
+        "gzipSha256": "4a5b44c4ebb25f5d60ad40c84cba019067a93a11cd8253244df125385f616f96",
+        "gamePk": 18542,
+        "date": "2003-10-16",
+        "atBatIndex": 37,
+        "inning": 5,
+        "halfInning": "top",
+        "pitchNumber": 1,
+        "playId": "00185426-0386-0013-000c-f08cd117d70a",
+        "batter": {
+          "id": 120074,
+          "name": "David Ortiz",
+          "hand": "Left",
+          "jersey": "34"
+        },
+        "pitcher": {
+          "id": 119608,
+          "name": "Mike Mussina",
+          "hand": "Right"
+        },
+        "countBefore": {
+          "balls": 0,
+          "strikes": 0,
+          "outs": 1
+        },
+        "countAfter": {
+          "balls": 1,
+          "strikes": 0,
+          "outs": 1
+        },
+        "scoreAfter": {
+          "away": 4,
+          "home": 0
+        },
+        "call": {
+          "code": "B",
+          "description": "Ball"
+        },
+        "match": "Exact game/player/inning/pitch sequence and scoreboard match the HLS event context. P1 is Ball, 0–0 to1–0; `hasReview:false` is not treated as the appeal signal."
+      },
+      "appealAndCallerReview": {
+        "hlsContextGrid": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/root-boone-18542/grid-3925.jpg",
+        "hlsGridSha256": "9d277fedc53fe13a9663b7348e08a79809b511a51f92bf8a16f14e7146e992d8",
+        "sourceBounds": [
+          3925.0,
+          3985.0
+        ],
+        "signal": "At approx3932.0, the third-base umpire is isolated and gives a no-go gesture while the score bug shows BOS4–NYY0, top5, one out, count1–0.",
+        "broadcast": "Absolute ASR locator segments 3936–3950 explicitly describe the home-plate umpire requesting a third-base check, name “Cousins,” and state Ortiz did not go around. Used as time-aligned broadcast attribution, corroborated by the signal and fresh crew; not used as a substitute for visual motion.",
+        "crew": "Fresh PBP official list includes Derryl Cousins at Third Base. Actual 3B gesture + crew and specific broadcast identify caller.",
+        "caller": "Derryl Cousins · third base"
+      },
+      "dedup": {
+        "publishedIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "publishedIndexSha256": "1c7c6f2617c14eb2fc6bde63a493e69c1746f4ac4390a7229544ae4b82e6d398",
+        "candidatePlayIdPresent": false
+      },
+      "result": "All required motion, exact-pitch, actual-appeal, caller, source, clean-bound, and dedup gates pass independently."
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
