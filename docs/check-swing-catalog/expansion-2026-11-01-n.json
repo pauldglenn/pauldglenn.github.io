@@ -1,0 +1,219 @@
+{
+  "added": 1,
+  "total": 479,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Public MLB full-game taxonomy search and bounded audio-led review located Benito Santiago’s appealed check in 2002 World Series Game6. Luna primary and independent root original-video/pitch/crew review verify the exact earlier p4 Ball and Jerry Crawford’s no-swing ruling. Third replay supplies an actual first-base-side full attempt from loaded cap through definite completed motion. All478 priorentries and historical dailyselections preserved.",
+  "clips": [
+    {
+      "id": "benito-santiago-20021026-12233-p4-00122336",
+      "batter": "Benito Santiago",
+      "date": "2002-10-26",
+      "matchup": "Giants at Angels",
+      "base": 1,
+      "strike": false,
+      "start": 8876.5,
+      "end": 8883.0,
+      "umpire": "Jerry Crawford · first-base umpire",
+      "context": "Benito Santiago faces Brendan Donnelly with a 1–2 count and no outs in the eighth inning of 2002 World Series Game 6. San Francisco leads Anaheim 5–3.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/12233/feed/live",
+      "source": "https://www.mlb.com/video/angels-rally-to-even-world-series-1108",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-05/21/f844772d-854b80eb-470bf848-csvm-diamondx64-asset_1280x720_59_16000K.mp4",
+      "footageCredit": "MLB / FOX archived 2002 World Series Game 6 broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 12233,
+        "atBatIndex": 59,
+        "pitchNumber": 4,
+        "playId": "00122336-0606-0043-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "benito-santiago-20021026-12233-p4-00122336",
+          "batter": "Benito Santiago",
+          "batterJersey": "33",
+          "batterHand": "R",
+          "pitcher": "Brendan Donnelly",
+          "pitcherJersey": "53",
+          "pitcherHand": "R",
+          "date": "2002-10-26",
+          "matchup": "SF at ANA",
+          "base": 1,
+          "strike": false,
+          "start": 8876.5,
+          "end": 8883.039867,
+          "umpire": "Jerry Crawford · first base",
+          "context": "Top of the 8th, 0 outs, San Francisco leading Anaheim 5–3. Benito Santiago #33 (RHB) faced Brendan Donnelly #53 (RHP), with the scorebug at 1–2 on pitch 4. The broadcast reports a first-base appeal on the same pitch: Crawford called no swing; the pitch was ruled Ball, changing the count from 1–2 to 2–2. Later pitches in the at-bat are excluded.",
+          "source": "https://www.mlb.com/video/angels-rally-to-even-world-series-1108",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-05/21/f844772d-854b80eb-470bf848-csvm-diamondx64-asset_1280x720_59_16000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/12233/feed/live",
+          "gamePk": 12233,
+          "atBatIndex": 59,
+          "pitchNumber": 4,
+          "playId": "00122336-0606-0043-000c-f08cd117d70a"
+        },
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna_2021_late",
+          "sourceKey": "tax-row-11-066aee02-7701-40b4-b9c2-ea5a4bcd66bc",
+          "gamePk": 12233,
+          "atBatIndex": 59,
+          "pitchNumber": 4,
+          "playId": "00122336-0606-0043-000c-f08cd117d70a",
+          "officialCode": "B",
+          "pitchType": null,
+          "pitchSpeedMph": null,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 0
+          },
+          "countAfterPitch": {
+            "balls": 2,
+            "strikes": 2,
+            "outs": 0
+          },
+          "finalRuling": "Ball / no swing on the appealed check-swing attempt; exact pitch #4, not a later pitch or the final walk result.",
+          "caller": "Jerry Crawford · First Base (fresh StatsAPI crew lists him at first; original broadcast explicitly names Crawford on the no-swing call).",
+          "callerEvidence": "Source-absolute ASR segment 8858–8861: “base umpire Jerry Crawford said no swing”; surrounding original broadcast 8848–8875 states this is the same pitch, identifies ball two, and notes disagreement. Fresh StatsAPI crew lists Jerry Crawford at First Base and Tim McClelland at Home Plate. Fresh playId 00122336-0606-0043-000c-f08cd117d70a is pitch 4, code B, pre-count 1–2, post-count 2–2. ASR is used as broadcast evidence, not as sole pitch identity/ruling proof.",
+          "localHDClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/candidate-8876.5-8883.0.mp4",
+          "localHDSourceStart": 8876.5,
+          "localHDSourceEnd": 8883.039867,
+          "localHDSourceClipStart": 8876.5,
+          "localHDSourceClipEnd": 8884.5,
+          "localVideoSha256": "151c952f43c97da98652a4d7a4df4236bb6dc1002307db2996303123893bf89a",
+          "proofFrames": [
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/native-8876.5-8884.5.jpg",
+              "sha256": "9a2ef62ffcb9fcf4c7dae55a010f46f57f09848e2941d97789b563e007c29df8"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-boundary-8876.5.jpg",
+              "sha256": "96a65194b6bc38ef5d2f99fdca6dea2f618bdb75c2a8adf5bda04ff0d2af6e13"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-boundary-8878.3.jpg",
+              "sha256": "3dd5c0b82ed337b8f313c5bbd957d41df80fc527d212c71c585720b46cf6f42d"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-boundary-8883.jpg",
+              "sha256": "d42a7abc1a363e2d4f2a3337b596cc42da7e4223d9fea09fc9f8b90752b21e0e"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/camera-8840-8900-grid.jpg",
+              "sha256": "91741bfd7b654588517841f5657d51041b0614a821d1690622e314101d4d4d6e"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/detail-8876-8891-2x.jpg",
+              "sha256": "cb34c3e71a78a1f9c0cc163fb687718638a38a3eb2cfe98d0a02e6c417bf70c1"
+            }
+          ],
+          "camera": "Actual lateral first-base-side profile replay for RHB Benito Santiago #33; whole body, hands/torso, and rounded bat end are visible. This is distinct from the earlier pitcher-axis/front-oblique and behind-plate replays.",
+          "fullLoadedCapBeforeForwardMotion": true,
+          "wholeForwardAttemptThroughDefiniteFinish": true,
+          "wholeAttemptThroughFinishAndInitialReturn": false,
+          "finishClarification": "The original replay shows definite full forward motion and completed fall/finish by source 8883.0; a stance reset/initial return is unnecessary when this complete attempt and finish are visible.",
+          "sameExactPitchAndBatter": true,
+          "resultOrCallerIncluded": false,
+          "containsUnrelatedNextPitch": false,
+          "fullMotion": "The original listed MP4 lateral replay starts at source 8876.5 with Santiago fully loaded and the rounded cap in frame. Forward movement begins around 8878.3; the complete attempt and definite fall/finish are visible by 8883.0. The presentation clip trims at the last frame around 8883.04, ahead of the Fox bumper beginning around 8883.2; no next pitch is included.",
+          "identityEvidence": {
+            "freshFeedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/fresh-statsapi-game12233-playByPlay.json.gz",
+            "feedSha256": "c8da252b2d133b375fab8e11ea6412afba54ba74208bdbb562f0bbe4a7812d5c",
+            "playId": "00122336-0606-0043-000c-f08cd117d70a",
+            "batterId": 121693,
+            "pitcherId": 407791,
+            "officials": {
+              "firstBase": {
+                "id": 427087,
+                "fullName": "Jerry Crawford",
+                "link": "/api/v1/people/427087"
+              },
+              "homePlate": {
+                "id": 427326,
+                "fullName": "Tim McClelland",
+                "link": "/api/v1/people/427326"
+              }
+            },
+            "jerseyEvidence": "Original 2002 broadcast replay shows #33; the current player-profile primaryNumber is 9 and is not treated as this game’s appearance number."
+          },
+          "nativeCaptureEvidence": {
+            "metadataPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/native-8876.5-8884.5.json",
+            "metadataSha256": "5b37ad01bf71c4bef5f1515cfde74968649fd37e34143edd337185ba0a2a0559",
+            "capturedClipSha256": "65656899597bb8957c2a97509afea8941e65b35ed60ed2d56e24a9343e80ef15",
+            "capturedBytes": 8206048,
+            "boundedCandidateStart": 8876.5,
+            "boundedCandidateEnd": 8883.0,
+            "nativeCaptureDuration": 8.0,
+            "candidateBoundExcludesBumper": true,
+            "boundedCandidateEndFrameSourceSeconds": 8883.039867
+          },
+          "boundedPresentationClip": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/candidate-8876.5-8883.0.mp4",
+            "sha256": "151c952f43c97da98652a4d7a4df4236bb6dc1002307db2996303123893bf89a",
+            "bytes": 6574037,
+            "durationSeconds": 6.539867,
+            "probe": {
+              "programs": [],
+              "stream_groups": [],
+              "streams": [
+                {
+                  "r_frame_rate": "60000/1001",
+                  "avg_frame_rate": "60000/1001",
+                  "nb_frames": "392"
+                }
+              ],
+              "format": {
+                "duration": "6.539867"
+              }
+            },
+            "derivation": "Stream-copy trim from the original listed-MP4 bounded capture; frame rate unchanged; ends before Fox bumper at about 8883.2."
+          }
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-independent-audit-santiago.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-independent-audit-santiago.json": {
+      "schema": "independent-root-peer-review-v1",
+      "utc": "2026-11-01T10:25:53.364799+00:00",
+      "candidateId": "benito-santiago-20021026-12233-p4-00122336",
+      "status": "ACCEPTED",
+      "gamePk": 12233,
+      "atBatIndex": 59,
+      "pitchNumber": 4,
+      "playId": "00122336-0606-0043-000c-f08cd117d70a",
+      "ruling": false,
+      "caller": "Jerry Crawford · first-base umpire",
+      "freshRootFeed": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-fresh-feed-12233.json.gz",
+        "originalSha256": "383a3d492040b2f5064fe9776a525cacb68ce12402c20b2eecdc046ce2118207"
+      },
+      "identity": "Fresh exact Top8 AB59 p4Ball 1–2→2–2, zeroouts, Giants5 Angels3. Original8851 shows SANTIAGO33, matching samebatter falling check before side replay. Feed primaryNumber9 is profile metadata, not historical uniform appearance. Earlierp3Foul and finalp7walk excluded.",
+      "camera": "Actual first-base lateral: catcher at farleft, pitcher off right, batter in full profile. Distinct third replay; earlier front and behindplate angles excluded.",
+      "motion": "Root reviewed entire original-frame-rate bounded capture via10fps grid and direct original boundaries. At8876.5 entire rounded loaded cap visible, hands/barrel beforeforward. Through8878 body/hands initiate and bat advances, checked action/fall continues to definite completion by8883.0. No contact, separate practice swing, ongoing forwardattempt or laterpitch. End before bumper8883.2.",
+      "actualCall": "Same-pitch broadcast says balltwo and firstbaseumpireJerryCrawford saidnoswing; announcersdisagree. Rootfresh exact p4B and visible count1–2→2–2 agree; freshcrewCrawford1B. Ruling is not inferred from swing appearance or finalwalk.",
+      "cleanQuestion": "Only lateralreplay8876.5–8883.0, withFOXlogo and no count/caller/decision. Publiccontext contains pre-pitch situation only.",
+      "directOriginalFrames": [
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-direct-original-8851.png",
+          "sha256": "0c3f919de025acb46ce6a2316e31d8d8dcde3af46c949f5f41d079846761955c"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-direct-original-8876.5.png",
+          "sha256": "ec5cf6fc9c98f8206a954588b9a486d452c6234c1c73dde19f5ccecc60c3563c"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-review-group2-12233/root-santiago-native/root-direct-original-8883.png",
+          "sha256": "c617aa86b55d162d00a4e9cac61b4f4010c8e87c4ac61afa9523075a6da3430f"
+        }
+      ],
+      "nativeCaptureSha256": "65656899597bb8957c2a97509afea8941e65b35ed60ed2d56e24a9343e80ef15",
+      "dedup": "ExactplayID absent in478 publishedcatalog; noexistingID.",
+      "limits": "No actual browser playback QA available; sourceMP4 playback bounds and appchecks used."
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
