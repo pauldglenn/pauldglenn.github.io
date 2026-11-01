@@ -9076,5 +9076,27 @@
       "pitchNumber": 5,
       "playId": "1920efbf-247d-4f17-9067-72606d52e657"
     }
+  },
+  {
+    "id": "valencia-20180619-bal-wsh-2-2-p5",
+    "batter": "Danny Valencia",
+    "date": "2018-06-19",
+    "matchup": "BAL at WSH",
+    "base": 1,
+    "strike": true,
+    "start": 50.2,
+    "end": 53.2,
+    "umpire": "Jerry Meals · first-base umpire",
+    "context": "Top 2, one out, 2-2 count: Valencia swings on Jefry Rodriguez’s 81.2 mph curveball; the official ruling is swinging strike, and the broadcast specifically says Meals ruled on the appeal.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/530491/feed/live",
+    "source": "https://www.mlb.com/video/cg-bal-wsh-6-19-18-c2175756083",
+    "video": "https://mediadownloads.mlb.com/mlbam/mp4/2018/06/20/2175756083/1529475830360/asset_2500K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 530491,
+      "atBatIndex": 8,
+      "pitchNumber": 5,
+      "playId": "44fe30ce-15be-4690-b037-eaa22820e376"
+    }
   }
 ]
