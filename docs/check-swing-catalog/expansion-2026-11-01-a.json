@@ -1,0 +1,747 @@
+{
+  "added": 2,
+  "total": 462,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Public MLB condensed-game captions and append-only rescreening of historical motion negatives, with primary and independent review proving exact fresh pitch identity, actual same-pitch appeals, full side motion and clean boundaries.",
+  "clips": [
+    {
+      "id": "nickgonzales20250816",
+      "batter": "Nick Gonzales",
+      "date": "2025-08-16",
+      "matchup": "PIT at CHC",
+      "base": 1,
+      "strike": true,
+      "start": 117.306967,
+      "end": 120.206967,
+      "umpire": "Unknown",
+      "context": "Top of the second, scoreless with nobody out: Gonzales tries to hold up on Shota Imanaga’s full-count, 81.1 mph sweeper. The first-base appeal is ruled a swing for strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/776719/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-pit-chc-8-16-25",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/1a68b262-3ebab416-32c7a23f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 776719,
+        "atBatIndex": 6,
+        "pitchNumber": 8,
+        "playId": "454be053-c58e-348c-a076-1f243ecbc9c6"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "nickgonzales20250816",
+          "batter": "Nick Gonzales",
+          "date": "2025-08-16",
+          "matchup": "PIT at CHC",
+          "base": 1,
+          "strike": true,
+          "start": 117.306967,
+          "end": 120.206967,
+          "umpire": "Unknown",
+          "context": "Top of the second, scoreless with nobody out: Gonzales tries to hold up on Shota Imanaga’s full-count, 81.1 mph sweeper. The first-base appeal is ruled a swing for strike three.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/776719/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-pit-chc-8-16-25",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/1a68b262-3ebab416-32c7a23f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "availableFrom": "2026-11-02"
+        },
+        "proof": {
+          "gamePk": 776719,
+          "atBatIndex": 6,
+          "pitchNumber": 8,
+          "playId": "454be053-c58e-348c-a076-1f243ecbc9c6",
+          "freshFeed": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/776719-root-feed.json",
+          "freshFeedSha256": "0787b24d22d2f8702e297fc1ff93fa97220384832d8c9aaf73114284157b8798",
+          "pitchEvent": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(50, 50, 50, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "ST",
+                "description": "Sweeper"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 3,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 81.1,
+              "endSpeed": 74.6,
+              "strikeZoneTop": 3.52,
+              "strikeZoneBottom": 1.59,
+              "strikeZoneWidth": 17.0,
+              "strikeZoneDepth": 17.0,
+              "coordinates": {
+                "aY": 23.218568268742224,
+                "aZ": -33.067047422035465,
+                "pfxX": -5.0681669709422525,
+                "pfxZ": -0.6413652940918286,
+                "pX": -1.387893731827867,
+                "pZ": 2.01141176003759,
+                "vX0": -7.423060552234544,
+                "vY0": -117.87010100588441,
+                "vZ0": -0.6186723505685058,
+                "x": 169.9,
+                "y": 184.47,
+                "x0": 2.4650310776466138,
+                "y0": 50.00018759660767,
+                "z0": 5.340868703279707,
+                "aX": -7.101079844449269
+              },
+              "breaks": {
+                "breakAngle": 14.4,
+                "breakLength": 9.6,
+                "breakY": 24.0,
+                "breakVertical": -42.8,
+                "breakVerticalInduced": -1.0,
+                "breakHorizontal": 11.0,
+                "spinRate": 2422,
+                "spinDirection": 306
+              },
+              "zone": 13,
+              "typeConfidence": 2.0,
+              "plateTime": 0.46538126367862365,
+              "extension": 6.206431183932463
+            },
+            "index": 7,
+            "playId": "454be053-c58e-348c-a076-1f243ecbc9c6",
+            "pitchNumber": 8,
+            "startTime": "2025-08-16T18:32:26.808Z",
+            "endTime": "2025-08-16T18:32:31.561Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "matchup": {
+            "batter": {
+              "id": 693304,
+              "fullName": "Nick Gonzales",
+              "link": "/api/v1/people/693304"
+            },
+            "batSide": {
+              "code": "R",
+              "description": "Right"
+            },
+            "pitcher": {
+              "id": 684007,
+              "fullName": "Shota Imanaga",
+              "link": "/api/v1/people/684007"
+            },
+            "pitchHand": {
+              "code": "L",
+              "description": "Left"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_LHP",
+              "pitcher": "vs_RHB",
+              "menOnBase": "Empty"
+            }
+          },
+          "about": {
+            "atBatIndex": 6,
+            "halfInning": "top",
+            "isTopInning": true,
+            "inning": 2,
+            "startTime": "2025-08-16T18:30:04.417Z",
+            "endTime": "2025-08-16T18:32:31.561Z",
+            "isComplete": true,
+            "isScoringPlay": false,
+            "hasReview": false,
+            "hasOut": true,
+            "captivatingIndex": 14
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Strikeout",
+            "eventType": "strikeout",
+            "description": "Nick Gonzales strikes out swinging.",
+            "rbi": 0,
+            "awayScore": 0,
+            "homeScore": 0,
+            "isOut": true
+          },
+          "crew": [
+            {
+              "official": {
+                "id": 427413,
+                "fullName": "Tony Randazzo",
+                "link": "/api/v1/people/427413"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427093,
+                "fullName": "Phil Cuzzi",
+                "link": "/api/v1/people/427093"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 623949,
+                "fullName": "Clint Vondrak",
+                "link": "/api/v1/people/623949"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 665576,
+                "fullName": "Brock Ballou",
+                "link": "/api/v1/people/665576"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "sourceOffset": 117.306967,
+          "localCropStart": 0,
+          "acceptedLocalBounds": [
+            0,
+            2.9
+          ],
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/nick-native.mp4",
+          "localVideoSha256": "6e068c586635dee2f89aaf40a6f8c6a98138f1664ec78df7b2965ab308573343",
+          "motion": "Whole loaded rounded barrel before forward travel visible at own0.0/.3; onset around0.7. Full appealed forward action and finish/initial return through2.9 before separate catcher arm gesture/rise around3.2; no discrete successful arrest/recoil claimed.",
+          "camera": "RHB Gonzales39 chest-facing first-base-side replay verified independently from stance geometry.",
+          "appeal": "Actual first-base fist in original complete source cue sequence, followed by same Gonzales39 side replay. Frozen raw commentary explicitly: check swing on appeal; he went around says the first base umpire strike three.",
+          "identity": "FreshAB6 top2 score0–0 nobodyout Gonzales RHB vsImanagaLHP fullcountp8ST81.1S; actualjersey39 and nextSuwinskibatterconsistent.",
+          "priorNegative": {
+            "path": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block660-luna/primary-ledger.json",
+            "sha256": "6115a8edf5cc307aeaa436f0c00d5f496e4cd6489de69f8da82661ba10b627ba",
+            "case": {
+              "originReviewQueueIndex": 674,
+              "blockArrayIndex": 14,
+              "windowIndex": 0,
+              "key": "674-0",
+              "sourceKey": "b7f428ab8636beb0",
+              "source": "https://www.mlb.com/video/condensed-game-pit-chc-8-16-25",
+              "sourceVideo": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/1a68b262-3ebab416-32c7a23f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+              "sourceTitle": "Condensed Game: PIT@CHC - 8/16/25",
+              "officialDate": "2025-08-16",
+              "gamePkHint": 776719,
+              "cue": {
+                "phrases": [
+                  "appeal",
+                  "check, swing",
+                  "went around"
+                ],
+                "excerpts": [
+                  "he makes the catch and Mike Burrows will face the minimum on the mound. The Pirates clean up, nick Gonzalez at the plate check, swing on appeal.",
+                  "Burrows will face the minimum on the mound. The Pirates clean up, nick Gonzalez at the plate check, swing on appeal. He went around says the first",
+                  "the mound. The Pirates clean up, nick Gonzalez at the plate check, swing on appeal. He went around says the first base umpire strike three is",
+                  "The Pirates clean up, nick Gonzalez at the plate check, swing on appeal. He went around says the first base umpire strike three is",
+                  "Gonzalez at the plate check, swing on appeal. He went around says the first base umpire strike three is",
+                  "swing on appeal. He went around says the first base umpire strike three is retired one away.",
+                  "He went around says the first base umpire strike three is retired one away. He swings and misses at a"
+                ],
+                "localStartHint": 108.306967,
+                "localEndHint": 125.941967
+              },
+              "decision": "closed-negative-full-swing",
+              "reason": "The side-angle sequence shows forward swing continuing through a conventional wrap/follow-through rather than a physical brake and recoil; this is a full-swing negative.",
+              "evidence": {
+                "locatorVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block660-luna/674-0-coarse.mp4",
+                "locatorGrid": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block660-luna/674-0-grid.jpg",
+                "locatorProof": "/workspace/check-swing/expansion500/season-condensed/reviews2025-season-block660-luna/674-0-retrieval.json",
+                "locatorSourceOffset": 105.306967,
+                "localCropStart": 0,
+                "sourceIntervalEnd": 128.941967,
+                "retrievedBytes": 1035248,
+                "completeCueToNextPlayInspected": true
+              },
+              "caller": null
+            },
+            "correction": "Original physical-stop-only fullswing rejection is preserved. Actual specifically appealed failed check attempt can qualify with full useful motion; no invented recoil."
+          },
+          "caller": "Unknown pending independently verified actual caller gesture/field role; freshCuzzi1B alone not attribution.",
+          "dedup": "ExactplayId absent canonical460+publishedpitchindex. No matchingGonzalesdate entry."
+        },
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/nick-native.mp4",
+        "localVideoSourceOffset": 117.306967
+      },
+      "independentAuditGroup": "season-condensed/appeal-negative-rescan-20261101/root-674/audit-peer/audit.json"
+    },
+    {
+      "id": "polanco20210914",
+      "batter": "Jorge Polanco",
+      "date": "2021-09-14",
+      "matchup": "CLE at MIN",
+      "base": 1,
+      "strike": true,
+      "start": 55.537967,
+      "end": 58.437967,
+      "umpire": "John Libka · first base",
+      "context": "Bottom of the first, scoreless with one out: Polanco tries to hold up on Logan Allen’s 2–2, 93.7 mph fastball. John Libka rules the first-base appeal a swing for strike three.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/632493/feed/live",
+      "source": "https://www.mlb.com/video/cg-cle-min-9-14-21",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/14/c5dcfb7a-fc15c244-db091846-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 632493,
+        "atBatIndex": 5,
+        "pitchNumber": 6,
+        "playId": "79130437-4d75-4aca-9ee1-9fd5d17acadb"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "polanco20210914",
+          "batter": "Jorge Polanco",
+          "date": "2021-09-14",
+          "matchup": "CLE at MIN",
+          "base": 1,
+          "strike": true,
+          "start": 55.537967,
+          "end": 58.437967,
+          "umpire": "John Libka",
+          "context": "Bottom of the first, scoreless with one out: Polanco tries to hold up on Logan Allen’s 2–2, 93.7 mph fastball. John Libka rules the first-base appeal a swing for strike three.",
+          "source": "https://www.mlb.com/video/cg-cle-min-9-14-21",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/632493/feed/live",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/14/c5dcfb7a-fc15c244-db091846-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "availableFrom": "2026-11-02"
+        },
+        "proof": {
+          "gamePk": 632493,
+          "atBatIndex": 5,
+          "pitchNumber": 6,
+          "playId": "79130437-4d75-4aca-9ee1-9fd5d17acadb",
+          "freshFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/632493-root-feed.json",
+          "freshFeedSha256": "730af55ff4d44ac78ee52570a02f31662991b8e32d94dc8c99e07d305057b770",
+          "pitchEvent": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "trailColor": "rgba(188, 0, 33, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "type": {
+                "code": "FF",
+                "description": "Four-Seam Fastball"
+              },
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 3,
+              "outs": 1
+            },
+            "pitchData": {
+              "startSpeed": 93.7,
+              "endSpeed": 86.4,
+              "strikeZoneTop": 3.319,
+              "strikeZoneBottom": 1.513,
+              "coordinates": {
+                "aY": 27.02116885068864,
+                "aZ": -17.917365029576573,
+                "pfxX": 3.8383301463231994,
+                "pfxZ": 7.488421924531165,
+                "pX": -0.23725165630381728,
+                "pZ": 4.407104341583469,
+                "vX0": -7.07397502665091,
+                "vY0": -136.38196854478758,
+                "vZ0": -1.574938547032795,
+                "x": 126.04,
+                "y": 119.79,
+                "x0": 1.8790660269420507,
+                "y0": 50.00195486289364,
+                "z0": 6.214500744655358,
+                "aX": 7.307477384558863
+              },
+              "breaks": {
+                "breakAngle": 18.0,
+                "breakLength": 3.6,
+                "breakY": 24.0,
+                "breakVertical": -17.4,
+                "breakVerticalInduced": 13.4,
+                "breakHorizontal": -5.6,
+                "spinRate": 2042,
+                "spinDirection": 146
+              },
+              "zone": 11,
+              "typeConfidence": 2.0,
+              "plateTime": 0.3999952431675342,
+              "extension": 5.806701975197348
+            },
+            "index": 5,
+            "playId": "79130437-4d75-4aca-9ee1-9fd5d17acadb",
+            "pitchNumber": 6,
+            "startTime": "2021-09-14T23:57:44.946Z",
+            "endTime": "2021-09-14T23:57:51.389Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "matchup": {
+            "batter": {
+              "id": 593871,
+              "fullName": "Jorge Polanco",
+              "link": "/api/v1/people/593871"
+            },
+            "batSide": {
+              "code": "R",
+              "description": "Right"
+            },
+            "pitcher": {
+              "id": 663531,
+              "fullName": "Logan Allen",
+              "link": "/api/v1/people/663531"
+            },
+            "pitchHand": {
+              "code": "L",
+              "description": "Left"
+            },
+            "batterHotColdZones": [],
+            "pitcherHotColdZones": [],
+            "splits": {
+              "batter": "vs_LHP",
+              "pitcher": "vs_RHB",
+              "menOnBase": "Empty"
+            }
+          },
+          "about": {
+            "atBatIndex": 5,
+            "halfInning": "bottom",
+            "isTopInning": false,
+            "inning": 1,
+            "startTime": "2021-09-14T23:55:51.572Z",
+            "endTime": "2021-09-14T23:57:51.389Z",
+            "isComplete": true,
+            "isScoringPlay": false,
+            "hasReview": false,
+            "hasOut": true,
+            "captivatingIndex": 14
+          },
+          "result": {
+            "type": "atBat",
+            "event": "Strikeout",
+            "eventType": "strikeout",
+            "description": "Jorge Polanco strikes out swinging.",
+            "rbi": 0,
+            "awayScore": 0,
+            "homeScore": 0,
+            "isOut": true
+          },
+          "crew": [
+            {
+              "official": {
+                "id": 427113,
+                "fullName": "Laz Diaz",
+                "link": "/api/v1/people/427113"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 596805,
+                "fullName": "John Libka",
+                "link": "/api/v1/people/596805"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427362,
+                "fullName": "Jeff Nelson",
+                "link": "/api/v1/people/427362"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 605674,
+                "fullName": "Ryan Wills",
+                "link": "/api/v1/people/605674"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/647-native.mp4",
+          "localVideoSha256": "5a2b9a5fd3480e196c07f9f54a6a8b3c5ee2cc66310a1a85f6986540043b0278",
+          "nativeSourceOffset": 53.837967,
+          "localCrop": 0,
+          "acceptedLocalBounds": [
+            1.7,
+            4.6
+          ],
+          "motion": "Full loaded rounded barrel cleanly visible aroundnative1.7–2.6 beforeforwardaround2.9. Whole forward attempt through low finish and initial return beforecut4.8. Actualsame-pitchfirst-baseappeal; no unsupported physical recoil claim.",
+          "camera": "RHB Polanco11 versus AllenLHP, chest-facingfirst-base-side replay. Earlier side ofBuxton25 ispriorpitch; selectedside11 matcheslive2–2Polanco andnextJeffers27afterinningtransition.",
+          "caller": "Specific rawbroadcast says appealatfirstJohnLibkaringhimup; actual1Bfist inpriorlivecall source plusfresh1BJohnLibka supportsattribution, notguessedfromcrew alone.",
+          "appealEvidence": [
+            "after all the Bregman as he goes up the ladder on Buxton. Nice sequence by Lowe Dustin Garneau. And now the two two pitch checks swing. Did he go. Yes.",
+            "up the ladder on Buxton. Nice sequence by Lowe Dustin Garneau. And now the two two pitch checks swing. Did he go. Yes. On the appeal at first.",
+            "Nice sequence by Lowe Dustin Garneau. And now the two two pitch checks swing. Did he go. Yes. On the appeal at first. John Libka ringham them up",
+            "Garneau. And now the two two pitch checks swing. Did he go. Yes. On the appeal at first. John Libka ringham them up strikeout number two.",
+            "And now the two two pitch checks swing. Did he go. Yes. On the appeal at first. John Libka ringham them up strikeout number two.",
+            "swing. Did he go. Yes. On the appeal at first. John Libka ringham them up strikeout number two. And sometimes pitchers can",
+            "Did he go. Yes. On the appeal at first. John Libka ringham them up strikeout number two. And sometimes pitchers can",
+            "Yes. On the appeal at first. John Libka ringham them up strikeout number two. And sometimes pitchers can",
+            "On the appeal at first. John Libka ringham them up strikeout number two. And sometimes pitchers can forget that that guy behind the"
+          ],
+          "sourceClock": "Exact pairedMP4 sourceOffset53.837967+local1.7–4.6=55.537967–58.437967; beforecut4.8/nextinningresult.",
+          "dedup": "ExactplayId absentcanonical460andpublishedpitchindex; noPolancodatecatalogentry."
+        },
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/647-native.mp4",
+        "localVideoSourceOffset": 53.837967
+      },
+      "independentAuditGroup": "season-condensed/reviews2021-season-block640-root/audit-peer/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/appeal-negative-rescan-20261101/root-674/audit-peer/audit.json": {
+      "reviewer": "Luna",
+      "role": "Independent peer reviewer",
+      "candidateSource": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/candidates.json",
+      "candidateSourceSha256": "3feb86e6c171e1af9e2cafba656104da66b57430530f11e1c175746aad23e0b0",
+      "decision": "approved",
+      "approvedCount": 1,
+      "heldCount": 0,
+      "rejectedCount": 0,
+      "canonicalEdited": false,
+      "published": false,
+      "method": "Independently fetched fresh StatsAPI feed for gamePk 776719; separately extracted the original condensed master around the complete cue; inspected full crop grid, call-to-replay transition, selected full-resolution motion frames, and close motion grid. Cross-checked exact pitch identity against 460 canonical entries and 394 published pitch-index entries. No whole master downloaded.",
+      "checks": {
+        "exactPitch": {
+          "gamePk": 776719,
+          "atBatIndex": 6,
+          "pitchNumber": 8,
+          "playId": "454be053-c58e-348c-a076-1f243ecbc9c6",
+          "event": "Swinging Strike",
+          "countAfter": {
+            "balls": 3,
+            "strikes": 3,
+            "outs": 0
+          },
+          "pitch": "81.1 mph sweeper",
+          "batter": "Nick Gonzales #39 RHB",
+          "pitcher": "Shota Imanaga LHP",
+          "inning": "top 2",
+          "score": "0-0",
+          "runners": "none"
+        },
+        "appeal": "Verified by source visual first-base umpire fist after the pitch and matched raw broadcast commentary explicitly reporting check-swing appeal/first-base umpire strike three.",
+        "camera": "True first-base-side view of the same #39 batter.",
+        "bounds": "Own extract begins source 105.306967; event begins at source 117.306967. Full loaded barrel precedes initiation; forward motion and finish/initial return remain in bounds through source 120.206967; catcher arm gesture begins after bound. No count/result/next batter reveal in candidate clip.",
+        "dedup": {
+          "canonicalCatalogCount": 460,
+          "publishedIndexCount": 394,
+          "exactPlayIdMatches": 0,
+          "batterDateMatches": 0
+        },
+        "caller": "Unknown retained; crew is not used to infer individual identity."
+      },
+      "ownEvidence": {
+        "freshFeed": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/audit-peer/776719-luna-fresh-feed.json",
+          "sha256": "0787b24d22d2f8702e297fc1ff93fa97220384832d8c9aaf73114284157b8798"
+        },
+        "originalExtract": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/audit-peer/nick-original-105.306967-128.941967.mp4",
+          "sha256": "7446c6c9b6585207e1d50e02d5c978807539a3be921c2487af3caf17371c93cf"
+        },
+        "gridSha256": "0f0a336caf869498b32548417f69b7891b4e2e63df9a72d0c797fe4a322963d7",
+        "motionGridSha256": "1713d8ab372ab946cad66f5b54baea91747b5930261c767dccfc5640029bb365",
+        "appealContactSheetSha256": "f41deeb5f167a8be2fe346492db92034322eae9b0acf5673a4bc34b7313de487",
+        "isolatedCandidateClip": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-674/audit-peer/nick-peer-candidate-117.306967-120.206967.mp4",
+          "sha256": "11a66441bb489164200dc3639bf7867b8fb53ef331549eb13004895a94406bf7"
+        }
+      },
+      "availability": "2026-11-02",
+      "limitations": "Original cue had previously been rejected under a strict physical-stop-only screen. This approval accepts the full swung-through check attempt because the actual appeal is independently evidenced; it does not claim a physical arrest or recoil."
+    },
+    "season-condensed/reviews2021-season-block640-root/audit-peer/audit.json": {
+      "reviewer": "Luna",
+      "reviewType": "independent peer review",
+      "scope": "Root primary candidate Polanco 2021-09-14 at frozen origin 647, ID polanco20210914",
+      "primaryCandidatePath": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/candidates.json",
+      "primaryCandidateSha256": "036d4a558364f78e04b8a58d2c9ff189d204d735e57363f824d0ffed61f88efc",
+      "primaryCandidateId": "polanco20210914",
+      "primaryProposal": "55.537967–58.437967 absolute paired-MP4 seconds; native local 1.7–4.6",
+      "decision": "accepted-peer",
+      "approvedCandidatePath": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/approved-candidates.json",
+      "approvedCandidateSha256": "1832935858f822785be09e63dacb0f1abb2d6a5efde31f2c1ea7ce074e235302",
+      "freshFeed": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/632493-peer-feed.json",
+      "freshFeedSha256": "730af55ff4d44ac78ee52570a02f31662991b8e32d94dc8c99e07d305057b770",
+      "originalNative": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/647-native.mp4",
+      "originalNativeSha256": "5a2b9a5fd3480e196c07f9f54a6a8b3c5ee2cc66310a1a85f6986540043b0278",
+      "retainedFullBroadcastSource": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/647-0.mp4",
+      "retainedFullBroadcastSha256": "673b15fba0b3b32565b6596418b392f011d543fb594340fb1fd4b50fc864d795",
+      "dedup": {
+        "exactPitchMatches": [],
+        "canonicalMatches": [],
+        "result": "unique"
+      },
+      "independentFindings": {
+        "identity": {
+          "gamePk": 632493,
+          "officialDate": "2021-09-14",
+          "atBatIndex": 5,
+          "pitchNumber": 6,
+          "playId": "79130437-4d75-4aca-9ee1-9fd5d17acadb",
+          "batter": {
+            "id": 593871,
+            "name": "Jorge Polanco",
+            "jersey": "11",
+            "hand": "RHB"
+          },
+          "pitcher": {
+            "id": 663531,
+            "name": "Logan Allen",
+            "jersey": "54",
+            "hand": "LHP"
+          },
+          "inning": "bottom 1",
+          "prePitchCount": "2-2",
+          "prePitchOuts": 1,
+          "score": [
+            0,
+            0
+          ],
+          "call": "Swinging Strike",
+          "pitchType": "Four-Seam Fastball",
+          "startSpeed": 93.7,
+          "eventCount": {
+            "balls": 2,
+            "strikes": 3,
+            "outs": 1
+          },
+          "atBatResult": "Jorge Polanco strikes out swinging."
+        },
+        "cameraAndBounds": {
+          "video": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/647-native.mp4",
+          "videoSha256": "5a2b9a5fd3480e196c07f9f54a6a8b3c5ee2cc66310a1a85f6986540043b0278",
+          "nativeSourceOffset": 53.837967,
+          "localVideoSourceOffset": 53.837967,
+          "format": "H.264 1280x720, 60000/1001 fps, duration 7.991317s",
+          "localZero": "paired MP4 source offset 53.837967, no crop",
+          "selectedNativeBounds": [
+            1.7,
+            4.6
+          ],
+          "absoluteMP4Bounds": [
+            55.537967,
+            58.437967
+          ],
+          "observed": "At local 1.70 the full rounded barrel and hands back are visible in the clean 1B-side replay. The barrel/hand load remains complete through approximately 2.55; forward movement starts around 2.65–2.75. At 3.20–4.60 the full swing reaches its finished shoulder wrap and body rotation. Camera shows Polanco’s chest (RHB, first-base side), with head, arms, barrel, hips and feet all in frame. The replay cuts to an unrelated tunnel insert at 4.8; bound 4.6 finishes before cut and before any appeal/call/count/departure. Earlier Buxton #25 side frames are a prior pitch and excluded."
+        },
+        "appealAndCaller": {
+          "retainedRawCaptionFile": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/647-0-retrieval.json",
+          "retainedRawCaptionSha256": "423a923bdb4401595b754725bfec3ee0cdd8996a75a029f86dbbe4adee7e1633",
+          "exactMatchedExcerpt": "And now the two two pitch checks swing. Did he go. Yes. On the appeal at first. John Libka ringham them up strikeout number two.",
+          "freshCrewMatch": {
+            "name": "John Libka",
+            "assignment": "First Base",
+            "personId": 596805
+          },
+          "gestureObservation": "In the pre-replay full broadcast sequence, home-plate umpire directs the appeal toward first; the following close 1B-umpire shot shows Libka extend an arm in the decision window (local around 11.9–12.0s of the retained source clip). The source caption explicitly narrates this exact appeal and names Libka; attribution is therefore matched to the fresh crew, not inferred from side alone."
+        },
+        "acceptance": "Specific same-pitch appeal explicitly appears in the matched raw broadcast narration; exact crew confirms John Libka at first base, and source shows pre-replay appeal/decision gestures. Full barrel load is visible before forward movement on a clean first-base side view; entire swing/finish is visible through 4.6. Boundary ends before tunnel insert and no call/count/strikeout departure is exposed in the quiz clip."
+      },
+      "evidenceFrames": [
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-1.70.jpg",
+          "sha256": "080f443a6a8c8dcb0a301292701b5ca38d218e69b1e8c4dcce58725daa0c6090"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.20.jpg",
+          "sha256": "68de378c8abfffffbc6baf94ae51d04dec3f791c5fd1be53fe017135a41bb1af"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.40.jpg",
+          "sha256": "e916fc0f3f7259527105aa38840cc1236931b4786ff34e238216ce9d3465c57b"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.55.jpg",
+          "sha256": "8ef65c38ab3457331ae3b64489f751a90174233ba75da3dad11cd0a80cbfb1c4"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.65.jpg",
+          "sha256": "640765690312009b64c0b54f347b465133eea41d7ae01461df9288ccdf23b564"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.75.jpg",
+          "sha256": "380e256b5b96ed727ae3ee62c3121de84bec02fc0c99a2b943a4fcd29c921acb"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.85.jpg",
+          "sha256": "a99349e6a1ed5841b62f46fe9d6b31bc0b9ea70a5f6333ca7e4cfaaf6b3f3155"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-2.95.jpg",
+          "sha256": "a69deed67c383c5094f6528dc64d5008fd2a695c2e0e414bde843b244e561a98"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-3.20.jpg",
+          "sha256": "af0d272f10d0a3a9057ce90cb12193edbb7f988cc532ea9249e9197ba04e9b52"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-3.80.jpg",
+          "sha256": "596a4f4f8a40644a4cd1154d43cd8856a8c6aed531a3856e4526fd01d159a89e"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-4.20.jpg",
+          "sha256": "b9783ebbb3469e07d77cc211df8d74b788a969d40d51c84ca84c8a598f055568"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-4.50.jpg",
+          "sha256": "e6ad9c77a748ffe4a3746a2338a80cdf9c2b4698ac572fc6ce4fb9b41cb2a94a"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-frame-4.60.jpg",
+          "sha256": "11a904c3b9c693bb160cc422e5ef700e528abd9c043d9302732a773a7f818d7e"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-appeal-11.87.jpg",
+          "sha256": "e6e2be91df57234e033ada128ed0baa94bcefe084c97b5374d1b1044a9019145"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-appeal-11.90.jpg",
+          "sha256": "e6e2be91df57234e033ada128ed0baa94bcefe084c97b5374d1b1044a9019145"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-appeal-11.93.jpg",
+          "sha256": "e6e2be91df57234e033ada128ed0baa94bcefe084c97b5374d1b1044a9019145"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-appeal-11.96.jpg",
+          "sha256": "47bfb0df837a84ccf6304ad298d40a151c0543d305acb78bbb0ebd9b8287cda6"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-appeal-11.99.jpg",
+          "sha256": "47bfb0df837a84ccf6304ad298d40a151c0543d305acb78bbb0ebd9b8287cda6"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/season-condensed/reviews2021-season-block640-root/audit-peer/647-appeal-12.02.jpg",
+          "sha256": "d89e36a76dcb69ac52bb86b36f0a42a502d53ece00e3c113ac44be074cc38c09"
+        }
+      ],
+      "newlyFetchedBytes": 634371,
+      "networkRequests": [
+        "one fresh StatsAPI fullfeed request for gamePk 632493; no video requests"
+      ]
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "Ramirez20230418": "Independent review corrected handedness and held replay because full loaded barrel cap is cropped until forward movement begins; primary post-call closeup also excluded. Not published.",
+    "GonzalesRecovery": "Original negative required a physical brake; actual specifically matched same-pitch first-base appeal establishes the attempted check ruled swing. Original negative preserved."
+  }
+}

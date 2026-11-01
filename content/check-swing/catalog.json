@@ -8899,5 +8899,49 @@
       "pitchNumber": 7,
       "playId": "dfbd6834-3e48-4ad4-bd48-cf6013480f75"
     }
+  },
+  {
+    "id": "nickgonzales20250816",
+    "batter": "Nick Gonzales",
+    "date": "2025-08-16",
+    "matchup": "PIT at CHC",
+    "base": 1,
+    "strike": true,
+    "start": 117.306967,
+    "end": 120.206967,
+    "umpire": "Unknown",
+    "context": "Top of the second, scoreless with nobody out: Gonzales tries to hold up on Shota Imanaga’s full-count, 81.1 mph sweeper. The first-base appeal is ruled a swing for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/776719/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-pit-chc-8-16-25",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-08/16/1a68b262-3ebab416-32c7a23f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 776719,
+      "atBatIndex": 6,
+      "pitchNumber": 8,
+      "playId": "454be053-c58e-348c-a076-1f243ecbc9c6"
+    }
+  },
+  {
+    "id": "polanco20210914",
+    "batter": "Jorge Polanco",
+    "date": "2021-09-14",
+    "matchup": "CLE at MIN",
+    "base": 1,
+    "strike": true,
+    "start": 55.537967,
+    "end": 58.437967,
+    "umpire": "John Libka · first base",
+    "context": "Bottom of the first, scoreless with one out: Polanco tries to hold up on Logan Allen’s 2–2, 93.7 mph fastball. John Libka rules the first-base appeal a swing for strike three.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/632493/feed/live",
+    "source": "https://www.mlb.com/video/cg-cle-min-9-14-21",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2021/2021-09/14/c5dcfb7a-fc15c244-db091846-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 632493,
+      "atBatIndex": 5,
+      "pitchNumber": 6,
+      "playId": "79130437-4d75-4aca-9ee1-9fd5d17acadb"
+    }
   }
 ]
