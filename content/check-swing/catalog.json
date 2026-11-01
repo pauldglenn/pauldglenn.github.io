@@ -9282,5 +9282,28 @@
       "pitchNumber": 3,
       "playId": "00680136-0506-0033-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "vince-coleman-19951004-68006-00680066-0186-0033",
+    "batter": "Vince Coleman",
+    "date": "1995-10-04",
+    "matchup": "Mariners at Yankees",
+    "base": 1,
+    "strike": true,
+    "start": 2406.4,
+    "end": 2412.5,
+    "umpire": "Jim McKean · first-base umpire",
+    "context": "Vince Coleman faces Andy Pettitte with a 2–0 count and one out in the third inning of 1995 ALDS Game 2. The game is tied 0–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1/game/68006/playByPlay",
+    "source": "https://www.mlb.com/video/leyritz-s-walk-off-in-1995-alds-1230",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-06/05/20f47556-7792649b-c23fb2ff-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB archived 1995 ALDS Game 2 broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 68006,
+      "atBatIndex": 17,
+      "pitchNumber": 3,
+      "playId": "00680066-0186-0033-000c-f08cd117d70a"
+    }
   }
 ]
