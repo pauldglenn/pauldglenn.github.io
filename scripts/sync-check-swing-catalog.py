@@ -29,6 +29,11 @@ def validate(rows):
             asset=ROOT/'content/check-swing/assets'/(identity+'.mp4');provenance=row.get('provenance',{})
             assert asset.is_file() and hashlib.sha256(asset.read_bytes()).hexdigest()==provenance.get('outputSha256'),'Excerpt asset missing or changed'
             assert row.get('footageCredit') and provenance.get('frameTimingVerified') is True,'Excerpt attribution/timing evidence required'
+        elif host=='video.twimg.com':
+            u=urlparse(row['video']);origin=urlparse(row['source'])
+            assert re.fullmatch(r'/amplify_video/\d+/vid/avc1/\d+x\d+/[A-Za-z0-9_-]+\.mp4',u.path) and not u.query and not u.fragment,'Invalid reviewed broadcast rendition: '+identity
+            assert origin.hostname in ['x.com','twitter.com'] and re.fullmatch(r'/TalkinBaseball_/status/\d+',origin.path),'Missing public broadcast source: '+identity
+            assert row.get('footageCredit'),'Broadcast attribution required: '+identity
         elif not (host=='mlb.com' or host.endswith('.mlb.com')):
             m=row.get('mediaProvider',{});u=urlparse(row['video'])
             assert u.netloc=='did-he-go-scores.paul-glenn280578.chatgpt.site' and u.path=='/media/'+identity and not u.query,'Invalid managed media URL: '+identity

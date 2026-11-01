@@ -1,0 +1,360 @@
+{
+  "added": 2,
+  "total": 464,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Alternate public broadcast edit recovered from a credited TalkinBaseball post and public MLB postseason condensed-game captions; primary and independent exact-pitch, whole-motion, appeal and duplicate review.",
+  "clips": [
+    {
+      "id": "chourio20250725",
+      "batter": "Jackson Chourio",
+      "date": "2025-07-25",
+      "matchup": "MIA at MIL",
+      "base": 1,
+      "strike": true,
+      "start": 51.1,
+      "end": 54.9,
+      "umpire": "Unknown",
+      "context": "Bottom of the second, scoreless: Chourio is ruled to have swung on appeal on a full-count 93.7 mph fastball from Cal Quantrill that also hits him.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/777008/feed/live",
+      "source": "https://x.com/TalkinBaseball_/status/1948848712358199744",
+      "video": "https://video.twimg.com/amplify_video/1948848293435342848/vid/avc1/1286x720/DfQ-nhBuHL197kaL.mp4",
+      "availableFrom": "2026-11-02",
+      "footageCredit": "MLB broadcast excerpt shared by Talkin’ Baseball; original public post linked in source.",
+      "pitchIdentity": {
+        "gamePk": 777008,
+        "atBatIndex": 13,
+        "pitchNumber": 6,
+        "playId": "92bc3236-f757-309b-b7d7-e7ae2dcf823e"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "chourio20250725",
+          "batter": "Jackson Chourio",
+          "date": "2025-07-25",
+          "matchup": "MIA at MIL",
+          "base": 1,
+          "strike": true,
+          "start": 51.1,
+          "end": 54.9,
+          "umpire": "Unknown",
+          "context": "Bottom of the second, scoreless: Chourio is ruled to have swung on appeal on a full-count 93.7 mph fastball from Cal Quantrill that also hits him.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/777008/feed/live",
+          "source": "https://x.com/TalkinBaseball_/status/1948848712358199744",
+          "video": "https://video.twimg.com/amplify_video/1948848293435342848/vid/avc1/1286x720/DfQ-nhBuHL197kaL.mp4",
+          "availableFrom": "2026-11-02",
+          "footageCredit": "MLB broadcast excerpt shared by Talkin’ Baseball; original public post linked in source."
+        },
+        "proof": {
+          "gamePk": 777008,
+          "atBatIndex": 13,
+          "pitchNumber": 6,
+          "playId": "92bc3236-f757-309b-b7d7-e7ae2dcf823e",
+          "sourceDiscovery": "Public Yahoo article linked public TalkinBaseball tweet1948848712358199744; public syndication metadata lists exact MP4 rendition.",
+          "publicMetadata": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/public-tweet-metadata.json",
+          "sourceVideo": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/source.mp4",
+          "sourceVideoSha256": "be7a80e9317b8fc04c6123c71226ca8390ecc26cb8d55da5bcbe2cd641ffd55d",
+          "sourceOffset": 0,
+          "selectedBounds": [
+            51.1,
+            54.9
+          ],
+          "independentFreshFeed": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/777008-root-fresh-feed.json",
+          "freshMatch": {
+            "batter": "Jackson Chourio11 RHB",
+            "pitcher": "Cal Quantrill47 RHP",
+            "inning": "bottom2",
+            "score": "0-0",
+            "countBefore": "3-2",
+            "pitch": "93.7FF S",
+            "samePitchSequence": "Tweet starts previous3-1calledstrike, then3-2swingingstrike; glove/handimpact, playerreaction, three replays ofsamepitch. Exactfeedtwofinalpitchesmatch."
+          },
+          "motion": "Wide1B-side RHBchestreplay startsaround51.0; fullroundedbatcapclearlyvisibleinloadedposition51.1,51.2,51.3 beforeforward initiationaround51.5. Entire judgedactionthroughfinishandinitialreturncontinues54.9 beforedissolvetonewangle55.0. Distinctphysicalchecking/avoidance afterhandcontactbutactualswingappealestablished; notonlyHBPavoidance.",
+          "appeal": "EarlierrootMLBcondensednativeprovesactualsamepitch1Bfist; ownhold-audit.json retained. Socialfullclipshowslive3-2pitchthenumpirediscussionandthreeclosereplays. CallerUnknownpendingindependentattribution; fresh1BcrewTonyRandazzoaloneinsufficient.",
+          "proofs": [
+            "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/full-grid.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/replays-dense.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/onset-51.1.jpg"
+          ],
+          "dedup": "No publishedgame777008/play92bc… norChourio20250725 in462catalog; priorroot562isHOLDonly.",
+          "supersedesHoldOnlyWithAlternateSource": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/hold-audit.json"
+        },
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/source.mp4",
+        "localVideoSourceOffset": 0
+      },
+      "independentAuditGroup": "season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/audit-peer/audit.json"
+    },
+    {
+      "id": "nathaniellowe20261013",
+      "batter": "Nathaniel Lowe",
+      "date": "2026-10-13",
+      "matchup": "CLE at TB",
+      "base": 3,
+      "strike": true,
+      "start": 182.3,
+      "end": 185.8,
+      "umpire": "Chad Fairchild · third base",
+      "context": "Top of the second: Nathaniel Lowe on a 3–2, 95.9 mph four-seam fastball from Freddy Peralta. The full forward attempt continues through its finish; the exact pitch was ruled a swinging strike after an appeal at third base. The selected question bounds omit the appeal and ruling.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/849813/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-cle-tb-10-13-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/13/fbb0f7c0-38b5cf9b-91cdf26e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 849813,
+        "atBatIndex": 8,
+        "pitchNumber": 8,
+        "playId": "bc65fe34-7aea-3412-ac9d-ef74cf7ab01d"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "nathaniellowe20261013",
+          "batter": "Nathaniel Lowe",
+          "date": "2026-10-13",
+          "matchup": "CLE at TB",
+          "base": 1,
+          "strike": true,
+          "start": 182.3,
+          "end": 187.0,
+          "umpire": "Chad Fairchild · third base",
+          "context": "Top of the second: Nathaniel Lowe on a 3–2, 95.9 mph four-seam fastball from Freddy Peralta. The full forward attempt continues through its finish; the exact pitch was ruled a swinging strike after an appeal at third base. The selected question bounds omit the appeal and ruling.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/849813/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-cle-tb-10-13-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/13/fbb0f7c0-38b5cf9b-91cdf26e-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "gamePk": 849813,
+          "atBatIndex": 8,
+          "pitchNumber": 8,
+          "playId": "bc65fe34-7aea-3412-ac9d-ef74cf7ab01d",
+          "review": {
+            "status": "primary-review-proposed-pending-root-peer-review",
+            "reviewQueueIndex": 108,
+            "originReviewQueueIndex": 108,
+            "sourceKey": "8e9e2881b2a85587",
+            "windowIndex": 0,
+            "gamePk": 849813,
+            "atBatIndex": 8,
+            "pitchNumber": 8,
+            "playId": "bc65fe34-7aea-3412-ac9d-ef74cf7ab01d",
+            "pitchType": "Four-Seam Fastball",
+            "pitchSpeedMph": 95.9,
+            "countBefore": {
+              "balls": 3,
+              "strikes": 2,
+              "outs": 0
+            },
+            "finalRuling": "Swinging Strike",
+            "caller": "Chad Fairchild, third-base umpire",
+            "callerEvidence": "Raw matched caption excerpt for this pitch states “Check swing, ball in the dirt on appeal strike 3… Chad Fairchild, the umpire at third base, said he went.” Fresh feed crew lists Chad Fairchild as Third Base. HLS source visually shows the third-base umpire after the pitch; caller attribution is not shown inside the selected clip.",
+            "localHDClip": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-w0-native720-align-test.mp4",
+            "localHDSourceStart": 182.3,
+            "localHDSourceEnd": 187.0,
+            "localVideoSha256": "72414b481c0f4e057f4b59b61afd6f4f06a7844f68bde3b7e59ef6eaa53f9890",
+            "proofFrames": [
+              {
+                "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-native720-align-frames.jpg",
+                "sha256": "ddf026e83614031594f66d858883c6aa351d51273e651aefda6faaedd2c00781"
+              },
+              {
+                "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-motion-detail-1.jpg",
+                "sha256": "7289c8efe5251d468bfc96420c1da6d4dbebc410350e6fc1636c050870eaf109"
+              },
+              {
+                "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-motion-detail-2.jpg",
+                "sha256": "e7508e458485c4b690af8fade9ec96cb2ef234d4f51a1ebba85e16c3f622d54d"
+              },
+              {
+                "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-w0-focused-proof-1.jpg",
+                "sha256": "b45042de0a3d1a8dfdeb78448866a20f9f6450689263d849f35babcd3e171e34"
+              },
+              {
+                "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-w0-focused-proof-2.jpg",
+                "sha256": "4af5a2751efe01a2ac316bee20df810742430d8a197cce2f028888a345c717fa"
+              }
+            ],
+            "fullMotion": "At native 720p side view, complete rounded loaded barrel is visible before initiation (first frames). Hands/barrel then move forward continuously through the attempted check and full finish/return. Because the exact pitch was independently proven appealed and ruled a swing, a successful brake is not required. The selected bounds contain only the motion and show no umpire signal, appeal, updated result/count, or batter departure.",
+            "pairedMp4TimingIndependentlyVerified": true,
+            "timingMethod": "Compared the same batter/action at multiple sampled frames between the 450K HLS stream and paired 1280x720 MP4. The MP4 excerpt at 182.3s begins on the same loaded stance as HLS at 183.917967s; HLS is approximately 1.617967s ahead. Native clip offsets refer to the paired MP4 clock.",
+            "audioMustRemainMuted": true,
+            "sourceQueueFile": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/review-queue-frozen.json",
+            "exactHlsVariantUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/13/fbb0f7c0-38b5cf9b-91cdf26e-csvm-diamondgcp-asset_450K.m3u8",
+            "mediaTimelineBaselineSeconds": 2.000033,
+            "freshFeedPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/fresh-feed-849813.json",
+            "freshFeedSha256": "f4bce3c56239ce2225ad100061aaa3b6de23b1e48ffa4343c7cd7f7ba10aec4b",
+            "dedup": {
+              "canonicalCount": 460,
+              "exactPitchMatches": [],
+              "sameBatterDateForInvestigation": [],
+              "sameBatterDifferentPitch": {
+                "batter": "Nathaniel Lowe",
+                "date": "2026-05-03",
+                "gamePk": 823387,
+                "playId": "56f2540e-4519-38ac-b35b-1b6e9733fce8"
+              },
+              "dedupCheckedAgainst": [
+                "/workspace/base-site/content/check-swing/catalog.json",
+                "/workspace/check-swing/expansion500/published-pitch-index.json"
+              ]
+            },
+            "candidateAvailableFrom": "2026-11-02",
+            "candidateApproval": false,
+            "canonicalChange": false
+          }
+        },
+        "proof": {
+          "primaryScreenLedger": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/primary-visual-screen-ledger.json",
+          "priorDisposition": "rows-100-115-luna/luna-native-followup-20261101.json had closed row108 as full swing under an overly restrictive brake requirement; preserved unchanged. This append corrects it under LUNA-REVIEW-HANDOFF.md § append-only reassessment: exact-pitch appeal permits continuous full finish.",
+          "freshFeed": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/fresh-feed-849813.json",
+          "visualProof": [
+            {
+              "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-native720-align-frames.jpg",
+              "sha256": "ddf026e83614031594f66d858883c6aa351d51273e651aefda6faaedd2c00781"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-motion-detail-1.jpg",
+              "sha256": "7289c8efe5251d468bfc96420c1da6d4dbebc410350e6fc1636c050870eaf109"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-motion-detail-2.jpg",
+              "sha256": "e7508e458485c4b690af8fade9ec96cb2ef234d4f51a1ebba85e16c3f622d54d"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-w0-focused-proof-1.jpg",
+              "sha256": "b45042de0a3d1a8dfdeb78448866a20f9f6450689263d849f35babcd3e171e34"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-w0-focused-proof-2.jpg",
+              "sha256": "4af5a2751efe01a2ac316bee20df810742430d8a197cce2f028888a345c717fa"
+            }
+          ],
+          "appealSourceExcerpt": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/caption-stream/sources/8e9e2881b2a85587/track-0-segment-0.vtt"
+        },
+        "localVideo": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/row108-w0-native720-align-test.mp4",
+        "localVideoSourceOffset": 182.3,
+        "localVideoSourceEnd": 187.0,
+        "localVideoSha256": "72414b481c0f4e057f4b59b61afd6f4f06a7844f68bde3b7e59ef6eaa53f9890"
+      },
+      "independentAuditGroup": "season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/audit-peer/audit.json": {
+      "reviewer": "Luna",
+      "role": "Independent peer reviewer",
+      "candidateSource": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/candidates.json",
+      "candidateSourceSha256": "d3c2d0c81f2cf842b85fa85abd155061acf6a93f38db49b4299fdebf946bd96b",
+      "decision": "approved",
+      "approvedCount": 1,
+      "heldCount": 0,
+      "rejectedCount": 0,
+      "canonicalEdited": false,
+      "published": false,
+      "method": "Independently fetched the exact StatsAPI full feed for gamePk 777008; inspected the full original social-source sequence, separate full-duration motion grid, then made and inspected an independent accurate-time crop 51.1–54.9 from the retained original MP4. Separately inspected the original MLB sequence to confirm the actual first-base fist on the same 3-2 pitch. Cross-checked exact identity and batter/date against all canonical entries and indexed published pitches.",
+      "checks": {
+        "exactPitch": {
+          "gamePk": 777008,
+          "atBatIndex": 13,
+          "pitchNumber": 6,
+          "playId": "92bc3236-f757-309b-b7d7-e7ae2dcf823e",
+          "event": "Swinging Strike",
+          "countAfter": {
+            "balls": 3,
+            "strikes": 3,
+            "outs": 0
+          },
+          "pitch": "93.7 mph four-seam fastball",
+          "batter": "Jackson Chourio #11 RHB",
+          "pitcher": "Cal Quantrill #47 RHP",
+          "inning": "bottom 2",
+          "score": "0-0",
+          "outsBefore": 1,
+          "runners": "none"
+        },
+        "appeal": "Actual first-base umpire fist signal independently visible after the live pitch; followed by same #11 batter/same-pitch replays. This is an actual appealed swung-through check. No successful stop or recoil is claimed.",
+        "camera": "Wide first-base-side replay; RHB Chourio is chest-facing and jersey #11/stance match.",
+        "bounds": "Own extraction covers source 51.1–54.9. Rounded barrel is clearly loaded at 51.1–51.3 before initiation around 51.5. Entire forward motion, finish, and initial return through 54.9; next camera dissolve starts at55.0. Selected bounds omit call/result/appeal/departure.",
+        "dedup": {
+          "canonicalCatalogCount": 462,
+          "publishedPitchIndexCount": 396,
+          "exactPlayIdCanonicalMatches": 0,
+          "exactPlayIdPitchIndexMatches": 0,
+          "batterDateCanonicalMatches": 0,
+          "batterDatePitchIndexMatches": 0,
+          "matchedRows": []
+        },
+        "caller": "Unknown; no crew-only caller inference."
+      },
+      "ownEvidence": {
+        "freshFeed": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/audit-peer/777008-luna-fresh-feed.json.gz",
+          "sha256": "7bf0ce6bc1b68b2f52d361c7ab0e1d8c2e6ccd0a76b3f4701d00c329bd287c00",
+          "uncompressedSha256": "e9e930fe7ea0d56fa345337cb0ef9c63b33b9680a0da567b52f64369159b96d2",
+          "extraction": "atBatIndex 13, playId 92bc3236-f757-309b-b7d7-e7ae2dcf823e"
+        },
+        "originalPublicSource": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/source.mp4",
+          "sha256": "be7a80e9317b8fc04c6123c71226ca8390ecc26cb8d55da5bcbe2cd641ffd55d"
+        },
+        "independentExtract": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/audit-peer/chourio-peer-51.1-54.9.mp4",
+          "sha256": "e8dff186813ce5765cb1abc84bbf53b2842c85f4b1ce7a0b8ce75f6d698d4d1a",
+          "sourceBounds": [
+            51.1,
+            54.9
+          ]
+        },
+        "fullSequenceGrid": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/full-grid.jpg",
+          "sha256": "c6a3ea5324856a26ede29c416f086eb3b92e27414502697565c74cc2678fc2a0"
+        },
+        "motionGrid": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/alternate-talkin/audit-peer/motion-grid.jpg",
+          "sha256": "010b27b798967cf54b75c2f03ea76316aeb9f2c681250e2fda6466c9d649afec"
+        },
+        "appealEvidence": {
+          "path": "/workspace/check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/root-562/chourio-grid.jpg",
+          "sha256": "d0372e10699e27d6dbb4e244f86a4d94c79a2fbd27bb64bf2878b85f05378a9d",
+          "description": "Original MLB source sequence showing fist signal after live pitch, followed by discussion and same-batter replay."
+        }
+      },
+      "availability": "2026-11-02",
+      "limitations": "The social master and its crop are editorially selected replay material; selected bounds are only the full motion replay, while the separate full sequence is retained as proof of the live pitch and actual appeal. Caller identity is Unknown."
+    },
+    "season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/audit.json": {
+      "id": "nathaniellowe20261013",
+      "decision": "accept-with-end-shortened",
+      "reviewer": "root-independent",
+      "gamePk": 849813,
+      "atBatIndex": 8,
+      "pitchNumber": 8,
+      "playId": "bc65fe34-7aea-3412-ac9d-ef74cf7ab01d",
+      "freshFeed": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/849813-root-fresh-feed.json",
+      "freshFeedSha256": "f4bce3c56239ce2225ad100061aaa3b6de23b1e48ffa4343c7cd7f7ba10aec4b",
+      "selectedMP4Bounds": [
+        182.3,
+        185.8
+      ],
+      "primaryBounds": [
+        182.3,
+        187.0
+      ],
+      "motion": "Own decoded full-rate first frame shows entire rounded loaded barrel before forward movement; own5fps fullgrid shows wholeattemptthroughlowfinishandinitialreturnaroundnative3.2. Selectedendnative3.5(185.8absolute) retainsfinish/return and excludeslatercatcherheadturn/rise/possibleappealrequest. TruefieldlevelLHBchestthird-base replay.",
+      "timing": "Own fresh originallistedMP4 networkseek182.3t3.5 plus independentdecodematchesprimarynative; primaryalignedHLS separately. AllpublishedboundsreferMP4clock.",
+      "identity": "FreshStatsAPIbatterNathanielLoweLHBvsFreddyPeraltaRHP,top2score0-0,3-2beforep8,95.9FF/S,strikeout; actuallivecount/sourceorderandjersey/actionsmapthisreplayofsamepitch.",
+      "appealAndCaller": "OwnrawretainedVTT175.592–183.550explicitlydescribescheck,swingappealstrike3andnamesChadFairchildatthird. OwnfreshcrewconfirmsThirdBaseChadFairchild; exactmatchedbroadcastattributionestablishescallerwithoutinferencefromcrew alone.",
+      "dedup": "462catalog +396exactpitchindex:noexactplayIdorname/date; LoweMay3isdistinctpitch.",
+      "proofs": [
+        "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/own-motion-grid.jpg",
+        "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/start.png",
+        "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/late-boundary.jpg",
+        "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-100-115-luna/audit-root108/own-original-first.png"
+      ],
+      "originalNegative": "Priorcontinuous-fullfinishnegativepreserved; actualspecificappealmeanssuccessfulbrakenotrequired.",
+      "cameraCorrection": "Fresh matchup LHB and visible CLEVELAND chest establish THIRD-base camera; primary base1 and earlier root backside1 shorthand corrected before publication."
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "ChourioOriginalEdit": "Original MLB condensed edit remains held because its dissolve hides onset. Distinct public credited alternate edit supplies full loaded barrel before motion. Original evidence unchanged.",
+    "LoweEnd": "Independent end185.8 replaces187.0, retaining full finish/initial return before later catcher movement. Prior full-swing-only negative preserved with append-only correction because actual specific appeal is proven.",
+    "LoweCameraCorrection": "Independent fresh LHB matchup plus visible chest correct primary base1 to third-base camera before daily eligibility or publication."
+  }
+}
