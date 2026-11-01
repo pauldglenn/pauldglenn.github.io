@@ -9032,5 +9032,27 @@
       "pitchNumber": 5,
       "playId": "8b41a368-821b-3c4a-98ea-501fd8d802d5"
     }
+  },
+  {
+    "id": "geraldo-perdomo-20220502-661362-4d5f9d78",
+    "batter": "Geraldo Perdomo",
+    "date": "2022-05-02",
+    "matchup": "ARI at MIA",
+    "base": 3,
+    "strike": true,
+    "start": 201.0,
+    "end": 205.25,
+    "umpire": "Adam Beck · third-base umpire",
+    "context": "Top 5, one out before the pitch; Arizona leads 2–0. Geraldo Perdomo #2 (LHB) vs Pablo López #49 (RHP), 1–2 count. Pitch five was a 78.7 mph curveball, recorded as swinging strike three. Broadcast says the crew asked whether he went and Adam at third base rang him up.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/661362/feed/live",
+    "source": "https://www.mlb.com/video/cg-ari-mia-5-2-22",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/02/aa950883-917a7287-2bbb25d1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 661362,
+      "atBatIndex": 31,
+      "pitchNumber": 5,
+      "playId": "4d5f9d78-cc64-48d2-88e2-384a2a940a76"
+    }
   }
 ]
