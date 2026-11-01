@@ -9305,5 +9305,28 @@
       "pitchNumber": 3,
       "playId": "00680066-0186-0033-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "benito-santiago-20021026-12233-p4-00122336",
+    "batter": "Benito Santiago",
+    "date": "2002-10-26",
+    "matchup": "Giants at Angels",
+    "base": 1,
+    "strike": false,
+    "start": 8876.5,
+    "end": 8883.0,
+    "umpire": "Jerry Crawford · first-base umpire",
+    "context": "Benito Santiago faces Brendan Donnelly with a 1–2 count and no outs in the eighth inning of 2002 World Series Game 6. San Francisco leads Anaheim 5–3.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/12233/feed/live",
+    "source": "https://www.mlb.com/video/angels-rally-to-even-world-series-1108",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-05/21/f844772d-854b80eb-470bf848-csvm-diamondx64-asset_1280x720_59_16000K.mp4",
+    "footageCredit": "MLB / FOX archived 2002 World Series Game 6 broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 12233,
+      "atBatIndex": 59,
+      "pitchNumber": 4,
+      "playId": "00122336-0606-0043-000c-f08cd117d70a"
+    }
   }
 ]
