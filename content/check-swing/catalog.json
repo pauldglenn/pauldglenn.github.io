@@ -9098,5 +9098,51 @@
       "pitchNumber": 5,
       "playId": "44fe30ce-15be-4690-b037-eaa22820e376"
     }
+  },
+  {
+    "id": "gavin-sheets-20260622-823288-d48fa0b6",
+    "batter": "Gavin Sheets",
+    "date": "2026-06-22",
+    "matchup": "Braves at Padres",
+    "base": 3,
+    "strike": true,
+    "start": 106.25,
+    "end": 108.95,
+    "umpire": "Shane Livensparger · home-plate umpire",
+    "context": "Bottom of the first, full count and two outs. Gavin Sheets faces Grant Holmes.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / Braves–Padres broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 823288,
+      "atBatIndex": 7,
+      "pitchNumber": 7,
+      "playId": "d48fa0b6-5653-37a4-989e-1b6fe5468af9"
+    }
+  },
+  {
+    "id": "dominic-smith-20260622-823288-1f24121b",
+    "batter": "Dominic Smith",
+    "date": "2026-06-22",
+    "matchup": "Braves at Padres",
+    "base": 3,
+    "strike": false,
+    "start": 623.3,
+    "end": 625.85,
+    "umpire": "Mark Ripperger · third-base umpire",
+    "context": "Top of the ninth, full count and two outs. Dominic Smith faces Mason Miller.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / Braves–Padres broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 823288,
+      "atBatIndex": 67,
+      "pitchNumber": 7,
+      "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32"
+    }
   }
 ]

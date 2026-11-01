@@ -1,0 +1,1518 @@
+{
+  "added": 2,
+  "total": 471,
+  "dailyActivation": "2026-11-02",
+  "discovery": "RAM-only English speech recognition searched exact publicly listed MLB condensed-game audio where no English caption track was listed. Source-matched speech located two separate judged attempts in the same game; primary and independent original-resolution MP4 review confirmed complete third-base-side motion, exact fresh pitch identities, actual home-plate/third-base judgments and role-matched fresh crew. Transcript locators alone do not establish rulings.",
+  "clips": [
+    {
+      "id": "gavin-sheets-20260622-823288-d48fa0b6",
+      "batter": "Gavin Sheets",
+      "date": "2026-06-22",
+      "matchup": "Braves at Padres",
+      "base": 3,
+      "strike": true,
+      "start": 106.25,
+      "end": 108.95,
+      "umpire": "Shane Livensparger · home-plate umpire",
+      "context": "Bottom of the first, full count and two outs. Gavin Sheets faces Grant Holmes.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / Braves–Padres broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 823288,
+        "atBatIndex": 7,
+        "pitchNumber": 7,
+        "playId": "d48fa0b6-5653-37a4-989e-1b6fe5468af9"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "gavin-sheets-20260622-823288-d48fa0b6",
+          "batter": "Gavin Sheets",
+          "strike": true,
+          "start": 106.25,
+          "end": 108.95,
+          "umpire": "Shane Livensparger · home-plate umpire",
+          "context": "Bottom of the first, full count and two outs. Gavin Sheets faces Grant Holmes.",
+          "date": "2026-06-22",
+          "matchup": "Braves at Padres",
+          "base": 3,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / Braves–Padres broadcast"
+        },
+        "review": {
+          "gamePk": 823288,
+          "atBatIndex": 7,
+          "pitchNumber": 7,
+          "playId": "d48fa0b6-5653-37a4-989e-1b6fe5468af9",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "eventType": "strikeout",
+              "description": "Gavin Sheets strikes out swinging.",
+              "awayScore": 0,
+              "homeScore": 0
+            },
+            "about": {
+              "atBatIndex": 7,
+              "halfInning": "bottom",
+              "inning": 1
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 3,
+              "outs": 3
+            },
+            "matchup": {
+              "batter": {
+                "id": 657757,
+                "fullName": "Gavin Sheets"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 656550,
+                "fullName": "Grant Holmes"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "description": "Pickoff Attempt 1B",
+                  "code": "1"
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "index": 0,
+                "playId": "5c185bb5-4701-31bc-8076-695aed1a7576",
+                "isPitch": false,
+                "type": "pickoff"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 1,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 83.8
+                },
+                "index": 1,
+                "playId": "e0b0f75c-c803-36c2-a64e-f2d27c902933",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "CH",
+                    "description": "Changeup"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 1,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 89.7
+                },
+                "index": 2,
+                "playId": "e706c3f3-d846-328c-9570-202fd1811cc0",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 94.1
+                },
+                "index": 3,
+                "playId": "01e1ed7f-7f08-3ce8-a0cd-3bfc045e6412",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "CU",
+                    "description": "Curveball"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 82.9
+                },
+                "index": 4,
+                "playId": "bbdb0240-2a20-30df-b810-6c4f7bf177d0",
+                "pitchNumber": 4,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 93.8
+                },
+                "index": 5,
+                "playId": "8be7bdec-4054-3575-890d-c9128e33cc33",
+                "pitchNumber": 5,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "description": "Pickoff Attempt 1B",
+                  "code": "1"
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "index": 6,
+                "playId": "ece4e476-91c2-3dec-af57-41467b5eb508",
+                "isPitch": false,
+                "type": "pickoff"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "*B",
+                    "description": "Ball In Dirt"
+                  },
+                  "description": "Ball In Dirt",
+                  "code": "*B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 86.1
+                },
+                "index": 7,
+                "playId": "c2b0d631-1aa1-3a95-bfe0-8e3b48186975",
+                "pitchNumber": 6,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 3,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 86.1
+                },
+                "index": 8,
+                "playId": "d48fa0b6-5653-37a4-989e-1b6fe5468af9",
+                "pitchNumber": 7,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 7
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "type": {
+                "code": "SL",
+                "description": "Slider"
+              }
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 3,
+              "outs": 2
+            },
+            "pitchData": {
+              "startSpeed": 86.1
+            },
+            "index": 8,
+            "playId": "d48fa0b6-5653-37a4-989e-1b6fe5468af9",
+            "pitchNumber": 7,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "status": "root-primary-proposed-awaiting-independent-audit",
+          "trueCameraSide": "third-base, left-handed batter chest view",
+          "originalMp4Clock": true,
+          "hlsClockWarning": "Original MP4 is approximately2seconds earlier than low-HLS/ASR clock. These bounds are calibrated on actual original MP4.",
+          "visualFinding": "Clear fully visible rounded loaded barrel in side view106.3, hands set before forward movement107, braked partial swing and recovery108.2–108.9. Original live HP gestures directly105.2–105.5, matched S; broadcast explicitly says HP made call himself. No separate base appeal needed for an actual checked attempt.",
+          "nativeProof": {
+            "sourceKey": "e468142a8882",
+            "gamePk": 823288,
+            "originalListedMp4": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "originalSourceStart": 104.0,
+            "requestedDuration": 7.0,
+            "frameRateChanged": false,
+            "proofReencodeOnly": true,
+            "probe": {
+              "programs": [],
+              "stream_groups": [],
+              "streams": [
+                {
+                  "width": 1280,
+                  "height": 720,
+                  "r_frame_rate": "60000/1001",
+                  "nb_frames": "420"
+                }
+              ],
+              "format": {
+                "duration": "7.007000"
+              }
+            },
+            "sha256": "962ff0bd9bebaafb863ff7447596d6717798e751a9e728b9545192216ac584b1",
+            "bytes": 4222258,
+            "queueSha256": "0beea2a6381c83fe8cc56185acaa92fbf8ed0ba107d86cf6202cd1c4de4e2db9"
+          },
+          "freshCrew": {
+            "requestUrl": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live?fields=gamePk%2CliveData%2Cboxscore%2Cofficials%2Cofficial%2CfullName%2Cid%2CofficialType",
+            "rawSha256": "af3d40d22ff2371bb86c8adc9b40a5ce21b304c53946e8081c1a24fe4e748e97",
+            "response": {
+              "gamePk": 823288,
+              "liveData": {
+                "boxscore": {
+                  "officials": [
+                    {
+                      "official": {
+                        "id": 575629,
+                        "fullName": "Shane Livensparger"
+                      },
+                      "officialType": "Home Plate"
+                    },
+                    {
+                      "official": {
+                        "id": 605670,
+                        "fullName": "Dan Merzel"
+                      },
+                      "officialType": "First Base"
+                    },
+                    {
+                      "official": {
+                        "id": 483564,
+                        "fullName": "Dan Bellino"
+                      },
+                      "officialType": "Second Base"
+                    },
+                    {
+                      "official": {
+                        "id": 483919,
+                        "fullName": "Mark Ripperger"
+                      },
+                      "officialType": "Third Base"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "callerRoleEvidence": "samepitch actual video gesture plus fresh role-specific crew, not crew list alone",
+          "loadedBarrelCriterion": "entire rounded cap visible before actual forward hands/barrel",
+          "boundsSubjectToIndependentReview": true
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/2026-next-wave/root-atl-sd-20260622/luna-peer-review/audit.json"
+    },
+    {
+      "id": "dominic-smith-20260622-823288-1f24121b",
+      "batter": "Dominic Smith",
+      "date": "2026-06-22",
+      "matchup": "Braves at Padres",
+      "base": 3,
+      "strike": false,
+      "start": 623.3,
+      "end": 625.85,
+      "umpire": "Mark Ripperger · third-base umpire",
+      "context": "Top of the ninth, full count and two outs. Dominic Smith faces Mason Miller.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / Braves–Padres broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 823288,
+        "atBatIndex": 67,
+        "pitchNumber": 7,
+        "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "dominic-smith-20260622-823288-1f24121b",
+          "batter": "Dominic Smith",
+          "strike": false,
+          "start": 623.25,
+          "end": 625.85,
+          "umpire": "Mark Ripperger · third-base umpire",
+          "context": "Top of the ninth, full count and two outs. Dominic Smith faces Mason Miller.",
+          "date": "2026-06-22",
+          "matchup": "Braves at Padres",
+          "base": 3,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / Braves–Padres broadcast"
+        },
+        "review": {
+          "gamePk": 823288,
+          "atBatIndex": 67,
+          "pitchNumber": 7,
+          "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "eventType": "walk",
+              "description": "Dominic Smith walks.",
+              "awayScore": 0,
+              "homeScore": 1
+            },
+            "about": {
+              "atBatIndex": 67,
+              "halfInning": "top",
+              "inning": 9
+            },
+            "count": {
+              "balls": 4,
+              "strikes": 2,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 642086,
+                "fullName": "Dominic Smith"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 695243,
+                "fullName": "Mason Miller"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 642086,
+                "fullName": "Dominic Smith"
+              },
+              "postOnSecond": {
+                "id": 642201,
+                "fullName": "Eli White"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "description": "Offensive Substitution: Pinch-runner Eli White replaces Austin Riley.",
+                  "eventType": "offensive_substitution",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "index": 0,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "description": "Batter Timeout.",
+                  "eventType": "batter_timeout",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "index": 1,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 100.5
+                },
+                "index": 2,
+                "playId": "4657315a-4de8-3951-9967-bb6a80bad1b9",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 87.7
+                },
+                "index": 3,
+                "playId": "ca11f34c-60dd-380a-9e61-e47179434b6a",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "T",
+                    "description": "Foul Tip"
+                  },
+                  "description": "Foul Tip",
+                  "code": "T",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 101.1
+                },
+                "index": 4,
+                "playId": "5f1248d1-ffbc-3fed-9b05-f228623a4a1c",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 88.3
+                },
+                "index": 5,
+                "playId": "cc367bc4-3504-34e5-8b63-43761c01fed2",
+                "pitchNumber": 4,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "description": "Eli White steals (3) 2nd base.",
+                  "eventType": "stolen_base_2b",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "index": 6,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "description": "Batter Timeout.",
+                  "eventType": "batter_timeout",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "index": 7,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 88.4
+                },
+                "index": 8,
+                "playId": "0d95b15a-9f59-3b78-bd84-defcd9300eb1",
+                "pitchNumber": 5,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 102.4
+                },
+                "index": 9,
+                "playId": "580fa643-79d1-3c0b-a89d-e275feff87e2",
+                "pitchNumber": 6,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 4,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 88.4
+                },
+                "index": 10,
+                "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+                "pitchNumber": 7,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 67
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "B",
+                "description": "Ball"
+              },
+              "description": "Ball",
+              "code": "B",
+              "type": {
+                "code": "SL",
+                "description": "Slider"
+              }
+            },
+            "count": {
+              "balls": 4,
+              "strikes": 2,
+              "outs": 2
+            },
+            "pitchData": {
+              "startSpeed": 88.4
+            },
+            "index": 10,
+            "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+            "pitchNumber": 7,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "status": "root-primary-proposed-awaiting-independent-audit",
+          "trueCameraSide": "third-base, left-handed batter chest view",
+          "originalMp4Clock": true,
+          "hlsClockWarning": "Original MP4 is approximately2seconds earlier than low-HLS/ASR clock. These bounds are calibrated on actual original MP4.",
+          "visualFinding": "Clear fully visible rounded loaded barrel at623.3, hands loaded before forward623.8, checked attempt and return625.6. Clean end625.85 before later catcher rise/head turn/request626+. Actual same-pitch third-base umpire spreads arms no-go619.3–619.6, live catcher requests and HP refers618.7–619.0, fresh B ball-four pitch, subsequent mound visit; crew role identifies Mark Ripperger.",
+          "nativeProof": {
+            "sourceKey": "e468142a8882",
+            "gamePk": 823288,
+            "originalListedMp4": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "originalSourceStart": 621.0,
+            "requestedDuration": 7.0,
+            "frameRateChanged": false,
+            "proofReencodeOnly": true,
+            "probe": {
+              "programs": [],
+              "stream_groups": [],
+              "streams": [
+                {
+                  "width": 1280,
+                  "height": 720,
+                  "r_frame_rate": "60000/1001",
+                  "nb_frames": "420"
+                }
+              ],
+              "format": {
+                "duration": "7.007000"
+              }
+            },
+            "sha256": "0180f9f62042bfedf274dbcefad766bf9b4c98a9899cfdf16ad71b65973c2314",
+            "bytes": 4902823,
+            "queueSha256": "0beea2a6381c83fe8cc56185acaa92fbf8ed0ba107d86cf6202cd1c4de4e2db9"
+          },
+          "freshCrew": {
+            "requestUrl": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live?fields=gamePk%2CliveData%2Cboxscore%2Cofficials%2Cofficial%2CfullName%2Cid%2CofficialType",
+            "rawSha256": "af3d40d22ff2371bb86c8adc9b40a5ce21b304c53946e8081c1a24fe4e748e97",
+            "response": {
+              "gamePk": 823288,
+              "liveData": {
+                "boxscore": {
+                  "officials": [
+                    {
+                      "official": {
+                        "id": 575629,
+                        "fullName": "Shane Livensparger"
+                      },
+                      "officialType": "Home Plate"
+                    },
+                    {
+                      "official": {
+                        "id": 605670,
+                        "fullName": "Dan Merzel"
+                      },
+                      "officialType": "First Base"
+                    },
+                    {
+                      "official": {
+                        "id": 483564,
+                        "fullName": "Dan Bellino"
+                      },
+                      "officialType": "Second Base"
+                    },
+                    {
+                      "official": {
+                        "id": 483919,
+                        "fullName": "Mark Ripperger"
+                      },
+                      "officialType": "Third Base"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "callerRoleEvidence": "samepitch actual video gesture plus fresh role-specific crew, not crew list alone",
+          "loadedBarrelCriterion": "entire rounded cap visible before actual forward hands/barrel",
+          "boundsSubjectToIndependentReview": true
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/2026-next-wave/root-atl-sd-20260622/peer-audit-SMITH.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/2026-next-wave/root-atl-sd-20260622/luna-peer-review/audit.json": {
+      "reviewer": "luna_2019_resume",
+      "decision": "PASS_ACCEPTED_FOR_PEER_REVIEW",
+      "candidateId": "gavin-sheets-20260622-823288-d48fa0b6",
+      "gamePk": 823288,
+      "officialDate": "2026-06-22",
+      "matchup": "ATL at SD",
+      "playId": "d48fa0b6-5653-37a4-989e-1b6fe5468af9",
+      "atBatIndex": 7,
+      "pitchNumber": 7,
+      "batter": "Gavin Sheets",
+      "batterId": 657757,
+      "batterHand": "L",
+      "pitcher": "Grant Holmes",
+      "pitcherHand": "R",
+      "inning": "bottom 1",
+      "prePitchCount": "3-2, two outs",
+      "pitch": "86.1 mph slider",
+      "feedCall": "Swinging Strike",
+      "reviewedBoundsMP4Seconds": [
+        106.25,
+        108.95
+      ],
+      "independentVisualFindings": [
+        "At source 106.3 and 106.8, the third-base-side left-handed-batter view shows the complete rounded barrel cap and loaded stance before forward motion. I find no frame-edge crop of the cap.",
+        "The side camera follows the same batter through the full attempt. Forward hand/barrel movement begins about 107.0; between roughly 107.4 and 107.9 the barrel moves toward the plate, then the hands and barrel arrest rather than continuing through a full wrapped finish. From about 108.2 to 108.9 the bat recoils toward the body and the batter settles. This reads as an attempted check, not an ordinary full swing.",
+        "The requested 106.25–108.95 MP4-clock bounds include the side-view loaded state, full attempted motion and initial recoil, then end before the top-of-second-inning graphic/next batter. The side replay contains no result, count graphic, appeal sequence or batter departure.",
+        "The earlier live segment at source 105.2–105.5 shows the home-plate umpire behind the catcher making the strike/punch signal after the same pitch; the scorebug identifies Gavin Sheets, the 3-2 bottom-first situation and the 86 mph slider. Fresh projected crew data lists Shane Livensparger as home-plate umpire. This links the visible gesture to the call without relying on crew assignment alone."
+      ],
+      "independentIdentityCheck": "Fresh feed gamePk 823288, atBatIndex 7, pitchNumber 7 and exact playId match; batter/pitcher hands, count, pitch type/speed and swinging-strike call agree. Live scorebug also identifies Sheets in the original edit. No evidence of a neighboring batter or pitch in the proposed side-view bounds.",
+      "proofFiles": {
+        "native-104-111.mp4": {
+          "sha256": "962ff0bd9bebaafb863ff7447596d6717798e751a9e728b9545192216ac584b1",
+          "bytes": 4222258
+        },
+        "native-original-106.3.png": {
+          "sha256": "5f712399b0f19f7c3ca2cd7625a992f34b7377d41fc6ed03dcdf1918e5bf168b",
+          "bytes": 1960493
+        },
+        "native-original-106.8.png": {
+          "sha256": "1d7c1db017e378ecba46b2944c22a1b141ef891ea4e1beb4b6ece1108f885f89",
+          "bytes": 2021410
+        },
+        "native-original-105.2.png": {
+          "sha256": "1a094801905a291250cf40d470ce689a1065399bd26f6c6e293c9847f505d0f2",
+          "bytes": 1299899
+        },
+        "native-original-105.5.png": {
+          "sha256": "92a8e0fc32b6c4cdadda0c6c78d123335f23158ae52abd1a2db2d539bf5d9630",
+          "bytes": 1318662
+        },
+        "fresh-feed-projected.json.gz": {
+          "sha256": "7a378035477e2fcb7275d05551e9186cf49412648901124c3533338a58501b1d",
+          "bytes": 14921
+        },
+        "fresh-crew-projected.json": {
+          "sha256": "7e9a499d6bfd038e627f2624ca94ada1a2b13c439eb071b678d6d38f862f911d",
+          "bytes": 1088
+        },
+        "primary-candidates.json": {
+          "sha256": "f2719feee673d7fc44d6beee5f5bc06281a6989e11c481577d471e114fe412dd",
+          "bytes": 24325
+        }
+      },
+      "peerReviewerDidNotFetchOrModifySourceMedia": true,
+      "canonicalIndexChanged": false,
+      "boundsRecommendation": "Accept 106.25–108.95 seconds on original MP4 clock."
+    },
+    "asr-discovery-v2/2026-next-wave/root-atl-sd-20260622/peer-audit-SMITH.json": {
+      "schema": "independent-peer-review-v1",
+      "reviewer": "luna_2020_resume",
+      "reviewDate": "2026-11-01",
+      "candidateId": "dominic-smith-20260622-823288-1f24121b",
+      "decision": "PASS_LIST",
+      "sourceBoundsOriginalMp4Seconds": [
+        623.3,
+        625.85
+      ],
+      "deduplication": {
+        "primaryReportsCanonicalDeduplication": true,
+        "canonicalModified": false
+      },
+      "candidate": {
+        "candidate": {
+          "id": "dominic-smith-20260622-823288-1f24121b",
+          "batter": "Dominic Smith",
+          "strike": false,
+          "start": 623.3,
+          "end": 625.85,
+          "umpire": "Mark Ripperger · third-base umpire",
+          "context": "Top of the ninth, full count and two outs. Dominic Smith faces Mason Miller.",
+          "date": "2026-06-22",
+          "matchup": "Braves at Padres",
+          "base": 3,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-atl-sd-6-22-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / Braves–Padres broadcast"
+        },
+        "review": {
+          "gamePk": 823288,
+          "atBatIndex": 67,
+          "pitchNumber": 7,
+          "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "eventType": "walk",
+              "description": "Dominic Smith walks.",
+              "awayScore": 0,
+              "homeScore": 1
+            },
+            "about": {
+              "atBatIndex": 67,
+              "halfInning": "top",
+              "inning": 9
+            },
+            "count": {
+              "balls": 4,
+              "strikes": 2,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 642086,
+                "fullName": "Dominic Smith"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 695243,
+                "fullName": "Mason Miller"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 642086,
+                "fullName": "Dominic Smith"
+              },
+              "postOnSecond": {
+                "id": 642201,
+                "fullName": "Eli White"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "description": "Offensive Substitution: Pinch-runner Eli White replaces Austin Riley.",
+                  "eventType": "offensive_substitution",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "index": 0,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "description": "Batter Timeout.",
+                  "eventType": "batter_timeout",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "index": 1,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 100.5
+                },
+                "index": 2,
+                "playId": "4657315a-4de8-3951-9967-bb6a80bad1b9",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 0,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 87.7
+                },
+                "index": 3,
+                "playId": "ca11f34c-60dd-380a-9e61-e47179434b6a",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "T",
+                    "description": "Foul Tip"
+                  },
+                  "description": "Foul Tip",
+                  "code": "T",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 101.1
+                },
+                "index": 4,
+                "playId": "5f1248d1-ffbc-3fed-9b05-f228623a4a1c",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 88.3
+                },
+                "index": 5,
+                "playId": "cc367bc4-3504-34e5-8b63-43761c01fed2",
+                "pitchNumber": 4,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "description": "Eli White steals (3) 2nd base.",
+                  "eventType": "stolen_base_2b",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "index": 6,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "description": "Batter Timeout.",
+                  "eventType": "batter_timeout",
+                  "awayScore": 0,
+                  "homeScore": 1
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "index": 7,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 88.4
+                },
+                "index": 8,
+                "playId": "0d95b15a-9f59-3b78-bd84-defcd9300eb1",
+                "pitchNumber": 5,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 102.4
+                },
+                "index": 9,
+                "playId": "580fa643-79d1-3c0b-a89d-e275feff87e2",
+                "pitchNumber": 6,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 4,
+                  "strikes": 2,
+                  "outs": 2
+                },
+                "pitchData": {
+                  "startSpeed": 88.4
+                },
+                "index": 10,
+                "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+                "pitchNumber": 7,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 67
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "B",
+                "description": "Ball"
+              },
+              "description": "Ball",
+              "code": "B",
+              "type": {
+                "code": "SL",
+                "description": "Slider"
+              }
+            },
+            "count": {
+              "balls": 4,
+              "strikes": 2,
+              "outs": 2
+            },
+            "pitchData": {
+              "startSpeed": 88.4
+            },
+            "index": 10,
+            "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+            "pitchNumber": 7,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "status": "independent-peer-qualified-LIST",
+          "trueCameraSide": "third-base, left-handed batter chest view",
+          "originalMp4Clock": true,
+          "hlsClockWarning": "Original MP4 is approximately2seconds earlier than low-HLS/ASR clock. These bounds are calibrated on actual original MP4.",
+          "visualFinding": "Clear fully visible rounded loaded barrel at623.3, hands loaded before forward623.8, checked attempt and return625.6. Clean end625.85 before later catcher rise/head turn/request626+. Actual same-pitch third-base umpire spreads arms no-go619.3–619.6, live catcher requests and HP refers618.7–619.0, fresh B ball-four pitch, subsequent mound visit; crew role identifies Mark Ripperger.",
+          "nativeProof": {
+            "sourceKey": "e468142a8882",
+            "gamePk": 823288,
+            "originalListedMp4": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/22/1556ae5a-b666bff3-76201d5c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "originalSourceStart": 621.0,
+            "requestedDuration": 7.0,
+            "frameRateChanged": false,
+            "proofReencodeOnly": true,
+            "probe": {
+              "programs": [],
+              "stream_groups": [],
+              "streams": [
+                {
+                  "width": 1280,
+                  "height": 720,
+                  "r_frame_rate": "60000/1001",
+                  "nb_frames": "420"
+                }
+              ],
+              "format": {
+                "duration": "7.007000"
+              }
+            },
+            "sha256": "0180f9f62042bfedf274dbcefad766bf9b4c98a9899cfdf16ad71b65973c2314",
+            "bytes": 4902823,
+            "queueSha256": "0beea2a6381c83fe8cc56185acaa92fbf8ed0ba107d86cf6202cd1c4de4e2db9"
+          },
+          "freshCrew": {
+            "requestUrl": "https://statsapi.mlb.com/api/v1.1/game/823288/feed/live?fields=gamePk%2CliveData%2Cboxscore%2Cofficials%2Cofficial%2CfullName%2Cid%2CofficialType",
+            "rawSha256": "af3d40d22ff2371bb86c8adc9b40a5ce21b304c53946e8081c1a24fe4e748e97",
+            "response": {
+              "gamePk": 823288,
+              "liveData": {
+                "boxscore": {
+                  "officials": [
+                    {
+                      "official": {
+                        "id": 575629,
+                        "fullName": "Shane Livensparger"
+                      },
+                      "officialType": "Home Plate"
+                    },
+                    {
+                      "official": {
+                        "id": 605670,
+                        "fullName": "Dan Merzel"
+                      },
+                      "officialType": "First Base"
+                    },
+                    {
+                      "official": {
+                        "id": 483564,
+                        "fullName": "Dan Bellino"
+                      },
+                      "officialType": "Second Base"
+                    },
+                    {
+                      "official": {
+                        "id": 483919,
+                        "fullName": "Mark Ripperger"
+                      },
+                      "officialType": "Third Base"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "callerRoleEvidence": "samepitch actual video gesture plus fresh role-specific crew, not crew list alone",
+          "loadedBarrelCriterion": "entire rounded cap visible before actual forward hands/barrel",
+          "boundsSubjectToIndependentReview": false,
+          "independentPeer": {
+            "reviewer": "luna_2020_resume",
+            "reviewDate": "2026-11-01",
+            "decision": "PASS_LIST",
+            "sourceBoundsOriginalMp4Seconds": [
+              623.3,
+              625.85
+            ],
+            "basis": "Adjusted the root start from 623.25 to 623.30 to begin on the first clear frame after the replay dissolve. At 623.30 the entire rounded barrel cap is visible in the loaded position; forward hand/barrel movement begins around 623.8. The same side replay carries through the attempt and initial return at 625.6, and the 625.85 end precedes the catcher/head-turn and later appeal reaction around 626.",
+            "samePitchRuling": "The separate original-MP4 context clip at 618–621.5 shows the third-base umpire spreading both arms (no-go) around 619.3–619.6 on the same sequence, after catcher request and home-plate referral. The side replay is the Smith pitch from the same continuous cut. Fresh crew metadata maps third base to Mark Ripperger.",
+            "limitations": "StatsAPI identifies the pitch and ball-four result, but does not encode the appeal; same-pitch appeal and call are verified from video. No call inferred from feed hasReview.",
+            "independentFreshFeed": {
+              "path": "luna-peer-atl-sd-20260622/fresh-feed.json.gz",
+              "sha256": "dbdc88aca85725103ee3af6cb40474acf0fa93a5651edac57c8daf23349b8147",
+              "gamePk": 823288,
+              "officialDate": "2026-06-22",
+              "atBatIndex": 67,
+              "inning": "top 9",
+              "batter": "Dominic Smith",
+              "batterId": 642086,
+              "batterSide": "L",
+              "pitcher": "Mason Miller",
+              "pitcherId": 695243,
+              "pitchHand": "R",
+              "pitchNumber": 7,
+              "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+              "countBefore": "3-2, 2 outs",
+              "pitch": "88.4 mph slider",
+              "officialCall": "B / Ball; count 4-2, walk",
+              "appealField": null
+            },
+            "nativeProofReusedFromRoot": [
+              {
+                "path": "root-atl-sd-20260622/native-621-628.mp4",
+                "sha256": "0180f9f62042bfedf274dbcefad766bf9b4c98a9899cfdf16ad71b65973c2314",
+                "sourceWindow": [
+                  621.0,
+                  628.0
+                ]
+              },
+              {
+                "path": "root-atl-sd-20260622/native-618-621.5.mp4",
+                "sha256": "ad386c096f24f0d2be486da7edd211042929035955061251b412d868d362b11d",
+                "sourceWindow": [
+                  618.0,
+                  621.5
+                ]
+              },
+              {
+                "path": "root-atl-sd-20260622/native-original-623.3.png",
+                "sha256": "2f9596987a24e34e4f21cbcd4131765e190d57bd3e746a44ea164a48136eec1d"
+              },
+              {
+                "path": "root-atl-sd-20260622/native-original-625.6.png",
+                "sha256": "7638a4d22ed9a19d6d1fc961bed0ee1efdd5b381ddcadfa71512a572a547aece"
+              },
+              {
+                "path": "root-atl-sd-20260622/native-621-628.jpg",
+                "sha256": "6cc029b9445c1399e8fd278278b410c7710bbcdf36030e1c11de9a269f2aac32"
+              },
+              {
+                "path": "root-atl-sd-20260622/camera-smith-600-645.jpg",
+                "sha256": "b579cf33bbba64acb0788cd2e0bc106132b4c047a84b746c9ddb294e00b0525b"
+              }
+            ],
+            "freshCrewFile": {
+              "path": "root-atl-sd-20260622/fresh-crew-projected.json",
+              "sha256": "7e9a499d6bfd038e627f2624ca94ada1a2b13c439eb071b678d6d38f862f911d",
+              "role": "Third Base",
+              "name": "Mark Ripperger"
+            },
+            "deduplication": "Root primary reports canonical deduplication. This peer review did not modify canonical or production data.",
+            "canonicalModified": false
+          }
+        }
+      },
+      "independentVisualFinding": "Adjusted the root start from 623.25 to 623.30 to begin on the first clear frame after the replay dissolve. At 623.30 the entire rounded barrel cap is visible in the loaded position; forward hand/barrel movement begins around 623.8. The same side replay carries through the attempt and initial return at 625.6, and the 625.85 end precedes the catcher/head-turn and later appeal reaction around 626. The separate original-MP4 context clip at 618–621.5 shows the third-base umpire spreading both arms (no-go) around 619.3–619.6 on the same sequence, after catcher request and home-plate referral. The side replay is the Smith pitch from the same continuous cut. Fresh crew metadata maps third base to Mark Ripperger.",
+      "independentFreshFeed": {
+        "path": "luna-peer-atl-sd-20260622/fresh-feed.json.gz",
+        "sha256": "dbdc88aca85725103ee3af6cb40474acf0fa93a5651edac57c8daf23349b8147",
+        "gamePk": 823288,
+        "officialDate": "2026-06-22",
+        "atBatIndex": 67,
+        "inning": "top 9",
+        "batter": "Dominic Smith",
+        "batterId": 642086,
+        "batterSide": "L",
+        "pitcher": "Mason Miller",
+        "pitcherId": 695243,
+        "pitchHand": "R",
+        "pitchNumber": 7,
+        "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32",
+        "countBefore": "3-2, 2 outs",
+        "pitch": "88.4 mph slider",
+        "officialCall": "B / Ball; count 4-2, walk",
+        "appealField": null
+      },
+      "reusedEvidence": [
+        {
+          "path": "root-atl-sd-20260622/native-621-628.mp4",
+          "sha256": "0180f9f62042bfedf274dbcefad766bf9b4c98a9899cfdf16ad71b65973c2314",
+          "sourceWindow": [
+            621.0,
+            628.0
+          ]
+        },
+        {
+          "path": "root-atl-sd-20260622/native-618-621.5.mp4",
+          "sha256": "ad386c096f24f0d2be486da7edd211042929035955061251b412d868d362b11d",
+          "sourceWindow": [
+            618.0,
+            621.5
+          ]
+        },
+        {
+          "path": "root-atl-sd-20260622/native-original-623.3.png",
+          "sha256": "2f9596987a24e34e4f21cbcd4131765e190d57bd3e746a44ea164a48136eec1d"
+        },
+        {
+          "path": "root-atl-sd-20260622/native-original-625.6.png",
+          "sha256": "7638a4d22ed9a19d6d1fc961bed0ee1efdd5b381ddcadfa71512a572a547aece"
+        },
+        {
+          "path": "root-atl-sd-20260622/native-621-628.jpg",
+          "sha256": "6cc029b9445c1399e8fd278278b410c7710bbcdf36030e1c11de9a269f2aac32"
+        },
+        {
+          "path": "root-atl-sd-20260622/camera-smith-600-645.jpg",
+          "sha256": "b579cf33bbba64acb0788cd2e0bc106132b4c047a84b746c9ddb294e00b0525b"
+        }
+      ],
+      "reasonForBoundsAdjustment": "623.25 precedes/overlaps the dissolve; 623.30 is the first clear frame with the full barrel loaded. End 625.85 retains initial return but excludes later catcher/head-turn context.",
+      "newMediaDownloadedByReviewer": false,
+      "canonicalModified": false
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
