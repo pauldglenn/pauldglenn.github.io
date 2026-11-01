@@ -1,0 +1,139 @@
+{
+  "added": 1,
+  "total": 480,
+  "dailyActivation": "2026-11-02",
+  "discovery": "A newly located public full-game archive of Kershaw’s2014no-hitter supplies Tulowitzki’s firstbase appeal. Luna primary and independent root originalmotion/call/exactpitch/crew review verify full loadedcap through completed attempt and Phil Cuzzi’s actual GO signal on earlierp2. OriginalMP4 boundaries corrected independently of HLS clock. All479previousentries and historicaldailies unchanged.",
+  "clips": [
+    {
+      "id": "troy-tulowitzki-20140618-381612-0023",
+      "batter": "Troy Tulowitzki",
+      "date": "2014-06-18",
+      "matchup": "Rockies at Dodgers",
+      "base": 1,
+      "strike": true,
+      "start": 448.3,
+      "end": 450.9,
+      "umpire": "Phil Cuzzi · first-base umpire",
+      "context": "Troy Tulowitzki faces Clayton Kershaw with a 1–0 count and two outs in the first inning. The game is tied 0–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1/game/381612/playByPlay",
+      "source": "https://www.mlb.com/video/clayton-kershaw-s-no-no-fans-15",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2014/2014-06/18/92780003-95b1213e-4da560a1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "footageCredit": "MLB / SportsNet LA archived 2014 Rockies–Dodgers broadcast",
+      "pitchIdentity": {
+        "gamePk": 381612,
+        "atBatIndex": 2,
+        "pitchNumber": 2,
+        "playId": "03816126-0036-0023-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "schemaVersion": 1,
+        "reviewer": "luna_2021_mid",
+        "status": "needs-independent-review",
+        "id": "troy-tulowitzki-20140618-381612-0023",
+        "batter": "Troy Tulowitzki",
+        "date": "2014-06-18",
+        "matchup": "COL at LAD",
+        "base": 1,
+        "strike": true,
+        "start": 448.3,
+        "end": 451.5,
+        "umpire": "Phil Cuzzi · first base",
+        "context": "Top 1, two outs, 0–0. Troy Tulowitzki (#2, RHB) on pitch 2 of his AB against Clayton Kershaw (LHP). The pitch was an 88 mph slider. First-base umpire Phil Cuzzi called the swing after the check-swing appeal; official result Swinging Strike, count 1–0 to 1–1.",
+        "evidence": "https://statsapi.mlb.com/api/v1/game/381612/playByPlay",
+        "source": "https://www.mlb.com/video/clayton-kershaw-s-no-no-fans-15",
+        "video": "https://cuts.diamond.mlb.com/FORGE/2014/2014-06/18/92780003-95b1213e-4da560a1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "availableFrom": "2026-11-02",
+        "gamePk": 381612,
+        "atBatIndex": 2,
+        "pitchNumber": 2,
+        "playId": "03816126-0036-0023-000c-f08cd117d70a",
+        "review": {
+          "reviewer": "luna_2021_mid",
+          "status": "needs-independent-review",
+          "sourceKey": "mlb-taxonomy-2014-06-18-381612",
+          "sourceOffset": 448.3,
+          "nativeSourceOffset": 448.0,
+          "focusedWholeCueVideo": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/native-proof-cuzzi-expanded-381612/native-448-454.5.mp4",
+          "focusedWholeCueSha256": "30b34cf9c18cf1a99d1d38fb00fe6b94d412cacf533719e0b2ab833726a163ca",
+          "focusedWholeCueSourceRange": [
+            448,
+            454.5
+          ],
+          "selectedCandidateBounds": [
+            448.3,
+            451.5
+          ],
+          "motion": "The loaded position is clearly established at 448.3 and 448.6: complete rounded barrel visible above/back of the hands. At 448.8 the front stride plants while hands/barrel remain loaded. Forward motion begins around 449.0–449.2; full forward action continues through the plate. Definite finished follow-through by approximately 450.5 and initial return by 451.5; no stance reset required. True first-base-side profile for RHB; full bat, hands, and torso visible. Candidate bounds end before catcher rise and transition/graphic.",
+          "caller": "Phil Cuzzi · first base",
+          "callerBasis": "Exact listed MP4 context still at source ~440 shows the first-base umpire raising the closed right fist after this pitch; source ~441 shows the updated 1–1 count. Fresh crew response places Phil Cuzzi at first base. The ASR locator text specifically says “check swing and Phil Cuzzi says strike,” while the fresh PBP is swinging-strike S. Caller identity rests on gesture plus crew, not handedness inference.",
+          "rulingBasis": "Fresh exact PBP for playId matches same batter/pitch/inning/sequence; official code S Swinging Strike. Prior pitch 1 was a ball, so pre-pitch count 1–0; event count after is 1–1 with two outs. First-base umpire gesture and specific ASR phrase match a first-base appeal.",
+          "timingBasis": "Native proof comes from exact page-listed MP4. Earlier still-only MP4 frames establish loaded replay at 448.3/448.6; HLS and MP4 clocks differ, so no HLS-to-MP4 offset was assumed.",
+          "proofFrames": {
+            "frame-0p8.png": "c47e5bfea3e5613787dd28e7b99d648f7f098bd71c9301434094f4feb5e526f8",
+            "frame-0p6.png": "e6ad2d403db0b7b252833a522accf9187a8369d6722cc7097a93a87d60a3bd26",
+            "frame-3p5.png": "21e8507603549882256fc2589d4f5e2aa864d3bd5354d4875f65e08ffee152ce",
+            "frame-1p0.png": "b09f9fca030ecd6d440c230cf91cf8a86d3e5144cf2a4c71a483616a4cc9b3cf",
+            "frame-3p0.png": "9f4905e0dccbbbb70fbf7fd5af6a5062a4de967c90192f085e7deee421d7df12",
+            "frame-1p5.png": "1f390673bb0a45efffc62e00fb9e66193c5924a34903051e0510f70950ab1f97",
+            "frame-0p3.png": "ccd1a6bbec65ee03811086423e645b52c7da88c51ecd690d98d1c0ee996271c8",
+            "frame-2p5.png": "617419f1be2bbe7ca33d4bf024e47f55ec83a39b83b8655cc778a067d1e91e00",
+            "frame-2p0.png": "e6eedc4c327ed381de5b077652678ef0e9c5f2ea9b4af3bc6a516701fe9f81b9",
+            "live-source-440.jpg": "c2f59e117f7adbb92f30333b51191d21a8c592d912cf260de220988759367dc0",
+            "live-source-441.jpg": "7cebaa0e8795f57004128b0cafb42b98534e7c35e729737426128ab3d654b977"
+          }
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-primary-audits-luna/root-independent-audit-tulowitzki.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-primary-audits-luna/root-independent-audit-tulowitzki.json": {
+      "candidateId": "troy-tulowitzki-20140618-381612-0023",
+      "status": "ACCEPTED",
+      "independentReviewer": "root",
+      "gamePk": 381612,
+      "atBatIndex": 2,
+      "pitchNumber": 2,
+      "playId": "03816126-0036-0023-000c-f08cd117d70a",
+      "ruling": true,
+      "caller": "Phil Cuzzi · first-base umpire",
+      "sourceBounds": [
+        448.3,
+        450.9
+      ],
+      "freshPitchSha256": "ebcd25da0a6257432ca08a2d99784ee4788ae99f4af5cd941e0ffa0b7498d037",
+      "identity": "Rootfresh TOP1 AB2pitch2S,88SL, pre1–0→1–1,twoouts,0–0; Tulowitzki2RHB vsKershawLHP. Finalgroundout p5 excluded.",
+      "actualCall": "Directoriginal live440 shows isolated firstbaseofficial rightfiststrike signal;441countupdates1–1. Specific originalbroadcast Cuzzi attribution and freshcrew Cuzzi1B match. ActualappealedGO, not zoneC inference.",
+      "cameraMotion": "Rootviewed full448–454.5 original-frame-rate sequence and directoriginal448.3/450.9. Entire rounded loaded cap visible preforward, hands/barreladvance~449; continuousattemptthroughdefinitefinish andinitialreturn450.4–450.9. Actualfirstbase lateral, fullbody. End450.9excludes laterHPappealgesture~451.2andbumper. EarlierHLSonsetholdresolved bycheckingearlieractualMP4, notrelaxedgate.",
+      "cleanQuestion": "Neutralprepitchcontext. Onlypre-motion throughcompletedreturn, no umpirecall, resultcount orlaterpitch.",
+      "dedup": "ExactplayId absent479publishedcatalog.",
+      "evidence": [
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/native-proof-cuzzi-expanded-381612/root-direct-original-442.png",
+          "sha256": "bcfb8ede0ff8145f6673a77682917c3e072cec9acf95284557e74167effd1e0d"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/native-proof-cuzzi-expanded-381612/root-direct-original-448.3.png",
+          "sha256": "439a411b8f4655bffa137de690ad2f776d0e358038c6a82e58e76e30b3abe28d"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/native-proof-cuzzi-expanded-381612/root-direct-original-450.9.png",
+          "sha256": "52e8b26f32d7371aa89f8ce3e8ec9553f2e5458f6e29455ebfe526347656eeda"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/native-proof-cuzzi-expanded-381612/frames/live-source-440.jpg",
+          "sha256": "c2f59e117f7adbb92f30333b51191d21a8c592d912cf260de220988759367dc0"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/native-proof-cuzzi-expanded-381612/frames/live-source-441.jpg",
+          "sha256": "7cebaa0e8795f57004128b0cafb42b98534e7c35e729737426128ab3d654b977"
+        }
+      ],
+      "primaryAudit": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-primary-audits-luna/381612-cuzzi-441-primary-review.json"
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}

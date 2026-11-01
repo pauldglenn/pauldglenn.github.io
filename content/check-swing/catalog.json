@@ -9328,5 +9328,28 @@
       "pitchNumber": 4,
       "playId": "00122336-0606-0043-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "troy-tulowitzki-20140618-381612-0023",
+    "batter": "Troy Tulowitzki",
+    "date": "2014-06-18",
+    "matchup": "Rockies at Dodgers",
+    "base": 1,
+    "strike": true,
+    "start": 448.3,
+    "end": 450.9,
+    "umpire": "Phil Cuzzi · first-base umpire",
+    "context": "Troy Tulowitzki faces Clayton Kershaw with a 1–0 count and two outs in the first inning. The game is tied 0–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1/game/381612/playByPlay",
+    "source": "https://www.mlb.com/video/clayton-kershaw-s-no-no-fans-15",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2014/2014-06/18/92780003-95b1213e-4da560a1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "footageCredit": "MLB / SportsNet LA archived 2014 Rockies–Dodgers broadcast",
+    "pitchIdentity": {
+      "gamePk": 381612,
+      "atBatIndex": 2,
+      "pitchNumber": 2,
+      "playId": "03816126-0036-0023-000c-f08cd117d70a"
+    }
   }
 ]
