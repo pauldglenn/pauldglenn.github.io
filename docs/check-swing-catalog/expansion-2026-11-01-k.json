@@ -1,0 +1,498 @@
+{
+  "added": 1,
+  "total": 476,
+  "dailyActivation": "2026-11-02",
+  "discovery": "A complete, exact page-listed English caption track on an official public full-game broadcast located Jimmy Rollins checking a slider in 2009 NLCS Game4. Original listed MP4 side replay, fresh exact pitch/crew records, visible first-base no-go, independent source-frame review and root critical direct-PNG checks verify a full loaded barrel before forward motion and whole attempt/initial return. Caption only located the play; actual ruling/deciding caller established by original same-pitch signal plus fresh crew.",
+  "clips": [
+    {
+      "id": "jimmy-rollins-20091019-263177-02631776-0646-0033",
+      "batter": "Jimmy Rollins",
+      "date": "2009-10-19",
+      "matchup": "Dodgers at Phillies",
+      "base": 1,
+      "strike": false,
+      "start": 8169.0,
+      "end": 8173.4,
+      "umpire": "Tom Hallion · first-base umpire",
+      "context": "Jimmy Rollins faces George Sherrill with a 1–1 count and no outs in the eighth inning of the 2009 National League Championship Series. Philadelphia trails 4–3.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/263177/feed/live",
+      "source": "https://www.mlb.com/video/jimmy-rollins-wins-2009-nlcs",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/12/ebe19d17-3a8e8af0-b7c11481-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / TBS 2009 NLCS Game 4 broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 263177,
+        "atBatIndex": 63,
+        "pitchNumber": 3,
+        "playId": "02631776-0646-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "jimmy-rollins-20091019-263177-02631776-0646-0033",
+          "batter": "Jimmy Rollins",
+          "strike": false,
+          "start": 8169.0,
+          "end": 8173.4,
+          "umpire": "Tom Hallion · first-base umpire",
+          "context": "Jimmy Rollins faces George Sherrill with a 1–1 count and no outs in the eighth inning of the 2009 National League Championship Series. Philadelphia trails 4–3.",
+          "date": "2009-10-19",
+          "matchup": "Dodgers at Phillies",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/263177/feed/live",
+          "source": "https://www.mlb.com/video/jimmy-rollins-wins-2009-nlcs",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/12/ebe19d17-3a8e8af0-b7c11481-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / TBS 2009 NLCS Game 4 broadcast"
+        },
+        "review": {
+          "gamePk": 263177,
+          "atBatIndex": 63,
+          "pitchNumber": 3,
+          "playId": "02631776-0646-0033-000c-f08cd117d70a",
+          "status": "root-primary-proposed-for-independent-peer",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "event": "Groundout",
+              "eventType": "field_out",
+              "description": "Jimmy Rollins grounds out, third baseman Casey Blake to first baseman James Loney.",
+              "awayScore": 4,
+              "homeScore": 3
+            },
+            "about": {
+              "atBatIndex": 63,
+              "halfInning": "bottom",
+              "inning": 8
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 2,
+              "outs": 1
+            },
+            "matchup": {
+              "batter": {
+                "id": 276519,
+                "fullName": "Jimmy Rollins"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 430941,
+                "fullName": "George Sherrill"
+              },
+              "pitchHand": {
+                "code": "L",
+                "description": "Left"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "description": "Pitching Change: George Sherrill replaces Hung-Chih Kuo, batting 9th, replacing pitcher Hung-Chih Kuo.",
+                  "event": "Pitching Substitution",
+                  "eventType": "pitching_substitution",
+                  "awayScore": 4,
+                  "homeScore": 3
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 0,
+                  "outs": 0
+                },
+                "index": 0,
+                "isPitch": false,
+                "type": "action"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 89.9
+                },
+                "index": 1,
+                "playId": "02631776-0646-0013-000c-f08cd117d70a",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 89.8
+                },
+                "index": 2,
+                "playId": "02631776-0646-0023-000c-f08cd117d70a",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SL",
+                    "description": "Slider"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 75.4
+                },
+                "index": 3,
+                "playId": "02631776-0646-0033-000c-f08cd117d70a",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 1,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 90.4
+                },
+                "index": 4,
+                "playId": "02631776-0646-0043-000c-f08cd117d70a",
+                "pitchNumber": 4,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 90.0
+                },
+                "index": 5,
+                "playId": "02631776-0646-0053-000c-f08cd117d70a",
+                "pitchNumber": 5,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "X",
+                    "description": "In play, out(s)"
+                  },
+                  "description": "In play, out(s)",
+                  "code": "X",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 0
+                },
+                "pitchData": {
+                  "startSpeed": 90.3
+                },
+                "index": 6,
+                "playId": "02631776-0646-0063-000c-f08cd117d70a",
+                "pitchNumber": 6,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 63
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "B",
+                "description": "Ball"
+              },
+              "description": "Ball",
+              "code": "B",
+              "type": {
+                "code": "SL",
+                "description": "Slider"
+              }
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 1,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 75.4
+            },
+            "index": 3,
+            "playId": "02631776-0646-0033-000c-f08cd117d70a",
+            "pitchNumber": 3,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "countBefore": {
+            "balls": 1,
+            "strikes": 1,
+            "outs": 0
+          },
+          "scoreBefore": {
+            "away": 4,
+            "home": 3
+          },
+          "camera": "True first-base-side chest/profile with full body and entire rounded batcap for switch-hitting Rollins batting RIGHT vsSherrillLEFT.",
+          "motion": "DirectoriginalMP48169.0PNG cleanloadedcap before hands/barrel forward around8170.4–8170.6, completecheckedattempt theninitialreturnby8173.4. Catcherremainscrouched, HPnojudgmentinsidebounds, nographicswipeuntil8175.0. Earlier8168.8dissolveexcluded.",
+          "samePitchEvidence": "ActualsourceHLS8157pitch75mphslider toRollinsRHB#11 withscoreLAD4PHI3bottom8/noouts/count1–1; subsequent1Bisolatedno-gothenRollinsreactionthenimmediatesamesidefullattempt. Sourcecaption8158.584Rollinscheckedhisswing,two-ballsandastrike; originalMP4clock~2searlier. FeedAB63p3B75.4SL takes1–1→2–1, distinguishallotherpitchesinABincludinglaterp6groundout.",
+          "callerEvidence": "Actualsamepitchisolated1Bumpno-gobothsarmslowers~8158MP4; fullcrewfreshlistsTomHallion1B. Callerbasedonsignal/role+crew, notcrewalone; seecameraHLS8160anddirect8158.4. CanleavenameUnknownifpeercannotverifyactual1Bgesture.",
+          "freshFeedRequest": {
+            "url": "https://statsapi.mlb.com/api/v1.1/game/263177/feed/live?fields=gamePk,gameData,datetime,officialDate,teams,away,home,id,name,liveData,plays,allPlays,about,atBatIndex,halfInning,inning,startTime,matchup,batter,pitcher,batSide,pitchHand,fullName,result,description,event,eventType,awayScore,homeScore,playEvents,index,pitchNumber,playId,isPitch,details,call,code,pitchData,startSpeed,type,count,balls,strikes,outs,boxscore,officials,official,officialType",
+            "rawSha256": "b4f60ddbe3f666e95b344aa9d7fea450e35ed8ba0489377f27ad46241d18897f"
+          },
+          "officialCrew": [
+            {
+              "official": {
+                "id": 427019,
+                "fullName": "Ted Barrett"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427206,
+                "fullName": "Tom Hallion"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427058,
+                "fullName": "Gary Cederstrom"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 427316,
+                "fullName": "Randy Marsh"
+              },
+              "officialType": "Third Base"
+            },
+            {
+              "official": {
+                "id": 427129,
+                "fullName": "Bruce Dreckman"
+              },
+              "officialType": "Left Field"
+            },
+            {
+              "official": {
+                "id": 427235,
+                "fullName": "Sam Holbrook"
+              },
+              "officialType": "Right Field"
+            }
+          ],
+          "nativeProof": {
+            "path": "native-8168-8176.mp4",
+            "sha256": "814ced082ab2f79f26e2b1a74700f9478691e732405f1b19f7cebd4bcf979d48",
+            "bytes": 6039473,
+            "originalMp4Start": 8168,
+            "duration": 8,
+            "rateChanged": false
+          },
+          "criticalFrames": [
+            {
+              "sourceSeconds": 8169.0,
+              "path": "root-DIRECT-original-8169.png",
+              "sha256": "63d35e1fdb70406724688581755fba2098d0cd9ed33aafc82ab1ada8895c7b3d"
+            },
+            {
+              "sourceSeconds": 8173.4,
+              "path": "root-DIRECT-original-8173.4.png",
+              "sha256": "edf1f4a48d5da8f70614d5d5a94340e372a3571eef3caa488de4977d661b7ff0"
+            },
+            {
+              "sourceSeconds": 8158.4,
+              "path": "root-DIRECT-original-8158.4.png",
+              "sha256": "50bcaa32f227e7d46e9e49a3af9b0a64933625463cec5d02beb9ca6cb6fcf6dd"
+            }
+          ],
+          "deduplication": "No475canonicalmatchingRollins/dateor263177exactpid. No currentcanonicalchanges."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/peer-audit/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/peer-audit/audit.json": {
+      "candidateId": "jimmy-rollins-20091019-263177-02631776-0646-0033",
+      "primaryCandidateSha256": "8ac5976776fc970933a76c5638dbb750f27194550fea0ca1fe7e2c936b04cd07",
+      "primaryAuditSha256": "798ea10e4bc3e8aa71238fc39313e29b94fccc20b77ff9fb6afc48213d4dab64",
+      "status": "peer-reviewed-accepted",
+      "reviewer": "luna_2023_resume",
+      "review": {
+        "status": "peer-reviewed-accepted",
+        "reviewer": "luna_2023_resume",
+        "gamePk": 263177,
+        "officialDate": "2009-10-19",
+        "atBatIndex": 63,
+        "inning": 8,
+        "halfInning": "bottom",
+        "pitchNumber": 3,
+        "playId": "02631776-0646-0033-000c-f08cd117d70a",
+        "batter": "Jimmy Rollins",
+        "batterId": 276519,
+        "batterJersey": "11",
+        "batterHand": "R",
+        "pitcher": "George Sherrill",
+        "pitcherHand": "L",
+        "prePitchCount": {
+          "balls": 1,
+          "strikes": 1,
+          "outs": 0
+        },
+        "pitch": {
+          "type": "Slider",
+          "speedMph": 75.4,
+          "callCode": "B",
+          "callDescription": "Ball",
+          "countAfter": {
+            "balls": 2,
+            "strikes": 1,
+            "outs": 0
+          }
+        },
+        "reviewedBoundsMP4Seconds": [
+          8169.0,
+          8173.4
+        ],
+        "independentVisualFindings": [
+          "On the exact listed MP4, 8169.0 shows Rollins batting right-handed from a true first-base-side chest/profile camera. His full body and rounded bat barrel cap are visible in a loaded stance before forward motion, which begins around 8170.4–8170.6.",
+          "The attempt and initial return are visible through 8173.4. The catcher remains crouched and the HP gives no ruling within these bounds. The broadcast bumper starts around 8175; the earlier 8168.8 dissolve is excluded. The resulting segment has clean onset and finish bounds.",
+          "The exact pitch sequence in the 8140–8200 HLS context has the 75 mph pitch, the first-base umpire’s no-swing signal/gesture at approximately MP4 8158.4–8158.8, Rollins reaction, and then the same-side replay beginning around 8171. The isolated umpire view and source scorebug both identify this as the 75 mph play; no intervening pitch is shown. Broadcast caption at HLS 8158.584 says Rollins checked his swing and the count is two balls and a strike.",
+          "The MP4 gesture is consistent with the no-swing ruling, and fresh StatsAPI crew identifies Tom Hallion as first-base umpire. I attribute the call to Hallion from the visible first-base-umpire signal combined with the official crew, not crew listing alone."
+        ],
+        "independentIdentityCheck": "Fresh cached StatsAPI feed for gamePk 263177 verifies bottom 8, AB 63, pitch 3, exact playId, Jimmy Rollins #11 RHB vs George Sherrill LHP, 1–1 before pitch, 75.4 mph slider, Ball (2–1) with LAD leading 4–3. The video scorebug shows LAD 4, PHI 3, bottom 8, 75 MPH. Adjacent pitches are 89.9, 89.8, then this 75.4 slider, helping distinguish the target from later pitches in the same at-bat. Published catalog has no Rollins, gamePk, or exact playId match.",
+        "proofFiles": {
+          "primary-candidates.json": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/primary-candidates.json",
+            "sha256": "8ac5976776fc970933a76c5638dbb750f27194550fea0ca1fe7e2c936b04cd07"
+          },
+          "primary-audit.json": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/primary-audit.json",
+            "sha256": "798ea10e4bc3e8aa71238fc39313e29b94fccc20b77ff9fb6afc48213d4dab64"
+          },
+          "fresh-feed-projected.json.gz": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/fresh-feed-projected.json.gz",
+            "sha256": "5f1823dd7818dee039b7f528fe1b1433aef0ddb2ac1b091e8cb93183888e3e76"
+          },
+          "native-8168-8176.mp4": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/native-8168-8176.mp4",
+            "sha256": "814ced082ab2f79f26e2b1a74700f9478691e732405f1b19f7cebd4bcf979d48",
+            "bytes": 6039473
+          },
+          "root-DIRECT-original-8169.png": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/root-DIRECT-original-8169.png",
+            "sha256": "63d35e1fdb70406724688581755fba2098d0cd9ed33aafc82ab1ada8895c7b3d"
+          },
+          "root-DIRECT-original-8173.4.png": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/root-DIRECT-original-8173.4.png",
+            "sha256": "edf1f4a48d5da8f70614d5d5a94340e372a3571eef3caa488de4977d661b7ff0"
+          },
+          "root-DIRECT-original-8158.4.png": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/root-DIRECT-original-8158.4.png",
+            "sha256": "50bcaa32f227e7d46e9e49a3af9b0a64933625463cec5d02beb9ca6cb6fcf6dd"
+          },
+          "peer-audit/native-8158.8-8158.9.mp4": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/peer-audit/native-8158.8-8158.9.mp4",
+            "sha256": "932b45799726458c1e43738b42f8d10760042c0b24765b0eb3bc31c43c624415",
+            "bytes": 153250
+          },
+          "peer-audit/hls-context-8140/grid.jpg": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-third-wave/root-263177-rollins/peer-audit/hls-context-8140/grid.jpg",
+            "sha256": "8dbade6d155f4babbd4049339974f87f48f542322aab1be9ee79bb5f618d2a2d"
+          },
+          "published-catalog.json": {
+            "path": "/workspace/base-site/content/check-swing/catalog.json",
+            "sha256": "25862c11da1f2b9508a2ec9ad0f76ab24556ef040b69839f5c6a60c83bad1b0c",
+            "count": 475,
+            "rollinsMatch": false,
+            "gamePkMatch": false,
+            "playIdMatch": false
+          }
+        },
+        "peerReviewerFetchedOrModifiedSourceMedia": false,
+        "canonicalIndexChanged": false,
+        "boundsRecommendation": "Accept 8169.0–8173.4 seconds on the exact listed MP4 source clock."
+      }
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
