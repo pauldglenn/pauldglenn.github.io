@@ -1,0 +1,537 @@
+{
+  "added": 1,
+  "total": 478,
+  "dailyActivation": "2026-11-02",
+  "discovery": "A public MLB full-game replay shows Vince Coleman’s first-base swing appeal in 1995 ALDS Game2. Original video/audio, jersey29/right-handed batting vsPettitteLEFT, fresh exact earlier pitch3 and crew verify JimMcKean’sGO call. Independent review confirms the full rounded loaded cap before forward movement and a complete, sustained finished follow-through inside clean originalMP4 bounds. A reset to stance is not required once the entire forward offer has clearly finished; no ongoing/truncated motion is accepted. All previous477 entries and past daily selections remain unchanged.",
+  "clips": [
+    {
+      "id": "vince-coleman-19951004-68006-00680066-0186-0033",
+      "batter": "Vince Coleman",
+      "date": "1995-10-04",
+      "matchup": "Mariners at Yankees",
+      "base": 1,
+      "strike": true,
+      "start": 2406.4,
+      "end": 2412.5,
+      "umpire": "Jim McKean · first-base umpire",
+      "context": "Vince Coleman faces Andy Pettitte with a 2–0 count and one out in the third inning of 1995 ALDS Game 2. The game is tied 0–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1/game/68006/playByPlay",
+      "source": "https://www.mlb.com/video/leyritz-s-walk-off-in-1995-alds-1230",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-06/05/20f47556-7792649b-c23fb2ff-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB archived 1995 ALDS Game 2 broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 68006,
+        "atBatIndex": 17,
+        "pitchNumber": 3,
+        "playId": "00680066-0186-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "vince-coleman-19951004-68006-00680066-0186-0033",
+          "batter": "Vince Coleman",
+          "strike": true,
+          "start": 2406.4,
+          "end": 2412.5,
+          "umpire": "Jim McKean · first-base umpire",
+          "context": "Vince Coleman faces Andy Pettitte with a 2–0 count and one out in the third inning of 1995 ALDS Game 2. The game is tied 0–0.",
+          "date": "1995-10-04",
+          "matchup": "Mariners at Yankees",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1/game/68006/playByPlay",
+          "source": "https://www.mlb.com/video/leyritz-s-walk-off-in-1995-alds-1230",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-06/05/20f47556-7792649b-c23fb2ff-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB archived 1995 ALDS Game 2 broadcast"
+        },
+        "review": {
+          "gamePk": 68006,
+          "atBatIndex": 17,
+          "pitchNumber": 3,
+          "playId": "00680066-0186-0033-000c-f08cd117d70a",
+          "status": "root-primary-proposed-for-independent-review-under-complete-forward-attempt-clarification",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "event": "Home Run",
+              "eventType": "home_run",
+              "description": "Vince Coleman hits a home run (1).",
+              "rbi": 1,
+              "awayScore": 1,
+              "homeScore": 0,
+              "isOut": false
+            },
+            "about": {
+              "atBatIndex": 17,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 3,
+              "isComplete": true,
+              "isScoringPlay": true,
+              "hasReview": false,
+              "hasOut": false,
+              "captivatingIndex": 65
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 2,
+              "outs": 1
+            },
+            "matchup": {
+              "batter": {
+                "id": 112487,
+                "fullName": "Vince Coleman",
+                "link": "/api/v1/people/112487"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 120485,
+                "fullName": "Andy Pettitte",
+                "link": "/api/v1/people/120485"
+              },
+              "pitchHand": {
+                "code": "L",
+                "description": "Left"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_LHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "Empty"
+              }
+            },
+            "pitchIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "actionIndex": [],
+            "runnerIndex": [
+              0
+            ],
+            "runners": [
+              {
+                "movement": {
+                  "originBase": null,
+                  "start": null,
+                  "end": "score",
+                  "outBase": null,
+                  "isOut": false,
+                  "outNumber": null
+                },
+                "details": {
+                  "event": "Home Run",
+                  "eventType": "home_run",
+                  "movementReason": null,
+                  "runner": {
+                    "id": 112487,
+                    "fullName": "Vince Coleman",
+                    "link": "/api/v1/people/112487"
+                  },
+                  "responsiblePitcher": {
+                    "id": 120485,
+                    "link": "/api/v1/people/120485"
+                  },
+                  "isScoringEvent": true,
+                  "rbi": true,
+                  "earned": true,
+                  "teamUnearned": false,
+                  "playIndex": 5
+                },
+                "credits": []
+              }
+            ],
+            "playEvents": [
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "ballColor": "rgba(39, 161, 39, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": false,
+                  "isBall": true,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 0,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.21,
+                  "strikeZoneBottom": 1.62,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 0,
+                "playId": "00680066-0186-0013-000c-f08cd117d70a",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "ballColor": "rgba(39, 161, 39, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": false,
+                  "isBall": true,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 0,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.21,
+                  "strikeZoneBottom": 1.62,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 1,
+                "playId": "00680066-0186-0023-000c-f08cd117d70a",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "ballColor": "rgba(170, 21, 11, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": true,
+                  "isBall": false,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.21,
+                  "strikeZoneBottom": 1.62,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 2,
+                "playId": "00680066-0186-0033-000c-f08cd117d70a",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "ballColor": "rgba(170, 21, 11, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": true,
+                  "isBall": false,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.21,
+                  "strikeZoneBottom": 1.62,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 3,
+                "playId": "00680066-0186-0043-000c-f08cd117d70a",
+                "pitchNumber": 4,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "ballColor": "rgba(39, 161, 39, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": false,
+                  "isBall": true,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.21,
+                  "strikeZoneBottom": 1.62,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 4,
+                "playId": "00680066-0186-0053-000c-f08cd117d70a",
+                "pitchNumber": 5,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "E",
+                    "description": "In play, run(s)"
+                  },
+                  "description": "In play, run(s)",
+                  "code": "E",
+                  "ballColor": "rgba(26, 86, 190, 1.0)",
+                  "isInPlay": true,
+                  "isStrike": false,
+                  "isBall": false,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.21,
+                  "strikeZoneBottom": 1.62,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "hitData": {
+                  "trajectory": "fly_ball",
+                  "hardness": "medium",
+                  "coordinates": {}
+                },
+                "index": 5,
+                "playId": "00680066-0186-0063-000c-f08cd117d70a",
+                "pitchNumber": 6,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 17
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "isOut": false,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 1,
+              "outs": 1
+            },
+            "pitchData": {
+              "strikeZoneTop": 3.21,
+              "strikeZoneBottom": 1.62,
+              "coordinates": {},
+              "breaks": {}
+            },
+            "index": 2,
+            "playId": "00680066-0186-0033-000c-f08cd117d70a",
+            "pitchNumber": 3,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "countBefore": {
+            "balls": 2,
+            "strikes": 0,
+            "outs": 1
+          },
+          "scoreBefore": {
+            "away": 0,
+            "home": 0
+          },
+          "handedness": "Coleman#29switch-hittingRIGHT vsPettitte#46LEFT",
+          "identityEvidence": "OriginaljerseybackCOLEMAN29, samecurrentpitchPettitte46LHP, originalMP4audio2397–2403andpageVTTspecificallynameVinceColeman andfirstbaseJimMcKean. AllpreviousCora/Buhnernameswerewrongandarepreservedasretractedhypotheses. NoGame1insertisused. ExactAB17p3S2–0→2–1, NOTpreviousCoraAB16orColemanfinalp6HR.",
+          "callerEvidence": "Specific samepitchfirstbaseappeal: originalVTT2397.342–2401.082Theywantcheckwhetherwentaround/JohnMcCainsayshedoes, immediatelyNotagooddecisionbyVinceColeman. OriginalMP4ASRnamesJimMcKean; its trailingnot belongs to nextsentenceNotagooddecision, notno-go. CrewfreshFirstBaseJimMcKean; originalsamepitchisolated1Bump2399.5 matchesrole. p3S supportsGO, no contact.",
+          "completionRule": "/workspace/check-swing/expansion500/FOOTAGE-COMPLETENESS-2026-11-01.md",
+          "motionEvidence": "CleanDIRECT2406.4 afterdiamondwipe, entire roundedloadedcap visible before hands/barreladvance around2407.3–2407.5. Fullforwardattemptandfollowthroughfinish shown; fullwrappedfinishedposeheldthrough2412.5. Initialreturn/reset is not shown; it is not required IF independentreviewconfirmstheforwardattemptdefinitelyfinished. Do NOTacceptifanyforwardmotioniscutoff.",
+          "oldHoldsPreserved": "EarlierHOLDinitialreturnandwrongidentityauditsareallunchanged. New candidate differentColemanID; publicationrequiresindependentacceptance andsourcecalibration.",
+          "directFrames": [
+            {
+              "sourceSeconds": 2406.4,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-DIRECT-original-2406.4.png",
+              "sha256": "474a914a6bfdb44313744e807df4fd0e8fac93312e5ca490daa19a90093bc5c8"
+            },
+            {
+              "sourceSeconds": 2412.5,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-DIRECT-original-2412.5.png",
+              "sha256": "a1f42be837d9c66e7741626b0384de2c9f86ea656ab24c4b3e7ecdaf6880686f"
+            },
+            {
+              "sourceSeconds": 2399.5,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-DIRECT-original-2399.5.png",
+              "sha256": "675e9ca282ad9f34a879b19d03f4e59fd5c701ff0e7e2aa20a01d99f635004b5"
+            }
+          ],
+          "proofs": [
+            "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-appeal-2390-25s.mp4",
+            "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-side-replay-2406-2412_5.mp4",
+            "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-side-replay-grid.jpg"
+          ],
+          "freshPBPPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-fresh-coleman-playByPlay.json.gz",
+          "freshBoxscorePath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-fresh-coleman-boxscore.json.gz",
+          "officialCrew": [
+            {
+              "official": {
+                "id": 427457,
+                "fullName": "Dale Scott",
+                "link": "/api/v1/people/427457"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427332,
+                "fullName": "Jim McKean",
+                "link": "/api/v1/people/427332"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427261,
+                "fullName": "Jim Joyce",
+                "link": "/api/v1/people/427261"
+              },
+              "officialType": "Left Field"
+            },
+            {
+              "official": {
+                "id": 427419,
+                "fullName": "Mike Reilly",
+                "link": "/api/v1/people/427419"
+              },
+              "officialType": "Right Field"
+            }
+          ]
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-pre2000/root-coleman-68006/peer-review-luna/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/public-full-game-pre2000/root-coleman-68006/peer-review-luna/audit.json": {
+      "schema": "independent-peer-motion-audit-v1",
+      "reviewer": "luna_2021_mid",
+      "reviewDate": "2026-11-01",
+      "status": "independent-peer-accepted",
+      "candidateId": "vince-coleman-19951004-68006-00680066-0186-0033",
+      "primaryCandidatesPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/root-coleman-68006/primary-candidates.json",
+      "primaryCandidatesSha256": "0f6fbc487a085739794cee7809f526c4eabc598804e06c0da5941ca3cca6fdb0",
+      "clarificationPath": "/workspace/check-swing/expansion500/FOOTAGE-COMPLETENESS-2026-11-01.md",
+      "clarificationSha256": "8d14c42ab7495e3d182d8abfb48c63e5be14a1fd0c7f779aac6f26955287c4b2",
+      "visualGate": {
+        "angle": "Pass. Continuous replay is a true first-base-side profile for this right-handed batter; the chest is visible on the first-base side and the barrel/whole-body offer is unobstructed. The batter remains visually identifiable as #29 Coleman.",
+        "loadedCap": "Pass. At original-source 2406.4/local 0.0s, the entire rounded barrel cap is visible in the loaded position, with hands and barrel still behind the forward path. The clean loaded position persists before motion.",
+        "firstForwardMovement": "Approx original-source 2407.4–2407.6 (local 1.0–1.2s). The loaded barrel moves with the hands into the offer after the clear initial loaded frame.",
+        "offerAndFinish": "The forward offer continues through extension and a full high follow-through. By about original-source 2409.4–2409.9 (local 3.0–3.5s), the bat is wrapped around and the torso/shoulders have completed the swing. From there through source 2412.5 and the remainder of the 6.49s native excerpt, the same finished wrap is held with no additional forward progression. This is a definite finished follow-through under the clarification; an initial return/reset is unnecessary.",
+        "bounds": "Pass. Start 2406.4 is the clean loaded view after the diamond wipe, before forward movement. End 2412.5 shows only the held finished pose, before any result/call/appeal/next-count/departure footage.",
+        "spoilers": "No ruling gesture or result-revealing footage appears inside the proposed crop. The appeal/call evidence is earlier and the candidate crop remains the same replay of the judged pitch."
+      },
+      "samePitchAndCall": {
+        "pass": true,
+        "gamePk": 68006,
+        "atBatIndex": 17,
+        "pitchNumber": 3,
+        "playId": "00680066-0186-0033-000c-f08cd117d70a",
+        "batter": "Vince Coleman #29, right-handed",
+        "pitcher": "Andy Pettitte #46, left-handed",
+        "inning": "top 3",
+        "outsBefore": 1,
+        "countBefore": "2-0",
+        "targetFeedCall": "S (swinging strike), count advances to 2-1",
+        "appeal": "The retained original-source audio locator at 2397–2401 seconds explicitly identifies a check/appeal on whether Coleman went around and the first-base ruling; the adjacent “not a good decision by Vince Coleman” sentence resolves the ASR punctuation ambiguity as the GO call. Official crew lists Jim McKean at first base. Same replay is tied by #29 jersey and source order; no other pitch intervenes.",
+        "evidencePaths": [
+          "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-fresh-coleman-playByPlay.json.gz",
+          "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-fresh-coleman-boxscore.json.gz",
+          "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-original-audio-asr-luna/results.json",
+          "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-DIRECT-original-2399.5.png"
+        ]
+      },
+      "dedup": {
+        "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "publishedPitchIndexSha256": "9c3a78abad3e0314b229fb0a1a9490cccb0a6e307b70a35aceda5fb4d42f0d91",
+        "noExistingGamePlayIdMatch": true,
+        "note": "The former Coleman holds are retained historical hypotheses on different identities/events; no exact 68006 / AB17 p3 playId exists in the published pitch index."
+      },
+      "proofs": [
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-side-replay-2406-2412_5.mp4",
+          "sha256": "2fd7622a874ed3626834f630563d583af58e836f69e9bb181d57d744a124efdb",
+          "bytes": 412725,
+          "note": "retained native continuous side replay, 640x360 59.94fps, 6.49s"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/root-coleman-68006/peer-review-luna/coleman-native-5fps-grid.jpg",
+          "sha256": "f93cfbf11391e4cc712234a84066db69c65a83f1c52ac32b257d78fe3452584b",
+          "bytes": 182302,
+          "note": "peer review 5fps contact sheet of continuous native replay"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-DIRECT-original-2406.4.png",
+          "sha256": "474a914a6bfdb44313744e807df4fd0e8fac93312e5ca490daa19a90093bc5c8",
+          "note": "full rounded cap before forward movement"
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/cora-1995-alds-68006-luna-primary/root-DIRECT-original-2412.5.png",
+          "sha256": "a1f42be837d9c66e7741626b0384de2c9f86ea656ab24c4b3e7ecdaf6880686f",
+          "note": "held completed follow-through at proposed end"
+        }
+      ],
+      "preservedPriorHold": "Prior hold for missing initial return remains unchanged as historical audit; this peer audit applies the explicit 2026-11-01 clarification and independently confirms the forward motion has a definite finished endpoint before the cut.",
+      "limitations": "No new network/media fetch was made. Peer judgment uses retained continuous native clip, direct frames, the exact-pitch feed snapshot and retained original-source audio transcript."
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
