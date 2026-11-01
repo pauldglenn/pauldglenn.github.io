@@ -1,0 +1,411 @@
+{
+  "added": 1,
+  "total": 477,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Official public full-game English captions located Jay Buhner’s first-base swing appeal in the deciding 1995 ALDS game. A delayed definitive side replay was found after an overhead replay. Independent original-source boundary checks show the full rounded loaded barrel before forward motion, complete attempt and initial return. Exact fresh pitch and crew records plus the same-pitch named first-base ruling verify the result and deciding umpire. Neutral context hides the call until the player answers; all prior entries and historical daily questions remain unchanged.",
+  "clips": [
+    {
+      "id": "jay-buhner-19951008-68013-00680136-0506-0033",
+      "batter": "Jay Buhner",
+      "date": "1995-10-08",
+      "matchup": "Yankees at Mariners",
+      "base": 1,
+      "strike": true,
+      "start": 6857.5,
+      "end": 6861.5,
+      "umpire": "Dan Morrison · first-base umpire",
+      "context": "Jay Buhner faces David Cone with an 0–2 count and one out in the sixth inning of the deciding 1995 American League Division Series game. Seattle trails New York 4–2.",
+      "evidence": "https://statsapi.mlb.com/api/v1/game/68013/playByPlay",
+      "source": "https://www.mlb.com/video/mariners-advance-to-alcs",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/02/da3ad4e0-82e3d2c1-1e9bf16d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB archived 1995 ALDS Game 5 broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 68013,
+        "atBatIndex": 49,
+        "pitchNumber": 3,
+        "playId": "00680136-0506-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "jay-buhner-19951008-68013-00680136-0506-0033",
+          "batter": "Jay Buhner",
+          "strike": true,
+          "start": 6857.0,
+          "end": 6861.75,
+          "umpire": "Dan Morrison · first-base umpire",
+          "context": "Bottom of the 6th, one out, 0–2, Yankees 4–Seattle 2; Jay Buhner bats right-handed against David Cone. On the 0–2 pitch, the first-base umpire rules swing after the broadcast identifies Morrison and shows a delayed side-angle replay of Buhner’s same motion.",
+          "date": "1995-10-08",
+          "matchup": "Yankees at Mariners",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1/game/68013/playByPlay",
+          "source": "https://www.mlb.com/video/mariners-advance-to-alcs",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/02/da3ad4e0-82e3d2c1-1e9bf16d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB archived Mariners–Yankees broadcast; original source page listed MP4",
+          "proofClip": "buhner-side-replay-6857-6864.mp4"
+        },
+        "review": {
+          "gamePk": 68013,
+          "atBatIndex": 49,
+          "pitchNumber": 3,
+          "playId": "00680136-0506-0033-000c-f08cd117d70a",
+          "status": "luna-primary-proposed-for-independent-peer",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Jay Buhner strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 4,
+              "homeScore": 2,
+              "isOut": true
+            },
+            "about": {
+              "atBatIndex": 49,
+              "halfInning": "bottom",
+              "isTopInning": false,
+              "inning": 6,
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true,
+              "captivatingIndex": 14
+            },
+            "count": {
+              "balls": 0,
+              "strikes": 3,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 111676,
+                "fullName": "Jay Buhner",
+                "link": "/api/v1/people/111676"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 112552,
+                "fullName": "David Cone",
+                "link": "/api/v1/people/112552"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnSecond": {
+                "id": 118365,
+                "fullName": "Edgar Martinez",
+                "link": "/api/v1/people/118365"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_RHP",
+                "pitcher": "vs_RHB",
+                "menOnBase": "RISP"
+              }
+            },
+            "pitchIndex": [
+              0,
+              1,
+              2
+            ],
+            "actionIndex": [],
+            "runnerIndex": [
+              0
+            ],
+            "runners": [
+              {
+                "movement": {
+                  "originBase": null,
+                  "start": null,
+                  "end": null,
+                  "outBase": "1B",
+                  "isOut": true,
+                  "outNumber": 2
+                },
+                "details": {
+                  "event": "Strikeout",
+                  "eventType": "strikeout",
+                  "movementReason": null,
+                  "runner": {
+                    "id": 111676,
+                    "fullName": "Jay Buhner",
+                    "link": "/api/v1/people/111676"
+                  },
+                  "responsiblePitcher": null,
+                  "isScoringEvent": false,
+                  "rbi": false,
+                  "earned": false,
+                  "teamUnearned": false,
+                  "playIndex": 2
+                },
+                "credits": [
+                  {
+                    "player": {
+                      "id": 122673,
+                      "link": "/api/v1/people/122673"
+                    },
+                    "position": {
+                      "code": "2",
+                      "name": "Catcher",
+                      "type": "Catcher",
+                      "abbreviation": "C"
+                    },
+                    "credit": "f_putout"
+                  }
+                ]
+              }
+            ],
+            "playEvents": [
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "ballColor": "rgba(170, 21, 11, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": true,
+                  "isBall": false,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.344,
+                  "strikeZoneBottom": 1.688,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 0,
+                "playId": "00680136-0506-0013-000c-f08cd117d70a",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "ballColor": "rgba(170, 21, 11, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": true,
+                  "isBall": false,
+                  "isOut": false,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.344,
+                  "strikeZoneBottom": 1.688,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 1,
+                "playId": "00680136-0506-0023-000c-f08cd117d70a",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "ballColor": "rgba(170, 21, 11, 1.0)",
+                  "isInPlay": false,
+                  "isStrike": true,
+                  "isBall": false,
+                  "isOut": true,
+                  "hasReview": false
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 3,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "strikeZoneTop": 3.344,
+                  "strikeZoneBottom": 1.688,
+                  "coordinates": {},
+                  "breaks": {}
+                },
+                "index": 2,
+                "playId": "00680136-0506-0033-000c-f08cd117d70a",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 49
+          },
+          "pitchEvent": {
+            "details": {
+              "call": {
+                "code": "S",
+                "description": "Swinging Strike"
+              },
+              "description": "Swinging Strike",
+              "code": "S",
+              "ballColor": "rgba(170, 21, 11, 1.0)",
+              "isInPlay": false,
+              "isStrike": true,
+              "isBall": false,
+              "isOut": true,
+              "hasReview": false
+            },
+            "count": {
+              "balls": 0,
+              "strikes": 3,
+              "outs": 1
+            },
+            "pitchData": {
+              "strikeZoneTop": 3.344,
+              "strikeZoneBottom": 1.688,
+              "coordinates": {},
+              "breaks": {}
+            },
+            "index": 2,
+            "playId": "00680136-0506-0033-000c-f08cd117d70a",
+            "pitchNumber": 3,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "callerEvidence": {
+            "captionSidecar": "caption-tracks/68013-0.vtt.gz",
+            "captionText": "First base umpire Danny Morrison punches him out… here is the definitive view… as you can see Morrison was all over it… it appeared from that angle that Buhner held up.",
+            "crew": {
+              "official": {
+                "id": 427352,
+                "fullName": "Dan Morrison",
+                "link": "/api/v1/people/427352"
+              },
+              "officialType": "First Base"
+            },
+            "crewSource": "StatsAPI /api/v1/game/68013/boxscore",
+            "appealBasis": "First-base umpire is named as making the swing ruling; full continuous swing requires peer confirmation that the broadcast interaction is a specific same-pitch appeal rather than an unrequested generic call."
+          },
+          "cameraEvidence": {
+            "sideAngle": "True lateral batter-side view; Jay Buhner is RHB and presents chest/arms to the first-base-side camera. Full body shown.",
+            "onset": "At original MP4 source 6857.0 the full rounded barrel is visible in loaded position; forward movement begins later (around 6858.0).",
+            "finish": "Swing completes and the batter returns from initial follow-through by about 6861.5; cut 6861.75 removes later reaction/result.",
+            "samePitch": "The broadcast labels this as the definitive view and captions immediately analyze Buhner holding up; the clip follows the 1B ruling and the exact Buhner/Cone bottom-6 pitch-3 strikeout. Next PBP batter is left-handed Warren Newson, while this replayed swing is right-handed, excluding a next-batter mix-up.",
+            "clock": "HLS camera window starts 6836 and exact listed MP4 window 6833 opens on the same pitcher/batter sequence; HLS is approximately 3 seconds ahead of MP4. Source bounds in candidate use exact listed MP4 time."
+          },
+          "sourceProofs": {
+            "page": "https://www.mlb.com/video/mariners-advance-to-alcs",
+            "pageListedMaster": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/02/da3ad4e0-82e3d2c1-1e9bf16d-csvm-diamondx64-asset.m3u8",
+            "pageListedLowestVariant": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/02/da3ad4e0-82e3d2c1-1e9bf16d-csvm-diamondx64-asset_450K.m3u8",
+            "pageListedMp4": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/02/da3ad4e0-82e3d2c1-1e9bf16d-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+            "selectedOriginalMp4Bounds": [
+              6857.0,
+              6861.75
+            ],
+            "boundedSourceExcerpts": [
+              "buhner-appeal-6833-25s.mp4",
+              "buhner-appeal-68555-15s.mp4"
+            ],
+            "selectedMotionProof": "buhner-side-replay-6857-6864.mp4",
+            "selectedMotionGrid": "buhner-side-replay-grid.jpg",
+            "openingGrid": "camera-68013-6836.jpg"
+          },
+          "hashes": {
+            "buhner-appeal-6833-25s.mp4": "31e4d75f9965e83ea3fa91d5ebbdcfbc5937ab952509b04f507e4ad1bac6f50b",
+            "buhner-appeal-68555-15s.mp4": "e198c3b53c4329f245f96c5c01ad89d79418d3dfb7e058afec25dfc37ce9aad2",
+            "buhner-side-replay-6857-6864.mp4": "d5c433c92e6a890c4ffd0abd86331ba9f9574265a4822f58795b7ce3ebbe8eea",
+            "buhner-side-replay-grid.jpg": "98a46512cda76493dfbd564d7179b43d6c7ea5939245744cb25a293ee88c28ab",
+            "buhner-mp4-grid.jpg": "221412b20af40a78355382d66fe896946e232e2b094c06ad58811a509ee77e6f",
+            "camera-68013-6836.jpg": "4a048cfadd4b1e36cb891702c88dbb24648ba7faa12e7bf7236d95bdd2649a58",
+            "caption-tracks/68013-0.vtt.gz": "6b348308867a0bed6bb234b40750cc170e3340b3aafe89e79e5cabb9c99aaa43",
+            "playbyplay-68013.json.gz": "843f67ec70c9aff8a91801860bab1635f33b0a6e6f3bf8d9497515b88cc0e912",
+            "boxscore-68013.json.gz": "002461971fae63b004e64a4412d31d1a18b9a7ce4d78d9319427aa02f0c700a8"
+          }
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-peer-audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-peer-audit.json": {
+      "createdUtc": "2026-11-01T08:25:56.838536+00:00",
+      "reviewer": "root-independent-peer",
+      "candidateId": "jay-buhner-19951008-68013-00680136-0506-0033",
+      "status": "accepted-with-clean-boundaries-and-neutral-presentation",
+      "primarySha256": "3625e44c52b5cec546d5853d549db14c8f2cab9529470cbf9220107dc007697e",
+      "gamePk": 68013,
+      "atBatIndex": 49,
+      "pitchNumber": 3,
+      "playId": "00680136-0506-0033-000c-f08cd117d70a",
+      "decision": {
+        "strike": true,
+        "base": 1,
+        "umpire": "Dan Morrison · first-base umpire"
+      },
+      "bounds": {
+        "start": 6857.5,
+        "end": 6861.5,
+        "reason": "Direct original6857.0 still contains outgoing dissolve ghost. Direct6857.5 is clean with complete rounded cap before loaded rearward phase and actual forward motion6858.5–6858.75; complete checked attempt then clear initial return6859.5–6861.5. End before catcher later rises/appeals6862+. Full true first-base chest/profile for RHB#19."
+      },
+      "identityEvidence": "SameBuhner#19RHB vsCone#36RHP bottom6/1out/0–2, Yankees4Seattle2, samepitch1Bappeal aftercurrent delivery. Delayed definitive side replay follows overhead replay and named samepitchMorrison call. NextbatterWarrenNewsonisLHB, exclude nextbatterpractice. FreshrootPBPAB49p3S exact0506, priorcount0–2/1out; finalK gives2outs. No reliance on prior wrong0496ID.",
+      "callerEvidence": "Originalsamepitchfirstbaseump#34yes signal in retained opening context, rootDIRECT6838.75 shows sameump#34immediatelyaftercall. Exactbroadcastcaption names firstbaseDannyMorrison makingcall; freshrootboxscore listsDanMorrisonFirstBase. Ruling supported by actual samepitchappeal+S, not crew alone.",
+      "presentationChanges": "Neutral pre-answer context removes first-base ruling from original proposed context; proofClip private field excluded from canonical public schema.",
+      "directFrames": [
+        {
+          "sourceSeconds": 6857.0,
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-DIRECT-original-6857.png",
+          "bytes": 892558,
+          "sha256": "d70cc91c09db26ea6cbed19f35b9509d65dabb81ae4aa91a6d71be3614e3c877"
+        },
+        {
+          "sourceSeconds": 6861.75,
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-DIRECT-original-6861.75.png",
+          "bytes": 1011210,
+          "sha256": "0f03a79ac9d35e0f55a3bb1d7313a4971eb2b0298e7abd734e241b43a0eaf968"
+        },
+        {
+          "sourceSeconds": 6838.75,
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-DIRECT-original-6838.75.png",
+          "bytes": 668970,
+          "sha256": "bdb1584493daa509101f7a197213360a19bf70ad9886a2db3d13a4c4c8031fbc"
+        },
+        {
+          "sourceSeconds": 6857.5,
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-DIRECT-original-6857.5.png",
+          "sha256": "3328b8ff450384c123e0dd28eaa7208ba75f69820e4753ae801bd0b6ddee8b9b"
+        },
+        {
+          "sourceSeconds": 6861.5,
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pre2000/buhner-1995-alds-68013-luna-primary/root-DIRECT-original-6861.5.png",
+          "sha256": "0d83679bd18c5eb602758f70d1e63486f9cded399ee4700172b254e2b5cbd2af"
+        }
+      ],
+      "freshPitchEvidence": "root-fresh-pitch-evidence.json",
+      "allPrimaryArtifactsPreserved": true
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
