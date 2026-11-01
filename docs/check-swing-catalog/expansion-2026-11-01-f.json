@@ -1,0 +1,191 @@
+{
+  "added": 1,
+  "total": 468,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Correctly prompted English-only speech transcription located a previously uncaptioned 2019 check-swing appeal. Root primary and independent Luna original-MP4 reviews confirmed full first-base-side motion, complete loaded barrel before forward movement, exact fresh pitch, actual same-pitch first-base fist and caller crew assignment, clean bounds and no duplicate. Original HLS and MP4 source clocks were calibrated independently.",
+  "clips": [
+    {
+      "id": "alex-bregman-20190409-565610-1920efbf",
+      "batter": "Alex Bregman",
+      "date": "2019-04-09",
+      "matchup": "NYY at HOU",
+      "base": 1,
+      "strike": true,
+      "start": 188.2,
+      "end": 190.6,
+      "umpire": "Alfonso Márquez · first-base umpire",
+      "context": "Bottom 1, two outs before the pitch; Yankees lead 1–0. Alex Bregman #2 (RHB) vs Jonathan Loáisiga (RHP), 1–2 count. Pitch five was an 84.1 mph curveball, recorded as swinging strike three (blocked). The original live broadcast shows a first-base umpire fist on this pitch; adjacent broadcast audio says “half swing … did he go, he did.”",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/565610/feed/live",
+      "source": "https://www.mlb.com/video/cg-nyy-hou-4-9-19",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-04/09/382f92f8-508dd159-be563fea-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 565610,
+        "atBatIndex": 6,
+        "pitchNumber": 5,
+        "playId": "1920efbf-247d-4f17-9067-72606d52e657"
+      },
+      "primaryEvidence": {
+        "id": "alex-bregman-20190409-565610-1920efbf",
+        "batter": "Alex Bregman",
+        "batterJersey": 2,
+        "batterHand": "R",
+        "pitcher": "Jonathan Loáisiga",
+        "pitcherHand": "R",
+        "date": "2019-04-09",
+        "matchup": "NYY at HOU",
+        "base": 1,
+        "strike": true,
+        "start": 188.2,
+        "end": 190.6,
+        "umpire": "Alfonso Márquez · first-base umpire",
+        "context": "Bottom 1, two outs before the pitch; Yankees lead 1–0. Alex Bregman #2 (RHB) vs Jonathan Loáisiga (RHP), 1–2 count. Pitch five was an 84.1 mph curveball, recorded as swinging strike three (blocked). The broadcast asks whether the half swing went; the first-base umpire signals a swing.",
+        "source": "https://www.mlb.com/video/cg-nyy-hou-4-9-19",
+        "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-04/09/382f92f8-508dd159-be563fea-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/565610/feed/live",
+        "gamePk": 565610,
+        "atBatIndex": 6,
+        "pitchNumber": 5,
+        "playId": "1920efbf-247d-4f17-9067-72606d52e657",
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "root-primary",
+          "discovery": "Correctly prompted English-only tiny.en transcription of an actual listed MLB HLS source with no usable original sidecar. ASR is a locator only; final call proof requires original audio/gesture, not generated transcript.",
+          "officialCode": "W",
+          "pitchType": "Curveball",
+          "pitchSpeedMph": 84.1,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 2
+          },
+          "finalRuling": "Swinging strike three (blocked), exact same-pitch appeal shown in original broadcast",
+          "callerEvidence": "Original same-pitch live source shows a fist from the first-base umpire, followed by Bregman #2, side replay, and inning transition. Fresh MLB crew lists Alfonso Márquez at first base. Independent reviewer must confirm the original gesture and role before accepting named caller.",
+          "fullLoadedCapBeforeForwardMotion": true,
+          "wholeAttemptThroughFinishAndInitialReturn": true,
+          "trueBaseSide": true,
+          "camera": "First-base-side profile of right-handed Bregman; chest/front, whole figure and full rounded barrel cap visible.",
+          "timingMethod": "Exact original listed MP4 bounded decode at source188–195s. Clean loaded cap and raised stride leg at188.2/.4/.7; forward barrel initiates later; checked forward travel, recoil and initial return finish before transition at~190.75. Original HLS locator clock is about2s later and was not used as MP4 playback bounds.",
+          "cleanBounds": "188.2 excludes dissolve.190.6 retains check/recoil/initial return before next-inning wipe; no count overlay, umpire call, actual appeal gesture, next pitch. Catcher natural blocking movement does not show an appeal gesture.",
+          "audioMustRemainMuted": true,
+          "originalMp4Proof": "/workspace/check-swing/expansion500/asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/original-mp4-188-195.mp4",
+          "originalMp4ProofSha256": "8fe70f342eadc44b08fdbfeb0cdf4bab3318fe8d907b5e38b81170216d94ccda",
+          "localHDClip": "/workspace/check-swing/expansion500/asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/bregman-selected-188p2-190p6.mp4",
+          "localHDSourceStart": 188.2,
+          "localHDSourceEnd": 190.6,
+          "localVideoSha256": "c896b53890be2c5b4afa0315de0240b1e6fecacea3cf376a77f5e275f36599b2",
+          "freshFeedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/game-565610-fresh-feed.json",
+          "freshFeedSha256": "ca685ede9e456fee061c7ddb39d177e1c7dd67d1632895e29662e10cf69462c6",
+          "criticalFrames": {
+            "root-frame-0.2.png": "26d4c9a8526b68130525327eeb5414325bd62085c469ca6975626f2637df2ac0",
+            "root-frame-0.4.png": "78ee4fe01d1888059ec049b77a2cbfa8e027e63ff05e66a97adf3609d5ee0082",
+            "root-frame-0.7.png": "07d4bac37b6b7bccc634b0c1adbab673066ba02fa6d22ed70ac9170baf081672",
+            "root-frame-2.5.png": "4e92df0ec026dce4786d16ee65f3b16505ec79ae600147918369af2e0e52945a",
+            "root-frame-2.6.png": "396f3d5722b6ae4023b95055d98ed676428fe0501045743808078e52e273205f"
+          },
+          "sourceContextGrid": "/workspace/check-swing/expansion500/asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/original-live-174-188-1fps.jpg",
+          "sourceContextGridSha256": "035374c3dda0e3d36f586bccdbd8438769de97672c990aa99b9a83a9fb15bc4d",
+          "availableFrom": "2026-11-02",
+          "canonicalChanged": false,
+          "dedup": {
+            "catalogCount": 467,
+            "indexSha256": "b5fe384ef27151ebf803da30520efabf474126ae4500726d1b61fd62ca179c25",
+            "exactMatches": []
+          }
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/peer-luna/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/peer-luna/audit.json": {
+      "schemaVersion": "independent-peer-audit-v1",
+      "reviewer": "luna-2020-asr-peer",
+      "decision": "approve-positive",
+      "candidateId": "alex-bregman-20190409-565610-1920efbf",
+      "primarySource": "/workspace/check-swing/expansion500/asr-discovery-v2/2019-expansion-queue/root-review-nyy-hou-20190409/primary-candidates.json",
+      "independentSourceDecode": {
+        "originalMp4Url": "https://cuts.diamond.mlb.com/FORGE/2019/2019-04/09/382f92f8-508dd159-be563fea-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "sourceRangeSeconds": [
+          187.3,
+          193.5
+        ],
+        "localPath": "peer-luna/independent-native-187p3-6p2s.mp4",
+        "sha256": "bf31b9a85de355894d7f4693f7e185bebe707d2c28ad9a2017c33f3e76bdb0e8",
+        "bytes": 3859651,
+        "selectedRangeSeconds": [
+          188.2,
+          190.6
+        ],
+        "selectedPath": "peer-luna/independent-selected-188p2-190p6.mp4",
+        "selectedSha256": "0d6c43ffa5ed4a87cccbd995cbfb27198dd1369d75f9d189ff69a4d028a61952",
+        "selectedGrid": "peer-luna/independent-selected-grid-4fps.jpg",
+        "selectedGridSha256": "f53a0378a55ef69b0917764d58f24bc1a08b4c115cd20f604fde73dd9aba821b",
+        "boundary": "At source190.6 still live action; animation wipe first appears about190.8."
+      },
+      "liveGesture": {
+        "sourceFrameSeconds": 181.0,
+        "frame": "peer-luna/independent-firstbase-gesture-source181.jpg",
+        "sha256": "549861a46892ddc45df9abeaae48d769ed0b21eb13ebc24a6adf93d550fc6610",
+        "observation": "Fist is plainly visible from the first-base-side umpire; scoreboard shows bottom 1, score NYY 1–0, count 1–2 and 84 mph. This precedes the Bregman #2 close-up and batter-side replay."
+      },
+      "feedProof": {
+        "path": "peer-luna/own-fresh-feed.json",
+        "sha256": "ca685ede9e456fee061c7ddb39d177e1c7dd67d1632895e29662e10cf69462c6",
+        "gamePk": 565610,
+        "officialDate": "2019-04-09",
+        "gameType": "R",
+        "atBatIndex": 6,
+        "playId": "1920efbf-247d-4f17-9067-72606d52e657",
+        "pitchNumber": 5,
+        "batter": "Alex Bregman",
+        "jerseyNumber": "2",
+        "batterHand": "R",
+        "pitcher": "Jonathan Loáisiga",
+        "countBefore": {
+          "balls": 1,
+          "strikes": 2,
+          "outs": 2
+        },
+        "call": {
+          "code": "W",
+          "description": "Swinging Strike (Blocked)"
+        },
+        "pitchType": "Curveball",
+        "pitchSpeedMph": 84.1,
+        "firstBaseCrewOfficial": "Alfonso Márquez"
+      },
+      "asrProof": {
+        "sourceKey": "f4bf4149fc947094",
+        "listedLowHlsAudioSource": "https://cuts.diamond.mlb.com/FORGE/2019/2019-04/09/382f92f8-508dd159-be563fea-csvm-diamondx64-asset_320x180_29_128K.m3u8",
+        "audioSha256": "9a3ab64167d4b99b430c790ef00bb41826803d643df8a3e508e2767bb478fafc",
+        "transcriptSha256": "647d9c29073297652da61de4597091d0fad145b9988bcd6b9fade0e83865d7fa",
+        "timestampSha256": "6f03f260f93ee3f65b95f1d4f19dfb831c9dec72f8dfb8a2484f47a32f45997d",
+        "prompt": {
+          "modelIsMultilingual": false,
+          "controlTokens": [
+            "<|startoftranscript|>"
+          ],
+          "controlIdsDerivedFromVocabulary": true
+        },
+        "sourceTimeExcerpt": "178.0–181.8 HLS clock: “The one to that half swing at a break ball did he go he did.” This locates the pitch but HLS clock was not used for MP4 bounds."
+      },
+      "dedup": {
+        "catalogCount": 467,
+        "indexed": 401,
+        "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "indexSha256": "b5fe384ef27151ebf803da30520efabf474126ae4500726d1b61fd62ca179c25",
+        "exactPlayIdMatches": []
+      },
+      "canonicalModified": false,
+      "notes": [
+        "Independent HLS transcript clock differs from original MP4 playback clock; it was used only to locate the language.",
+        "The candidate replay itself excludes the live gesture and result. The contemporaneous live context proves gesture, and the fresh feed pins it to the same pitch.",
+        "No candidate was published and no canonical file was changed."
+      ]
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
