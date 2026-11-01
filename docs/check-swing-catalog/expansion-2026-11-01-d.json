@@ -1,0 +1,192 @@
+{
+  "added": 1,
+  "total": 466,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Append-only independent reassessment of old 2026 motion rejections, retaining original negative evidence. A matched specific same-pitch appeal establishes the attempted check ruled a swing, with full native side-motion, exact fresh pitch, clean boundaries and duplicate checks.",
+  "clips": [
+    {
+      "id": "colton-cowser-20260911-822767-8b41a368",
+      "batter": "Colton Cowser",
+      "date": "2026-09-11",
+      "matchup": "BAL at TOR",
+      "base": 3,
+      "strike": true,
+      "start": 498.109967,
+      "end": 499.929967,
+      "umpire": "Unknown · third-base umpire",
+      "context": "Top 6, one out before the pitch, Baltimore ahead 6–1. Colton Cowser #17 (LHB) faced Ricky Tiedemann (LHP), 1–2 count. The fifth pitch was an 82.6 mph sweeper, recorded as swinging strike three. Matched original broadcast caption: “Check swing by Cowser appealed to third and he did go strike 3.”",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/822767/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-bal-tor-9-11-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/11/3798e785-fb6cf102-0a0354fd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 822767,
+        "atBatIndex": 48,
+        "pitchNumber": 5,
+        "playId": "8b41a368-821b-3c4a-98ea-501fd8d802d5"
+      },
+      "primaryEvidence": {
+        "id": "colton-cowser-20260911-822767-8b41a368",
+        "batter": "Colton Cowser",
+        "batterJersey": "17",
+        "batterHand": "L",
+        "pitcher": "Ricky Tiedemann",
+        "pitcherHand": "L",
+        "date": "2026-09-11",
+        "matchup": "BAL at TOR",
+        "base": 3,
+        "strike": true,
+        "start": 498.029967,
+        "end": 499.729967,
+        "umpire": "Unknown · third-base umpire",
+        "context": "Top 6, one out before the pitch, Baltimore ahead 6–1. Colton Cowser #17 (LHB) faced Ricky Tiedemann (LHP), 1–2 count. The fifth pitch was an 82.6 mph sweeper, recorded as swinging strike three. Matched original broadcast caption: “Check swing by Cowser appealed to third and he did go strike 3.”",
+        "source": "https://www.mlb.com/video/condensed-game-bal-tor-9-11-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/11/3798e785-fb6cf102-0a0354fd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/822767/feed/live",
+        "gamePk": 822767,
+        "atBatIndex": 48,
+        "pitchNumber": 5,
+        "playId": "8b41a368-821b-3c4a-98ea-501fd8d802d5",
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna-primary-rescan",
+          "originRankIndex": 31,
+          "sourceKey": "918fbe57da4036af",
+          "originKey": "272-0",
+          "sourceReviewFile": "/workspace/check-swing/expansion500/season-condensed/reviews2026-remaining-block260-root/primary-ledger.json",
+          "gamePk": 822767,
+          "atBatIndex": 48,
+          "pitchNumber": 5,
+          "playId": "8b41a368-821b-3c4a-98ea-501fd8d802d5",
+          "officialCode": "S",
+          "pitchType": "Sweeper",
+          "pitchSpeedMph": 82.6,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 1
+          },
+          "countAfterPitch": {
+            "balls": 1,
+            "strikes": 3,
+            "outs": 1
+          },
+          "finalRuling": "Swinging Strike / strikeout; same-pitch check-swing appeal ruled swing at third base",
+          "caller": "Unknown · third-base umpire",
+          "callerEvidence": "Original source-caption excerpt: “Check swing by Cowser appealed to third and he did go strike 3.” The caption directly associates the appeal and ruling with the same top-sixth Cowser strikeout sequence; caller name is not proven.",
+          "localHDClip": "check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/cowser-full-side-motion.mp4",
+          "localHDSourceStart": 498.029967,
+          "localHDSourceEnd": 499.729967,
+          "localVideoSha256": "0b5c2f610898bc02d90eadb50ec1a57d41ae041dc6cb52817ab96577d71a47b9",
+          "proofFrames": [
+            {
+              "path": "check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/cowser-full-side-motion-8fps.jpg",
+              "sha256": "a70f588cf64a255698ce5bcbb1bbe80db860971c61dc07decd616ad2196733f1"
+            },
+            {
+              "path": "check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/cowser-272-onset-150.png",
+              "sha256": "2a09a02b34cf8a11cc3656009aabb636e54c9e128521e5d74cfad8a17b9e5df3"
+            },
+            {
+              "path": "check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/cowser-272-onset-125.png",
+              "sha256": "cccdc010e04237fed29e760b8a20933f6eed1b540b2fab7ed139315aaaf933b2"
+            }
+          ],
+          "camera": "Third-base-side profile; Colton Cowser is left-handed and the batter chest/front is visible, with full body and rounded bat cap in replay.",
+          "fullLoadedCapBeforeForwardMotion": true,
+          "wholeAttemptThroughFinishAndInitialReturn": true,
+          "sameExactPitchAndBatter": true,
+          "resultOrCallerIncluded": false,
+          "containsUnrelatedNextPitch": false,
+          "fullMotion": "The independently fetched replay begins with Cowser in a complete loaded stance: barrel/cap is in frame above and behind the shoulder, feet set, hands loaded. The 8fps full native side-angle strip then shows the forward path through full rotation/finish and initial return. It continues through a conventional full follow-through, but the same-pitch third-base appeal is directly proven, so no brake/recoil is required. Crop ends within this replay before the pitcher cutaway/next sequence.",
+          "timingMethod": "Freshly fetched only a bounded 6.0-second window from the original listed 1280x720 MLB MP4, source offset 496.529967. Replay starts at bounded local 1.50s; selected global source window is 498.029967–499.729967s. Existing source native-map and full-duration coarse grid corroborate this point as the Cowser replay following the appealed live pitch. No source-clock reset.",
+          "audioMustRemainMuted": true,
+          "freshFeedPath": "check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/game-822767-fresh-feed.json",
+          "freshFeedSha256": "218fca24cad7166728a7e1809870924da14547da79b05020ffaa8804f94e388e",
+          "dedup": {
+            "canonicalCount": 464,
+            "exactPitchMatches": [],
+            "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "indexSha256": "f9b7740a0b5bbb9cca1d50a089475cb09950da79c8384ee7d50da4f49613c486"
+          },
+          "candidateAvailableFrom": "2026-11-02",
+          "candidateApproval": false,
+          "canonicalChange": false
+        }
+      },
+      "independentAuditGroup": "season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/audit-peer/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/audit-peer/audit.json": {
+      "schemaVersion": "independent-peer-audit-v1",
+      "reviewer": "luna-independent-peer",
+      "sourceWrapper": "../candidate-wrapper.json",
+      "candidateId": "colton-cowser-20260911-822767-8b41a368",
+      "decision": "approve-pending-root-review",
+      "sourceRange": [
+        498.109967,
+        499.929967
+      ],
+      "sourceOffset": 496.529967,
+      "sourceRangeLocal": [
+        1.58,
+        3.4
+      ],
+      "exactPitchIdentity": {
+        "gamePk": 822767,
+        "officialDate": "2026-09-11",
+        "gameType": "R",
+        "atBatIndex": 48,
+        "playId": "8b41a368-821b-3c4a-98ea-501fd8d802d5",
+        "pitchNumber": 5,
+        "batter": "Colton Cowser",
+        "batterJersey": 17,
+        "batHand": "L",
+        "pitcher": "Ricky Tiedemann",
+        "pitchHand": "L",
+        "inning": "top 6",
+        "outsBefore": 1,
+        "countBefore": "1-2",
+        "pitchType": "Sweeper",
+        "speedMph": 82.6,
+        "call": "Swinging Strike",
+        "countAfter": "1-3",
+        "feedHasReview": false
+      },
+      "explicitSamePitchAppealEvidence": {
+        "captionExcerpt": "Check swing by Cowser appealed to third and he did go strike 3.",
+        "source": "Retained original-broadcast caption excerpt in 272-0-retrieval.json, primary-ledger.json and jobs.json",
+        "assessment": "Specific same-pitch appeal explicitly matched to the Cowser top-sixth strikeout. Caller unknown. Physical brake is not required for full swing-through where actual appeal and swing ruling are proven."
+      },
+      "visualAssessment": {
+        "start": "Clean replay after the crossfade; full rounded cap/barrel and loaded hands are visible before forward motion begins. Full figure and feet are in frame.",
+        "camera": "True low third-base-side profile; full body and torso/front are visible for left-handed hitter.",
+        "motion": "Forward swing, complete body rotation, finish and initial settling/return; exact same attempt continues throughout.",
+        "ending": "Before any caller/result graphic, catcher rise/head turn, replay transition or next pitch.",
+        "holds": []
+      },
+      "freshFeedPath": "audit-peer/game-822767-fresh-feed.json",
+      "freshFeedSha256": "218fca24cad7166728a7e1809870924da14547da79b05020ffaa8804f94e388e",
+      "nativeSegment": "audit-peer/cowser-native-peer-496.529967-6s.mp4",
+      "nativeSegmentSha256": "0a98175a7d74dd1a675b3a3155bf223b073215e8ac6b169e86a552e690f7dd9b",
+      "selectedClip": "check-swing/expansion500/season-condensed/appeal-negative-rescan-20261101/luna-motion-2026/audit-peer/cowser-selected-peer-498.109967-499.929967.mp4",
+      "selectedClipSha256": "38cd94e1f6bdc8539b197ba57b1fad90c9fa0dd5da54969d1a4d7d614707ab69",
+      "contactSheet": "audit-peer/cowser-selected-contact.jpg",
+      "dedup": {
+        "canonicalCount": 464,
+        "exactPitchMatches": [],
+        "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "indexSha256": "f9b7740a0b5bbb9cca1d50a089475cb09950da79c8384ee7d50da4f49613c486",
+        "identityKey": "gamePk=822767 + playId=8b41a368-821b-3c4a-98ea-501fd8d802d5"
+      },
+      "canonicalModified": false
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "CowserRecovery": "An earlier negative required a physical stop/recoil despite an explicit same-pitch third-base appeal. Corrected rule permits the full continuing finish, while independent native proof establishes full rounded loaded barrel before forward and whole motion.",
+    "Boundaries": "Independent clean start498.109967 removes initial crossfade; end499.929967 retains full finish/initialsettling before any catcher/request/result/nextpitch."
+  }
+}

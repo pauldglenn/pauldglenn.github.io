@@ -9010,5 +9010,27 @@
       "pitchNumber": 4,
       "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7"
     }
+  },
+  {
+    "id": "colton-cowser-20260911-822767-8b41a368",
+    "batter": "Colton Cowser",
+    "date": "2026-09-11",
+    "matchup": "BAL at TOR",
+    "base": 3,
+    "strike": true,
+    "start": 498.109967,
+    "end": 499.929967,
+    "umpire": "Unknown · third-base umpire",
+    "context": "Top 6, one out before the pitch, Baltimore ahead 6–1. Colton Cowser #17 (LHB) faced Ricky Tiedemann (LHP), 1–2 count. The fifth pitch was an 82.6 mph sweeper, recorded as swinging strike three. Matched original broadcast caption: “Check swing by Cowser appealed to third and he did go strike 3.”",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/822767/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-bal-tor-9-11-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-09/11/3798e785-fb6cf102-0a0354fd-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 822767,
+      "atBatIndex": 48,
+      "pitchNumber": 5,
+      "playId": "8b41a368-821b-3c4a-98ea-501fd8d802d5"
+    }
   }
 ]
