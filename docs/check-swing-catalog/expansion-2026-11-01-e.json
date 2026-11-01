@@ -1,0 +1,236 @@
+{
+  "added": 1,
+  "total": 467,
+  "dailyActivation": "2026-11-02",
+  "discovery": "New appeal-language caption rescan located a specific third-base check-swing appeal omitted by earlier keyword patterns. Primary and independent native-MP4 reviews matched the exact fresh MLB pitch, whole loaded barrel before forward motion, complete side-view attempt, clean bounds and named caller. Root verified critical original frames and full-motion contact sheet.",
+  "clips": [
+    {
+      "id": "geraldo-perdomo-20220502-661362-4d5f9d78",
+      "batter": "Geraldo Perdomo",
+      "date": "2022-05-02",
+      "matchup": "ARI at MIA",
+      "base": 3,
+      "strike": true,
+      "start": 201.0,
+      "end": 205.25,
+      "umpire": "Adam Beck · third-base umpire",
+      "context": "Top 5, one out before the pitch; Arizona leads 2–0. Geraldo Perdomo #2 (LHB) vs Pablo López #49 (RHP), 1–2 count. Pitch five was a 78.7 mph curveball, recorded as swinging strike three. Broadcast says the crew asked whether he went and Adam at third base rang him up.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/661362/feed/live",
+      "source": "https://www.mlb.com/video/cg-ari-mia-5-2-22",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/02/aa950883-917a7287-2bbb25d1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 661362,
+        "atBatIndex": 31,
+        "pitchNumber": 5,
+        "playId": "4d5f9d78-cc64-48d2-88e2-384a2a940a76"
+      },
+      "primaryEvidence": {
+        "id": "geraldo-perdomo-20220502-661362-4d5f9d78",
+        "batter": "Geraldo Perdomo",
+        "batterJersey": "2",
+        "batterHand": "L",
+        "pitcher": "Pablo López",
+        "pitcherHand": "R",
+        "date": "2022-05-02",
+        "matchup": "ARI at MIA",
+        "base": 3,
+        "strike": true,
+        "start": 201.0,
+        "end": 205.25,
+        "umpire": "Unknown · third-base umpire",
+        "context": "Top 5, one out before the pitch; Arizona ahead 2–0. Geraldo Perdomo #2 (LHB) faced Pablo López (RHP), 1–2 count. Pitch five was a 78.7 mph curveball, recorded as swinging strike three. Original caption: “They’ll ask if he went and he did. Adam back at third base, rings him up and there’s two away strikeout number seven for Pablo.”",
+        "source": "https://www.mlb.com/video/cg-ari-mia-5-2-22",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/02/aa950883-917a7287-2bbb25d1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/661362/feed/live",
+        "gamePk": 661362,
+        "atBatIndex": 31,
+        "pitchNumber": 5,
+        "playId": "4d5f9d78-cc64-48d2-88e2-384a2a940a76",
+        "review": {
+          "status": "primary-approved-pending-independent-peer-review",
+          "reviewer": "luna-v4-row80-159",
+          "originReviewQueueIndex": 97,
+          "blockArrayIndex": 17,
+          "sourceKey": "00327b95d0c9b230",
+          "officialCode": "S",
+          "pitchType": "Curveball",
+          "pitchSpeedMph": 78.7,
+          "countBefore": {
+            "balls": 1,
+            "strikes": 2,
+            "outs": 1
+          },
+          "countAfterPitch": {
+            "balls": 1,
+            "strikes": 3,
+            "outs": 1
+          },
+          "finalRuling": "Swinging Strike / strikeout; matched original broadcast caption explicitly says the same-pitch check was asked of the third-base umpire and he ruled the batter went.",
+          "caller": "Unknown · third-base umpire",
+          "callerEvidence": "Raw caption: “They’ll ask if he went and he did. Adam back at third base, rings him up.” Full context identifies the third-base crew member only as Adam; surname/identity not independently confirmed.",
+          "localHDClip": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/perdomo-selected-201p0-205p25.mp4",
+          "localHDSourceStart": 201.0,
+          "localHDSourceEnd": 205.25,
+          "localVideoSha256": "abb2417d298da02fa4b0a3ff5eeddc54e659f3bcc8cd1299ae865fcde2585c37",
+          "proofFrames": [
+            {
+              "path": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/frame-0.5.jpg",
+              "sha256": "93049aa33de917c14a9392f44cded61ae1e96a6559ed89731138c59476c4b142"
+            },
+            {
+              "path": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/frame-1.5.jpg",
+              "sha256": "34c54a09b6f14cb3bcd6750944a9b1d552d726d42f71b3582b6dde637311f74d"
+            },
+            {
+              "path": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/frame-2.5.jpg",
+              "sha256": "fdf25760482faafa207e1f0ca7af21da09cd1fa7664527a86351483e6c43d050"
+            },
+            {
+              "path": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/frame-4.5.jpg",
+              "sha256": "e5159eb3775e667b0f4adc440b4f998e6f85cf42a3067d485f5d692aee2523db"
+            },
+            {
+              "path": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/frame-4.75.jpg",
+              "sha256": "80ab692eb103c916f414691ef151141b5c0cc45cff52326cc544e6084803e6a9"
+            }
+          ],
+          "camera": "Low third-base-side profile/front of the left-handed batter; complete figure and feet remain in frame, chest/front visible, with rounded barrel/cap clear in the loaded stance.",
+          "fullLoadedCapBeforeForwardMotion": true,
+          "wholeAttemptThroughFinishAndInitialReturn": true,
+          "sameExactPitchAndBatter": true,
+          "resultOrCallerIncluded": false,
+          "containsUnrelatedNextPitch": false,
+          "fullMotion": "At source 201.0 (native-window-local 0.5), the replay transition is complete; Perdomo is planted and fully loaded, hands back and the rounded barrel/cap clearly visible above the shoulder before forward motion. He drives the bat through the plate area, rotates fully and finishes bent over with the barrel/arms wrapping through. The crop runs through the complete attempt and initial settling/return, ending at 205.25 before the cut to the third-base umpire. No caller, result graphic, catcher head-turn/rise, or next pitch is included. The raw same-pitch third-base appeal is explicit, so continuation through finish is eligible.",
+          "timingMethod": "The frozen HLS time map gives a 193.309–210.026 cue window; the bounded low-HLS window shows the replay side angle around 200.5–205.3. Independently bounded the listed 1280x720 MP4 at 200.5 for 7 seconds; the replay transition and frames align with the mapped low-HLS sequence. Selected 201.0–205.25 after the brief transition and before the umpire shot. No full master downloaded.",
+          "audioMustRemainMuted": true,
+          "freshFeedPath": "check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/game-661362-fresh-feed.json",
+          "freshFeedSha256": "80dfae9f997e98248664a34decd94be7fc40b4f848a30d3172f08f95c2c8ed12",
+          "freshFeedCheck": "Independent exact feed: gamePk 661362, type R, officialDate 2022-05-02. Top 5 AB 31 is Geraldo Perdomo #2 LHB against Pablo López #49 RHP. One out and 1–2 before the pitch. Pitch 5 playId 4d5f9d78-cc64-48d2-88e2-384a2a940a76 is a 78.7 mph Curveball, code S. Count after pitch 1–3; strikeout makes the second out. The feed hasReview flag is false; the matched original broadcast caption directly establishes a same-pitch third-base appeal.",
+          "dedup": {
+            "canonicalCount": 465,
+            "exactPitchMatches": [],
+            "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "indexSha256": "df4afb756d457d678a1e27cfb8cadecbffc76f6df58663e260a4451e14cf1baa",
+            "identityKey": "gamePk=661362 + playId=4d5f9d78-cc64-48d2-88e2-384a2a940a76"
+          },
+          "candidateAvailableFrom": "2026-11-02",
+          "candidateApproval": true,
+          "canonicalChange": false
+        }
+      },
+      "independentAuditGroup": "season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/audit-peer/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/audit-peer/audit.json": {
+      "schema": "v4-independent-peer-review-v1",
+      "reviewer": "luna-independent-peer",
+      "decision": "APPROVED",
+      "candidateId": "geraldo-perdomo-20220502-661362-4d5f9d78",
+      "sourceKey": "00327b95d0c9b230",
+      "originReviewQueueIndex": 97,
+      "primaryArtifacts": {
+        "candidateWrapperSha256": "eec93cdf9c3c88281711fa174d960ddfd7b1a831dca74a59c8afbc65c5766e0b",
+        "primaryAuditSha256": "695d3be9c2759f8013fd9a72d923cff6fa35ec13014176766cb6f58eb5d47387"
+      },
+      "source": {
+        "page": "https://www.mlb.com/video/cg-ari-mia-5-2-22",
+        "actualMp4Url": "https://mlb-cuts-diamond.mlb.com/FORGE/2022/2022-05/02/aa950883-917a7287-2bbb25d1-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+        "selectedBoundsSeconds": [
+          201.0,
+          205.25
+        ],
+        "selectedClip": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/perdomo-selected-201p0-205p25.mp4",
+        "selectedClipSha256": "abb2417d298da02fa4b0a3ff5eeddc54e659f3bcc8cd1299ae865fcde2585c37"
+      },
+      "independentOriginalMp4Decode": {
+        "boundedClip": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/original-mp4-199p5-207p5.mp4",
+        "bounds": [
+          199.5,
+          207.5
+        ],
+        "sha256": "8ada4dd0aa67efb2b8f30c1da4000f31a1e2e76cc25e12a344bf55542e331387",
+        "fullWindowGrid": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/original-mp4-full-window-4fps.jpg",
+        "fullWindowGridSha256": "263dfa0aa8efcac34e47ee18176cbb23bae26e9948ff0f0924730cc6acc1d1fa",
+        "criticalFrames": {
+          "frame-2p0-forward.png": {
+            "path": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/frame-2p0-forward.png",
+            "sha256": "9fbf31a45f5a56e375cf6b0c2da6a8dd4df1250a99d9c58f86f03cb5be10c11f"
+          },
+          "frame-1p75-before-forward.png": {
+            "path": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/frame-1p75-before-forward.png",
+            "sha256": "1f42b0d0046c308ef9651629f93a3ec6fdd2dba22f86f5394dc60b1b165c4551"
+          },
+          "frame-2p5-mid-motion.png": {
+            "path": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/frame-2p5-mid-motion.png",
+            "sha256": "b2b9090bd29ed7eb88fd09902a9ddac6e1bf3070913a2da0ff49ad0a068865e5"
+          },
+          "frame-5p75-crop-end.png": {
+            "path": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/frame-5p75-crop-end.png",
+            "sha256": "0184c61af75fec5b011c1e818053aa26369d96b421fbc6c1571f143585a109f5"
+          },
+          "frame-1p5-onset.png": {
+            "path": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/frame-1p5-onset.png",
+            "sha256": "732f376d4188219cf6a930e0694593419b428eaaa7ead8cbfd6feaac8f0dd9d8"
+          }
+        }
+      },
+      "exactFeed": {
+        "endpoint": "https://statsapi.mlb.com/api/v1.1/game/661362/feed/live",
+        "file": "/workspace/check-swing/expansion500/season-condensed/phrase-rescan-v4-20261101/review-block-0080-0159-luna-v4-20261101/00327b95d0c9b230/luna-peer-review/game-661362-independent-feed.json",
+        "sha256": "80dfae9f997e98248664a34decd94be7fc40b4f848a30d3172f08f95c2c8ed12",
+        "gamePk": 661362,
+        "officialDate": "2022-05-02",
+        "gameType": "R",
+        "atBatIndex": 31,
+        "playId": "4d5f9d78-cc64-48d2-88e2-384a2a940a76",
+        "pitchNumber": 5,
+        "batter": "Geraldo Perdomo",
+        "jersey": 2,
+        "batterHand": "L",
+        "pitcher": "Pablo López",
+        "pitcherJersey": 49,
+        "pitcherHand": "R",
+        "inning": "top 5",
+        "outsBefore": 1,
+        "countBefore": "1-2",
+        "scoreBefore": "ARI 2–MIA 0",
+        "call": "Swinging Strike",
+        "pitchType": "Curveball",
+        "pitchSpeedMph": 78.7,
+        "countAfter": {
+          "balls": 1,
+          "strikes": 3,
+          "outs": 1
+        },
+        "atBatResult": "Geraldo Perdomo strikes out swinging.",
+        "hasReview": false,
+        "thirdBaseOfficial": "Adam Beck"
+      },
+      "appealEvidence": {
+        "excerpt": "They'll ask if he went and he did. Adam back at third base, rings him up and there's two away strikeout number seven for Pablo.",
+        "assessment": "Specific same-pitch appeal is explicit in the broadcast. The independent feed crew assigns Adam Beck to third base. The false hasReview flag was not used to infer appeal or non-appeal."
+      },
+      "visualReview": {
+        "camera": "Batter-side 3B profile for left-handed batter; front/chest and full body/feet visible, with the catcher at an oblique side angle. This is not the CF or pitcher-axis front view.",
+        "loadedCap": "PASS. At source 201.0 and 201.25 seconds, Perdomo is planted and fully loaded, and the entire rounded barrel cap is visible above/behind his shoulder. This precedes forward movement into the pitch.",
+        "wholeMotion": "PASS. Selected clip shows forward movement through the plate area, complete finish, and initial settling/return.",
+        "cleanBounds": "PASS. Starts after transition to side replay and ends at source 205.25, before the cut to the umpire/result; no next pitch.",
+        "identity": "PASS. Arizona jersey #2, live source count/inning/score, and independent exact feed agree on this exact at-bat and pitch.",
+        "appealRule": "Actual specific appeal allows the continuous full finish; no braking/recoil requirement."
+      },
+      "dedup": {
+        "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "indexSha256": "5daacc4acb930a071848417ca1c0f63bd4fd57d0befd227c625835d279f6d034",
+        "catalogCount": 466,
+        "exactGamePkPlayIdMatches": []
+      },
+      "canonicalModified": false,
+      "availableFrom": "2026-11-02"
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
