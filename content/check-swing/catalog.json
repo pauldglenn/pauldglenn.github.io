@@ -8988,5 +8988,27 @@
       "pitchNumber": 8,
       "playId": "bc65fe34-7aea-3412-ac9d-ef74cf7ab01d"
     }
+  },
+  {
+    "id": "gleyber-torres-20241019-775309-ab3d3d08",
+    "batter": "Gleyber Torres",
+    "date": "2024-10-19",
+    "matchup": "NYY at CLE",
+    "base": 1,
+    "strike": true,
+    "start": 862.5,
+    "end": 867.3,
+    "umpire": "Unknown",
+    "context": "Game 5, top of the 10th, tied 2-2, one out before the pitch, runners on 1st and 2nd. Gleyber Torres No. 25, RHB, faced Hunter Gaddis, RHP. The exact fourth pitch was an 89.1 mph slider, 0-2, swinging strike / strike 3. Matched raw broadcast caption: “Did he go? They will ask, he did go. Torres strikes out cannot check his swing.”",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/775309/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-nyy-cle-game-5",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/19/597f8b8c-e1f680cc-b51c7da0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 775309,
+      "atBatIndex": 72,
+      "pitchNumber": 4,
+      "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7"
+    }
   }
 ]

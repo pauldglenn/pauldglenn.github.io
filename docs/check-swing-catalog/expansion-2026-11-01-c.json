@@ -1,0 +1,236 @@
+{
+  "added": 1,
+  "total": 465,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Novel public MLB postseason condensed-game sources located through official game-content metadata and captions, followed by primary and independent review of exact pitch, actual appeal, whole side motion and clean playback boundaries.",
+  "clips": [
+    {
+      "id": "gleyber-torres-20241019-775309-ab3d3d08",
+      "batter": "Gleyber Torres",
+      "date": "2024-10-19",
+      "matchup": "NYY at CLE",
+      "base": 1,
+      "strike": true,
+      "start": 862.5,
+      "end": 867.3,
+      "umpire": "Unknown",
+      "context": "Game 5, top of the 10th, tied 2-2, one out before the pitch, runners on 1st and 2nd. Gleyber Torres No. 25, RHB, faced Hunter Gaddis, RHP. The exact fourth pitch was an 89.1 mph slider, 0-2, swinging strike / strike 3. Matched raw broadcast caption: “Did he go? They will ask, he did go. Torres strikes out cannot check his swing.”",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/775309/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-nyy-cle-game-5",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/19/597f8b8c-e1f680cc-b51c7da0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 775309,
+        "atBatIndex": 72,
+        "pitchNumber": 4,
+        "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7"
+      },
+      "primaryEvidence": {
+        "id": "gleyber-torres-20241019-775309-ab3d3d08",
+        "batter": "Gleyber Torres",
+        "date": "2024-10-19",
+        "matchup": "NYY at CLE",
+        "base": 1,
+        "start": 863.0,
+        "end": 867.3,
+        "umpire": "Unknown · likely 3B (crew: Gabe Morales)",
+        "context": "Top 10, one out, runners on first and second; Gleyber Torres (RHB) faces Hunter Gaddis (RHP), score tied 2–2, 0–2. The final slider is recorded as a swinging strike. The raw broadcast says “Did he go? They will ask, he did go.”",
+        "strike": true,
+        "source": "https://www.mlb.com/video/condensed-game-nyy-cle-game-5",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/19/597f8b8c-e1f680cc-b51c7da0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/775309/feed/live",
+        "availableFrom": "2026-11-02",
+        "pitchIdentity": {
+          "gamePk": 775309,
+          "atBatIndex": 72,
+          "pitchNumber": 4,
+          "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7"
+        },
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna",
+          "originReviewQueueIndex": 69,
+          "queueKey": "2aad332699fcb025",
+          "gamePk": 775309,
+          "atBatIndex": 72,
+          "pitchNumber": 4,
+          "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7",
+          "officialCode": "S",
+          "officialPitchProof": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/fresh-pitch-proof.json",
+          "nativeVideo": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/focused-1280.mp4",
+          "nativeSourceOffset": 849.0,
+          "nativeSourceProof": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/proof.json",
+          "nativeSha256": "22a454b4395f55338c500f5e6741b7886d2f09cb580c6c3415c301460dfddc27",
+          "localCandidate": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/gleyber-torres-proposed.mp4",
+          "localCandidateStart": 14.0,
+          "localCandidateDuration": 4.2876,
+          "proposedSha256": "a58f5180b834fd0e0ce15b4e578e0b4fa4355992c3f505b37251ff8a7442975b",
+          "notes": "Native 1280x720 full-rate bounded extract reviewed in full-duration and event grids. A clean lateral side replay shows the full-body/bat load before forward movement, attempted checking motion and finish/recovery before the camera cut. It contains a complete same-pitch attempt; no unrelated next pitch or later batter. Keep pending independent review of the precise swing judgment and replay bounds.",
+          "callerEvidence": "Same-pitch raw caption: “Did he go? They will ask, he did go.” Fresh crew lists Gabe Morales at 3B and Vic Carapazza at 1B. Broadcast cutaway to the base umpire appears after the attempt, but the official is not visually identifiable; caller left Unknown.",
+          "timing": "Native paired MP4 bounded from source offset 849s; candidate replay spans native offsets 863.0–867.3s. Caption timing only localized the event.",
+          "dedup": {
+            "canonicalCount": 462,
+            "canonicalMatches": [],
+            "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "indexSha256": "646f5817a569970fe21b1de65b41e4b61250e5c76e1ace005a1a297d6fd1fdfe"
+          },
+          "visualEvidencePaths": [
+            "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/focused-full-duration-1fps.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/focused-pitch-6fps.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/focused-call-6fps.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/focused-lateral-8fps.jpg",
+            "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/proposed-full-motion-4fps.jpg"
+          ]
+        }
+      },
+      "independentAuditGroup": "season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/audit-peer/audit-corrected.json"
+    }
+  ],
+  "auditGroups": {
+    "season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/audit-peer/audit-corrected.json": {
+      "schema": "postseason-discovery-peer-audit-v1",
+      "reviewer": "luna-peer",
+      "scope": {
+        "originReviewQueueIndex": 69,
+        "sourceKey": "2aad332699fcb025",
+        "gamePk": 775309,
+        "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7"
+      },
+      "decision": "APPROVE",
+      "candidateCount": 1,
+      "freshFeed": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/audit-peer/775309-fresh-feed-independent.json",
+      "freshFeedSha256": "6663901e0579e7db04e9a16a679346449c3cdf28082cc1ba26db370f798f7f17",
+      "queueSourceTitle": "Condensed Game: NYY@CLE - Game 5",
+      "exactStats": {
+        "batter": "Gleyber Torres",
+        "jersey": "25",
+        "batSide": {
+          "code": "R",
+          "description": "Right"
+        },
+        "pitcher": "Hunter Gaddis",
+        "pitchHand": {
+          "code": "R",
+          "description": "Right"
+        },
+        "pitchNumber": 4,
+        "playId": "ab3d3d08-9733-439c-b9b1-53ed7a54e4f7",
+        "call": {
+          "code": "S",
+          "description": "Swinging Strike"
+        },
+        "pitchType": {
+          "code": "SL",
+          "description": "Slider"
+        },
+        "startSpeed": 89.1,
+        "countBefore": {
+          "balls": 0,
+          "strikes": 2,
+          "outs": 1
+        },
+        "inning": 10,
+        "halfInning": "top",
+        "scoreBefore": {
+          "away": 2,
+          "home": 2
+        },
+        "atBatResult": "Gleyber Torres strikes out swinging.",
+        "crew": [
+          {
+            "role": "Home Plate",
+            "id": 484198,
+            "name": "Alan Porter"
+          },
+          {
+            "role": "First Base",
+            "id": 483569,
+            "name": "Vic Carapazza"
+          },
+          {
+            "role": "Second Base",
+            "id": 482631,
+            "name": "Mike Estabrook"
+          },
+          {
+            "role": "Third Base",
+            "id": 573597,
+            "name": "Gabe Morales"
+          },
+          {
+            "role": "Left Field",
+            "id": 427248,
+            "name": "Dan Iassogna"
+          },
+          {
+            "role": "Right Field",
+            "id": 503490,
+            "name": "Chris Segal"
+          }
+        ],
+        "countAfterEvent": {
+          "balls": 0,
+          "strikes": 3,
+          "outs": 1
+        }
+      },
+      "appeal": "Raw matched broadcast caption: “Did he go? They will ask, he did go.” Caller is left Unknown; the official crew assignments are recorded in the exact game feed.",
+      "visualReview": {
+        "camera": "right-handed batter chest / first-base-side lateral replay",
+        "selectedBounds": [
+          862.5,
+          867.3
+        ],
+        "fullLoadBeforeForwardMotion": true,
+        "wholeAttemptAndRecoveryVisible": true,
+        "sameExactPitchAndBatter": true,
+        "resultOrCallerIncluded": false,
+        "containsUnrelatedNextPitch": false,
+        "notes": "Source offset 849s plus local 13.5–18.3s. At 13.5 the replay is at full pre-forward load; it proceeds through attempt and recovery before the cut to Gaddis. Scorebug identifies Gaddis P:15, Gleyber Torres, 0–2 and top 10, matching pitch four of AB 72 in the feed."
+      },
+      "proofFiles": {
+        "widerCandidate": "check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/audit-peer/torres-motion-native.mp4",
+        "widerCandidateSha256": "e5b95beb47df80489372eb460ceae07a3411e5b9dc1d6c7ac91cf6e4686c83d3",
+        "visualGrid": "check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/audit-peer/torres-motion-grid.jpg",
+        "visualGridSha256": "a87069f36f5415ee87649ce6e6ed2e540a575766832f8112cc372282f1874d2b",
+        "freshFeed": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/audit-peer/775309-fresh-feed-independent.json",
+        "freshFeedSha256": "6663901e0579e7db04e9a16a679346449c3cdf28082cc1ba26db370f798f7f17",
+        "primaryWrapper": "check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-060-079-luna/2aad332699fcb025/candidate-wrapper.json",
+        "primaryWrapperUnmodified": true,
+        "frozenPairedMp4Url": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/19/597f8b8c-e1f680cc-b51c7da0-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "frozenSourceKey": "2aad332699fcb025",
+        "localHDSourceClockRange": [
+          862.5,
+          867.3
+        ]
+      },
+      "dedup": {
+        "canonicalCount": 462,
+        "matches": [],
+        "indexSha256": "646f5817a569970fe21b1de65b41e4b61250e5c76e1ace005a1a297d6fd1fdfe"
+      },
+      "canonicalChange": false,
+      "correction": {
+        "corrects": "Original approved-candidates used a StatsAPI feed URL in candidate.video and audit countBefore mistakenly recorded countAfterPitch (0-3).",
+        "videoField": "Corrected to exact pairedMp4Url in frozen sourceKey 2aad332699fcb025 row (1280x720 59fps MP4).",
+        "countBefore": {
+          "balls": 0,
+          "strikes": 2,
+          "outs": 1
+        },
+        "sourceClock": [
+          862.5,
+          867.3
+        ]
+      }
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "Albies20211029": "Withdrawn after independent root visual review identified proposed MP4 replay as Travis dArnaud16bottom2, notAlbies1bottom7. Freshfeed and root/Luna corrections retained; no replacement published.",
+    "Cronenworth20250827": "Remains unpublished: root review identifies pitcher-axis camera, pure HBP avoidance and uncalibrated proposed MP4 boundaries. Earlier peer approval superseded by explicit append-only root correction.",
+    "Perez20210614": "Held: exact identity and side-angle established, but independent appeal proof/physical checking and full finish insufficient.",
+    "Vientos20241002": "Peer approval rescinded after independent root full PNG and10fps onset review found initial dissolve and loaded barrel cap cropped until forward movement. Remains unpublished."
+  }
+}
