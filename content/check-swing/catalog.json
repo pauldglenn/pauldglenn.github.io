@@ -9054,5 +9054,27 @@
       "pitchNumber": 5,
       "playId": "4d5f9d78-cc64-48d2-88e2-384a2a940a76"
     }
+  },
+  {
+    "id": "alex-bregman-20190409-565610-1920efbf",
+    "batter": "Alex Bregman",
+    "date": "2019-04-09",
+    "matchup": "NYY at HOU",
+    "base": 1,
+    "strike": true,
+    "start": 188.2,
+    "end": 190.6,
+    "umpire": "Alfonso Márquez · first-base umpire",
+    "context": "Bottom 1, two outs before the pitch; Yankees lead 1–0. Alex Bregman #2 (RHB) vs Jonathan Loáisiga (RHP), 1–2 count. Pitch five was an 84.1 mph curveball, recorded as swinging strike three (blocked). The original live broadcast shows a first-base umpire fist on this pitch; adjacent broadcast audio says “half swing … did he go, he did.”",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/565610/feed/live",
+    "source": "https://www.mlb.com/video/cg-nyy-hou-4-9-19",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-04/09/382f92f8-508dd159-be563fea-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 565610,
+      "atBatIndex": 6,
+      "pitchNumber": 5,
+      "playId": "1920efbf-247d-4f17-9067-72606d52e657"
+    }
   }
 ]
