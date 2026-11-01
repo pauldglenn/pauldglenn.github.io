@@ -1,0 +1,817 @@
+{
+  "added": 2,
+  "total": 485,
+  "dailyActivation": "2026-11-02",
+  "discovery": "New bounded fullgame audio scans locate AaronMiles2006; ranking the completed fullgame speech locators independently surfaces SamFuld2012. Primary and independent originalvideo/exactpitch/actualcall/cap/wholemotion review verifies both thirdbase appeals. AndyFletcher verified forFuld; Milescaller remainsUnknown ratherthaninferred. Publicprepitchcontexts neutral. All483priorentries and historicaldaily selections unchanged.",
+  "clips": [
+    {
+      "id": "aaron-miles-20060822-41819-ab35-p5-00418196-0366-0053",
+      "batter": "Aaron Miles",
+      "date": "2006-08-22",
+      "matchup": "Cardinals at Mets",
+      "base": 3,
+      "strike": false,
+      "start": 5492.6,
+      "end": 5496.8,
+      "umpire": "Unknown",
+      "context": "Aaron Miles faces John Maine with a 3–1 count and two outs in the fifth inning. St. Louis leads New York 3–1.",
+      "evidence": "https://statsapi.mlb.com/api/v1/game/41819/playByPlay",
+      "source": "https://www.mlb.com/video/beltran-s-walk-off-caps-epic-matchup-at-shea-stadium-x0539",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset_1280x720_59_16000K.mp4",
+      "availableFrom": "2026-11-02",
+      "footageCredit": "MLB archived 2006 regular-season broadcast",
+      "pitchIdentity": {
+        "gamePk": 41819,
+        "atBatIndex": 35,
+        "pitchNumber": 5,
+        "playId": "00418196-0366-0053-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "aaron-miles-20060822-41819-ab35-p5-00418196-0366-0053",
+          "batter": "Aaron Miles",
+          "strike": false,
+          "start": 5492.6,
+          "end": 5496.8,
+          "umpire": "Unknown",
+          "context": "Top of the fifth, St. Louis 3–1, two outs. Aaron Miles (left-handed) faced John Maine (right-handed); the count was 3–1 before pitch 5. StatsAPI records pitch 5 as Ball (4–1), completing Miles’s walk.",
+          "date": "2006-08-22",
+          "matchup": "St. Louis Cardinals at New York Mets",
+          "base": null,
+          "evidence": "https://statsapi.mlb.com/api/v1/game/41819/playByPlay",
+          "source": "https://www.mlb.com/video/beltran-s-walk-off-caps-epic-matchup-at-shea-stadium-x0539",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset_1280x720_59_16000K.mp4",
+          "footageCredit": "MLB archived 2006 regular-season broadcast"
+        },
+        "review": {
+          "gamePk": 41819,
+          "atBatIndex": 35,
+          "pitchNumber": 5,
+          "playId": "00418196-0366-0053-000c-f08cd117d70a",
+          "status": "primary-proposed-for-independent-peer-review; not accepted/published",
+          "atBat": {
+            "about": {
+              "atBatIndex": 35,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 5,
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": false,
+              "captivatingIndex": 0
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Walk",
+              "eventType": "walk",
+              "description": "Aaron Miles walks.",
+              "rbi": 0,
+              "awayScore": 3,
+              "homeScore": 1,
+              "isOut": false
+            },
+            "count": {
+              "balls": 4,
+              "strikes": 1,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 425446,
+                "fullName": "Aaron Miles",
+                "link": "/api/v1/people/425446"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 429720,
+                "fullName": "John Maine",
+                "link": "/api/v1/people/429720"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 425446,
+                "fullName": "Aaron Miles",
+                "link": "/api/v1/people/425446"
+              },
+              "postOnThird": {
+                "id": 425877,
+                "fullName": "Yadier Molina",
+                "link": "/api/v1/people/425877"
+              },
+              "batterHotColdZones": [],
+              "pitcherHotColdZones": [],
+              "splits": {
+                "batter": "vs_RHP",
+                "pitcher": "vs_LHB",
+                "menOnBase": "RISP"
+              }
+            },
+            "lastPitch": {
+              "details": {
+                "call": {
+                  "code": "B",
+                  "description": "Ball"
+                },
+                "description": "Ball",
+                "code": "B",
+                "ballColor": "rgba(39, 161, 39, 1.0)",
+                "isInPlay": false,
+                "isStrike": false,
+                "isBall": true,
+                "isOut": false,
+                "hasReview": false
+              },
+              "count": {
+                "balls": 4,
+                "strikes": 1,
+                "outs": 2
+              },
+              "pitchData": {
+                "strikeZoneTop": 3.032,
+                "strikeZoneBottom": 1.53,
+                "coordinates": {
+                  "x": 144.21,
+                  "y": 125.2
+                },
+                "breaks": {}
+              },
+              "index": 5,
+              "playId": "00418196-0366-0053-000c-f08cd117d70a",
+              "pitchNumber": 5,
+              "isPitch": true,
+              "type": "pitch"
+            }
+          },
+          "sourceClockAssessment": {
+            "selectedBoundsAreOriginalListedMp4Clock": true,
+            "selectedStartEndInsideNativeProof": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/native-5491-5499.mp4",
+              "sha256": "773e9f16a68c2390895d6627014aa09133ac1bde19a44147fe3ad9f18cabfdb8",
+              "fullProofOriginalClock": [
+                5491.0,
+                5499.0
+              ]
+            },
+            "nativeMotionFrames": {
+              "1.6": {
+                "absoluteOriginalMp4Time": 5492.6,
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/critical/frame-1.6.png",
+                "sha256": "c0ce878928fc2395d01adfb57edcc4a1c9daece907a439570b12c817c34a4983"
+              },
+              "2.8": {
+                "absoluteOriginalMp4Time": 5493.8,
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/critical/frame-2.8.png",
+                "sha256": "a548c9b4bbbcb3cc979c0faaf216951e1d6947c4e2b324a6b20c7e5ae2784b9e"
+              },
+              "3.2": {
+                "absoluteOriginalMp4Time": 5494.2,
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/critical/frame-3.2.png",
+                "sha256": "30e198bd601530bfcc073d0fde63429103581499b86db4e2e9229fcd40d20235"
+              },
+              "4.0": {
+                "absoluteOriginalMp4Time": 5495.0,
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/critical/frame-4.0.png",
+                "sha256": "100a1b22425fa8c168a230a0350b96e4a4774b2362bc0027cb445cf3d6b3708f"
+              },
+              "5.6": {
+                "absoluteOriginalMp4Time": 5496.6,
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/critical/frame-5.6.png",
+                "sha256": "6c6b57b0afe2b40ac08615c9481d5b99db9c29ad937c62934efebd1cc7df6a70"
+              }
+            },
+            "loadedCapBeforeForward": "At original MP4 5492.6 and 5493.8, the complete rounded barrel/cap is visible in side camera with the hitter set; hands/bat advance by 5494.2–5495.0.",
+            "motionFinish": "At 5496.6 the attempt has completed its forward arc/follow-through; side view dissolves to the live wide shot near 5497.0.",
+            "geometry": "Full-body close side replay along dugout/foul-line side view; left-handed hitter #12. Root peer should independently confirm this is the qualifying base-side profile and same-pitch replay.",
+            "liveCallProof": {
+              "nativeMp4Clip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-live-call/native-5480-5488.mp4",
+              "sha256": "57a0d25576495497b297ee47c2a8bb8e1545d4732bd3dc22f36c84cd9696145e",
+              "originalClock": [
+                5480.0,
+                5488.0
+              ],
+              "observedGesture": "Umpire extends both arms horizontally after the live pitch; caller identity/crew role left Unknown."
+            },
+            "hlsContextGrid": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/camera-row82-5479-grid.jpg",
+              "sha256": "40d09470e591355007322772ba15b9254e529fc9f72fdcdafb312b7596bbc9c8",
+              "sourceClock": [
+                5467.0,
+                5501.0
+              ],
+              "showsLivePitchThenUmpireSignalThenTop/sideReplay": true
+            },
+            "denseHlsGrid": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/camera-row82-5479-dense-grid.jpg",
+              "sha256": "a825cbf5dcd572e7d2be3da77f29d9132e0017dd0b7bb6f6482e5d737dcd1d20"
+            },
+            "timelineCaution": "HLS ASR locator time 5478.9–5480.9 is not used as the MP4 clip bound. Selected replay bounds are independently read from original listed MP4 timestamps; HLS and MP4 edit clocks differ slightly."
+          },
+          "asrLocatorOnly": {
+            "resultsPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/asr-group-a-luna/results.json",
+            "snapshotSha256AtReview": "55b30127ab78a4a9c3e6f5b93fda4b65250a8222ec0e7fa47684454c8513eb87",
+            "sourceKey": "taxonomy-fullgame-row82-2006-08-22-game41819",
+            "utteranceHits": [
+              {
+                "resultInputIndex": 9,
+                "sourceOffsetSeconds": 5400.0,
+                "hit": {
+                  "start": 5478.9,
+                  "end": 5480.9,
+                  "phrase": "Did he go",
+                  "excerpt": "bout how they're going to handle the money issues. In other words how much of the salary the Diamondbacks will pick up. Did he go and stop his swing and miles draws the walk. One out of one on.",
+                  "timestampBasis": "Whisper timestamp tokens at 0.02s resolution; ASR locator only",
+                  "supportingChunks": 1
+                }
+              },
+              {
+                "resultInputIndex": 9,
+                "sourceOffsetSeconds": 5400.0,
+                "hit": {
+                  "start": 5478.9,
+                  "end": 5480.9,
+                  "phrase": "stop his swing",
+                  "excerpt": "re going to handle the money issues. In other words how much of the salary the Diamondbacks will pick up. Did he go and stop his swing and miles draws the walk. One out of one on.",
+                  "timestampBasis": "Whisper timestamp tokens at 0.02s resolution; ASR locator only",
+                  "supportingChunks": 1
+                }
+              }
+            ],
+            "rule": "ASR is a locator only; ruling and pitch identity come from visual motion + fresh feed."
+          },
+          "freshFeed": {
+            "url": "https://statsapi.mlb.com/api/v1/game/41819/playByPlay",
+            "httpStatus": 200,
+            "rawJsonSha256": "0c1d93cf38932b0ef473e173ec561f95744e71269255b6c5603e7f3ece2fc231",
+            "gzipPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/evidence/statsapi-game-41819-playByPlay.json.gz",
+            "gzipSha256": "48ad0e7ee5589b4ad23b5d9c6aaccb981dc97742133b27f8c769458413a2dc81",
+            "dedup": {
+              "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "publishedPitchIndexSha256": "0c47ceec6d51a6a8c20c9357c1aa9b21db46dd3e037ee793d315977dd0a4c2e2",
+              "publishedIndexCount": 483,
+              "matchingGameOrPlayId": []
+            }
+          },
+          "samePitchAppealSupport": "ASR transcript locator and source sequence: “Did he go and stop his swing ... Miles draws the walk,” followed by replay narration “...shocked he didn’t ring him up ... he didn’t go.” Original MP4 live umpire shot shows the arms-out signal; fresh feed confirms the final pitch is Ball/4–1 walk. Do not infer caller or appeal base from crew conventions."
+        },
+        "sourceProvenance": {
+          "sourceMetadataRecordSha256": "a37624250e126e0f4e96a7656cead05593f85e5915ee3dc051ecd84722ae0050",
+          "pageRawSha256": "538e11dc4144e397b16c20913359a9d1eb173b8e3475b82d922bfa2c1724b4d1",
+          "masterUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset.m3u8",
+          "pageListedMp4Url": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset_1280x720_59_16000K.mp4",
+          "lowestHlsChild": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset_450K.m3u8",
+          "inputAsrPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/resolved-input-group-a.json",
+          "inputAsrSha256": "4397aef4fe472d12c070a0475a0f213d98181d7b2f8d5dc6d0d34a321c2f5587"
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/review-row82-miles-luna/peer-luna/audit.json"
+    },
+    {
+      "id": "sam-fuld-20120815-319490-ab22-p3-03194906-0236-0033",
+      "batter": "Sam Fuld",
+      "date": "2012-08-15",
+      "matchup": "Rays at Mariners",
+      "base": 3,
+      "strike": false,
+      "start": 2393.3,
+      "end": 2397.2,
+      "umpire": "Andy Fletcher · third-base umpire",
+      "context": "Sam Fuld faces Félix Hernández with an 0–2 count in the fourth inning. Tampa Bay trails Seattle 1–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1/game/319490/playByPlay",
+      "source": "https://www.mlb.com/video/felix-hernandez-perfect-game",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2012/2012-08/15/ee1148cf-56b6edea-6092608a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB archived 2012 regular-season broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 319490,
+        "atBatIndex": 22,
+        "pitchNumber": 3,
+        "playId": "03194906-0236-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "sam-fuld-20120815-319490-ab22-p3-03194906-0236-0033",
+          "batter": "Sam Fuld",
+          "strike": false,
+          "start": 2393.3,
+          "end": 2397.2,
+          "umpire": "Andy Fletcher (third-base umpire; subject to independent peer confirmation)",
+          "context": "Top of the fourth, Tampa Bay 0–Seattle 1, Sam Fuld bats left-handed against Félix Hernández, right-handed. Before pitch 3 the count is 0–2; StatsAPI records the 81.4 mph curveball as Ball, making the count 1–2. The candidate interval is the same-pitch side replay only; it excludes the live call and does not expose a count/result overlay.",
+          "date": "2012-08-15",
+          "matchup": "Tampa Bay Rays at Seattle Mariners",
+          "base": 3,
+          "evidence": "https://statsapi.mlb.com/api/v1/game/319490/playByPlay",
+          "source": "https://www.mlb.com/video/felix-hernandez-perfect-game",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2012/2012-08/15/ee1148cf-56b6edea-6092608a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB archived 2012 regular-season broadcast"
+        },
+        "review": {
+          "gamePk": 319490,
+          "atBatIndex": 22,
+          "pitchNumber": 3,
+          "playId": "03194906-0236-0033-000c-f08cd117d70a",
+          "status": "primary-proposed-for-independent-peer-review; not accepted/published",
+          "atBat": {
+            "about": {
+              "atBatIndex": 22,
+              "halfInning": "top",
+              "isTopInning": true,
+              "inning": 4,
+              "isComplete": true,
+              "isScoringPlay": false,
+              "hasReview": false,
+              "hasOut": true
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Lineout",
+              "eventType": "field_out",
+              "description": "Sam Fuld lines out to third baseman Kyle Seager.",
+              "rbi": 0,
+              "awayScore": 0,
+              "homeScore": 1,
+              "isOut": true
+            },
+            "count": {
+              "balls": 1,
+              "strikes": 2,
+              "outs": 0
+            },
+            "matchup": {
+              "batter": {
+                "id": 453539,
+                "fullName": "Sam Fuld"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 433587,
+                "fullName": "Félix Hernández"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              }
+            },
+            "pitch": {
+              "playId": "03194906-0236-0033-000c-f08cd117d70a",
+              "pitchNumber": 3,
+              "index": 2,
+              "call": {
+                "code": "B",
+                "description": "Ball"
+              },
+              "pitchType": {
+                "code": "CU",
+                "description": "Curveball"
+              },
+              "startSpeedMph": 81.4,
+              "prePitchCount": {
+                "balls": 0,
+                "strikes": 2,
+                "outs": 1
+              },
+              "countAfterPitch": {
+                "balls": 1,
+                "strikes": 2,
+                "outs": 1
+              }
+            }
+          },
+          "sourceClockAssessment": {
+            "selectedBoundsAreOriginalListedMp4Clock": true,
+            "candidateBounds": [
+              2393.3,
+              2397.2
+            ],
+            "nativeProofBounds": [
+              2392.0,
+              2400.0
+            ],
+            "nativeProofPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/native-replay/native-2392-2400.mp4",
+            "nativeProofSha256": "abedd50c5d4aea37acac6ce4a6c15f18e8de6adf4a53d1d6e3b741240a2680b4",
+            "fullRateLoadedCapBeforeForward": "At original MP4 2393.3, Fuld is fully set in the side replay. The complete rounded barrel end is visible above/right of his hands, with no forward swing motion yet. Frame primary-review/critical/frame-loaded-2393.3.jpg preserves this moment. Forward motion is evident by 2394.5 (frame-forward-2394.5.jpg).",
+            "completeMotion": "The bat proceeds through the checked attempt and follow-through, then Fuld returns toward an upright neutral stance by 2397.0; the sequence remains visible in the same side replay through candidate end 2397.2. Selected frame extracts at 2395.5, 2396.5 and 2397.0 support the transition; native full-rate clip is retained.",
+            "geometry": "True side profile from the third-base/dugout side, showing full upper body, both hands and entire rounded bat end before action; camera is not catcher-axis or behind-plate. The full lower body is also in frame.",
+            "liveCallProof": {
+              "sourceClock": [
+                2380.0,
+                2388.0
+              ],
+              "evidenceGrid": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/mp4-original-live-2380-2388-grid.jpg",
+              "evidenceGridSha256": "3712e2ca9057d65564a57eedb66adbe12124df8109bb3c4ff6fde661f848d5e2",
+              "criticalFrame": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/live-call-original-2386.jpg",
+              "criticalFrameSha256": "78c8524fcad9cc461521579d328009f5b26c23d9aec6bd35df22ec0aaedf446c",
+              "observedGesture": "After the live pitch, plate umpire points toward third base and the visible third-base umpire extends both arms horizontally (no-swing). Fresh official crew lists Andy Fletcher at third base. The source transition proceeds directly into the side replay; peer should verify the linkage to pitch 3."
+            },
+            "clockCaution": "ASR/HLS locator time is not used for candidate playback bounds. Side replay and live call were read on the listed original MP4 clock. HLS appears offset by roughly two seconds in this area."
+          },
+          "visualCriticalFrames": {
+            "loaded": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-loaded-2393.3.jpg",
+              "sha256": "74f70aebd52bd171459476205419a8513b892a63ea081956fd3ec6a9cdd8f474"
+            },
+            "forward": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-forward-2394.5.jpg",
+              "sha256": "1195c25f026bf2a50781c0d0cb49d22925e897e3e799efe2b87bd1e5d5f75b87"
+            },
+            "finish": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-finish-2395.5.jpg",
+              "sha256": "68b35c8b016f07c4617da078652abb0d439860ae29a9bd45c103cc81bf710c60"
+            },
+            "return": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-return-2396.5.jpg",
+              "sha256": "253f84aeb03855592631f8caf0d9519cbf2aa8b249d0f8b78a22e105c97b0063"
+            },
+            "settled": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-settled-2397.jpg",
+              "sha256": "84f0133ca6c201be07045d39fd7725d5e175eafcd151c27660d395ba775c59a9"
+            }
+          },
+          "hlsContext": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/hls-2380-2440-labeled.jpg",
+            "sha256": "d92c42fc1f63dbb125b50f127b2f82700eaf288acc4cd8ebfc751b1f33722516",
+            "densePath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/hls-2394-2403-dense-labeled.jpg",
+            "denseSha256": "e92f645ae3c7ef356b6b46118bc763d03ea76e403eaa7255f71214e95670b534"
+          },
+          "asrLocatorOnly": {
+            "sourceKey": "mlb-taxonomy-2012-08-15-319490",
+            "resultsPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/asr-group-1-luna/results.json.gz",
+            "resultsSha256": "631a0743cf0d0251c032995973addca2fa0dbf9045ac6cb50abe66bd2d2d0e1b",
+            "inputPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/resolved-input-group-1.json",
+            "inputSha256": "c9f363cf6c2f5e9c37e9ad60f1f0902edb85173bd8fcf5d111ea38ca7638e6d8",
+            "locatorSegments": [
+              {
+                "start": 2388,
+                "end": 2395,
+                "text": "Felix with that breaking ball"
+              },
+              {
+                "start": 2395,
+                "end": 2397,
+                "text": "again down in the dirt."
+              },
+              {
+                "start": 2397,
+                "end": 2399,
+                "text": "Fold tries to hold up."
+              },
+              {
+                "start": 2399,
+                "end": 2400,
+                "text": "It was close."
+              },
+              {
+                "start": 2400,
+                "end": 2401,
+                "text": "It looked like it was"
+              },
+              {
+                "start": 2400,
+                "end": 2401.44,
+                "text": "his wrist might have brought that"
+              },
+              {
+                "start": 2401.44,
+                "end": 2402.8,
+                "text": "barrel a bit further forward than"
+              },
+              {
+                "start": 2402.8,
+                "end": 2405.8,
+                "text": "it looked in regular motion but"
+              }
+            ],
+            "caution": "ASR is only a locator. It is not used as sole evidence of a check, appeal, call or ruling."
+          },
+          "freshFeed": {
+            "url": "https://statsapi.mlb.com/api/v1/game/319490/playByPlay",
+            "httpStatus": 200,
+            "rawJsonSha256": "f2eb55a4fd031516eaba4a15dce386ec2dc9edef4bcb6fe755dd315e26c2084c",
+            "gzipPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/evidence/statsapi-game-319490-playByPlay.json.gz",
+            "gzipSha256": "5911afc49caf50b2a95c7e8261aad702e8e0ac294fe1ac5cd15d855c098ee6d4",
+            "dedup": {
+              "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "publishedPitchIndexSha256": "0c47ceec6d51a6a8c20c9357c1aa9b21db46dd3e037ee793d315977dd0a4c2e2",
+              "publishedIndexCount": 483,
+              "matchingGameOrPlayId": []
+            }
+          },
+          "samePitchAppealSupport": "Original MP4 live-call shot at 2386 shows HP directing the appeal toward third and third-base umpire extending both arms horizontally. Fresh feed identifies the immediately preceding live pitch as exact p3 (81.4 mph curveball, Ball, 0–2 to 1–2), top4 AB22 for Sam Fuld. The source then cuts to the side replay at about2393.3. Review relies on the visual gesture and sequence plus exact feed pitch—not hasReview or ASR."
+        },
+        "sourceProvenance": {
+          "sourceKey": "mlb-taxonomy-2012-08-15-319490",
+          "sourceMetadataRecordSha256": "33d5a1fd9a7b1126adf6290f3e79889373f58764b2a900d92dea09e78f236574",
+          "pageUrl": "https://www.mlb.com/video/felix-hernandez-perfect-game",
+          "pageRawSha256": "4a046cdf6d07b4100a73967bdb5d37e24f2fbb38432e60a7641c5d30c178debe",
+          "masterUrl": "https://cuts.diamond.mlb.com/FORGE/2012/2012-08/15/ee1148cf-56b6edea-6092608a-csvm-diamondx64-asset.m3u8",
+          "masterSha256": "7071664f0747e22bb76186aa060997a296bd5a6c0f5e303e025c45bc324177e9",
+          "lowestHlsVariant": "https://cuts.diamond.mlb.com/FORGE/2012/2012-08/15/ee1148cf-56b6edea-6092608a-csvm-diamondx64-asset_450K.m3u8",
+          "lowestHlsPlaylistSha256": "ce9d1589c82da210c9748bbdb01edee162f9cbbda0d441117fa09238e901a2ba",
+          "pageListedMp4Url": "https://cuts.diamond.mlb.com/FORGE/2012/2012-08/15/ee1148cf-56b6edea-6092608a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "allProofFiles": {
+            "nativeReplay": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/native-replay/native-2392-2400.mp4",
+              "bytes": 7784407,
+              "sha256": "abedd50c5d4aea37acac6ce4a6c15f18e8de6adf4a53d1d6e3b741240a2680b4"
+            },
+            "liveGrid": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/mp4-original-live-2380-2388-grid.jpg",
+              "bytes": 288883,
+              "sha256": "3712e2ca9057d65564a57eedb66adbe12124df8109bb3c4ff6fde661f848d5e2"
+            },
+            "liveCallFrame": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/live-call-original-2386.jpg",
+              "bytes": 162404,
+              "sha256": "78c8524fcad9cc461521579d328009f5b26c23d9aec6bd35df22ec0aaedf446c"
+            },
+            "loaded": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-loaded-2393.3.jpg",
+              "bytes": 164738,
+              "sha256": "74f70aebd52bd171459476205419a8513b892a63ea081956fd3ec6a9cdd8f474"
+            },
+            "forward": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-forward-2394.5.jpg",
+              "bytes": 177366,
+              "sha256": "1195c25f026bf2a50781c0d0cb49d22925e897e3e799efe2b87bd1e5d5f75b87"
+            },
+            "finish": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-finish-2395.5.jpg",
+              "bytes": 177336,
+              "sha256": "68b35c8b016f07c4617da078652abb0d439860ae29a9bd45c103cc81bf710c60"
+            },
+            "return": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-return-2396.5.jpg",
+              "bytes": 176849,
+              "sha256": "253f84aeb03855592631f8caf0d9519cbf2aa8b249d0f8b78a22e105c97b0063"
+            },
+            "settled": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-settled-2397.jpg",
+              "bytes": 169665,
+              "sha256": "84f0133ca6c201be07045d39fd7725d5e175eafcd151c27660d395ba775c59a9"
+            },
+            "nativeProof": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/native-replay/native-2392-2400.json",
+              "bytes": 789,
+              "sha256": "a85748e630c998a2571c9d7bc71b87c3c057eda255039c0786e9306530b03e49"
+            },
+            "hlsGrid": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/hls-2380-2440-labeled.jpg",
+              "bytes": 976791,
+              "sha256": "d92c42fc1f63dbb125b50f127b2f82700eaf288acc4cd8ebfc751b1f33722516"
+            },
+            "denseGrid": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/hls-2394-2403-dense-labeled.jpg",
+              "bytes": 1297236,
+              "sha256": "e92f645ae3c7ef356b6b46118bc763d03ea76e403eaa7255f71214e95670b534"
+            },
+            "frozen": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/frozen-review-input.json",
+              "bytes": 4594,
+              "sha256": "8b0ec20f6a6ccc1998f96fc0105b4ce8620daeaaa53757bf4af7532042bbb002"
+            },
+            "feed": {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/evidence/statsapi-game-319490-playByPlay.json.gz",
+              "bytes": 64648,
+              "sha256": "5911afc49caf50b2a95c7e8261aad702e8e0ac294fe1ac5cd15d855c098ee6d4"
+            }
+          },
+          "frozenReviewInput": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/frozen-review-input.json",
+            "sha256": "8b0ec20f6a6ccc1998f96fc0105b4ce8620daeaaa53757bf4af7532042bbb002"
+          }
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/peer-review-luna/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/review-row82-miles-luna/peer-luna/audit.json": {
+      "schemaVersion": 1,
+      "reviewer": "luna_2021_mid",
+      "reviewedAtUtc": "2026-11-01",
+      "reviewType": "independent primary peer review",
+      "verdict": "ACCEPTED",
+      "candidateId": "aaron-miles-20060822-41819-ab35-p5-00418196-0366-0053",
+      "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/review-row82-miles-luna/primary-audit.json",
+      "primaryAuditSha256": "f02cf31c56dfc95b1d05babc13be773ef6a281f571222c2ee4e787e9bb9f96b5",
+      "primaryCandidateWrapperPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/review-row82-miles-luna/primary-candidates.json",
+      "primaryCandidateWrapperSha256": "464b3761b9e9c8a42cb2a810e1fb1fbeec1234e25023a475a4c34669b157b8fd",
+      "dedup": {
+        "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "publishedPitchIndexSha256": "0c47ceec6d51a6a8c20c9357c1aa9b21db46dd3e037ee793d315977dd0a4c2e2",
+        "publishedCount": 483,
+        "exactPlayId": "00418196-0366-0053-000c-f08cd117d70a",
+        "alreadyPublished": false
+      },
+      "sourceAndPitch": {
+        "gamePk": 41819,
+        "officialDate": "2006-08-22",
+        "atBatIndex": 35,
+        "inning": 5,
+        "halfInning": "top",
+        "batter": {
+          "id": 425446,
+          "fullName": "Aaron Miles",
+          "link": "/api/v1/people/425446"
+        },
+        "batSide": {
+          "code": "L",
+          "description": "Left"
+        },
+        "pitcher": {
+          "id": 429720,
+          "fullName": "John Maine",
+          "link": "/api/v1/people/429720"
+        },
+        "pitchHand": {
+          "code": "R",
+          "description": "Right"
+        },
+        "pitchNumber": 5,
+        "playId": "00418196-0366-0053-000c-f08cd117d70a",
+        "officialCall": {
+          "code": "B",
+          "description": "Ball"
+        },
+        "countBefore": {
+          "balls": 3,
+          "strikes": 1,
+          "outs": 2
+        },
+        "countAfter": {
+          "balls": 4,
+          "strikes": 1,
+          "outs": 2
+        },
+        "atBatResult": {
+          "type": "atBat",
+          "event": "Walk",
+          "eventType": "walk",
+          "description": "Aaron Miles walks.",
+          "rbi": 0,
+          "awayScore": 3,
+          "homeScore": 1,
+          "isOut": false
+        },
+        "scoreAfter": {
+          "away": 3,
+          "home": 1
+        },
+        "freshFeedGzip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/evidence/statsapi-game-41819-playByPlay.json.gz",
+        "freshFeedRawSha256": "0c1d93cf38932b0ef473e173ec561f95744e71269255b6c5603e7f3ece2fc231",
+        "freshFeedGzipSha256": "48ad0e7ee5589b4ad23b5d9c6aaccb981dc97742133b27f8c769458413a2dc81",
+        "sourcePage": "https://www.mlb.com/video/beltran-s-walk-off-caps-epic-matchup-at-shea-stadium-x0539",
+        "listedMP4": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset_1280x720_59_16000K.mp4",
+        "listedMP4VerifiedAsOneOfExactPagePlaybacks": true
+      },
+      "motionReview": {
+        "proofPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/native-5491-5499.mp4",
+        "proofSha256": "773e9f16a68c2390895d6627014aa09133ac1bde19a44147fe3ad9f18cabfdb8",
+        "proofGridPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-5479/native-5491-5499.jpg",
+        "proofGridSha256": "2150eabcec3e2a254dc5d167ce92b8fafd7ea1b3d1d408f39c9b8a781b56e029",
+        "nativeOriginalSourceRange": [
+          5491.0,
+          5499.0
+        ],
+        "candidateOriginalMP4Bounds": [
+          5492.6,
+          5496.8
+        ],
+        "loadedCap": "PASS. At original MP4 5492.6 and5493.8, Miles is in a stable loaded stance and the entire rounded barrel end is visible above/back of the hands before forward hand/barrel motion.",
+        "forwardFinish": "PASS. Forward motion starts around5494.2. The attempt proceeds into the plate and decelerates into a clear arrested, held check-swing endpoint by approximately5496.6. The same endpoint remains visible until the dissolve starts about5496.9–5497.0. Bounds end5496.8, before dissolve; full forward attempt is complete, no reset is required.",
+        "angleAndBase": "PASS, third-base side (base3). This is a clearly lateral dugout/foul-line view, not behind-plate or pitcher-axis. It shows Miles’s front/chest and face in profile with full bat, hands, and torso. For this left-handed hitter, the visible chest side is the third-base side; framing is based on visible torso orientation and lateral camera geometry, not handedness alone.",
+        "contact": "No contact or foul ball; the ball is taken and no bat/ball contact is visible.",
+        "samePitch": "PASS. The native context immediately follows the live pitch/umpire ruling in the same original MP4. HLS sequence: live pitch at5479–5481, umpire signal at5482–5487, overhead review at5488–5493, then side replay around5494. Exact native MP4 clip begins with the overhead replay and fades to Miles #12 in the same half-swing; no intervening pitch or next-batter sequence. Score/source event and ASR locator align to p5; not preceding p4 called strike or practice swing.",
+        "cleanBounds": "PASS. Bounds cover loaded stance through completed braking/held finish before dissolve/cutaway, and exclude count/result."
+      },
+      "appealAndCaller": {
+        "liveProofPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-live-call/native-5480-5488.mp4",
+        "liveProofSha256": "57a0d25576495497b297ee47c2a8bb8e1545d4732bd3dc22f36c84cd9696145e",
+        "liveProofGridPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/native-row82-live-call/native-5480-5488.jpg",
+        "liveProofGridSha256": "a3e041eab9909b97937c2d2b1c3812ff4be3972ba38b5cc4e5199240a2e03b9d",
+        "originalMP4SourceRange": [
+          5480.0,
+          5488.0
+        ],
+        "gesture": "After the live pitch the umpire extends both arms horizontally, a no-go/safe response. I do not name the official because this proof does not establish role/name and the retained play-by-play feed has no crew list.",
+        "hlsContextGrid": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/caption-gap-opportunities-luna-20261101-v2/camera-row82-5479-grid.jpg",
+        "hlsGridSha256": "40d09470e591355007322772ba15b9254e529fc9f72fdcdafb312b7596bbc9c8",
+        "denseGridSha256": "a825cbf5dcd572e7d2be3da77f29d9132e0017dd0b7bb6f6482e5d737dcd1d20",
+        "sourceWindow": [
+          5467.0,
+          5501.0
+        ],
+        "broadcastLocator": "ASR source-clock 5478.9–5480.9: “Did he go and stop his swing and Miles draws the walk”; replay commentary is reported as “shocked he didn’t ring him up ... he didn’t go.” Used as a same-pitch locator/support, not visual motion proof.",
+        "ruling": "Fresh PBP p5 is Ball, final 4–1 walk. Live signal is visible and the broadcast describes the check/no-go. `hasReview:false` is not used as appeal evidence.",
+        "caller": "Unknown"
+      },
+      "publicContextCorrection": "The primary public context exposed the Ball/walk result. Approved peer wrapper contains pre-pitch context only.",
+      "result": "All independent motion, base-side, same-pitch, exact-feed, appeal/no-go, clean-bound, and dedup gates pass."
+    },
+    "asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/peer-review-luna/audit.json": {
+      "schema": "independent-peer-audit-v1",
+      "candidateId": "sam-fuld-20120815-319490-ab22-p3-03194906-0236-0033",
+      "verdict": "PASS — accept for root integration review; not published by this peer",
+      "primaryArtifacts": {
+        "wrapper": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/primary-candidates.json",
+          "sha256": "155cf6915071711d17c74db713a1916f76695963a3b519d29792c00ed8cc33f1"
+        },
+        "audit": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/primary-audit.json",
+          "sha256": "398c4b1311abbddcf9f1cf7f93aeeb3a6f0abfbc9dfabc297e0e2654f2d0a38d"
+        }
+      },
+      "checks": {
+        "sourceAndIdentity": "PASS — exact official listed source/game and fresh PBP align to gamePk 319490, AB22, Sam Fuld, Félix Hernández, top 4, p3 playId 03194906-0236-0033-000c-f08cd117d70a.",
+        "exactPitchAndRuling": "PASS — saved exact feed records p3 as an 81.4 mph curveball, Ball, count 0–2 to 1–2; original live sequence visibly shows the requested third-base decision and the third-base umpire extending both arms before the side replay. Fresh boxscore crew lists Andy Fletcher at third.",
+        "cameraAndLoadedCap": "PASS — original listed MP4 frame 2393.3 has full batter/body and complete rounded barrel end in a true third-base-side profile before forward motion; forward movement appears by 2394.5.",
+        "wholeAttempt": "PASS — checked motion proceeds through finish at 2395.5 and return/upright settling by about2397.0; interval ends at2397.2 before later transition.",
+        "boundsAndSpoilers": "PASS — original MP4 source clock, 2393.3–2397.2; no score/count/result spoiler in selected replay interval. Exclude the at-bat’s eventual lineout from public context.",
+        "dedup": "PASS — exact published pitch index inspected at frozen SHA; no matching playId/game identity.",
+        "metadataCorrection": "Candidate context correctly omits pre-pitch outs because the saved PBP fields conflict; no jersey number should be asserted without visual proof."
+      },
+      "crew": {
+        "name": "Andy Fletcher",
+        "role": "Third Base",
+        "source": "saved fresh feed liveData.boxscore.officials"
+      },
+      "bounds": {
+        "start": 2393.3,
+        "end": 2397.2,
+        "timebase": "direct original listed MP4 source clock"
+      },
+      "proofHashes": {
+        "primaryWrapper": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/primary-candidates.json",
+          "sha256": "155cf6915071711d17c74db713a1916f76695963a3b519d29792c00ed8cc33f1"
+        },
+        "primaryAudit": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/primary-audit.json",
+          "sha256": "398c4b1311abbddcf9f1cf7f93aeeb3a6f0abfbc9dfabc297e0e2654f2d0a38d"
+        },
+        "nativeReplay": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/native-replay/native-2392-2400.mp4",
+          "sha256": "abedd50c5d4aea37acac6ce4a6c15f18e8de6adf4a53d1d6e3b741240a2680b4",
+          "bytes": 7784407
+        },
+        "nativeKeyFrameGrid": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/native-replay/native-2392-2400.jpg",
+          "sha256": "29e6fb7b93ea1497a996d5223c76c922e45cae4414e8321e7bab6cdb83b7c643"
+        },
+        "loadedFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-loaded-2393.3.jpg",
+          "sha256": "74f70aebd52bd171459476205419a8513b892a63ea081956fd3ec6a9cdd8f474"
+        },
+        "forwardFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-forward-2394.5.jpg",
+          "sha256": "1195c25f026bf2a50781c0d0cb49d22925e897e3e799efe2b87bd1e5d5f75b87"
+        },
+        "finishFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-finish-2395.5.jpg",
+          "sha256": "68b35c8b016f07c4617da078652abb0d439860ae29a9bd45c103cc81bf710c60"
+        },
+        "returnFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-return-2396.5.jpg",
+          "sha256": "253f84aeb03855592631f8caf0d9519cbf2aa8b249d0f8b78a22e105c97b0063"
+        },
+        "settledFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/critical/frame-settled-2397.jpg",
+          "sha256": "84f0133ca6c201be07045d39fd7725d5e175eafcd151c27660d395ba775c59a9"
+        },
+        "liveCallFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/live-call-original-2386.jpg",
+          "sha256": "78c8524fcad9cc461521579d328009f5b26c23d9aec6bd35df22ec0aaedf446c"
+        },
+        "liveCallGrid": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/mp4-original-live-2380-2388-grid.jpg",
+          "sha256": "3712e2ca9057d65564a57eedb66adbe12124df8109bb3c4ff6fde661f848d5e2"
+        },
+        "freshFeed": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/primary-review/root-fresh-feed.json.gz",
+          "sha256": "10bd6132af751d8cce15811943cb38dc32c25b5a639dcf12b1bf82957fd28f3c"
+        },
+        "publishedPitchIndex": {
+          "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+          "sha256": "0c47ceec6d51a6a8c20c9357c1aa9b21db46dd3e037ee793d315977dd0a4c2e2",
+          "matchingGameOrPlayId": []
+        }
+      },
+      "acceptedList": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/uncaptioned-metadata-prep-luna-20261101/camera-reviews-group1-luna/game319490-2380-2440/peer-review-luna/accepted-candidates-FULD-2012.json",
+      "canonicalChange": false,
+      "publicationPerformed": false
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
