@@ -9351,5 +9351,74 @@
       "pitchNumber": 2,
       "playId": "03816126-0036-0023-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "sam-fuld-20140930-416345-04163456-0026-0033",
+    "batter": "Sam Fuld",
+    "date": "2014-09-30",
+    "matchup": "Athletics at Royals",
+    "base": 3,
+    "strike": false,
+    "start": 414.9,
+    "end": 421.1,
+    "umpire": "Bill Welke · third-base umpire",
+    "context": "Sam Fuld faces James Shields with a 1–1 count, no outs, and Coco Crisp at first in the first inning of the 2014 American League Wild Card Game. Oakland and Kansas City are tied 0–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/416345/feed/live",
+    "source": "https://www.mlb.com/video/royals-win-2014-al-wild-card-game",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2014/2014-09/30/98bbd6b8-ca1da7c7-798dea4e-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / TBS 2014 American League Wild Card Game broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 416345,
+      "atBatIndex": 1,
+      "pitchNumber": 3,
+      "playId": "04163456-0026-0033-000c-f08cd117d70a"
+    }
+  },
+  {
+    "id": "jim-thome-20060701-41139-ab59-p3-appeal-third",
+    "batter": "Jim Thome",
+    "date": "2006-07-01",
+    "matchup": "White Sox at Cubs",
+    "base": 3,
+    "strike": false,
+    "start": 5852.6,
+    "end": 5856.7,
+    "umpire": "Mike Reilly · third-base umpire",
+    "context": "Jim Thome faces Scott Eyre with a 1–1 count, one out, and a runner at third in the seventh inning. The game is tied 5–5.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/41139/feed/live",
+    "source": "https://www.mlb.com/video/a-j-pierzynski-powers-white-sox",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-06/08/018e9d24-20b4d707-2d6323bf-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / FOX archived 2006 White Sox–Cubs broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 41139,
+      "atBatIndex": 59,
+      "pitchNumber": 3,
+      "playId": "00411396-0606-0033-000c-f08cd117d70a"
+    }
+  },
+  {
+    "id": "david-ortiz-20031016-18542-00185426-0386-0013",
+    "batter": "David Ortiz",
+    "date": "2003-10-16",
+    "matchup": "Red Sox at Yankees",
+    "base": 3,
+    "strike": false,
+    "start": 3941.0,
+    "end": 3945.0,
+    "umpire": "Derryl Cousins · third-base umpire",
+    "context": "David Ortiz faces Mike Mussina with an 0–0 count and one out in the fifth inning of 2003 ALCS Game 7. Boston leads New York 4–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/18542/feed/live",
+    "source": "https://www.mlb.com/video/2003-alcs-gm-7-bos-nyy-c3691532",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/ebf543b1-e36f6151-562ef898-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / FOX archived 2003 ALCS Game 7 broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 18542,
+      "atBatIndex": 37,
+      "pitchNumber": 1,
+      "playId": "00185426-0386-0013-000c-f08cd117d70a"
+    }
   }
 ]
