@@ -9236,5 +9236,28 @@
       "pitchNumber": 2,
       "playId": "03455946-0166-0023-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "jimmy-rollins-20091019-263177-02631776-0646-0033",
+    "batter": "Jimmy Rollins",
+    "date": "2009-10-19",
+    "matchup": "Dodgers at Phillies",
+    "base": 1,
+    "strike": false,
+    "start": 8169.0,
+    "end": 8173.4,
+    "umpire": "Tom Hallion · first-base umpire",
+    "context": "Jimmy Rollins faces George Sherrill with a 1–1 count and no outs in the eighth inning of the 2009 National League Championship Series. Philadelphia trails 4–3.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/263177/feed/live",
+    "source": "https://www.mlb.com/video/jimmy-rollins-wins-2009-nlcs",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-04/12/ebe19d17-3a8e8af0-b7c11481-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / TBS 2009 NLCS Game 4 broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 263177,
+      "atBatIndex": 63,
+      "pitchNumber": 3,
+      "playId": "02631776-0646-0033-000c-f08cd117d70a"
+    }
   }
 ]
