@@ -29,6 +29,8 @@ def validate(rows):
             asset=ROOT/'content/check-swing/assets'/(identity+'.mp4');provenance=row.get('provenance',{})
             assert asset.is_file() and hashlib.sha256(asset.read_bytes()).hexdigest()==provenance.get('outputSha256'),'Excerpt asset missing or changed'
             assert row.get('footageCredit') and provenance.get('frameTimingVerified') is True,'Excerpt attribution/timing evidence required'
+        elif host=='mlb.com' or host.endswith('.mlb.com'):
+            assert urlparse(row['video']).path.endswith('.mp4'),'Expected reviewed MLB MP4 playback: '+identity
         elif host=='video.twimg.com':
             u=urlparse(row['video']);origin=urlparse(row['source'])
             assert re.fullmatch(r'/amplify_video/\d+/vid/avc1/\d+x\d+/[A-Za-z0-9_-]+\.mp4',u.path) and not u.query and not u.fragment,'Invalid reviewed broadcast rendition: '+identity
