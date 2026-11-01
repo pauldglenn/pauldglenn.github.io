@@ -9144,5 +9144,51 @@
       "pitchNumber": 7,
       "playId": "1f24121b-b01b-354d-8ea4-3a86ca43df32"
     }
+  },
+  {
+    "id": "gunnar-henderson-20260718-824169-40b6c334",
+    "batter": "Gunnar Henderson",
+    "date": "2026-07-18",
+    "matchup": "Orioles at Astros",
+    "base": 3,
+    "strike": true,
+    "start": 445.05,
+    "end": 448.0,
+    "umpire": "Erich Bacchus · third-base umpire",
+    "context": "Top of the fifth, 2–2 and one out. Gunnar Henderson faces Spencer Arrighetti.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824169/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-bal-hou-7-18-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/18/0ff49908-43020a2c-db7cfdd9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / Orioles–Astros broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 824169,
+      "atBatIndex": 34,
+      "pitchNumber": 5,
+      "playId": "40b6c334-8526-330f-86ba-b64e04422df8"
+    }
+  },
+  {
+    "id": "tyler-stephenson-20260807-822699-253a84d3",
+    "batter": "Tyler Stephenson",
+    "date": "2026-08-07",
+    "matchup": "CIN at WSH",
+    "base": 1,
+    "strike": true,
+    "start": 400.18,
+    "end": 403.0,
+    "umpire": "Erich Bacchus · first-base umpire",
+    "context": "Top of the sixth, 0–2 and no outs. Tyler Stephenson faces Cade Cavalli.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/822699/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-cin-wsh-8-7-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/07/f97eb549-5e1f1ce3-962c3859-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / Reds–Nationals broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 822699,
+      "atBatIndex": 43,
+      "pitchNumber": 3,
+      "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed"
+    }
   }
 ]

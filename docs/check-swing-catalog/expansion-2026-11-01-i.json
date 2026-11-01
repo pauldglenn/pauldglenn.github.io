@@ -1,0 +1,827 @@
+{
+  "added": 2,
+  "total": 473,
+  "dailyActivation": "2026-11-02",
+  "discovery": "RAM-only transcription of exact public MLB condensed-game audio without English captions located two distinct swing appeals. Primary and independent original-resolution video reviews, fresh exact pitch/crew records, and root direct source-PTS boundary checks verified complete base-side attempts and actual same-pitch judgments. Broader batter-held-up locators are retained because a separate appeal is not required for direct home-plate judgments.",
+  "clips": [
+    {
+      "id": "gunnar-henderson-20260718-824169-40b6c334",
+      "batter": "Gunnar Henderson",
+      "date": "2026-07-18",
+      "matchup": "Orioles at Astros",
+      "base": 3,
+      "strike": true,
+      "start": 445.05,
+      "end": 448.0,
+      "umpire": "Erich Bacchus · third-base umpire",
+      "context": "Top of the fifth, 2–2 and one out. Gunnar Henderson faces Spencer Arrighetti.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824169/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-bal-hou-7-18-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/18/0ff49908-43020a2c-db7cfdd9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / Orioles–Astros broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 824169,
+        "atBatIndex": 34,
+        "pitchNumber": 5,
+        "playId": "40b6c334-8526-330f-86ba-b64e04422df8"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "gunnar-henderson-20260718-824169-40b6c334",
+          "batter": "Gunnar Henderson",
+          "date": "2026-07-18",
+          "matchup": "Orioles at Astros",
+          "base": 3,
+          "strike": true,
+          "start": 445.05,
+          "end": 448.8,
+          "umpire": "Erich Bacchus · third-base umpire",
+          "context": "Top of the fifth, 2–2 and one out. Gunnar Henderson faces Spencer Arrighetti.",
+          "source": "https://www.mlb.com/video/condensed-game-bal-hou-7-18-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/18/0ff49908-43020a2c-db7cfdd9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/824169/feed/live",
+          "footageCredit": "MLB / Orioles–Astros broadcast"
+        },
+        "review": {
+          "status": "root-primary-awaiting-independent-final-audit",
+          "gamePk": 824169,
+          "atBatIndex": 34,
+          "pitchNumber": 5,
+          "playId": "40b6c334-8526-330f-86ba-b64e04422df8",
+          "batterHand": "L",
+          "batterJersey": "2",
+          "pitcherHand": "R",
+          "pitcherJersey": "41",
+          "prePitchCount": {
+            "balls": 2,
+            "strikes": 2,
+            "outs": 1
+          },
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "eventType": "strikeout",
+              "description": "Gunnar Henderson strikes out swinging.",
+              "awayScore": 1,
+              "homeScore": 0
+            },
+            "about": {
+              "atBatIndex": 34,
+              "halfInning": "top",
+              "inning": 5
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 3,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 683002,
+                "fullName": "Gunnar Henderson"
+              },
+              "batSide": {
+                "code": "L",
+                "description": "Left"
+              },
+              "pitcher": {
+                "id": 681293,
+                "fullName": "Spencer Arrighetti"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 92.6
+                },
+                "index": 0,
+                "playId": "b5b07923-361f-316c-a956-b743b15092d6",
+                "pitchNumber": 1,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 93.4
+                },
+                "index": 1,
+                "playId": "36bc416a-312a-3901-b118-91c41bf88960",
+                "pitchNumber": 2,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 93.3
+                },
+                "index": 2,
+                "playId": "eb28f9a5-6251-3619-87a4-22ce6c814fa4",
+                "pitchNumber": 3,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "CU",
+                    "description": "Curveball"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 77.1
+                },
+                "index": 3,
+                "playId": "7e680d18-9d56-3052-a24e-41f0eae77e7b",
+                "pitchNumber": 4,
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "W",
+                    "description": "Swinging Strike (Blocked)"
+                  },
+                  "description": "Swinging Strike (Blocked)",
+                  "code": "W",
+                  "type": {
+                    "code": "ST",
+                    "description": "Sweeper"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 3,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 82.2
+                },
+                "index": 4,
+                "playId": "40b6c334-8526-330f-86ba-b64e04422df8",
+                "pitchNumber": 5,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 34
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "W",
+                "description": "Swinging Strike (Blocked)"
+              },
+              "description": "Swinging Strike (Blocked)",
+              "code": "W",
+              "type": {
+                "code": "ST",
+                "description": "Sweeper"
+              }
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 3,
+              "outs": 1
+            },
+            "pitchData": {
+              "startSpeed": 82.2
+            },
+            "index": 4,
+            "playId": "40b6c334-8526-330f-86ba-b64e04422df8",
+            "pitchNumber": 5,
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "freshCrew": [
+            {
+              "official": {
+                "id": 427366,
+                "fullName": "Brian O'Nora"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 503490,
+                "fullName": "Chris Segal"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427113,
+                "fullName": "Laz Diaz"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 623938,
+                "fullName": "Erich Bacchus"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "freshProjectionRequest": {
+            "url": "https://statsapi.mlb.com/api/v1.1/game/824169/feed/live?fields=gamePk%2CliveData%2Cboxscore%2Cofficials%2Cofficial%2CfullName%2Cid%2CofficialType%2Cplays%2CallPlays%2Cabout%2Cinning%2ChalfInning%2CatBatIndex%2Cresult%2CeventType%2Cdescription%2ChomeScore%2CawayScore%2Cmatchup%2Cbatter%2Cpitcher%2CbatSide%2CpitchHand%2Ccode%2CpostOnFirst%2CpostOnSecond%2CpostOnThird%2CplayEvents%2CisPitch%2Cindex%2Cdetails%2Ccall%2Ctype%2Ccount%2Cballs%2Cstrikes%2Couts%2CpitchNumber%2CplayId%2CpitchData%2CstartSpeed",
+            "sha256": "b13107b1d4d49451747d1f134ce2360a38f23ffff794ca65845c9c31691d3f5a",
+            "bytes": 173354
+          },
+          "freshProjectionIncludesCrewAt": "liveData.boxscore.officials",
+          "nativeProof": {
+            "sourceKey": "deb0c12352d16035",
+            "gamePk": 824169,
+            "originalListedMp4": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/18/0ff49908-43020a2c-db7cfdd9-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "originalSourceStart": 442.0,
+            "requestedDuration": 8.0,
+            "frameRateChanged": false,
+            "proofReencodeOnly": true,
+            "probe": {
+              "programs": [],
+              "stream_groups": [],
+              "streams": [
+                {
+                  "width": 1280,
+                  "height": 720,
+                  "r_frame_rate": "60000/1001",
+                  "nb_frames": "480"
+                }
+              ],
+              "format": {
+                "duration": "8.008000"
+              }
+            },
+            "sha256": "f58cc93c834eea8e9a51eb7d595fdfa53ae7d17ab7e090c043a2b9457291ccab",
+            "bytes": 4623800,
+            "queueSha256": "54600ad2f7ea646f921d36d3a471d9cdf6e76c9d200ba868e36f88fba0312e32"
+          },
+          "originalMp4ClockBounds": [
+            445.05,
+            448.8
+          ],
+          "approximateHlsClockBounds": [
+            447.05,
+            450.8
+          ],
+          "actualCallEvidence": "Original broadcast describes a check/appeal to third and that he went. Isolatedbaseumpire right-arm/fist signalatHLS441.0–441.75 beforetightreplay supplies actualsamepitch judgment; freshrole identifiesErichBacchus. Not inferred solelyfromcrewlistorASR.",
+          "wholeMotionEvidence": "Separatewide third-base-side chest/profile replayaftertightcroppedview: fullyroundedloadedcap445.2 whilehandsset, forward446, wholeattempt and finish/initialreturnthrough448.8 beforecatcherrise449+. Tightreplay442doesnotqualifyalone.",
+          "samePitchEvidence": "SameGunnar#2 LHBgrayOrioles vsArrighetti#41 whiteAstros,top5 2–2scoreBAL1HOU0; samepitchsequence livecheck/backstopmiss/no-run, appeal, batteraftermath, umpiregesture replay,tightswingreplaythenwideprofile, followinginningafter. ExactWblockedK and82.2STmatchesfeed.",
+          "dedup": "No same exact gamePk/playId or batter/date in471catalog; compare unresolved66bybatter/date too."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/peer-review-luna/audit.json"
+    },
+    {
+      "id": "tyler-stephenson-20260807-822699-253a84d3",
+      "batter": "Tyler Stephenson",
+      "date": "2026-08-07",
+      "matchup": "CIN at WSH",
+      "base": 1,
+      "strike": true,
+      "start": 400.18,
+      "end": 403.0,
+      "umpire": "Erich Bacchus · first-base umpire",
+      "context": "Top of the sixth, 0–2 and no outs. Tyler Stephenson faces Cade Cavalli.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/822699/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-cin-wsh-8-7-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/07/f97eb549-5e1f1ce3-962c3859-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / Reds–Nationals broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 822699,
+        "atBatIndex": 43,
+        "pitchNumber": 3,
+        "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed"
+      },
+      "primaryEvidence": {
+        "id": "tyler-stephenson-20260807-822699-253a84d3",
+        "batter": "Tyler Stephenson",
+        "batterJersey": "37",
+        "batterHand": "R",
+        "pitcher": "Cade Cavalli",
+        "pitcherHand": "R",
+        "date": "2026-08-07",
+        "matchup": "CIN at WSH",
+        "base": 1,
+        "strike": true,
+        "start": 400.0,
+        "end": 403.0,
+        "umpire": "Erich Bacchus · first base",
+        "context": "Top 6, 0 outs before the pitch; Cincinnati trailing Washington 3–5. Tyler Stephenson #37 (RHB) faced Cade Cavalli (RHP) at 0–2 with JJ Bleday on first. On pitch 3, an 87.0 mph sweeper, the broadcast says “They’ll check down at first. Stephenson could not hold up,” then the pitch ends the at-bat with strike three. Feed call is recorded as Swinging Strike (Blocked).",
+        "source": "https://www.mlb.com/video/condensed-game-cin-wsh-8-7-26",
+        "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/07/f97eb549-5e1f1ce3-962c3859-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+        "evidence": "https://statsapi.mlb.com/api/v1.1/game/822699/feed/live",
+        "gamePk": 822699,
+        "atBatIndex": 43,
+        "pitchNumber": 3,
+        "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed",
+        "review": {
+          "status": "needs-independent-review",
+          "reviewer": "luna_2023_resume",
+          "sourceKey": "74a89c142f8faddb",
+          "asrLocatorOnly": [
+            396.5,
+            405.7
+          ],
+          "gamePk": 822699,
+          "atBatIndex": 43,
+          "pitchNumber": 3,
+          "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed",
+          "officialCode": "W",
+          "pitchType": "Sweeper",
+          "pitchSpeedMph": 87.0,
+          "countBefore": {
+            "balls": 0,
+            "strikes": 2,
+            "outs": 0
+          },
+          "countAfterPitch": {
+            "balls": 0,
+            "strikes": 3,
+            "outs": 0
+          },
+          "finalRuling": "Swinging Strike (Blocked), strike three; broadcast describes check/appeal to first base and says Stephenson did not hold up.",
+          "caller": "Erich Bacchus · first base (crew from fresh StatsAPI; visible signal and broadcast association require independent verification)",
+          "callerEvidence": "Literal original broadcast ASR at source 396.5–405.7: “They’ll check down at first. Stephenson could not hold up. So strikeout number seven for Cavalli.” HLS closeup immediately afterward shows first-base-umpire strike signal; feed crew lists Erich Bacchus at first. No announcer identity or crew assignment inferred from ASR.",
+          "localHDClip": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/stevenson-full-side.mp4",
+          "localHDSourceStart": 400.0,
+          "localHDSourceEnd": 403.037,
+          "localVideoSha256": "d26b1a09773937e8527c749e700bde528bf1f7f3631e3df6e36e97fad29bb3be",
+          "proofFrames": [
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/dense-396-406/contact.jpg",
+              "sha256": "cdd83a8f0db4528b7b5ebb2628e41bd398db12ca47b9471e88d4e93996d79021"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/native-side-4s-frames/contact.jpg",
+              "sha256": "c413738907c21cbab37946ff84a21c6e76945be43d9a345704cb7cc3d8e7fb0e"
+            },
+            {
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/native-frames/contact.jpg",
+              "sha256": "2437e82039087b804bbd79a6a167aeecea6e125e61fd9db5fad076e04e719b3b"
+            }
+          ],
+          "camera": "First-base-side profile; Tyler Stephenson is RHB, with chest/front visible and full body, rounded cap and complete follow-through in the replay.",
+          "fullLoadedCapBeforeForwardMotion": true,
+          "wholeAttemptThroughFinishAndInitialReturn": true,
+          "sameExactPitchAndBatter": true,
+          "resultOrCallerIncluded": false,
+          "containsUnrelatedNextPitch": false,
+          "fullMotion": "The original listed MP4 side replay begins with Stephenson in a fully loaded stance before forward movement, then shows the complete swing and finish/initial return. HLS context shows the live call before the replay. The MP4 segment begins at 400s and the matching HLS replay begins at approximately 402.25s; the selected candidate window ends at MP4 403.0s, before the return to the next-batter wide shot at about 403.5s. The footage is a full swing; eligibility therefore depends on the exact same-pitch first-base appeal and matched call, documented by the original broadcast excerpt and first-base crew/camera signal.",
+          "timingMethod": "Fetched the exact listed original 1280x720 MP4 and bounded it at seek 400s for 4.037s. Scene-matching against the exact HLS stream shows the MP4 loaded-replay onset corresponds to HLS source about 402.25s (approximate +2.25s clock offset). Selected MP4 source bounds 400.0–403.0 cover loaded posture, forward movement, complete finish and initial return; the following wide shot/next-batter context begins at approximately 403.5s.",
+          "audioMustRemainMuted": true,
+          "freshFeedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/feed-live.json",
+          "freshFeedSha256": "a2dddc502889a4978941c8b5e9b00932c0f1334615829cc3f06d255a785ab61a",
+          "dedup": {
+            "canonicalCount": 471,
+            "exactPitchMatches": [],
+            "canonicalSameGameDateMatchups": [],
+            "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "indexSha256": "90057a849f28ac2bad7a696276382d800c9dc4caf0940bf1818cc43a0de2a252"
+          },
+          "candidateAvailableFrom": "2026-11-02",
+          "candidateApproval": false,
+          "canonicalChange": false,
+          "end": 403.0
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/publication-audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/peer-review-luna/audit.json": {
+      "candidateId": "gunnar-henderson-20260718-824169-40b6c334",
+      "gamePk": 824169,
+      "officialDate": "2026-07-18",
+      "matchup": "BAL at HOU",
+      "atBatIndex": 34,
+      "inning": 5,
+      "halfInning": "top",
+      "pitchNumber": 5,
+      "playId": "40b6c334-8526-330f-86ba-b64e04422df8",
+      "batter": {
+        "name": "Gunnar Henderson",
+        "id": 683002,
+        "jersey": "2",
+        "hand": "L"
+      },
+      "pitcher": {
+        "name": "Spencer Arrighetti",
+        "id": 681293,
+        "jersey": "41",
+        "hand": "R"
+      },
+      "prePitchCount": {
+        "balls": 2,
+        "strikes": 2,
+        "outs": 1
+      },
+      "scoreBeforePitch": {
+        "BAL": 1,
+        "HOU": 0
+      },
+      "pitch": {
+        "type": "Sweeper",
+        "speedMph": 82.2,
+        "callCode": "W",
+        "callDescription": "Swinging Strike (Blocked)",
+        "countAfter": {
+          "balls": 2,
+          "strikes": 3,
+          "outs": 1
+        }
+      },
+      "freshFeedProjection": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/fresh-feed-projected.json.gz",
+        "compressedSha256": "02234316ef10ac41cb41680633fe1898d1e6d6868be692dc29e974475bab44ce",
+        "rawSha256": "02234316ef10ac41cb41680633fe1898d1e6d6868be692dc29e974475bab44ce",
+        "requestPath": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/fresh-feed-projected-request.json",
+        "requestSha256": "8b309e814db25d84d7fd80cbb89898e03636250bf5a810a6450b03b825b95a36"
+      },
+      "exactSamePitchAppeal": {
+        "rawBroadcastSpeech": "Original source transcript describes Gunnar checking and the appeal to third base ruling that he went; see root source cues and exact-scorebug HLS context.",
+        "visibleSignal": "Bounded original listed low-HLS frames at approximate HLS 441.0–441.75 show a black-shirted base ump raising the right fist after the pitch and before the replay sequence.",
+        "roleMatch": "Fresh feed projection liveData.boxscore.officials lists Erich Bacchus, id 623938, officialType Third Base.",
+        "roleEvidence": "Visible actual signal plus same-pitch sequence and speech match the named role; not assigned by crew list alone."
+      },
+      "independentVisualFindings": [
+        "At native-original-445.2.png the separate wide replay shows the entire LHB, bat and rounded loaded barrel cap in frame before forward motion. The camera is a third-base-side oblique/profile: it sees Gunnar’s chest/front and the full body from off the third-base line, not a pitcher-axis or catcher-mask-only view.",
+        "The same wide replay follows from loaded posture through the forward move (~446), full attempt/swing, finish and initial return. The earlier tight replay at 442–445 is cropped and not relied on; the wide 445–448 replay is the same pitch, with Gunnar’s identity/scorebug and uninterrupted broadcast sequence tying it back to the live swing.",
+        "Bounds are 445.05–448.00 on original MP4 clock. At 448.0 the catcher remains crouched and the batter has completed the attempt and initial return. At 448.2 the catcher begins rising; the proposed end excludes that response/result cue. This corrects the root primary’s provisional 448.8 end.",
+        "The 436–444 4fps low-HLS frame-only sheet shows same at-bat scorebug at 2–2 and the third-base umpire’s right-arm/fist gesture around 441.0–441.75, followed by the 442+ tight replay. This is the actual same-pitch appeal signal, not just crew assignment."
+      ],
+      "dedup": {
+        "publishedCatalogCount": 471,
+        "publishedClips": 405,
+        "unresolvedRows": 66,
+        "exactPlayIdMatches": [],
+        "sameGamePkDateMatches": [],
+        "sameBatterDateMatches": [],
+        "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+        "indexSha256": "90057a849f28ac2bad7a696276382d800c9dc4caf0940bf1818cc43a0de2a252"
+      },
+      "evidenceFiles": {
+        "primary-candidates.json": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/primary-candidates.json",
+          "sha256": "663e2107485c7499fa364fe4ce9fc8cd9b84e36b7045c23d13dd452f68dae52e"
+        },
+        "native-442-450.mp4": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/native-442-450.mp4",
+          "sha256": "f58cc93c834eea8e9a51eb7d595fdfa53ae7d17ab7e090c043a2b9457291ccab",
+          "bytes": 4623800,
+          "acquiredByPeer": false
+        },
+        "native-original-445.2.png": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/native-original-445.2.png",
+          "sha256": "eb6d753d7f9c6c9c0cf82609cd81039d61775c85435a46ce8d84f4dc9d9b636b"
+        },
+        "peer-luna-end-6.2.png (448.2 MP4)": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/peer-luna-end-6.2.png",
+          "sha256": "7ae16c57985a736c76a2b5bde5c814486d0f25b2ef0625514d9ac175b37c3a76"
+        },
+        "peer-luna-detail-445-449.jpg": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/peer-luna-detail-445-449.jpg",
+          "sha256": "d911a4a2f6f13a3bb6762a698232b2aa7ec587ad3841e26c188ecbb3362afc44"
+        },
+        "peer-luna-call-436-444.jpg": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/peer-luna-call-436-444.jpg",
+          "sha256": "2e79eb72dc8326fcd9d45cd9270e7b436d7de482f3b4877a1d53a719bf60cca8",
+          "requestedHlsWindowSeconds": [
+            436,
+            444
+          ],
+          "audioDecoded": false,
+          "videoPersisted": false
+        },
+        "camera-417-472.jpg": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/camera-417-472.jpg",
+          "sha256": "d340d924135e4f6051d8e9e7190f51b9d7544a7a10f30e61dcdd7670fbf04947"
+        },
+        "native-442-450.json": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/native-442-450.json",
+          "sha256": "6e997c290696b50a8171e7d6055ec12485f5e5a14ee76686cada7226874fd22f"
+        }
+      },
+      "decision": "PASS_ACCEPTED_FOR_PEER_REVIEW",
+      "boundsCorrection": "Use 445.05–448.00 MP4 seconds; the primary’s 448.8 endpoint already includes catcher rising.",
+      "peerReviewerDidNotFetchNativeMediaOrFreshFeed": true,
+      "peerFetchedBoundedLowHlsFramesOnly": true,
+      "canonicalIndexChanged": false,
+      "acceptedListPath": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824169-gunnar/peer-review-luna/accepted-candidates-GUNNAR-HENDERSON.json",
+      "acceptedListSha256": "14a34b706ff53b046e27bfe78982afd174d87abee6544c187c056ba2f5388e0b"
+    },
+    "asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/publication-audit.json": {
+      "independentFinalCorrection": {
+        "schema": "peer-review-bounds-correction-v1",
+        "reviewer": "luna_2019_resume",
+        "candidateId": "tyler-stephenson-20260807-822699-253a84d3",
+        "decision": "PEER_ACCEPTED_WITH_CORRECTED_BOUNDS",
+        "supersedes": "peer-review-luna/audit.json and peer-review-luna/accepted-candidates-STEPHENSON.json; those prior 400.00–403.00 findings are withdrawn and must not be used.",
+        "bounds": {
+          "timebase": "exact listed original MP4 presentation timestamps (copyts direct-source calibration)",
+          "startSeconds": 400.18,
+          "endSeconds": 403.0
+        },
+        "identity": {
+          "gamePk": 822699,
+          "date": "2026-08-07",
+          "atBatIndex": 43,
+          "inning": 6,
+          "halfInning": "top",
+          "pitchNumber": 3,
+          "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed",
+          "batter": "Tyler Stephenson",
+          "jersey": "37",
+          "hand": "R",
+          "pitcher": "Cade Cavalli",
+          "countBefore": "0-2",
+          "pitch": "87 mph sweeper",
+          "call": "W · Swinging Strike (Blocked)",
+          "umpire": "Erich Bacchus · first base"
+        },
+        "findings": [
+          "The earlier 400.00 start was invalid: exact original-source frames at PTS 400.016283 and 400.032967 show the first-base umpire; dissolve overlays persist through PTS 400.149750.",
+          "Direct original-source PTS grid shows clean loaded side-replay frames beginning at 400.166433 and 400.183117. The exact original-source PNG at 400.18 shows Tyler Stephenson fully loaded as an RHB, with the entire rounded barrel cap visible in frame before forward motion, which begins around 400.233–400.25.",
+          "The existing original-source end proof at 402.9 shows the attempt finished and Stephenson in initial return. The existing native side-angle sheet shows the following pitcher/next-batter wide cut after the side replay; the selected 403.0 end excludes it.",
+          "Camera is a true first-base-side profile with full batter/bat visible. This is a full swing; eligibility rests on the exact same-pitch first-base appeal, not a claim of physical braking. The original broadcast says “They’ll check down at first. Stephenson could not hold up”; the following first-base umpire signal and fresh crew list identify the same-pitch call with Erich Bacchus at first.",
+          "Exact fresh feed identity is corroborated by gamePk, at-bat, pitch number, playId, batter/jersey/hand, count, pitch type/speed and call. Existing dedup audit has no exact pitch or same game/date/matchup match in the 471-item published index."
+        ],
+        "proofs": {
+          "exactStartPng": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/root-DIRECT-original-source-400.18.png",
+            "sha256": "ad3b56f71fca745c6ff6d44e7911aa97a196c1dbfc4df03f9ca40bedc823955f",
+            "sourcePTS": 400.18
+          },
+          "exactEndContextPng": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/root-native-original-402.9.png",
+            "sha256": "12d314d5fb1e0bae456e80aa9662088f0eb3b479e22b61cd64b07320ce270f4f",
+            "sourcePTS": 402.9
+          },
+          "directSourcePtsGrid": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/root-DIRECT-first30-source-frames.jpg",
+            "sha256": "781c499650eeb07be6632e07a8461acd79e93789ae8be4336c734c07b314be70"
+          },
+          "directSourcePtsMetadata": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/root-DIRECT-first30-source-frames.json",
+            "sha256": "eb48671b47e595158def72253cefcfe625af1072cbc7393fc2b4b78b854cb951"
+          },
+          "nativeSideClip": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/stevenson-full-side.mp4",
+            "sha256": "d26b1a09773937e8527c749e700bde528bf1f7f3631e3df6e36e97fad29bb3be",
+            "bytes": 3000369,
+            "durationSeconds": 4.037
+          },
+          "freshPitchProof": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/fresh-pitch-proof.json",
+            "sha256": "c3f6e3329318224b5d8257a2d508ac8f3688545d0ee02f7dc82b7b8b1a17ec7a"
+          },
+          "freshFeed": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/feed-live.json",
+            "sha256": "a2dddc502889a4978941c8b5e9b00932c0f1334615829cc3f06d255a785ab61a"
+          },
+          "publishedIndex": {
+            "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "sha256": "90057a849f28ac2bad7a696276382d800c9dc4caf0940bf1818cc43a0de2a252",
+            "count": 471,
+            "exactPitchMatch": false,
+            "sameGameDateMatch": false
+          }
+        },
+        "independentVisualReview": true,
+        "canonicalChanged": false,
+        "publicationAuthorized": false
+      },
+      "supersededInitialPeer": {
+        "status": "peer-reviewed-accepted",
+        "reviewer": "luna_2019_resume",
+        "gamePk": 822699,
+        "officialDate": "2026-08-07",
+        "atBatIndex": 43,
+        "inning": 6,
+        "halfInning": "top",
+        "pitchNumber": 3,
+        "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed",
+        "batter": "Tyler Stephenson",
+        "batterId": 663886,
+        "batterJersey": "37",
+        "batterHand": "R",
+        "pitcher": "Cade Cavalli",
+        "pitcherHand": "R",
+        "prePitchCount": {
+          "balls": 0,
+          "strikes": 2,
+          "outs": 0
+        },
+        "pitch": {
+          "type": "Sweeper",
+          "speedMph": 87.0,
+          "callCode": "W",
+          "callDescription": "Swinging Strike (Blocked)",
+          "countAfter": {
+            "balls": 0,
+            "strikes": 3,
+            "outs": 0
+          }
+        },
+        "reviewedBoundsMP4Seconds": [
+          400.0,
+          403.0
+        ],
+        "independentVisualFindings": [
+          "The exact listed MP4 side replay starts at MP4 400.00 with Stephenson in a fully loaded RHB stance. The full rounded bat barrel cap is visible within frame before forward motion begins by approximately 400.25.",
+          "The first-base-side profile shows his chest/front and complete body through the forward swing, full extension/follow-through, and initial return. The motion is a full swing; it qualifies through the exact same-pitch first-base appeal and matched judgment, not through an invented braking/recoil claim.",
+          "MP4 400.00–403.00 contains the complete attempt and initial return; the following pitcher/next-batter wide shot begins around 403.50. Ending at 403.00 removes that next sequence.",
+          "The HLS sequence immediately following this exact live pitch shows a close shot of the first-base umpire giving the strike signal. The broadcast transcript at HLS source 396.5–405.7 says “They’ll check down at first. Stephenson could not hold up. So strikeout number seven for Cavalli.” The scorebug identifies Stephenson at 0–2 and 87 mph. Fresh StatsAPI crew lists Erich Bacchus at first base; this combination ties the gesture/official role and appeal to the same pitch."
+        ],
+        "independentIdentityCheck": "Fresh cached StatsAPI feed gamePk 822699, top 6, atBatIndex 43, pitch 3, exact playId, batter #37 RHB Tyler Stephenson vs Cade Cavalli RHP, 0–2 count, 87 mph sweeper, W blocked swinging strike; broadcast source and scorebug agree. No exact playId or same gamePk/date appears in the current published-pitch index.",
+        "proofFiles": {
+          "candidate-wrapper.json": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/candidate-wrapper.json",
+            "sha256": "8bb519e93696f448d6cd5bd8e1c1e0a927163fac849339cbcd65029b0a70e121"
+          },
+          "fresh-pitch-proof.json": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/fresh-pitch-proof.json",
+            "sha256": "c3f6e3329318224b5d8257a2d508ac8f3688545d0ee02f7dc82b7b8b1a17ec7a"
+          },
+          "feed-live.json": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/feed-live.json",
+            "sha256": "a2dddc502889a4978941c8b5e9b00932c0f1334615829cc3f06d255a785ab61a"
+          },
+          "stevenson-full-side.mp4": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/stevenson-full-side.mp4",
+            "sha256": "d26b1a09773937e8527c749e700bde528bf1f7f3631e3df6e36e97fad29bb3be",
+            "bytes": 3000369
+          },
+          "native-side-4s-frames/contact.jpg": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/native-side-4s-frames/contact.jpg",
+            "sha256": "c413738907c21cbab37946ff84a21c6e76945be43d9a345704cb7cc3d8e7fb0e"
+          },
+          "dense-396-406/contact.jpg": {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/dense-396-406/contact.jpg",
+            "sha256": "cdd83a8f0db4528b7b5ebb2628e41bd398db12ca47b9471e88d4e93996d79021"
+          },
+          "published-pitch-index.json": {
+            "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "sha256": "90057a849f28ac2bad7a696276382d800c9dc4caf0940bf1818cc43a0de2a252",
+            "catalogCount": 471,
+            "exactPlayIdMatch": false,
+            "sameGamePkDateMatch": false
+          }
+        },
+        "peerReviewerFetchedOrModifiedSourceMedia": false,
+        "canonicalIndexChanged": false,
+        "boundsRecommendation": "Accept 400.00–403.00 seconds on the exact listed MP4 clock.",
+        "acceptedListPath": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/peer-review-luna/accepted-candidates-STEPHENSON.json",
+        "acceptedListSha256": "18455b2e61c236afc7b2d7bb51c766b3a5793cec70a9fcfab433c009ef09cc54",
+        "decision": "PASS_ACCEPTED_FOR_PEER_REVIEW"
+      },
+      "withdrawalBeforeCorrection": {
+        "schema": "peer-review-bounds-reconciliation-v1",
+        "reviewer": "luna_2019_resume",
+        "candidateId": "tyler-stephenson-20260807-822699-253a84d3",
+        "decision": "PRIOR_PEER_ACCEPTANCE_WITHDRAWN_PENDING_SOURCE_CLOCK_RECALIBRATION",
+        "reason": "The earlier peer timestamped montage was derived from a superseded 6.039-second native clip (SHA 07968e51bb50b2844c6ce6234ee6dcc04f8117d9f5e351e20afb3b4d85c41887). The final primary native segment is a different 4.037-second clip (SHA d26b1a09773937e8527c749e700bde528bf1f7f3631e3df6e36e97fad29bb3be). Root independently reports that an exact listed-original-MP4 frame at the claimed source time 400.0 shows the first-base umpire/scorebug, while my superseded local montage showed a loaded batter at its labeled time 400.0. Therefore my old 400.00–403.00 bounds are not reliable and must not be used until original MP4 source time is calibrated against HLS and fresh direct source frames.",
+        "evidence": {
+          "oldAcceptedListPath": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/peer-review-luna/accepted-candidates-STEPHENSON.json",
+          "oldAcceptedListSha256": "18455b2e61c236afc7b2d7bb51c766b3a5793cec70a9fcfab433c009ef09cc54",
+          "oldAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/peer-review-luna/audit.json",
+          "oldAuditSha256": "6d9c2cb0d04246cb5b89f5b7ced16794b51a06d56dee8e3b91fb213ca478fcc4",
+          "currentNativePath": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/stevenson-full-side.mp4",
+          "currentNativeSha256": "d26b1a09773937e8527c749e700bde528bf1f7f3631e3df6e36e97fad29bb3be",
+          "currentNativeDurationSeconds": 4.037,
+          "currentPeerLocalTimestampSheet": "/workspace/check-swing/expansion500/asr-discovery-v2/primary-cin-wsh-20260807-stevenson-20261101/peer-review-luna-current-timestamped.jpg",
+          "currentPeerLocalTimestampSheetSha256": "d2aef8580afa555edb42c675976c72054f9df46e7295aa0c911d50e254be6ad7"
+        },
+        "canonicalChanged": false,
+        "noFreshFeedOrAdditionalNativeFetchByPeer": true
+      },
+      "rootFinalReview": {
+        "candidateId": "tyler-stephenson-20260807-822699-253a84d3",
+        "gamePk": 822699,
+        "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed",
+        "finalOriginalMp4Bounds": [
+          400.18,
+          403.0
+        ],
+        "directSourcePtsEvidence": {
+          "originalVideo": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/07/f97eb549-5e1f1ce3-962c3859-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "requestedSeek": 400,
+          "copyts": true,
+          "framePts": [
+            400.016283,
+            400.032967,
+            400.04965,
+            400.066333,
+            400.083017,
+            400.0997,
+            400.116383,
+            400.133067,
+            400.14975,
+            400.166433,
+            400.183117,
+            400.1998,
+            400.216483,
+            400.233167,
+            400.24985,
+            400.266533,
+            400.283217,
+            400.2999,
+            400.316583,
+            400.333267,
+            400.34995,
+            400.366633,
+            400.383317,
+            400.4,
+            400.416683,
+            400.433367,
+            400.45005,
+            400.466733,
+            400.483417,
+            400.5001
+          ],
+          "jpegFrames": 30,
+          "purpose": "ExactremoteMP4presentationclockcalibration; no altered/nativefileassumptions"
+        },
+        "startProofSha256": "ad3b56f71fca745c6ff6d44e7911aa97a196c1dbfc4df03f9ca40bedc823955f",
+        "initialReturnProofSha256": "12d314d5fb1e0bae456e80aa9662088f0eb3b479e22b61cd64b07320ce270f4f",
+        "editorialOnlyChanges": [
+          "Neutral pitch context avoids disclosing answer",
+          "Consistent first-base umpire label",
+          "MLB broadcast credit"
+        ],
+        "identityRulingAndFinalPeerBoundsUnchanged": true
+      }
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {}
+}
