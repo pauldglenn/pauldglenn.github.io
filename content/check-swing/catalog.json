@@ -9420,5 +9420,51 @@
       "pitchNumber": 1,
       "playId": "00185426-0386-0013-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "aaron-miles-20060822-41819-ab35-p5-00418196-0366-0053",
+    "batter": "Aaron Miles",
+    "date": "2006-08-22",
+    "matchup": "Cardinals at Mets",
+    "base": 3,
+    "strike": false,
+    "start": 5492.6,
+    "end": 5496.8,
+    "umpire": "Unknown",
+    "context": "Aaron Miles faces John Maine with a 3–1 count and two outs in the fifth inning. St. Louis leads New York 3–1.",
+    "evidence": "https://statsapi.mlb.com/api/v1/game/41819/playByPlay",
+    "source": "https://www.mlb.com/video/beltran-s-walk-off-caps-epic-matchup-at-shea-stadium-x0539",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2006/2006-08/22/e59ea077-11061ab2-41fadffa-csvm-diamondgcp-asset_1280x720_59_16000K.mp4",
+    "availableFrom": "2026-11-02",
+    "footageCredit": "MLB archived 2006 regular-season broadcast",
+    "pitchIdentity": {
+      "gamePk": 41819,
+      "atBatIndex": 35,
+      "pitchNumber": 5,
+      "playId": "00418196-0366-0053-000c-f08cd117d70a"
+    }
+  },
+  {
+    "id": "sam-fuld-20120815-319490-ab22-p3-03194906-0236-0033",
+    "batter": "Sam Fuld",
+    "date": "2012-08-15",
+    "matchup": "Rays at Mariners",
+    "base": 3,
+    "strike": false,
+    "start": 2393.3,
+    "end": 2397.2,
+    "umpire": "Andy Fletcher · third-base umpire",
+    "context": "Sam Fuld faces Félix Hernández with an 0–2 count in the fourth inning. Tampa Bay trails Seattle 1–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1/game/319490/playByPlay",
+    "source": "https://www.mlb.com/video/felix-hernandez-perfect-game",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2012/2012-08/15/ee1148cf-56b6edea-6092608a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB archived 2012 regular-season broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 319490,
+      "atBatIndex": 22,
+      "pitchNumber": 3,
+      "playId": "03194906-0236-0033-000c-f08cd117d70a"
+    }
   }
 ]
