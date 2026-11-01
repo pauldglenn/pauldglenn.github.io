@@ -9190,5 +9190,51 @@
       "pitchNumber": 3,
       "playId": "253a84d3-6f25-32f4-9074-13a1a67fc0ed"
     }
+  },
+  {
+    "id": "jeremiah-jackson-20260623-824017-5dca7488",
+    "batter": "Jeremiah Jackson",
+    "date": "2026-06-23",
+    "matchup": "Orioles at Angels",
+    "base": 1,
+    "strike": true,
+    "start": 180.35,
+    "end": 183.4,
+    "umpire": "Unknown · deciding umpire",
+    "context": "Jeremiah Jackson faces Ryan Johnson with a 2–2 count and one out in the third inning. Baltimore trails 2–0.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/824017/feed/live",
+    "source": "https://www.mlb.com/video/condensed-game-bal-laa-6-23-26",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/dfe6f708-61aa0938-6fc8643c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / Orioles–Angels broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 824017,
+      "atBatIndex": 19,
+      "pitchNumber": 5,
+      "playId": "5dca7488-a4be-3238-af23-7ef7384b1ce6"
+    }
+  },
+  {
+    "id": "mike-napoli-20121005-345594-03455946-0166-0023",
+    "batter": "Mike Napoli",
+    "date": "2012-10-05",
+    "matchup": "Orioles at Rangers",
+    "base": 1,
+    "strike": false,
+    "start": 2157.0,
+    "end": 2159.3,
+    "umpire": "Jerry Layne · first-base umpire",
+    "context": "Mike Napoli faces Joe Saunders with an 0–1 count and one out in the second inning of the 2012 American League Wild Card Game. The score is tied 1–1.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/345594/feed/live",
+    "source": "https://www.mlb.com/video/orioles-advance-to-2012-alds",
+    "video": "https://cuts.diamond.mlb.com/FORGE/2012/2012-10/05/2ff02ac7-ab05de1e-50ccd90a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB / TBS 2012 AL Wild Card Game broadcast",
+    "availableFrom": "2026-11-02",
+    "pitchIdentity": {
+      "gamePk": 345594,
+      "atBatIndex": 15,
+      "pitchNumber": 2,
+      "playId": "03455946-0166-0023-000c-f08cd117d70a"
+    }
   }
 ]
