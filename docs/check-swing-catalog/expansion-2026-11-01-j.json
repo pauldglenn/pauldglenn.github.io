@@ -1,0 +1,898 @@
+{
+  "added": 2,
+  "total": 475,
+  "dailyActivation": "2026-11-02",
+  "discovery": "RAM-only speech transcription of uncaptained official MLB condensed and full broadcasts located two checked attempts. Original listed MP4, fresh exact pitch records, independent motion/call review and direct original-source boundary PNGs verify true first-base-side complete attempts. Napoli comes from a public full broadcast absent from condensed-game keyword discovery. Earlier cropped poses were excluded until a complete loaded cap appears before hands move forward. Unknown deciding caller is preserved for Jackson rather than inferred from crew.",
+  "clips": [
+    {
+      "id": "jeremiah-jackson-20260623-824017-5dca7488",
+      "batter": "Jeremiah Jackson",
+      "date": "2026-06-23",
+      "matchup": "Orioles at Angels",
+      "base": 1,
+      "strike": true,
+      "start": 180.35,
+      "end": 183.4,
+      "umpire": "Unknown · deciding umpire",
+      "context": "Jeremiah Jackson faces Ryan Johnson with a 2–2 count and one out in the third inning. Baltimore trails 2–0.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/824017/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-bal-laa-6-23-26",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/dfe6f708-61aa0938-6fc8643c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / Orioles–Angels broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 824017,
+        "atBatIndex": 19,
+        "pitchNumber": 5,
+        "playId": "5dca7488-a4be-3238-af23-7ef7384b1ce6"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "jeremiah-jackson-20260623-824017-5dca7488",
+          "batter": "Jeremiah Jackson",
+          "strike": true,
+          "start": 180.35,
+          "end": 183.4,
+          "umpire": "Unknown · deciding umpire",
+          "context": "Jeremiah Jackson faces Ryan Johnson with a 2–2 count and one out in the third inning. Baltimore trails 2–0.",
+          "date": "2026-06-23",
+          "matchup": "Orioles at Angels",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/824017/feed/live",
+          "source": "https://www.mlb.com/video/condensed-game-bal-laa-6-23-26",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-06/23/dfe6f708-61aa0938-6fc8643c-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / Orioles–Angels broadcast"
+        },
+        "review": {
+          "gamePk": 824017,
+          "atBatIndex": 19,
+          "pitchNumber": 5,
+          "playId": "5dca7488-a4be-3238-af23-7ef7384b1ce6",
+          "status": "root-primary-proposed-for-independent-peer",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Jeremiah Jackson strikes out swinging.",
+              "awayScore": 0,
+              "homeScore": 2
+            },
+            "about": {
+              "atBatIndex": 19,
+              "halfInning": "top",
+              "inning": 3,
+              "startTime": "2026-06-24T02:23:26.929Z"
+            },
+            "count": {
+              "balls": 2,
+              "strikes": 3,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 669236,
+                "fullName": "Jeremiah Jackson"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 696270,
+                "fullName": "Ryan Johnson"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "call": {
+                    "code": "*B",
+                    "description": "Ball In Dirt"
+                  },
+                  "description": "Ball In Dirt",
+                  "code": "*B",
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 0,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 91.9
+                },
+                "index": 0,
+                "playId": "bd79e3eb-46dc-3384-b4a9-c1e3c858bb19",
+                "pitchNumber": 1,
+                "startTime": "2026-06-24T02:23:43.574Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "F",
+                    "description": "Foul"
+                  },
+                  "description": "Foul",
+                  "code": "F",
+                  "type": {
+                    "code": "ST",
+                    "description": "Sweeper"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 78.3
+                },
+                "index": 1,
+                "playId": "3328c33a-1977-3c6e-b7f9-b22cbbc39962",
+                "pitchNumber": 2,
+                "startTime": "2026-06-24T02:24:03.794Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "type": {
+                    "code": "ST",
+                    "description": "Sweeper"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 79.2
+                },
+                "index": 2,
+                "playId": "295d24c2-ea0a-33be-8af2-de5e0388a79d",
+                "pitchNumber": 3,
+                "startTime": "2026-06-24T02:24:40.562Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "ST",
+                    "description": "Sweeper"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 79.2
+                },
+                "index": 3,
+                "playId": "de1632ba-b392-397b-933d-e904a82371da",
+                "pitchNumber": 4,
+                "startTime": "2026-06-24T02:25:01.323Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "description": "Pickoff Attempt 1B",
+                  "code": "1"
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "index": 4,
+                "playId": "89f8e9b4-d098-33bb-a7e5-8c8c488c81ae",
+                "startTime": "2026-06-24T02:25:21.631Z",
+                "isPitch": false,
+                "type": "pickoff"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "type": {
+                    "code": "FC",
+                    "description": "Cutter"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 3,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 89.2
+                },
+                "index": 5,
+                "playId": "5dca7488-a4be-3238-af23-7ef7384b1ce6",
+                "pitchNumber": 5,
+                "startTime": "2026-06-24T02:25:42.799Z",
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 19
+          },
+          "camera": "true first-base-side chest profile for right-handed batter; original MP4 180.35–183.4",
+          "motion": "Direct source180.35 shows the entire rounded bat cap in loaded position before hand/barrel forward motion around181.7. Jackson advances and brakes the bat, ends with bat near back shoulder/neck and begins return by183.3–183.4. Whole attempted check is visible. End excludes later catcher rise/umpire signal and pitcher shot.",
+          "rulingEvidence": "Exact live pitch original176.5–179.0 shows check and strike response; immediately following full side replay matches same batter Jackson #82 RHB, pitcher RyanJohnson #32 RHP, top3 with 2–2/oneout/runner1B and89mph cutter. Official AB19 pitch5 is89.2FC SwingingStrike endingK. Source audio locator says check swing he went around strike three; audio serves as locator/corroboration, not primary ruling. Physical attempt is distinctly abbreviated; direct home plate judgments qualify without separate appeal.",
+          "callerEvidence": "Fresh crew lists D.J.ReyburnHP and JamesHoye1B, but exact deciding caller gesture is partly obscured by batter/catcher. Root conservatively leaves Unknown rather than inferring from crew. Peer may identify actual same-pitch HP gesture from native full sequence.",
+          "officialCrew": [
+            {
+              "official": {
+                "id": 482666,
+                "fullName": "D.J. Reyburn"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 428442,
+                "fullName": "James Hoye"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 503493,
+                "fullName": "Sean Barber"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 596805,
+                "fullName": "John Libka"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "freshFeedRequest": {
+            "url": "https://statsapi.mlb.com/api/v1.1/game/824017/feed/live?fields=gamePk,gameData,datetime,officialDate,teams,away,home,id,name,liveData,plays,allPlays,about,atBatIndex,halfInning,inning,startTime,matchup,batter,pitcher,batSide,pitchHand,fullName,result,description,event,eventType,awayScore,homeScore,playEvents,index,pitchNumber,playId,isPitch,details,call,code,pitchData,startSpeed,type,count,balls,strikes,outs,boxscore,officials,official,officialType",
+            "rawSha256": "f088b1ea05b02460f8e96a444e22b1cd065467d5922e347a6ce3ea5781e1e4e4"
+          },
+          "proofs": [
+            {
+              "path": "native-178-186.mp4",
+              "sha256": "f3308c62b1a6697e5d523b7a3ee581e5afcc589c53648f1446727b872e452135",
+              "bytes": 5694054
+            },
+            {
+              "path": "native-174-180.mp4",
+              "sha256": "76fd92520040f6d493c2c5b90a3541175fa2ec6d6f0e5aa767b74123fcdfab61",
+              "bytes": 3597082
+            }
+          ],
+          "criticalFrames": [
+            {
+              "sourceOriginalMp4Seconds": 180.35,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-180.35.png",
+              "sha256": "b7df6b756880d846bfcc99d35f3c331193b74bea991f31eaac7c74eb5cd03a82"
+            },
+            {
+              "sourceOriginalMp4Seconds": 183.8,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-183.8.png",
+              "sha256": "0ed763bec2471f9e36176c9c99dafaad871e6f5b0253cce72e9d8810e462bbc4"
+            },
+            {
+              "sourceOriginalMp4Seconds": 177.55,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-177.55.png",
+              "sha256": "57da9f28ce7c1c7af8db836d9343749eb3b64fea25024dc3a6b70c4249c85018"
+            },
+            {
+              "sourceOriginalMp4Seconds": 183.4,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-183.4.png",
+              "sha256": "797a27bde670b39b7c39fa6098ab51aa5907bc318b4aa93c2e7f2e0e423bca90"
+            },
+            {
+              "sourceOriginalMp4Seconds": 178.55,
+              "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-178.55.png",
+              "sha256": "3e905c99206098bb111bada887c59683bf3cd55bb87454fb50c370bcebd70d08"
+            }
+          ],
+          "initialEnd1838NotUsed": "183.8 catcher begins rising; final proposed end183.4 earlier after bat finish/initialreturn.",
+          "deduplication": "No canonical matching player/date or exact playId in473 catalog; no prior candidate published."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/peer-review-luna/audit.json"
+    },
+    {
+      "id": "mike-napoli-20121005-345594-03455946-0166-0023",
+      "batter": "Mike Napoli",
+      "date": "2012-10-05",
+      "matchup": "Orioles at Rangers",
+      "base": 1,
+      "strike": false,
+      "start": 2157.0,
+      "end": 2159.3,
+      "umpire": "Jerry Layne · first-base umpire",
+      "context": "Mike Napoli faces Joe Saunders with an 0–1 count and one out in the second inning of the 2012 American League Wild Card Game. The score is tied 1–1.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/345594/feed/live",
+      "source": "https://www.mlb.com/video/orioles-advance-to-2012-alds",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2012/2012-10/05/2ff02ac7-ab05de1e-50ccd90a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB / TBS 2012 AL Wild Card Game broadcast",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 345594,
+        "atBatIndex": 15,
+        "pitchNumber": 2,
+        "playId": "03455946-0166-0023-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "mike-napoli-20121005-345594-03455946-0166-0023",
+          "batter": "Mike Napoli",
+          "strike": false,
+          "start": 2157.0,
+          "end": 2159.3,
+          "umpire": "Jerry Layne · first-base umpire",
+          "context": "Mike Napoli faces Joe Saunders with an 0–1 count and one out in the second inning of the 2012 American League Wild Card Game. The score is tied 1–1.",
+          "date": "2012-10-05",
+          "matchup": "Orioles at Rangers",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/345594/feed/live",
+          "source": "https://www.mlb.com/video/orioles-advance-to-2012-alds",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2012/2012-10/05/2ff02ac7-ab05de1e-50ccd90a-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / TBS 2012 AL Wild Card Game broadcast"
+        },
+        "review": {
+          "gamePk": 345594,
+          "atBatIndex": 15,
+          "pitchNumber": 2,
+          "playId": "03455946-0166-0023-000c-f08cd117d70a",
+          "status": "root-primary-proposed-for-independent-peer",
+          "atBat": {
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Mike Napoli called out on strikes.",
+              "awayScore": 1,
+              "homeScore": 1
+            },
+            "about": {
+              "atBatIndex": 15,
+              "halfInning": "bottom",
+              "inning": 2,
+              "startTime": "2012-10-06T01:13:30.000Z"
+            },
+            "count": {
+              "balls": 3,
+              "strikes": 3,
+              "outs": 2
+            },
+            "matchup": {
+              "batter": {
+                "id": 435063,
+                "fullName": "Mike Napoli"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 434578,
+                "fullName": "Joe Saunders"
+              },
+              "pitchHand": {
+                "code": "L",
+                "description": "Left"
+              }
+            },
+            "playEvents": [
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  }
+                },
+                "count": {
+                  "balls": 0,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 90.1
+                },
+                "index": 0,
+                "playId": "03455946-0166-0013-000c-f08cd117d70a",
+                "pitchNumber": 1,
+                "startTime": "2012-10-06T01:13:39.780Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  }
+                },
+                "count": {
+                  "balls": 1,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 90.4
+                },
+                "index": 1,
+                "playId": "03455946-0166-0023-000c-f08cd117d70a",
+                "pitchNumber": 2,
+                "startTime": "2012-10-06T01:14:01.236Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "FF",
+                    "description": "Four-Seam Fastball"
+                  }
+                },
+                "count": {
+                  "balls": 2,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 90.9
+                },
+                "index": 2,
+                "playId": "03455946-0166-0033-000c-f08cd117d70a",
+                "pitchNumber": 3,
+                "startTime": "2012-10-06T01:14:26.588Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "B",
+                    "description": "Ball"
+                  },
+                  "description": "Ball",
+                  "code": "B",
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 1,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 90.5
+                },
+                "index": 3,
+                "playId": "03455946-0166-0043-000c-f08cd117d70a",
+                "pitchNumber": 4,
+                "startTime": "2012-10-06T01:14:50.954Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "S",
+                    "description": "Swinging Strike"
+                  },
+                  "description": "Swinging Strike",
+                  "code": "S",
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 2,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 88.8
+                },
+                "index": 4,
+                "playId": "03455946-0166-0053-000c-f08cd117d70a",
+                "pitchNumber": 5,
+                "startTime": "2012-10-06T01:15:15.817Z",
+                "isPitch": true,
+                "type": "pitch"
+              },
+              {
+                "details": {
+                  "call": {
+                    "code": "C",
+                    "description": "Called Strike"
+                  },
+                  "description": "Called Strike",
+                  "code": "C",
+                  "type": {
+                    "code": "SI",
+                    "description": "Sinker"
+                  }
+                },
+                "count": {
+                  "balls": 3,
+                  "strikes": 3,
+                  "outs": 1
+                },
+                "pitchData": {
+                  "startSpeed": 90.4
+                },
+                "index": 5,
+                "playId": "03455946-0166-0063-000c-f08cd117d70a",
+                "pitchNumber": 6,
+                "isPitch": true,
+                "type": "pitch"
+              }
+            ],
+            "atBatIndex": 15
+          },
+          "targetPitch": {
+            "details": {
+              "call": {
+                "code": "B",
+                "description": "Ball"
+              },
+              "description": "Ball",
+              "code": "B",
+              "type": {
+                "code": "SI",
+                "description": "Sinker"
+              }
+            },
+            "count": {
+              "balls": 1,
+              "strikes": 1,
+              "outs": 1
+            },
+            "pitchData": {
+              "startSpeed": 90.4
+            },
+            "index": 1,
+            "playId": "03455946-0166-0023-000c-f08cd117d70a",
+            "pitchNumber": 2,
+            "startTime": "2012-10-06T01:14:01.236Z",
+            "isPitch": true,
+            "type": "pitch"
+          },
+          "countBefore": {
+            "balls": 0,
+            "strikes": 1,
+            "outs": 1
+          },
+          "scoreBefore": {
+            "away": 1,
+            "home": 1
+          },
+          "camera": "true first-base-side chest profile for RHB; originalMP4 bounds2157.0–2159.3",
+          "onsetFinding": "Earlier loaded bat cap at2155.9/2156.6/2156.8 is clipped; NOTused. Direct original2157.0PNG shows entire rounded cap within frame with a small margin above, hands still held back left of chest before hands/barrel move forward to the pitcher ~2157.2. Need independent peer exact onset verification; do not treat low montage as proof.",
+          "motionFinding": "Complete checked attempt to extended bat around2158–2158.5, initial return toward batter by2159.0–2159.3. End before catcher request/gesture (hand extends around2159.7) and later bumper.",
+          "rulingEvidence": "Same-pitch live CF original2146–2148 followed immediately by isolated first-base umpire two-arm spread no-go direct2149.3PNG; then Napoli reaction followed by same batter right-handed full-body side replay (no batter transition). Public HLS corresponding~2148–2152call and2158side; source clocks differ~2s. Fresh feed confirms Napoli AB15p2 Ball90.4SI 0–1→1–1, oneout1–1score vsSaundersLHP. C finalstrike6 of this atbat is a different pitch and is NOT selected.",
+          "callerEvidence": "Actual same-pitch isolated base umpire armspread no-go plus specific original broadcast attribution JerryLayne1B and fresh crew lists JerryLayneFirstBase. ASR speech locator alone notcallerproof; native/source signal and crew jointly reconcile.",
+          "freshFeedRequest": {
+            "url": "https://statsapi.mlb.com/api/v1.1/game/345594/feed/live?fields=gamePk,gameData,datetime,officialDate,teams,away,home,id,name,liveData,plays,allPlays,about,atBatIndex,halfInning,inning,startTime,matchup,batter,pitcher,batSide,pitchHand,fullName,result,description,event,eventType,awayScore,homeScore,playEvents,index,pitchNumber,playId,isPitch,details,call,code,pitchData,startSpeed,type,count,balls,strikes,outs,boxscore,officials,official,officialType",
+            "rawSha256": "2860bd40057cf5a5f374167754eb5c6df342ac6ca44bee69e5c6c162e4ea5464"
+          },
+          "officialCrew": [
+            {
+              "official": {
+                "id": 427097,
+                "fullName": "Gary Darling"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427299,
+                "fullName": "Jerry Layne"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427019,
+                "fullName": "Ted Barrett"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 427344,
+                "fullName": "Bill Miller"
+              },
+              "officialType": "Third Base"
+            },
+            {
+              "official": {
+                "id": 427184,
+                "fullName": "Greg Gibson"
+              },
+              "officialType": "Left Field"
+            },
+            {
+              "official": {
+                "id": 427197,
+                "fullName": "Chris Guccione"
+              },
+              "officialType": "Right Field"
+            }
+          ],
+          "nativeProof": {
+            "path": "native-2153-2161.mp4",
+            "sha256": "7525e8135d885f98a76772917a43fbc48364e06eae10cc1d022a18d5d77ba953",
+            "bytes": 5673093,
+            "originalMp4Start": 2153,
+            "duration": 8
+          },
+          "criticalFrameFiles": [
+            {
+              "path": "root-DIRECT-original-2149.3.png",
+              "sha256": "4ec73535b7960a597486f90984493b82a2b776771354370b5f3797bf1fbcb4fc"
+            },
+            {
+              "path": "root-DIRECT-original-2155.9.png",
+              "sha256": "02080355a2ec431dc2e99796368341e5663f7051f60e81e5bc672081d270620a"
+            },
+            {
+              "path": "root-DIRECT-original-2156.6.png",
+              "sha256": "1775238d91c3c98df62a353c56ffa70cb776116a95951f4d761d8feebac27644"
+            },
+            {
+              "path": "root-DIRECT-original-2156.8.png",
+              "sha256": "5d6c248acb92874d40632b54f14dab36b1a4f847766036595d4c38fb9c17bab4"
+            },
+            {
+              "path": "root-DIRECT-original-2157.png",
+              "sha256": "8369f15951587296531e28ec0afdb9c1791775b25161c162be9395572a016986"
+            },
+            {
+              "path": "root-DIRECT-original-2159.3.png",
+              "sha256": "578838a1103c5f8c454e9fba024671e11f845a43b3e265d71c58911b06b5f35a"
+            }
+          ],
+          "deduplication": "No473canonicalsamebatter/date/exactpitch; no changes to canonical."
+        }
+      },
+      "independentAuditGroup": "asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/peer-review-luna/audit.json"
+    }
+  ],
+  "auditGroups": {
+    "asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/peer-review-luna/audit.json": {
+      "schema": "independent-peer-review-v1",
+      "reviewer": "luna_2019_resume",
+      "reviewDate": "2026-11-01",
+      "candidateId": "jeremiah-jackson-20260623-824017-5dca7488",
+      "decision": "PASS_ACCEPTED",
+      "primary": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/primary-candidates.json",
+        "sha256": "1ff4beb72e72d18f7c013ab302e010a8e57688d0dec76df4078c88d50a8611ac",
+        "auditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/primary-audit.json",
+        "auditSha256": "9197d4d4c10e14c05f50a64cceb58a6eebafe3ceef964fc7831defa4d521528e"
+      },
+      "identityAndPitch": {
+        "gamePk": 824017,
+        "officialDate": "2026-06-23",
+        "atBatIndex": 19,
+        "inning": 3,
+        "halfInning": "top",
+        "pitchNumber": 5,
+        "playId": "5dca7488-a4be-3238-af23-7ef7384b1ce6",
+        "batter": "Jeremiah Jackson #82 RHB",
+        "pitcher": "Ryan Johnson #32 RHP",
+        "countBefore": "2-2, one out",
+        "scoreBefore": "BAL 0–LAA 2",
+        "runner": "first base",
+        "pitch": "89.2 mph cutter",
+        "officialCall": "S / Swinging Strike; strikeout"
+      },
+      "visualReview": {
+        "camera": "True first-base-side full-body profile appropriate to right-handed batter; batter, barrel and rounded cap remain in frame.",
+        "bounds": {
+          "timebase": "exact listed original MP4 PTS",
+          "start": 180.35,
+          "end": 183.4
+        },
+        "startFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-180.35.png",
+          "sha256": "b7df6b756880d846bfcc99d35f3c331193b74bea991f31eaac7c74eb5cd03a82",
+          "observation": "Clean loaded pose, entire rounded barrel cap visible before forward hand/barrel movement."
+        },
+        "motion": "The attempt advances from the loaded position around 181.7, but the bat is arrested short of a full wrap and the hands/bat begin returning by the end. I find the physical check sufficiently visible; this pass is based on the physical attempt/direct HP ruling, not an inferred appeal.",
+        "endFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-183.4.png",
+          "sha256": "797a27bde670b39b7c39fa6098ab51aa5907bc318b4aa93c2e7f2e0e423bca90",
+          "observation": "Attempt and initial return complete; catcher remains crouched."
+        },
+        "spoilerCut": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-183.8.png",
+          "sha256": "0ed763bec2471f9e36176c9c99dafaad871e6f5b0253cce72e9d8810e462bbc4",
+          "observation": "Catcher begins rising; excluded by 183.4 end."
+        },
+        "otherIdentityFrame": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/root-DIRECT-original-178.55.png",
+          "sha256": "3e905c99206098bb111bada887c59683bf3cd55bb87454fb50c370bcebd70d08",
+          "observation": "Live-sequence scorebug and exact top-3 2-2 state immediately around the target pitch."
+        }
+      },
+      "rulingAndCaller": {
+        "basis": "Direct home-plate physical check / swing judgment. The official feed records the exact pitch as swinging strike; no appeal is claimed.",
+        "caller": "Unknown · deciding umpire",
+        "reason": "The live deciding gesture is partly obscured. Fresh crew data lists D.J. Reyburn at home plate, but role from crew alone does not establish the actual gesture."
+      },
+      "sourceProofs": [
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/native-178-186.mp4",
+          "sha256": "f3308c62b1a6697e5d523b7a3ee581e5afcc589c53648f1446727b872e452135",
+          "bytes": 5694054
+        },
+        {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/native-174-180.mp4",
+          "sha256": "76fd92520040f6d493c2c5b90a3541175fa2ec6d6f0e5aa767b74123fcdfab61",
+          "bytes": 3597082
+        }
+      ],
+      "freshFeed": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/fresh-feed-projected.json.gz",
+        "sha256": "a44cc92f6422b2dc0b4db52c96e80e09b3cbbc8ed7cb034809c7d1a947d3667a",
+        "requestPath": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/fresh-feed-request.json",
+        "requestSha256": "cea7d2ad840547b506def22be7f72c44576db018e7dee54d1a8c433dfd2568f7"
+      },
+      "canonicalChanged": false,
+      "publicationAuthorized": false,
+      "acceptedListPath": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave2-prioritized/root-824017-jackson/peer-review-luna/accepted-candidates-JACKSON.json"
+    },
+    "asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/peer-review-luna/audit.json": {
+      "schema": "independent-peer-review-v1",
+      "reviewer": "luna_2019_resume",
+      "reviewDate": "2026-11-01",
+      "candidateId": "mike-napoli-20121005-345594-03455946-0166-0023",
+      "decision": "PASS_ACCEPTED",
+      "primary": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/primary-candidates.json",
+        "sha256": "a93b1e32cedb0c99f94b0eb9a90daa8341cdb93a857a11a982e821e458302c9a",
+        "auditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/primary-audit.json",
+        "auditSha256": "7aa8685fbd3029bddfb618c9c3a03d9c4eab74f7bb42770699b7fa8cddbcb2a4"
+      },
+      "identityAndPitch": {
+        "gamePk": 345594,
+        "officialDate": "2012-10-05",
+        "atBatIndex": 15,
+        "inning": 2,
+        "halfInning": "bottom",
+        "pitchNumber": 2,
+        "playId": "03455946-0166-0023-000c-f08cd117d70a",
+        "batter": "Mike Napoli",
+        "batSide": "R",
+        "pitcher": "Joe Saunders",
+        "countBefore": "0-1, one out",
+        "scoreBefore": "1-1",
+        "pitch": "90.4 mph sinker",
+        "call": "B / Ball",
+        "countAfter": "1-1"
+      },
+      "visualReview": {
+        "camera": "True first-base-side full-body view appropriate to right-handed batter.",
+        "bounds": {
+          "timebase": "exact listed original MP4 PTS",
+          "start": 2157.0,
+          "end": 2159.3
+        },
+        "onset": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/root-DIRECT-original-2157.png",
+          "sha256": "8369f15951587296531e28ec0afdb9c1791775b25161c162be9395572a016986",
+          "observation": "Entire rounded barrel cap is visible with margin; hands remain back before forward movement."
+        },
+        "earlierCropping": [
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/root-DIRECT-original-2155.9.png",
+            "sha256": "02080355a2ec431dc2e99796368341e5663f7051f60e81e5bc672081d270620a",
+            "observation": "Transition/early replay; cap not fully in frame."
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/root-DIRECT-original-2156.6.png",
+            "sha256": "1775238d91c3c98df62a353c56ffa70cb776116a95951f4d761d8feebac27644",
+            "observation": "Barrel cap cropped."
+          },
+          {
+            "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/root-DIRECT-original-2156.8.png",
+            "sha256": "5d6c248acb92874d40632b54f14dab36b1a4f847766036595d4c38fb9c17bab4",
+            "observation": "Barrel cap cropped."
+          }
+        ],
+        "motion": "The short attempt is checked before a full follow-through; the bat moves forward and then brakes/returns down in the selected window. This is distinguishable from an ordinary complete swing.",
+        "samePitchCaller": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/root-DIRECT-original-2149.3.png",
+          "sha256": "4ec73535b7960a597486f90984493b82a2b776771354370b5f3797bf1fbcb4fc",
+          "observation": "Isolated two-arm no-go signal from first-base-side official directly after the target pitch. Crew identifies Jerry Layne at first base."
+        },
+        "end": {
+          "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/root-DIRECT-original-2159.3.png",
+          "sha256": "578838a1103c5f8c454e9fba024671e11f845a43b3e265d71c58911b06b5f35a",
+          "observation": "Check attempt/initial return complete before catcher asks around 2159.7."
+        }
+      },
+      "sourceProof": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/native-2153-2161.mp4",
+        "sha256": "7525e8135d885f98a76772917a43fbc48364e06eae10cc1d022a18d5d77ba953",
+        "bytes": 5673093,
+        "additionalNativeFetched": false
+      },
+      "freshFeed": {
+        "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/fresh-feed-projected.json.gz",
+        "sha256": "5e67b849dda0fb290d3e0489abcb68de53407bbb9bbe1a2f3a61f21cc2242170",
+        "requestPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/fresh-feed-request.json",
+        "requestSha256": "d3a5a922819603bf73aba71d5ea0d2f4ab1766c49168c8ed38951a4c5dab9245"
+      },
+      "ambiguityControls": [
+        "Do not confuse selected pitch 2 (called ball, count 0-1 to 1-1) with pitch 6, the later called strike that ended the plate appearance.",
+        "No full media or additional proof was downloaded."
+      ],
+      "canonicalChanged": false,
+      "publicationAuthorized": false,
+      "acceptedListPath": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-next-wave/root-345594-napoli/peer-review-luna/accepted-candidates-NAPOLI.json"
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "TylerWadeSeoul": "HOLD: full loaded barrel cap cropped through forward onset; previous positive independent review superseded by cap correction.",
+    "CharlieCulberson20190411": "HOLD: first clean side frame already mid-attempt; earlier whole swing belongs to Ronald Acuna, not Culberson. Direct source328.5 is dissolve; caller and count also unresolved."
+  }
+}
