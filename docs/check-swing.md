@@ -67,3 +67,7 @@ The game has 486 reviewed MLB check swings. The [latest release](check-swing-cat
 Short reviewed windows respect the existing server timing gate before the save request. The ruling still appears immediately on selection. Catalog tests compare client/API selections over 730 dates, preserve earlier daily sets, and exercise new practice votes.
 
 Daily-distribution validation covers over 100 completed attempts, all six score bins, both supported identity types, incomplete daily answers, date/edition isolation, practice exclusion, empty and invalid dates, personal-score labels, spoiler controls, date navigation, failed-request recovery, and stale-response handling. No schema migration or changes to stored scores are required.
+
+### Community clip suggestions
+
+Players can [suggest a clip on GitHub](https://github.com/pauldglenn/pauldglenn.github.io/issues/new?template=check-swing-clip.yml) from the game’s Guide. The form collects a public video link, batter/game details, timestamp, and any known ruling evidence. Suggestions create public issues and require GitHub sign-in; they do not add clips or affect votes. Each proposed clip still needs footage, pitch identity, actual ruling, and duplicate checks before publication.
