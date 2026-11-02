@@ -9944,5 +9944,42 @@
       "playbackMuted": true,
       "reviewNote": "Original owner-page-listed MP4. Native sequence shows hands decelerate at or immediately before the barrel separates, stop in front of torso and draw inward without wraparound finish; no bat-ball contact. Earlier physical-motion rejection retained and superseded by independent dense review plus root review. Separate content API denied403 and was not retried."
     }
+  },
+  {
+    "id": "dustin-pedroia-20161006-487602-ecd12a3d",
+    "batter": "Dustin Pedroia",
+    "date": "2016-10-06",
+    "matchup": "Boston Red Sox at Cleveland",
+    "base": 1,
+    "strike": true,
+    "start": 19.2,
+    "end": 24.25,
+    "umpire": "Phil Cuzzi · first base",
+    "context": "ALDS Game 1, top of the ninth. Dustin Pedroia faces Cody Allen.",
+    "evidence": "https://www.mlb.com/amp/news/dustin-pedroia-admits-to-swing-on-final-out-c205252766.html",
+    "source": "https://www.mlb.com/amp/news/dustin-pedroia-admits-to-swing-on-final-out-c205252766.html",
+    "video": "https://mediadownloads.mlb.com/mlbam/mp4/2016/10/07/1203392783/1475815816522/asset_1200K.mp4",
+    "footageCredit": "TBS broadcast footage · via MLB",
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 487602,
+      "atBatIndex": 70,
+      "pitchNumber": 8,
+      "playId": "ecd12a3d-33c6-4aa1-8e3a-4b0cc1c591fa"
+    },
+    "provenance": {
+      "publisher": "MLB",
+      "sourceUrl": "https://mediadownloads.mlb.com/mlbam/mp4/2016/10/07/1203392783/1475815816522/asset_1200K.mp4",
+      "sourceArticleSha256": "bc903d2f7a57a96eb3551af18807b5efdf6e1474760ebd8389489c065fc26952",
+      "sourceSha256": "9ad30c8a46d741989ae7609f9fc417022e321e60ef5e703c3043aa9d1e32a87e",
+      "rawFeedSha256": "a2c369bb9c85f036545040c93e6839542643c0e718cdf2c07758676e225e1604",
+      "reviewedOriginalBounds": [
+        19.2,
+        24.25
+      ],
+      "reviewNativeSha256": "65c95de88dddc50d2c7815b6bdd4fe50b9e02b9583f0e19ac613383a749c51d2",
+      "playbackMuted": true,
+      "reviewNote": "Actual documented check-swing appeal; official MLB article identifies first-base caller Phil Cuzzi and the GO ruling. Primary and peer disagreed on whether motion is full-looking or visibly checked. Root and independent peer observe hands/bat reach an extended low maximum then hold without wraparound. Both agree true lateral full setup/attempt/finish and no bat-ball contact; primary disagreement retained. No unanimous physical-motion finding is claimed."
+    }
   }
 ]
