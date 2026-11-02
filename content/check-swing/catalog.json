@@ -9688,5 +9688,188 @@
       "pitchNumber": 3,
       "playId": "03485936-0596-0033-000c-f08cd117d70a"
     }
+  },
+  {
+    "id": "shane-victorino-20130905-348833-03488336-0886-0063-000c-f08cd117d70a",
+    "batter": "Shane Victorino",
+    "date": "2013-09-05",
+    "matchup": "Boston Red Sox at New York Yankees",
+    "base": 1,
+    "strike": false,
+    "start": 35.625,
+    "end": 40.4,
+    "umpire": "Joe West · first base",
+    "context": "Red Sox at Yankees, top of the tenth. Shane Victorino faces Joba Chamberlain with one out and a runner on second.",
+    "evidence": "https://www.closecallsports.com/2013/09/mlb-ejection-153-joe-west-3-joba.html",
+    "source": "https://mediadownloads.mlb.com/mlbam/2013/09/06/mlbtv_bosnya_30357613_1800K.mp4",
+    "video": "https://mediadownloads.mlb.com/mlbam/2013/09/06/mlbtv_bosnya_30357613_1800K.mp4",
+    "footageCredit": "YES Network broadcast footage · via MLB",
+    "provenance": {
+      "publisher": "MLB",
+      "officialContentId": "30357613",
+      "sourceMetadataUrl": "https://content.mlb.com/mlb/item/id/v1/30357613/details/web-v1.json",
+      "sourceMetadataSha256": "162c00b77dfde1951775752484ea1fbf10fc3e96bdf6b7f5b6139de315a4b588",
+      "articleListedOriginalUrl": "http://wapc.mlb.com/play/?content_id=30357613&topic_id=0",
+      "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2013/09/06/mlbtv_bosnya_30357613_1800K.mp4",
+      "reviewedOriginalBounds": [
+        35.625,
+        40.4
+      ],
+      "inputNativeSha256": "a656051f4fe0eac3b83065e4d1c03133e585a7c2651f126a9504e31f29752872",
+      "frameTimingVerified": true,
+      "conversion": "Original exact metadata-listed960x540MP4 playback; no game-video conversion/crop/interpolation. App mutes commentary and enforces reviewed source window."
+    },
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 348833,
+      "atBatIndex": 87,
+      "pitchNumber": 6,
+      "playId": "03488336-0886-0063-000c-f08cd117d70a"
+    }
+  },
+  {
+    "id": "nolan-arenado-20150529-414370-ab58-p5-541e8697",
+    "batter": "Nolan Arenado",
+    "date": "2015-05-29",
+    "matchup": "Colorado Rockies at Philadelphia Phillies",
+    "base": 1,
+    "strike": false,
+    "start": 68,
+    "end": 78.75,
+    "umpire": "Scott Barry · first base",
+    "context": "Rockies at Phillies, top of the ninth. Nolan Arenado faces Luis García.",
+    "evidence": "https://www.closecallsports.com/2015/05/mlb-ejection-059-angel-hernandez-1-ryne.html",
+    "source": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+    "video": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+    "footageCredit": "MLB broadcast footage · via MLB",
+    "provenance": {
+      "publisher": "MLB",
+      "officialContentId": "136423683",
+      "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+      "sourceMetadataUrl": "https://content.mlb.com/mlb/item/id/v1/136423683/details/web-v1.json",
+      "sourceMetadataSha256": "557ac5b2600f3b856e4984200d8b833b567f57ac733014e3f01bfc82ca1be52d",
+      "inputNativeSha256": "82dc975e45e9ee5ed5616a8ac5ade3ae3dd91a53c0e19a091eedebf8e7185900",
+      "inputNativeOriginalWindow": [
+        68,
+        78.75
+      ],
+      "originalSourceStart": 68,
+      "originalSourceEnd": 78.75,
+      "sourceDimensions": [
+        640,
+        360
+      ],
+      "cropRect": [
+        0,
+        0,
+        320,
+        360
+      ],
+      "spatialScaleApplied": false,
+      "interpolationApplied": false,
+      "sourceFrameCount": 323,
+      "frameTimingVerified": true,
+      "conversion": "Original metadata-listed MLB MP4 played directly; player displays only the reviewed left or right camera panel, preserves original aspect ratio and cadence, mutes commentary and enforces original source bounds. Retained derived excerpt hash is review evidence only; no derived asset is published.",
+      "rightsNotes": "Short archived MLB broadcast excerpt presented for analysis; original source credited.",
+      "reviewExcerptSha256": "93fc332155aa23494c04194f99eae5ff06751089a7798144a2e2f997faf1d91c",
+      "reviewExcerptDimensions": [
+        320,
+        360
+      ],
+      "reviewExcerptFrameCount": 323,
+      "playbackMuted": true
+    },
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 414370,
+      "atBatIndex": 58,
+      "pitchNumber": 5,
+      "playId": "541e8697-8977-4fbe-a868-a6fff338b3b3"
+    },
+    "cameraPanel": "left"
+  },
+  {
+    "id": "darin-ruf-20150529-414370-ab55-p6-9e44f481",
+    "batter": "Darin Ruf",
+    "date": "2015-05-29",
+    "matchup": "Colorado Rockies at Philadelphia Phillies",
+    "base": 1,
+    "strike": true,
+    "start": 68,
+    "end": 73.5,
+    "umpire": "Unknown",
+    "context": "Rockies at Phillies, bottom of the eighth. Darin Ruf faces Chad Bettis.",
+    "evidence": "https://www.mlb.com/news/chad-bettis-flirts-with-perfecto-then-no-no-in-rockies-win/c-127350480",
+    "source": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+    "video": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+    "footageCredit": "MLB broadcast footage · via MLB",
+    "provenance": {
+      "publisher": "MLB",
+      "officialContentId": "136423683",
+      "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+      "sourceMetadataUrl": "https://content.mlb.com/mlb/item/id/v1/136423683/details/web-v1.json",
+      "sourceMetadataSha256": "557ac5b2600f3b856e4984200d8b833b567f57ac733014e3f01bfc82ca1be52d",
+      "inputNativeSha256": "82dc975e45e9ee5ed5616a8ac5ade3ae3dd91a53c0e19a091eedebf8e7185900",
+      "inputNativeOriginalWindow": [
+        68,
+        78.75
+      ],
+      "originalSourceStart": 68,
+      "originalSourceEnd": 73.5,
+      "sourceDimensions": [
+        640,
+        360
+      ],
+      "cropRect": [
+        320,
+        0,
+        320,
+        360
+      ],
+      "spatialScaleApplied": false,
+      "interpolationApplied": false,
+      "sourceFrameCount": 165,
+      "frameTimingVerified": true,
+      "conversion": "Original metadata-listed MLB MP4 played directly; player displays only the reviewed left or right camera panel, preserves original aspect ratio and cadence, mutes commentary and enforces original source bounds. Retained derived excerpt hash is review evidence only; no derived asset is published.",
+      "rightsNotes": "Short archived MLB broadcast excerpt presented for analysis; original source credited.",
+      "reviewExcerptSha256": "f8a3c29f5aaef2281767c556c7d348328f7b8119602fbe37a31d4d82c1e7ec07",
+      "reviewExcerptDimensions": [
+        320,
+        360
+      ],
+      "reviewExcerptFrameCount": 165,
+      "playbackMuted": true
+    },
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 414370,
+      "atBatIndex": 55,
+      "pitchNumber": 6,
+      "playId": "9e44f481-b299-4e83-a386-ae7e13bbd263"
+    },
+    "cameraPanel": "right"
+  },
+  {
+    "id": "kyleschwarber20250616",
+    "batter": "Kyle Schwarber",
+    "date": "2025-06-16",
+    "matchup": "PHI at MIA",
+    "base": 3,
+    "strike": false,
+    "start": 4.85,
+    "end": 10.55,
+    "umpire": "Unknown",
+    "context": "Phillies at Marlins, top of the ninth. Kyle Schwarber faces Cade Gibson.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/777483/feed/live",
+    "source": "https://www.mlb.com/video/kyle-schwarber-hit-by-pitch-after-review",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/16/81d7e173-e816700d-386235d5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "MLB broadcast footage · via MLB",
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 777483,
+      "atBatIndex": 69,
+      "pitchNumber": 3,
+      "playId": "6fdb439a-188b-35f8-8b26-533ea8689e91"
+    }
   }
 ]
