@@ -1,0 +1,307 @@
+{
+  "added": 4,
+  "total": 497,
+  "dailyActivation": "2026-11-03",
+  "discovery": "Legacy exact MLB content-ID resolution and fresh independent reviews of retained source panels. Includes Victorino, separately isolated Arenado and Ruf checks with authoritative call evidence, and Schwarber’s physically checked HBP. All public contexts remain pre-result neutral.",
+  "clips": [
+    {
+      "id": "shane-victorino-20130905-348833-03488336-0886-0063-000c-f08cd117d70a",
+      "batter": "Shane Victorino",
+      "date": "2013-09-05",
+      "matchup": "Boston Red Sox at New York Yankees",
+      "base": 1,
+      "strike": false,
+      "start": 35.625,
+      "end": 40.4,
+      "umpire": "Joe West · first base",
+      "context": "Red Sox at Yankees, top of the tenth. Shane Victorino faces Joba Chamberlain with one out and a runner on second.",
+      "evidence": "https://www.closecallsports.com/2013/09/mlb-ejection-153-joe-west-3-joba.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2013/09/06/mlbtv_bosnya_30357613_1800K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2013/09/06/mlbtv_bosnya_30357613_1800K.mp4",
+      "footageCredit": "YES Network broadcast footage · via MLB",
+      "provenance": {
+        "publisher": "MLB",
+        "officialContentId": "30357613",
+        "sourceMetadataUrl": "https://content.mlb.com/mlb/item/id/v1/30357613/details/web-v1.json",
+        "sourceMetadataSha256": "162c00b77dfde1951775752484ea1fbf10fc3e96bdf6b7f5b6139de315a4b588",
+        "articleListedOriginalUrl": "http://wapc.mlb.com/play/?content_id=30357613&topic_id=0",
+        "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2013/09/06/mlbtv_bosnya_30357613_1800K.mp4",
+        "reviewedOriginalBounds": [
+          35.625,
+          40.4
+        ],
+        "inputNativeSha256": "a656051f4fe0eac3b83065e4d1c03133e585a7c2651f126a9504e31f29752872",
+        "frameTimingVerified": true,
+        "conversion": "Original exact metadata-listed960x540MP4 playback; no game-video conversion/crop/interpolation. App mutes commentary and enforces reviewed source window."
+      },
+      "availableFrom": "2026-11-03",
+      "pitchIdentity": {
+        "gamePk": 348833,
+        "atBatIndex": 87,
+        "pitchNumber": 6,
+        "playId": "03488336-0886-0063-000c-f08cd117d70a"
+      }
+    },
+    {
+      "id": "nolan-arenado-20150529-414370-ab58-p5-541e8697",
+      "batter": "Nolan Arenado",
+      "date": "2015-05-29",
+      "matchup": "Colorado Rockies at Philadelphia Phillies",
+      "base": 1,
+      "strike": false,
+      "start": 68,
+      "end": 78.75,
+      "umpire": "Scott Barry · first base",
+      "context": "Rockies at Phillies, top of the ninth. Nolan Arenado faces Luis García.",
+      "evidence": "https://www.closecallsports.com/2015/05/mlb-ejection-059-angel-hernandez-1-ryne.html",
+      "source": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+      "footageCredit": "MLB broadcast footage · via MLB",
+      "provenance": {
+        "publisher": "MLB",
+        "officialContentId": "136423683",
+        "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+        "sourceMetadataUrl": "https://content.mlb.com/mlb/item/id/v1/136423683/details/web-v1.json",
+        "sourceMetadataSha256": "557ac5b2600f3b856e4984200d8b833b567f57ac733014e3f01bfc82ca1be52d",
+        "inputNativeSha256": "82dc975e45e9ee5ed5616a8ac5ade3ae3dd91a53c0e19a091eedebf8e7185900",
+        "inputNativeOriginalWindow": [
+          68,
+          78.75
+        ],
+        "originalSourceStart": 68,
+        "originalSourceEnd": 78.75,
+        "sourceDimensions": [
+          640,
+          360
+        ],
+        "cropRect": [
+          0,
+          0,
+          320,
+          360
+        ],
+        "spatialScaleApplied": false,
+        "interpolationApplied": false,
+        "sourceFrameCount": 323,
+        "frameTimingVerified": true,
+        "conversion": "Original metadata-listed MLB MP4 played directly; player displays only the reviewed left or right camera panel, preserves original aspect ratio and cadence, mutes commentary and enforces original source bounds. Retained derived excerpt hash is review evidence only; no derived asset is published.",
+        "rightsNotes": "Short archived MLB broadcast excerpt presented for analysis; original source credited.",
+        "reviewExcerptSha256": "93fc332155aa23494c04194f99eae5ff06751089a7798144a2e2f997faf1d91c",
+        "reviewExcerptDimensions": [
+          320,
+          360
+        ],
+        "reviewExcerptFrameCount": 323,
+        "playbackMuted": true
+      },
+      "availableFrom": "2026-11-03",
+      "pitchIdentity": {
+        "gamePk": 414370,
+        "atBatIndex": 58,
+        "pitchNumber": 5,
+        "playId": "541e8697-8977-4fbe-a868-a6fff338b3b3"
+      },
+      "cameraPanel": "left"
+    },
+    {
+      "id": "darin-ruf-20150529-414370-ab55-p6-9e44f481",
+      "batter": "Darin Ruf",
+      "date": "2015-05-29",
+      "matchup": "Colorado Rockies at Philadelphia Phillies",
+      "base": 1,
+      "strike": true,
+      "start": 68,
+      "end": 73.5,
+      "umpire": "Unknown",
+      "context": "Rockies at Phillies, bottom of the eighth. Darin Ruf faces Chad Bettis.",
+      "evidence": "https://www.mlb.com/news/chad-bettis-flirts-with-perfecto-then-no-no-in-rockies-win/c-127350480",
+      "source": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+      "video": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+      "footageCredit": "MLB broadcast footage · via MLB",
+      "provenance": {
+        "publisher": "MLB",
+        "officialContentId": "136423683",
+        "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2015/05/30/mlbtv_colphi_136423683_1200K.mp4",
+        "sourceMetadataUrl": "https://content.mlb.com/mlb/item/id/v1/136423683/details/web-v1.json",
+        "sourceMetadataSha256": "557ac5b2600f3b856e4984200d8b833b567f57ac733014e3f01bfc82ca1be52d",
+        "inputNativeSha256": "82dc975e45e9ee5ed5616a8ac5ade3ae3dd91a53c0e19a091eedebf8e7185900",
+        "inputNativeOriginalWindow": [
+          68,
+          78.75
+        ],
+        "originalSourceStart": 68,
+        "originalSourceEnd": 73.5,
+        "sourceDimensions": [
+          640,
+          360
+        ],
+        "cropRect": [
+          320,
+          0,
+          320,
+          360
+        ],
+        "spatialScaleApplied": false,
+        "interpolationApplied": false,
+        "sourceFrameCount": 165,
+        "frameTimingVerified": true,
+        "conversion": "Original metadata-listed MLB MP4 played directly; player displays only the reviewed left or right camera panel, preserves original aspect ratio and cadence, mutes commentary and enforces original source bounds. Retained derived excerpt hash is review evidence only; no derived asset is published.",
+        "rightsNotes": "Short archived MLB broadcast excerpt presented for analysis; original source credited.",
+        "reviewExcerptSha256": "f8a3c29f5aaef2281767c556c7d348328f7b8119602fbe37a31d4d82c1e7ec07",
+        "reviewExcerptDimensions": [
+          320,
+          360
+        ],
+        "reviewExcerptFrameCount": 165,
+        "playbackMuted": true
+      },
+      "availableFrom": "2026-11-03",
+      "pitchIdentity": {
+        "gamePk": 414370,
+        "atBatIndex": 55,
+        "pitchNumber": 6,
+        "playId": "9e44f481-b299-4e83-a386-ae7e13bbd263"
+      },
+      "cameraPanel": "right"
+    },
+    {
+      "id": "kyleschwarber20250616",
+      "batter": "Kyle Schwarber",
+      "date": "2025-06-16",
+      "matchup": "PHI at MIA",
+      "base": 3,
+      "strike": false,
+      "start": 4.85,
+      "end": 10.55,
+      "umpire": "Unknown",
+      "context": "Phillies at Marlins, top of the ninth. Kyle Schwarber faces Cade Gibson.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/777483/feed/live",
+      "source": "https://www.mlb.com/video/kyle-schwarber-hit-by-pitch-after-review",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/16/81d7e173-e816700d-386235d5-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "footageCredit": "MLB broadcast footage · via MLB",
+      "availableFrom": "2026-11-03",
+      "pitchIdentity": {
+        "gamePk": 777483,
+        "atBatIndex": 69,
+        "pitchNumber": 3,
+        "playId": "6fdb439a-188b-35f8-8b26-533ea8689e91"
+      }
+    }
+  ],
+  "auditGroups": {
+    "release-u-prep/root-final-audit.json": {
+      "status": "root-accepted-four-only",
+      "cases": [
+        {
+          "id": "shane-victorino-20130905-348833-03488336-0886-0063-000c-f08cd117d70a",
+          "status": "root-accepted",
+          "gamePk": 348833,
+          "atBatIndex": 87,
+          "pitchNumber": 6,
+          "playId": "03488336-0886-0063-000c-f08cd117d70a",
+          "primary": {
+            "path": "/workspace/check-swing/expansion500/ccs-official-ejection-source-pass-second-20261102/article-page-id-mining/victorino-30357613-camera-luna-20261102/primary-candidates.json",
+            "sha256": "6af816a70d3ffaa3690a87b832e7e7a1c7b54aeb46203be8eaa91911d2b72bcf"
+          },
+          "independentPeer": {
+            "path": "/workspace/check-swing/expansion500/ccs-official-ejection-source-pass-second-20261102/article-page-id-mining/victorino-30357613-peer-luna-20261102/independent-peer-audit.json",
+            "sha256": "cd38657e7ffde1d8ac3ccd7cefaac8cb8cc8473d12522f8cab0322c38b4ad403"
+          },
+          "higherRenditionQA": {
+            "path": "/workspace/check-swing/expansion500/ccs-official-ejection-source-pass-second-20261102/article-page-id-mining/victorino-30357613-camera-luna-20261102/high-rendition-quality-audit.json",
+            "sha256": "51aa7b8afcaa2ad419710ab2adf3be41892606f5a1edf424724a7fe344c259fb"
+          },
+          "rootVisualReview": "Viewed original low native dense grid and high960x540critical sheet: true1B-side catcherprofile/batterfrontVictorino#18; loaded35.625beforeforward36.75, physicalcheck/max37.5andreturnby40.0; no contact. End40.4precedesumpcut40.64; onlyYESbrand, no score/count/result overlay. VisibleNoGoafterwindow+CCSarticlecount1–2slider+fullsequencep6B+crewestablishJoeWest1B. p3S isdifferentpitchandexcluded.",
+          "rootBounds": [
+            35.625,
+            40.4
+          ],
+          "rootSourceDecision": "Useactualofficialmetadata-listed1800K960x540MP4forbothvideoandWatchoriginalsource; preserveliteraloldHTTParticlehrefintheprivateprovenance. No inventedcurrentownerpageURL.",
+          "dailyEligibility": "2026-11-03",
+          "current493Protected": true
+        },
+        {
+          "id": "nolan-arenado-20150529-414370-ab58-p5-541e8697",
+          "status": "root-accepted",
+          "gamePk": 414370,
+          "atBatIndex": 58,
+          "pitchNumber": 5,
+          "playId": "541e8697-8977-4fbe-a868-a6fff338b3b3",
+          "rootVisualReview": "Documented same-pitch checked-swing appeal and no-swing call; the full-looking forward attempt is the decision under review. No visible braking claim. Corrected finish extends through78.75 before79.0 transition. Full bat arc stays inside left pane.",
+          "everyOutputFramePtsEqualsSelectedNativeFrame": true,
+          "frames": 323,
+          "asset": {
+            "path": "/workspace/base-site/content/check-swing/assets/nolan-arenado-20150529-414370-ab58-p5-541e8697.mp4",
+            "sha256": "93fc332155aa23494c04194f99eae5ff06751089a7798144a2e2f997faf1d91c"
+          },
+          "independentAccepted": {
+            "path": "/workspace/check-swing/expansion500/nolan-arenado-136423683-peer-luna/peer-accepted-candidates-corrected.json",
+            "sha256": "7d3265778f981515323c4a22c706c61a34ccb9685bd309f7aa173da143dbfa2a"
+          },
+          "independentAudit": {
+            "path": "/workspace/check-swing/expansion500/nolan-arenado-136423683-peer-luna/peer-review-correction-1.json",
+            "sha256": "ac614a24f4695c2d79e3ca351e194c940745076bb211ca06594e90b9a6735217"
+          }
+        },
+        {
+          "id": "darin-ruf-20150529-414370-ab55-p6-9e44f481",
+          "status": "root-accepted",
+          "gamePk": 414370,
+          "atBatIndex": 55,
+          "pitchNumber": 6,
+          "playId": "9e44f481-b299-4e83-a386-ae7e13bbd263",
+          "rootVisualReview": "Visible loaded stance, short forward offer/arrest/recoil and finish. Exact-pitch ambiguity resolved by contemporary official MLB recap explicitly identifying the preceding inning-ending Ruf check-swing strikeout; full feed terminalp6 S distinguishesp3W. Original p9 list-position error corrected. Caller unknown.",
+          "everyOutputFramePtsEqualsSelectedNativeFrame": true,
+          "frames": 165,
+          "asset": {
+            "path": "/workspace/base-site/content/check-swing/assets/darin-ruf-20150529-414370-ab55-p6-9e44f481.mp4",
+            "sha256": "f8a3c29f5aaef2281767c556c7d348328f7b8119602fbe37a31d4d82c1e7ec07"
+          },
+          "independentAccepted": {
+            "path": "/workspace/check-swing/expansion500/nolan-ruf-rightpane-peer-luna-20261102/peer-accepted-candidates-luna-rescued.json",
+            "sha256": "4d5d4fb6a920705e4ee5be7602f7529b05ac68e56f5ff3345dff73071fab07ae"
+          },
+          "independentAudit": {
+            "path": "/workspace/check-swing/expansion500/nolan-ruf-rightpane-peer-luna-20261102/peer-rescue-addendum.json",
+            "sha256": "8a3a1706238a713d11957fa7ccc7bd0e9bdeaa1d3cb01f108093555c70baed73"
+          }
+        },
+        {
+          "id": "kyleschwarber20250616",
+          "status": "root-accepted",
+          "gamePk": 777483,
+          "atBatIndex": 69,
+          "pitchNumber": 3,
+          "playId": "6fdb439a-188b-35f8-8b26-533ea8689e91",
+          "primaryEvidence": {
+            "path": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/primary-review-schwarber-2025-56-luna/primary-candidates.json",
+            "sha256": "546d32fc098debff488f834e99d6c33eb0deeb47713c8f61e457e6c2634ba3ce"
+          },
+          "independentPeer": {
+            "path": "/workspace/check-swing/expansion500/hbp-2024-2026-v2/primary-review-schwarber-2025-56-luna/peer-luna-20261102/peer-audit.json",
+            "sha256": "78db24b3017004f4bc1076d8aed604564ae7a327d7f7eb37260515863da82744"
+          },
+          "rootVisualReview": "Viewed original-source4.85–10.55nativeframes: loadedhands/shaft before forward motion; handsadvance toward pitcher independently of torso, finite extension/arrest, batrecoil/returnbeforefinish, no bat-ball contact. ActualHBPawarded/upheld establishesNoGo for this realcheckedattempt. Only genericmanager-challenge branding isvisible, no score/count/result/decision overlay; no callgesture. Caller unknown. UnlikeGurriel/Young/Murakami, this has a distinct intentionaloffer."
+        }
+      ],
+      "excluded": [
+        "Gurriel physicalavoidance/offerunclear afterdenseadjudication; oldpasssuperseded",
+        "JacobYoung avoidancenotdistinctoffer",
+        "Murakami avoidanceonly"
+      ],
+      "preservePublished493": true,
+      "dailyActivation": "2026-11-03"
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "Gurriel778147": "Superseded peer pass after native dense re-review: intentionaloffer not established apart from avoidance; staged asset is research only, not published.",
+    "Young823827": "False earlier duplicate corrected, but actualoffer remains unclear apart from avoidance; not included.",
+    "Murakami823223": "False earlier duplicate corrected; native motion is avoidance only; not included.",
+    "Schwarber824089": "Already canonical2026July6 replay; exact duplicate excluded.",
+    "RufEarlierP9": "List-position error corrected to officialpitchNumber6 using exactplayId; contemporaryMLBrecap resolves inning-ending checkstrikeout vs earlierp3W.",
+    "NolanEarlierEnd76": "Independent timing review found continuedmotion at76; corrected through78.75before79transition."
+  },
+  "playback": "Original MLB source playback; cameraPanel selects the reviewed half of the original split-screen replay. No new binary asset is required."
+}

@@ -4,7 +4,7 @@ import argparse,json,re,hashlib
 from pathlib import Path
 from urllib.parse import urlparse,quote
 ROOT=Path(__file__).resolve().parents[1]
-PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom','footageCredit']
+PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom','footageCredit','cameraPanel']
 API_FIELDS=['id','batter','date','base','strike','evidence','availableFrom','mediaProvider']
 def validate(rows):
     seen=set();seen_pitches=set()
@@ -68,6 +68,18 @@ def validate(rows):
                 spec=m.get('selectedSource',{});assert spec.get('duration',0)>row['end'] and spec.get('size',0)>0 and spec.get('framerate',0)>0,'Missing reviewed video properties'
             else:raise AssertionError('Unapproved media provider: '+identity)
             assert m.get('selectedSource',{}).get('container')=='MP4' and m['selectedSource'].get('width',0)>0,'Missing reviewed rendition: '+identity
+        if 'cameraPanel' in row:
+            assert row['cameraPanel'] in ['left','right'],'Invalid camera panel: '+identity
+            provenance=row.get('provenance',{});u=urlparse(row['video']);content_id=provenance.get('officialContentId','')
+            assert u.netloc=='mediadownloads.mlb.com' and re.fullmatch(r'\d+',content_id) and re.fullmatch(r'/mlbam/\d{4}/\d{2}/\d{2}/[A-Za-z0-9_-]+_'+content_id+r'_\d+K\.mp4',u.path) and not u.query and not u.fragment,'Invalid reviewed MLB panel source'
+            assert row['source']==row['video']==provenance.get('sourceUrl') and provenance.get('sourceMetadataUrl')=='https://content.mlb.com/mlb/item/id/v1/'+content_id+'/details/web-v1.json','Missing exact MLB panel metadata identity'
+            for field in ['sourceMetadataSha256','inputNativeSha256','reviewExcerptSha256']:
+                assert re.fullmatch(r'[a-f0-9]{64}',provenance.get(field,'')),'Missing MLB panel review hash: '+field
+            dims=provenance.get('sourceDimensions',[]);rect=provenance.get('cropRect',[])
+            assert len(dims)==2 and all(type(n) is int and n>0 for n in dims) and dims[0]%2==0,'Invalid panel dimensions'
+            assert rect==[0 if row['cameraPanel']=='left' else dims[0]//2,0,dims[0]//2,dims[1]],'Panel does not match reviewed half'
+            assert row['start']==provenance.get('originalSourceStart') and row['end']==provenance.get('originalSourceEnd'),'Panel source bounds changed'
+            assert provenance.get('playbackMuted') is True and provenance.get('frameTimingVerified') is True and provenance.get('interpolationApplied') is False,'Panel timing/audio review required'
         for field in ['batter','matchup','umpire','context']:assert isinstance(row[field],str) and row[field].strip(),'Missing '+field
     assert len(rows)>=6,'Do not remove the original catalog'
 def embed(path,rows,check):
