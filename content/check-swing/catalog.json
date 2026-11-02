@@ -9871,5 +9871,78 @@
       "pitchNumber": 3,
       "playId": "6fdb439a-188b-35f8-8b26-533ea8689e91"
     }
+  },
+  {
+    "id": "wilyer-abreu-20260224-831534-66198e5d-b414-338f-96d8-1c6f366b1de7",
+    "batter": "Wilyer Abreu",
+    "strike": true,
+    "start": 21.9,
+    "end": 26.0,
+    "umpire": "Unknown",
+    "context": "Pirates at Red Sox, bottom of the fourth. Wilyer Abreu faces Thomas Harrington in spring training.",
+    "date": "2026-02-24",
+    "matchup": "Pittsburgh Pirates at Boston Red Sox",
+    "base": 3,
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/831534/feed/live",
+    "source": "https://www.mlb.com/video/wilyer-abreu-s-bat-breaks-mid-swing",
+    "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-02/24/c25f471e-66839664-f078d62f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+    "footageCredit": "NESN broadcast footage · via MLB",
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 831534,
+      "atBatIndex": 34,
+      "pitchNumber": 2,
+      "playId": "66198e5d-b414-338f-96d8-1c6f366b1de7"
+    },
+    "provenance": {
+      "publisher": "MLB",
+      "sourcePageSha256": "eba2c84d407b86042839d178057ce420ed34886cfc75c050b6e3e5e096372c1f",
+      "sourceUrl": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-02/24/c25f471e-66839664-f078d62f-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "inputNativeSha256": "f52e16cca0afc666ea57894c7a8f0d8ffa20d83b8ae1e1a8a9b7730a18aec907",
+      "reviewedOriginalBounds": [
+        21.9,
+        26.0
+      ],
+      "playbackMuted": true,
+      "reviewNote": "Corrected clean start after dissolve; loaded state, checked offer, bat break and recovery visible. No bat-ball contact. Original audio suppressed by game player. Exact p2 replaces earlier wrong neighbor-pitch proposal; caller remains Unknown.",
+      "rulingArticleUrl": "https://www.mlb.com/nationals/news/wilyer-abreu-breaks-his-bat-on-a-checked-swing",
+      "rulingArticleSha256": "1cd673b13c3f4eee1481fa164ff03063b5ed8316a3762fbd09774a5230aa5beb",
+      "rulingArticleNote": "Official MLB followup explicitly states he did not make contact and it was ruled a strike; exact p2 identity remains independently tied to fresh feed and source count/speed."
+    }
+  },
+  {
+    "id": "carlossantana20120928",
+    "batter": "Carlos Santana",
+    "date": "2012-09-28",
+    "matchup": "KC at CLE",
+    "start": 16.8,
+    "end": 22.3,
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/320081/feed/live",
+    "source": "https://www.mlb.com/guardians/video/must-c-clips-c25171885",
+    "video": "https://mediadownloads.mlb.com/mlbam/2012/09/28/mlbtv_kcacle_25171885_1200K.mp4",
+    "base": 1,
+    "strike": true,
+    "umpire": "Unknown",
+    "context": "Royals at Cleveland, bottom of the third. Carlos Santana faces Will Smith.",
+    "footageCredit": "SportsTime Ohio broadcast footage · via MLB",
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 320081,
+      "atBatIndex": 25,
+      "pitchNumber": 4,
+      "playId": "03200816-0266-0043-000c-f08cd117d70a"
+    },
+    "provenance": {
+      "publisher": "MLB",
+      "sourceUrl": "https://mediadownloads.mlb.com/mlbam/2012/09/28/mlbtv_kcacle_25171885_1200K.mp4",
+      "sourcePageSha256": "a9b0cc12da04833921b5b584492ad7a690a6675b101ff319e71c3b06763c9a73",
+      "inputNativeSha256": "6bada14b33a88415f2685d7bb4f5f5cda3b413231c33096e1713beb5ff2b7c0a",
+      "reviewedOriginalBounds": [
+        16.8,
+        22.3
+      ],
+      "playbackMuted": true,
+      "reviewNote": "Original owner-page-listed MP4. Native sequence shows hands decelerate at or immediately before the barrel separates, stop in front of torso and draw inward without wraparound finish; no bat-ball contact. Earlier physical-motion rejection retained and superseded by independent dense review plus root review. Separate content API denied403 and was not retried."
+    }
   }
 ]

@@ -1,0 +1,13 @@
+# Catalog expansion V — November 2, 2026
+
+Adds Wilyer Abreu (February 24, 2026) and Carlos Santana (September 28, 2012), bringing the library to 499. Earlier 497 entries and their order remain unchanged. Both enter daily play November 3, preserving November 2 and every earlier daily selection.
+
+Both are real noncontact checked attempts whose bats break during the motion. The break alone does not establish a check: native footage must show the hands decelerating and recovering. The original MLB MP4s play directly in the existing muted player.
+
+Abreu’s exact pitch is game831534/AB34/p2, `66198e5d-b414-338f-96d8-1c6f366b1de7`. The source page identifies the game; the broadcast’s pre-count0–1 and83mph match the feed’s82.9mph swinging strike. A later ball/review in the same plate appearance was an earlier misidentification and remains excluded. Official MLB’s following-day report also explicitly says no contact and a strike ruling. The clean21.9–26.0-second third-base-side replay starts after the dissolve, includes the loaded stance, short attempt, bat break and recovery. The earlier narration hold is resolved by the game’s enforced muted playback. The visible umpire cannot be positively identified, so the caller is Unknown.
+
+Santana’s exact pitch is game320081/AB25/p4, `03200816-0266-0043-000c-f08cd117d70a`: a2–1 swinging strike from Will Smith. The first-base-side16.8–22.3-second replay starts on the resolved loaded stance and includes the finish. Primary and initial peer reviews disagreed on the motion. A fresh independent dense native review and root inspection show the hands stop in front of the torso and draw inward without a wraparound finish. Torso rotation and the detached barrel’s continuing momentum do not establish uninterrupted forward hand movement. No claim is made about the exact mechanical cause of the break. The owner-page description corroborates a check swing, and the actual footage is the physical basis. Caller remains Unknown. The separate legacy content API returned403 and was not retried; the official owner page itself lists the original MP4 used here.
+
+Earlier rejected/held assertions are retained, with append-only corrections in the review record. Footage contains no call/count overlay in the selected windows. Independent primary, peer/adjudication and root checks cover identity, motion, camera, full sequence, contact, actual ruling and duplicates.
+
+Validation: catalog synchronization; API tests/build;730-date client/API parity and historical selection preservation;1,747 game checks; immediate reveal, anonymous/online and daily-board integrations; Pelican build and exact generated HTML comparison. Browser playback is unavailable in this environment.
