@@ -1,0 +1,1685 @@
+{
+  "added": 6,
+  "total": 492,
+  "dailyActivation": "2026-11-02",
+  "discovery": "Fresh independent reviews of retained real MLB footage under the practical tip-crop framing rule; full onset, actual check and finish, true base-side view and exact historical rulings verified. Includes one short silent credited archival excerpt.",
+  "clips": [
+    {
+      "id": "tyler-wade-20240321-746175-ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+      "batter": "Tyler Wade",
+      "date": "2024-03-21",
+      "matchup": "SD at LAD",
+      "base": 3,
+      "strike": false,
+      "start": 1006.55,
+      "end": 1009.5,
+      "umpire": "Lance Barksdale · third base",
+      "context": "Top of the first, two outs, San Diego ahead 4–0: Tyler Wade faces Yoshinobu Yamamoto.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/746175/feed/live",
+      "source": "https://www.mlb.com/video/check-out-the-second-game-of-the-2024-seoul-series",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-03/21/17db2635-7da0edb1-f4971ce0-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 746175,
+        "atBatIndex": 7,
+        "pitchNumber": 4,
+        "playId": "ff708bb5-e7fa-4068-ac67-1c3334c39ae5"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "tyler-wade-20240321-746175-ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+          "batter": "Tyler Wade",
+          "date": "2024-03-21",
+          "matchup": "SD at LAD",
+          "base": 3,
+          "start": 1006.55,
+          "end": 1009.5,
+          "context": "Top of the first, two outs, San Diego ahead 4–0: Tyler Wade faces Yoshinobu Yamamoto.",
+          "strike": false,
+          "source": "https://www.mlb.com/video/check-out-the-second-game-of-the-2024-seoul-series",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-03/21/17db2635-7da0edb1-f4971ce0-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/746175/feed/live",
+          "availableFrom": "2026-11-02",
+          "umpire": "Lance Barksdale · third base",
+          "pitchIdentity": {
+            "gamePk": 746175,
+            "atBatIndex": 7,
+            "pitchNumber": 4,
+            "playId": "ff708bb5-e7fa-4068-ac67-1c3334c39ae5"
+          }
+        },
+        "review": {
+          "id": "tyler-wade-20240321-746175-ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+          "gamePk": 746175,
+          "atBatIndex": 7,
+          "pitchNumber": 4,
+          "playId": "ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/accepted-candidates.json",
+          "independentAcceptedSha256": "6bf971647f76a9851debffba55797845b4ca5a85e69667aa8a927fa7cdbd50b4",
+          "independentAuditPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/audit.json",
+          "independentAuditSha256": "56eccc44398655520e22ae3906272e3886825718fd921fd5821949a8ed9075f1",
+          "originalPeerEvidence": {
+            "id": "tyler-wade-20240321-746175-ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+            "batter": "Tyler Wade",
+            "date": "2024-03-21",
+            "matchup": "SD at LAD",
+            "base": 3,
+            "start": 1006.55,
+            "end": 1009.5,
+            "sourceClock": "exact listed original MP4 PTS",
+            "context": "Top of the first, two outs, 2–1; Tyler Wade (#14, LHB) faces Yoshinobu Yamamoto (RHP), with San Diego leading 4–0.",
+            "strike": false,
+            "source": "https://www.mlb.com/video/check-out-the-second-game-of-the-2024-seoul-series",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-03/21/17db2635-7da0edb1-f4971ce0-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/746175/feed/live",
+            "gamePk": 746175,
+            "atBatIndex": 7,
+            "pitchNumber": 4,
+            "playId": "ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+            "pitch": "79.9 mph curveball",
+            "officialCall": "*B / Ball In Dirt",
+            "caller": "Lance Barksdale · Third Base umpire",
+            "framing": "True third-base-side replay for a left-handed batter. The cap remains out of frame, but the hands and shaft are clear in the static loaded position at direct source PTS 1006.55555 and frame 1006.8; forward movement begins later (around 1007.6–1007.8). The continuous sequence shows the checked extension, maximum point, and return by 1009.5, before the catcher rises in the later frame. The same pitch’s live view shows the third-base official giving a no-go arm-spread signal; fresh feed/crew and scorebug agree.",
+            "proofRefs": {
+              "priorCapHold": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna/correction-cap-review-20261101.json",
+                "sha256": "080a6adffe5594aafec55b8fb44fbe8f8e38432a05fccd73f7e7598bd703834f"
+              },
+              "priorPrimaryAudit": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/audit.json",
+                "sha256": "c01fb4b53bcf405d54a60d6773ee7df7d5add4f186fc5402606e403df292cc78"
+              },
+              "correctedPrimary": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/primary-candidates.json",
+                "sha256": "1565c0df01a2100f19daeffcdee560acb6d040fda753d34d53cb9a142493e97e"
+              },
+              "loadedPreForwardDirectFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna-direct-start-1006.55.png",
+                "sha256": "e5579c88862e400f54a423bcde1865974d05062a61747da0e3e74d201f55ba5c"
+              },
+              "directEndFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna-direct-end-1009.5.png",
+                "sha256": "6fb37cc1625f5fe6e68dfb87768224210b1297bb3ff7fc1460fcb9be91a0cf95"
+              },
+              "preForwardFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna/local-5.8.png",
+                "sha256": "4c8eee4830dfd9d2c4703c774d079a972b2bc7b5cf51091c64e6cd4647a37055"
+              },
+              "earlyForwardFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna/local-6.8.png",
+                "sha256": "ea43b4041de40a8f75a7997083038fdfa0389a6553af2830f8406864e06b59cb"
+              },
+              "feedGzip": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/fresh-feed.json.gz",
+                "sha256": "58cf7c9692420e79b1148793af32782c82ece6d5c3597226841a7766a12229a8"
+              },
+              "crewGzip": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/fresh-boxscore.json.gz",
+                "sha256": "7293a54ae1767e9098e09ea66575a8cbc5bbbf26ba0ceb1086b459fd99221c46"
+              },
+              "nativeSide": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/native-original-1001-1013.mp4",
+                "sha256": "7ae67417e334d5da371870c12fe5c58c5682e399108c33a58e5eb6f76f1aeb87"
+              },
+              "nativeLive": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/native-original-993-999.mp4",
+                "sha256": "53467895a9f8bbf3c76ed5709abec347ae4bf484fbb9c95a5aaf2cd6645d66d3"
+              }
+            },
+            "dedup": {
+              "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "indexSha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682",
+              "catalogCount": 486,
+              "exactGamePkPlayIdMatch": false
+            },
+            "decision": "PROPOSE_POSITIVE_FOR_ROOT_PEER_REVIEW",
+            "availableFrom": "2026-11-02",
+            "reviewer": "luna_2019_resume",
+            "framingPolicy": "FRAMING-2026-11-01.md: tip crop is acceptable only with visible hands+shaft before forward motion and clear continuous onset, maximum extension, and definite finish.",
+            "canonicalChanged": false,
+            "published": false
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      },
+      "independentAuditGroup": "release-s-prep/root-final-audit.json"
+    },
+    {
+      "id": "ramirez20230418",
+      "batter": "José Ramírez",
+      "date": "2023-04-18",
+      "matchup": "CLE at DET, Game 2",
+      "base": 1,
+      "strike": true,
+      "start": 340.644,
+      "end": 344.844,
+      "umpire": "Unknown",
+      "context": "Top of the seventh, no outs: José Ramírez bats right-handed against Eduardo Rodríguez.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/718541/feed/live",
+      "source": "https://www.mlb.com/video/cg-cle-det-gm-2-4-18-23",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/18/48be89ec-564feeb8-6d11b315-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 718541,
+        "atBatIndex": 43,
+        "pitchNumber": 4,
+        "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "ramirez20230418",
+          "batter": "José Ramírez",
+          "date": "2023-04-18",
+          "matchup": "CLE at DET, Game 2",
+          "base": 1,
+          "start": 340.644,
+          "end": 344.844,
+          "context": "Top of the seventh, no outs: José Ramírez bats right-handed against Eduardo Rodríguez.",
+          "strike": true,
+          "source": "https://www.mlb.com/video/cg-cle-det-gm-2-4-18-23",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/18/48be89ec-564feeb8-6d11b315-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/718541/feed/live",
+          "availableFrom": "2026-11-02",
+          "umpire": "Unknown",
+          "pitchIdentity": {
+            "gamePk": 718541,
+            "atBatIndex": 43,
+            "pitchNumber": 4,
+            "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8"
+          }
+        },
+        "review": {
+          "id": "ramirez20230418",
+          "gamePk": 718541,
+          "atBatIndex": 43,
+          "pitchNumber": 4,
+          "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/accepted-candidates.json",
+          "independentAcceptedSha256": "6bf971647f76a9851debffba55797845b4ca5a85e69667aa8a927fa7cdbd50b4",
+          "independentAuditPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/audit.json",
+          "independentAuditSha256": "56eccc44398655520e22ae3906272e3886825718fd921fd5821949a8ed9075f1",
+          "originalPeerEvidence": {
+            "id": "ramirez20230418",
+            "batter": "José Ramírez",
+            "date": "2023-04-18",
+            "matchup": "CLE at DET, Game 2",
+            "base": 1,
+            "start": 340.644,
+            "end": 344.844,
+            "sourceClock": "existing exact original-source native offset 338.444 + native-local 2.2–6.4 seconds; refine only if root finds direct PTS evidence differs",
+            "context": "Top of the seventh, no outs, 1–2; José Ramírez (#11, RHB) faces Eduardo Rodríguez (LHP).",
+            "strike": true,
+            "source": "https://www.mlb.com/video/cg-cle-det-gm-2-4-18-23",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/18/48be89ec-564feeb8-6d11b315-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/718541/feed/live",
+            "gamePk": 718541,
+            "atBatIndex": 43,
+            "pitchNumber": 4,
+            "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8",
+            "pitch": "cutter",
+            "officialCall": "S / Swinging Strike",
+            "caller": "Unknown",
+            "framing": "First-base-side chest-facing view for the right-handed batter. After the earlier closeup/dissolve, the clean side replay shows the hands and shaft in the loaded pose at peer-native local 2.2–2.4 before forward rotation begins around 2.5; only the tip is clipped. The replay then shows maximum forward extension and a definite held finish through local 6.4, before it cuts to a closeup at 6.6. Exact same pitch is identified by fresh feed (p4, 1–2 to 1–3) and the matching broadcast says “Oh, did he go? You bet he did three times”; actual call is S. Caller remains Unknown.",
+            "proofRefs": {
+              "priorRootHold": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/audit.json",
+                "sha256": "e1db54fb168225e6464c5b6cf5f7eee33198b554d4a5e03f9f57e4aaebadceed"
+              },
+              "oldPrimaryWrapper": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/candidate-76-0-wrapper.json",
+                "sha256": "20615228e112cca5b0984d7c2d56ede8149d37c09668713494b86a0502a46038"
+              },
+              "rootNative": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/ramirez-peer-native.mp4",
+                "sha256": "50a182b780af606362dcdcb6c9739e25c1089e7cd2e1bfba86e779ac056ce56d"
+              },
+              "onsetDenseGrid": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/onset-dense.jpg",
+                "sha256": "5fd0794243410b4cacd787b77f8cc8bcc4c1b9e5527a658c1e6ef3d760306d3f"
+              },
+              "loadedFrame": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/loaded-2.3.png",
+                "sha256": "376d7c7dd08a3c70749802b9ed3b24fc4cff272af88010c27a1bd62d758ac1dc"
+              },
+              "fullReplayGrid": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/ramirez-peer-grid.jpg",
+                "sha256": "6cd2834c36eb89fc26462415fd35d7e6ce5cd9c5577b7abef4e26157836c9ba4"
+              },
+              "freshFeed": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/718541-root-feed.json",
+                "sha256": "0cd291f18d3871fed371154e924d30ba2c960dcb301b006c3af53019de5e3028"
+              },
+              "captionAndSourceMapping": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/76-0-retrieval.json",
+                "sha256": "e428f9a1ae92afadce592a3851ca65f206d91c9f822c1d2ce9df90499d278faf"
+              }
+            },
+            "dedup": {
+              "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "indexSha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682",
+              "catalogCount": 486,
+              "exactGamePkPlayIdMatch": false
+            },
+            "decision": "PROPOSE_POSITIVE_FOR_ROOT_PEER_REVIEW",
+            "availableFrom": "2026-11-02",
+            "reviewer": "luna_2019_resume",
+            "framingPolicy": "FRAMING-2026-11-01.md: tip crop is acceptable only with visible hands+shaft before forward motion and clear continuous onset, maximum extension, and definite finish.",
+            "canonicalChanged": false,
+            "published": false
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      },
+      "independentAuditGroup": "release-s-prep/root-final-audit.json"
+    },
+    {
+      "id": "bill-hall-20070612-69087-00690876-0306-0083-000c-f08cd117d70a",
+      "batter": "Bill Hall",
+      "date": "2007-06-12",
+      "matchup": "Brewers at Tigers",
+      "base": 1,
+      "strike": false,
+      "start": 3286.0,
+      "end": 3291.25,
+      "umpire": "Dale Scott · first base",
+      "context": "Top of the fifth, two outs, Milwaukee trailing 1–0: Bill Hall faces Justin Verlander.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/69087/feed/live",
+      "source": "https://www.mlb.com/video/justin-verlander-s-1st-no-hitter",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/d3f9b293-ea86ccd8-03379746-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "footageCredit": "MLB / FSN Detroit archived 2007 regular-season broadcast",
+      "pitchIdentity": {
+        "gamePk": 69087,
+        "atBatIndex": 29,
+        "pitchNumber": 8,
+        "playId": "00690876-0306-0083-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "bill-hall-20070612-69087-00690876-0306-0083-000c-f08cd117d70a",
+          "batter": "Bill Hall",
+          "date": "2007-06-12",
+          "matchup": "Brewers at Tigers",
+          "base": 1,
+          "strike": false,
+          "start": 3286.0,
+          "end": 3291.25,
+          "umpire": "Dale Scott · first base",
+          "context": "Top of the fifth, two outs, Milwaukee trailing 1–0: Bill Hall faces Justin Verlander.",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/69087/feed/live",
+          "source": "https://www.mlb.com/video/justin-verlander-s-1st-no-hitter",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/d3f9b293-ea86ccd8-03379746-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / FSN Detroit archived 2007 regular-season broadcast",
+          "availableFrom": "2026-11-02",
+          "pitchIdentity": {
+            "gamePk": 69087,
+            "atBatIndex": 29,
+            "pitchNumber": 8,
+            "playId": "00690876-0306-0083-000c-f08cd117d70a"
+          }
+        },
+        "review": {
+          "id": "bill-hall-20070612-69087-00690876-0306-0083-000c-f08cd117d70a",
+          "gamePk": 69087,
+          "atBatIndex": 29,
+          "pitchNumber": 8,
+          "playId": "00690876-0306-0083-000c-f08cd117d70a",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/accepted-candidates.json",
+          "independentAcceptedSha256": "4b2d3584b5bf5249eaeff51d8001984930d5ac6c7423f73388a20a13e36b4656",
+          "independentAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/audit.json",
+          "independentAuditSha256": "ce164b097069135168a28ea2718337314629736160937a12a104a99e89240b7e",
+          "originalPeerEvidence": {
+            "candidate": {
+              "id": "bill-hall-20070612-69087-00690876-0306-0083-000c-f08cd117d70a",
+              "batter": "Bill Hall",
+              "date": "2007-06-12",
+              "matchup": "Brewers at Tigers",
+              "base": 1,
+              "strike": false,
+              "start": 3286.0,
+              "end": 3291.25,
+              "umpire": "Unknown",
+              "context": "Bill Hall (No. 2) faces Justin Verlander in the top of the fifth, 3-2 with two outs. Milwaukee trails Detroit 1-0.",
+              "evidence": "https://statsapi.mlb.com/api/v1.1/game/69087/feed/live",
+              "source": "https://www.mlb.com/video/justin-verlander-s-1st-no-hitter",
+              "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/d3f9b293-ea86ccd8-03379746-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+              "footageCredit": "MLB / FSN Detroit archived 2007 regular-season broadcast",
+              "proofClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-side-proof-8s.mp4",
+              "proofBoundsSourceSeconds": [
+                3286.0,
+                3291.25
+              ]
+            },
+            "review": {
+              "gamePk": 69087,
+              "atBatIndex": 29,
+              "pitchNumber": 8,
+              "playId": "00690876-0306-0083-000c-f08cd117d70a",
+              "status": "independent-peer-accepted",
+              "atBat": {
+                "gamePk": 69087,
+                "officialDate": "2007-06-12",
+                "atBatIndex": 29,
+                "inning": "top 5",
+                "pitchNumber": 8,
+                "playId": "00690876-0306-0083-000c-f08cd117d70a",
+                "batter": "Bill Hall, #2, RHB",
+                "pitcher": "Justin Verlander, RHP",
+                "prePitchCount": "3-2",
+                "outs": 2,
+                "scoreBefore": "MIL 0, DET 1",
+                "call": "B / Ball; count becomes 4-2 and feed records walk; no contact."
+              },
+              "visualReview": {
+                "sourceTimebase": "Exact listed MLB MP4 timestamps for the side replay; nearby HLS context grid has its own recorded source clock.",
+                "bounds": [
+                  3286.0,
+                  3291.25
+                ],
+                "angle": "True first-base-side profile for the right-handed batter; hands, shaft, torso and relevant bat motion remain visible.",
+                "onset": "At the first clean loaded side-replay frames, Hall is still and both hands and the bat shaft are visible before forward movement. The rounded barrel cap is cropped at setup; I am applying the clarified crop rule because the stationary loaded state and onset are legible before motion.",
+                "motion": "The continuous replay shows forward movement, an arrested checked offer and maximum reach, then a definite finished motion before the later walk/result footage. The clip ends within the isolated replay and does not include the appeal or outcome.",
+                "samePitch": "The adjacent live context shows top 5, 3-2, two outs and Hall batting; the following first-base-side official signal is in that pitch sequence. Fresh feed identifies exact p8/playId and records Ball. The ASR wording is only a locator; the ruling is supported by the visible same-pitch first-base-side no-swing signal, not by ASR alone.",
+                "caller": "Unknown. The first-base-side official’s no-swing signal is visible, but I do not independently identify the official in the signal frame; crew assignment alone is not enough to name him.",
+                "disposition": "The prior cap-only hold is resolved under the updated framing standard. No contact, call/result, catcher appeal, or departure is included in the selected interval."
+              },
+              "dedup": {
+                "playId": "00690876-0306-0083-000c-f08cd117d70a",
+                "canonicalExactIdPresent": false,
+                "publishedPitchIndexExactIdPresent": false,
+                "checkedAgainst": [
+                  {
+                    "path": "/workspace/base-site/content/check-swing/catalog.json",
+                    "sha256": "c7717c0a86ea80587eedd8fb3886aa3938ca7e72e58f14a86161dd0610dc4236"
+                  },
+                  {
+                    "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+                    "sha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682"
+                  }
+                ]
+              },
+              "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/primary-audit-69087-bill-hall.json",
+              "proofs": [
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-side-proof-8s.mp4",
+                  "sha256": "2cf9442eb03e06bb5e94a39bf8b7306b7c1d529b5cc20ff7919503a771813adc"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-native-frames.jpg",
+                  "sha256": "3d2cbde2f33225e78d074e46f4df132be378c81100e6220341d7915309d653bb"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-earlier-mp4-stills.jpg",
+                  "sha256": "a40b1ea4d18008b88ddca834631d49c1c5813ba1ea5491edffbc119ec24bcd2e"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-3265-3320-focused.jpg",
+                  "sha256": "bcdbc67eea7e50e2d6fc311a589d7b7b5648a1cfe8f3cf59643a6082cf38aa8f"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/fresh-feed-69087-projected.json",
+                  "sha256": "5787ca3ce39c3752e1dbd3ef78fd4f5ad3c9ec168bfd6fdb81c5da60d0f24dae"
+                }
+              ]
+            }
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      },
+      "independentAuditGroup": "release-s-prep/root-final-audit.json"
+    },
+    {
+      "id": "asdrubal-cabrera-20191001-599336-ed0ec54e",
+      "batter": "Asdrúbal Cabrera",
+      "date": "2019-10-01",
+      "matchup": "Brewers at Nationals",
+      "base": 1,
+      "strike": false,
+      "start": 4406.3,
+      "end": 4411.3,
+      "umpire": "Kerwin Danley · first-base umpire",
+      "context": "Bottom of the fifth, no outs, Washington trailing 3–1: Asdrúbal Cabrera bats right-handed against Brent Suter.",
+      "evidence": "https://statsapi.mlb.com/api/v1/game/599336/playByPlay",
+      "source": "https://www.mlb.com/video/nats-rally-in-nl-wild-card-game",
+      "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-10/01/49d98f1d-67882a1d-86613c5f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "footageCredit": "MLB / TBS archived 2019 National League Wild Card Game broadcast",
+      "pitchIdentity": {
+        "gamePk": 599336,
+        "atBatIndex": 36,
+        "pitchNumber": 4,
+        "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "asdrubal-cabrera-20191001-599336-ed0ec54e",
+          "batter": "Asdrúbal Cabrera",
+          "date": "2019-10-01",
+          "matchup": "Brewers at Nationals",
+          "base": 1,
+          "strike": false,
+          "start": 4406.3,
+          "end": 4411.3,
+          "umpire": "Kerwin Danley · first-base umpire",
+          "context": "Bottom of the fifth, no outs, Washington trailing 3–1: Asdrúbal Cabrera bats right-handed against Brent Suter.",
+          "evidence": "https://statsapi.mlb.com/api/v1/game/599336/playByPlay",
+          "source": "https://www.mlb.com/video/nats-rally-in-nl-wild-card-game",
+          "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-10/01/49d98f1d-67882a1d-86613c5f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+          "footageCredit": "MLB / TBS archived 2019 National League Wild Card Game broadcast",
+          "availableFrom": "2026-11-02",
+          "pitchIdentity": {
+            "gamePk": 599336,
+            "atBatIndex": 36,
+            "pitchNumber": 4,
+            "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978"
+          }
+        },
+        "review": {
+          "id": "asdrubal-cabrera-20191001-599336-ed0ec54e",
+          "gamePk": 599336,
+          "atBatIndex": 36,
+          "pitchNumber": 4,
+          "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/accepted-candidates.json",
+          "independentAcceptedSha256": "4b2d3584b5bf5249eaeff51d8001984930d5ac6c7423f73388a20a13e36b4656",
+          "independentAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/audit.json",
+          "independentAuditSha256": "ce164b097069135168a28ea2718337314629736160937a12a104a99e89240b7e",
+          "originalPeerEvidence": {
+            "candidate": {
+              "id": "asdrubal-cabrera-20191001-599336-ed0ec54e",
+              "batter": "Asdrúbal Cabrera",
+              "date": "2019-10-01",
+              "matchup": "Brewers at Nationals",
+              "base": 1,
+              "strike": false,
+              "start": 4406.3,
+              "end": 4411.3,
+              "umpire": "Kerwin Danley · first-base umpire",
+              "context": "Asdrúbal Cabrera (No. 13) bats right-handed against Brent Suter in the bottom of the fifth, 1-2 with no outs. Milwaukee leads Washington 3-1.",
+              "evidence": "https://statsapi.mlb.com/api/v1/game/599336/playByPlay",
+              "source": "https://www.mlb.com/video/nats-rally-in-nl-wild-card-game",
+              "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-10/01/49d98f1d-67882a1d-86613c5f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+              "footageCredit": "MLB / TBS archived 2019 National League Wild Card Game broadcast",
+              "proofClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/original-mp4-4393-4413-960crf29.mp4",
+              "proofBoundsSourceSeconds": [
+                4406.3,
+                4411.3
+              ]
+            },
+            "review": {
+              "gamePk": 599336,
+              "atBatIndex": 36,
+              "pitchNumber": 4,
+              "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+              "status": "independent-peer-accepted",
+              "atBat": {
+                "gamePk": 599336,
+                "officialDate": "2019-10-01",
+                "atBatIndex": 36,
+                "inning": "bottom 5",
+                "pitchNumber": 4,
+                "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+                "batter": "Asdrúbal Cabrera, #13, RHB",
+                "pitcher": "Brent Suter, LHP",
+                "prePitchCount": "1-2",
+                "outs": 0,
+                "scoreBefore": "MIL 3, WSH 1",
+                "pitch": "89.0 mph four-seam fastball",
+                "call": "B / Ball; count becomes 2-2; no contact."
+              },
+              "visualReview": {
+                "sourceTimebase": "Exact listed MLB MP4 timestamps for selected replay and live pitch/call context.",
+                "bounds": [
+                  4406.3,
+                  4411.3
+                ],
+                "angle": "True first-base-side profile; arms, torso and relevant bat motion are legible.",
+                "onset": "At 4406.30 and 4407.00, hands and shaft are visible and stationary in the loaded position while the tip is cropped. Forward movement begins by approximately 4407.50; the tip becomes visible around 4407.90. This meets the clarified crop allowance because hands/shaft and the continuous onset are visible before movement.",
+                "motion": "The continuous replay shows the actual check, maximum forward extension around 4410.30, and a definite stop/initial return by 4411.30. This is a complete forward attempt; no stance reset is required. No contact is shown.",
+                "samePitch": "The original-source sequence shows the live p4 followed immediately by the first-base official’s no-swing signal, then Cabrera preparing and the side replay. Fresh feed maps exact p4/playId and Ball. Raw broadcast ASR at source 4395–4400 reads “They checked down there with Kerwin Danley at first ... there was no swing”; it is used only as explicit attribution corroborated by the visible signal and fresh boxscore crew, not as the ruling proof by itself.",
+                "caller": "Kerwin Danley · first-base umpire, supported by the matched original broadcast attribution, visible first-base-side signal, and fresh crew record.",
+                "disposition": "Pass. Selected crop is a neutral side replay and ends before the following commentary (starting ~4411.34) and later result/reaction."
+              },
+              "dedup": {
+                "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+                "canonicalExactIdPresent": false,
+                "publishedPitchIndexExactIdPresent": false,
+                "checkedAgainst": [
+                  {
+                    "path": "/workspace/base-site/content/check-swing/catalog.json",
+                    "sha256": "c7717c0a86ea80587eedd8fb3886aa3938ca7e72e58f14a86161dd0610dc4236"
+                  },
+                  {
+                    "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+                    "sha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682"
+                  }
+                ]
+              },
+              "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/primary-audit-599336-asdrubal-cabrera.json",
+              "proofs": [
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/native-proof-p4/native-4407-4411.3.mp4",
+                  "sha256": "14015a2730386ed8677973e445c5342a7b8fcce865453145615383f16d5288cc"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/original-mp4-grid-4393-4413.jpg",
+                  "sha256": "f7404212442aa52f4783e5fedd8697c61429f9879db37730fd6260ae1b7cc5c7"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/results.json.gz",
+                  "sha256": "9a43a32ccfe89ccbf3f44236756c9d088983816d2582a8275db7a14350cf9f17"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/fresh-feed-599336.json.gz",
+                  "sha256": "500d693dcff81ce7298698c7d154688c6db1950ba972c575789929b73f177bdf"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/fresh-boxscore-599336.json.gz",
+                  "sha256": "1979534860a34e314732240a4291ab4964ac833621ab5ac7370cf8115aa4cff2"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4406.30.jpg",
+                  "sha256": "bb7226cbcfd5e9aa6e483c64ad10a8ebe3c9344bd579f636d204eca05fdb327c"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4407.00.jpg",
+                  "sha256": "3e061c4409fa640763b05c85b17dac2c24884194d46f554b104f7000a91d185b"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4407.50.jpg",
+                  "sha256": "09ef666a3addcb6dfa47f558fb44aa2259bdc7480e2b0c3ca0b63ab6ca0c5742"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4410.30.jpg",
+                  "sha256": "46d5559221642bef281444991acf5fdb9e4eb82ebf08767b562c57c72cfc393c"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4411.30.jpg",
+                  "sha256": "c613c93b44f9a2a56d3f93a64fa9c59ec0f0d21ac30d2e18488a034f5ffa2c16"
+                }
+              ]
+            }
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      },
+      "independentAuditGroup": "release-s-prep/root-final-audit.json"
+    },
+    {
+      "id": "kike-hernandez-20250702-777267-p2-appeal",
+      "batter": "Enrique Hernández",
+      "date": "2025-07-02",
+      "matchup": "CWS at LAD",
+      "base": 1,
+      "strike": true,
+      "start": 0,
+      "end": 3.27,
+      "umpire": "Chris Segal · first base",
+      "context": "Bottom of the sixth, one out, Chicago ahead 4–2 with runners at first and third: Enrique Hernández faces Sean Burke.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/777267/feed/live",
+      "source": "https://archive.org/details/youtube-R-To0kDHhgI",
+      "video": "https://pdglenn.com/check-swing/assets/kike-hernandez-20250702-777267-p2-appeal.mp4",
+      "availableFrom": "2026-11-02",
+      "footageCredit": "MLB broadcast, via Internet Archive",
+      "transcodedFrom": "https://archive.org/download/youtube-R-To0kDHhgI/R-To0kDHhgI.ia.mp4",
+      "provenance": {
+        "archiveIdentifier": "youtube-R-To0kDHhgI",
+        "listedMediaName": "R-To0kDHhgI.ia.mp4",
+        "sourceMetadataSha256": "88c19b501ddc17ad6b78f14b13d8fece7c5a796191711b97bcf73a270e019637",
+        "inputNativeSha256": "a03c190b1d2b3fda1aef32d553379e096bd011944239338cd27db14c9fa3fa60",
+        "outputSha256": "f51c33bb0362c2c21f1e28fcbc76c2b6025ff161f1cfdb3cb46452461d2c1479",
+        "originalSourceStart": 5445.5,
+        "originalSourceEnd": 5448.8,
+        "frameTimingVerified": true,
+        "audioRemoved": true,
+        "outputDurationSeconds": 3.30322,
+        "outputFrames": 198,
+        "outputWidth": 854,
+        "outputHeight": 480,
+        "frameRate": "2997/50",
+        "referenceSsim": 0.993677,
+        "spatialCrop": null,
+        "sourceMetadataEvidence": "/workspace/check-swing/expansion500/release-s-prep/kike-source-metadata-verification.json",
+        "finalAssetQa": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/final-asset-qa.json"
+      },
+      "pitchIdentity": {
+        "gamePk": 777267,
+        "atBatIndex": 50,
+        "pitchNumber": 2,
+        "playId": "b5a659bb-f299-3361-b400-fb63a6eb8ba7"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "kike-hernandez-20250702-777267-p2-appeal",
+          "batter": "Enrique Hernández",
+          "date": "2025-07-02",
+          "matchup": "CWS at LAD",
+          "base": 1,
+          "start": 0,
+          "end": 3.27,
+          "context": "Bottom of the sixth, one out, Chicago ahead 4–2 with runners at first and third: Enrique Hernández faces Sean Burke.",
+          "strike": true,
+          "source": "https://archive.org/details/youtube-R-To0kDHhgI",
+          "video": "https://pdglenn.com/check-swing/assets/kike-hernandez-20250702-777267-p2-appeal.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/777267/feed/live",
+          "umpire": "Chris Segal · first base",
+          "availableFrom": "2026-11-02",
+          "transcodedFrom": "https://archive.org/download/youtube-R-To0kDHhgI/R-To0kDHhgI.ia.mp4",
+          "footageCredit": "MLB broadcast, via Internet Archive",
+          "provenance": {
+            "archiveIdentifier": "youtube-R-To0kDHhgI",
+            "listedMediaName": "R-To0kDHhgI.ia.mp4",
+            "sourceMetadataSha256": "88c19b501ddc17ad6b78f14b13d8fece7c5a796191711b97bcf73a270e019637",
+            "inputNativeSha256": "a03c190b1d2b3fda1aef32d553379e096bd011944239338cd27db14c9fa3fa60",
+            "outputSha256": "f51c33bb0362c2c21f1e28fcbc76c2b6025ff161f1cfdb3cb46452461d2c1479",
+            "originalSourceStart": 5445.5,
+            "originalSourceEnd": 5448.8,
+            "frameTimingVerified": true,
+            "audioRemoved": true,
+            "outputDurationSeconds": 3.30322,
+            "outputFrames": 198,
+            "outputWidth": 854,
+            "outputHeight": 480,
+            "frameRate": "2997/50",
+            "referenceSsim": 0.993677,
+            "spatialCrop": null,
+            "sourceMetadataEvidence": "/workspace/check-swing/expansion500/release-s-prep/kike-source-metadata-verification.json",
+            "finalAssetQa": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/final-asset-qa.json"
+          },
+          "pitchIdentity": {
+            "gamePk": 777267,
+            "atBatIndex": 50,
+            "pitchNumber": 2,
+            "playId": "b5a659bb-f299-3361-b400-fb63a6eb8ba7"
+          }
+        },
+        "review": {
+          "id": "kike-hernandez-20250702-777267-p2-appeal",
+          "gamePk": 777267,
+          "atBatIndex": 50,
+          "pitchNumber": 2,
+          "playId": "b5a659bb-f299-3361-b400-fb63a6eb8ba7",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/accepted-candidates.json",
+          "independentAcceptedSha256": "51019a7fdcf606acbfe7054adaaada30eacd95fbdf4b6761c5b72bb997ec7e4c",
+          "independentAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/final-asset-qa.json",
+          "independentAuditSha256": "4ee8879ed30678219ad35b7bdf8831bf30b72062963b2897d09fb6887ae50375",
+          "originalPeerEvidence": {
+            "id": "kike-hernandez-20250702-777267-p2-appeal",
+            "batter": "Enrique (Kike) Hernández #8, RHB",
+            "date": "2025-07-02",
+            "matchup": "CWS at LAD",
+            "base": 1,
+            "start": 5445.5,
+            "end": 5448.8,
+            "timebase": "source MP4 seconds",
+            "context": "Bottom of the sixth, one out; Chicago leads 4–2 with runners at first and third. Kike Hernández (RHB) faces Sean Burke (RHP).",
+            "strike": true,
+            "source": "https://archive.org/details/youtube-R-To0kDHhgI",
+            "video": "https://archive.org/download/youtube-R-To0kDHhgI/R-To0kDHhgI.ia.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/777267/feed/live",
+            "gamePk": 777267,
+            "atBatIndex": 50,
+            "pitchNumber": 2,
+            "playId": "b5a659bb-f299-3361-b400-fb63a6eb8ba7",
+            "pitch": "95.3 mph sinker",
+            "officialCall": "S / Swinging Strike",
+            "caller": "Unknown · first-base official made visible signal; fresh crew identifies Chris Segal at first base",
+            "framing": "Lateral first-base-side replay. Loaded samples at 5445.3, 5445.5, 5445.7 and 5446.1 show hands and shaft before forward motion around 5446.2–5446.5; rounded tip is cropped. The continuous side replay shows the forward extension through maximum reach and the completed follow-through/recovery to 5448.8. Live footage separately shows the first-base official signal after the exact pitch; fresh feed verifies p2 as a swinging strike. No replay contact is visible.",
+            "availability": "2026-11-02",
+            "reviewStatus": "CONDITIONAL_PEER_PASS_PENDING_ROOT_ASSET_QA",
+            "excerptInstructions": {
+              "sourceWindow": [
+                5445.5,
+                5448.8
+              ],
+              "spatialMask": "none",
+              "visualCrop": "none",
+              "audio": "mute the selected excerpt before presentation. The full-source ASR transcript has commentary overlapping this interval: “check but in trying to get out of the way it brings the bat forward…”. A silent presentation avoids an outcome cue while preserving the swing motion. If the source audio cannot be muted, keep on hold.",
+              "scorebug": "No count scorebug visible in the selected interval. It appears in the preceding close-up/transition; omit source 5444.0–5445.2.",
+              "rootAssetQARequired": true
+            },
+            "proofRefs": {
+              "primaryProposal": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/primary-proposal-777267-pitch2-luna.json",
+                "sha256": "dc85bac55bba57ab3941d6065f2159eb1c40b18a31b56e2632bc6ddef73232fd"
+              },
+              "priorIndependentHold": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/peer-review-luna-777267-p2/audit.json",
+                "sha256": "81f80e3ffc5987d120e1395828d1011e93e430a432052345356a649735d12550"
+              },
+              "freshFeed": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/statsapi-game-777267-feed.json",
+                "sha256": "6acaa1632b621ee8efbcca9ff0183f139053ab09a92006341150b2ad3b75d8b2"
+              },
+              "fullSourceTranscriptLocatorOnly": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/results.json.gz",
+                "sha256": "7b2d08f7b8d9a8dc0029f9d57bb8be0731addefcf14ae56b2240c8d465bbad5c"
+              },
+              "replayNative": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/native-5444-5450.mp4",
+                "sha256": "a03c190b1d2b3fda1aef32d553379e096bd011944239338cd27db14c9fa3fa60"
+              },
+              "replayContactSheet": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/fullres-review-frames.jpg",
+                "sha256": "6bbed9683ff2585777b5eb43a60be9a4f697d9c9218bd5f8ffa74939eb1ea2a6"
+              },
+              "preSwingFrame5445_3": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/fullres-1.3.jpg",
+                "sha256": "b02ea32401173ee0d989ad0a576350bfb6a4326a887d244494b634f120cabf01"
+              },
+              "preSwingFrame5445_7": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/fullres-1.7.jpg",
+                "sha256": "166431ef3360b585c469d2ec584e2907b1a6ad2514f2e7eccf5ae69c0347edb2"
+              },
+              "liveAppealNative": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-call/native-5437-5443.mp4",
+                "sha256": "aa68485ec546011bb7716942d30950bcc8848917e1d3bb30b6625ec85ad2f229"
+              },
+              "liveAppealFrameSheet": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-call/native-5437-5443.jpg",
+                "sha256": "e074d8ba36b41f44ddafc5c9f92cc8ff16c1c2413a000f61b0cee6da16a5dfbc"
+              },
+              "denseOnsetSheet": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-dense-10fps-contact.jpg",
+                "sha256": "5d104ad23e0983638b620d013265e639185c611ce092b98850b0b273548c3e41"
+              }
+            },
+            "dedup": {
+              "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "publishedPitchIndexSha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682",
+              "catalogCount": 486,
+              "exactPlayIdMatch": false
+            },
+            "canonicalChanged": false,
+            "reviewer": "luna_2019_resume"
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      },
+      "independentAuditGroup": "release-s-prep/root-final-audit.json"
+    },
+    {
+      "id": "mark-vientos-20241002-775339-f99d37a4",
+      "batter": "Mark Vientos",
+      "date": "2024-10-02",
+      "matchup": "NYM at MIL",
+      "base": 1,
+      "strike": true,
+      "start": 360.4,
+      "end": 363.5,
+      "umpire": "Vic Carapazza · first base",
+      "context": "Top of the fifth, one out, New York ahead 3–1: Mark Vientos faces Trevor Megill.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/775339/feed/live",
+      "source": "https://www.mlb.com/video/condensed-game-nym-mil-game-2",
+      "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/02/5778f224-5bdc6050-cf59aa43-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "availableFrom": "2026-11-02",
+      "pitchIdentity": {
+        "gamePk": 775339,
+        "atBatIndex": 37,
+        "pitchNumber": 6,
+        "playId": "f99d37a4-c507-44b4-af1d-daab319186c8"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "mark-vientos-20241002-775339-f99d37a4",
+          "batter": "Mark Vientos",
+          "date": "2024-10-02",
+          "matchup": "NYM at MIL",
+          "base": 1,
+          "strike": true,
+          "start": 360.4,
+          "end": 363.5,
+          "umpire": "Vic Carapazza · first base",
+          "context": "Top of the fifth, one out, New York ahead 3–1: Mark Vientos faces Trevor Megill.",
+          "source": "https://www.mlb.com/video/condensed-game-nym-mil-game-2",
+          "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/02/5778f224-5bdc6050-cf59aa43-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/775339/feed/live",
+          "availableFrom": "2026-11-02",
+          "pitchIdentity": {
+            "gamePk": 775339,
+            "atBatIndex": 37,
+            "pitchNumber": 6,
+            "playId": "f99d37a4-c507-44b4-af1d-daab319186c8"
+          }
+        },
+        "review": {
+          "id": "mark-vientos-20241002-775339-f99d37a4",
+          "gamePk": 775339,
+          "atBatIndex": 37,
+          "pitchNumber": 6,
+          "playId": "f99d37a4-c507-44b4-af1d-daab319186c8",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/accepted-candidates.json",
+          "independentAcceptedSha256": "c418512306abbd63c479878ccd90a214c65089af104394dbe47e22fe3306f34b",
+          "independentAuditPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/audit.json",
+          "independentAuditSha256": "ac1c9f00a18309faef8b9a3c9de526046248965f9abc9646c477bb6e09d29f92",
+          "originalPeerEvidence": {
+            "id": "mark-vientos-20241002-775339-f99d37a4",
+            "batter": "Mark Vientos",
+            "date": "2024-10-02",
+            "matchup": "NYM at MIL",
+            "base": 1,
+            "strike": true,
+            "start": 360.25,
+            "end": 363.5,
+            "umpire": "Vic Carapazza · first base",
+            "context": "Top of the fifth, one out, 2–2; Mark Vientos faces Trevor Megill, with New York ahead 3–1.",
+            "source": "https://www.mlb.com/video/condensed-game-nym-mil-game-2",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/02/5778f224-5bdc6050-cf59aa43-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/775339/feed/live",
+            "gamePk": 775339,
+            "atBatIndex": 37,
+            "pitchNumber": 6,
+            "playId": "f99d37a4-c507-44b4-af1d-daab319186c8",
+            "availableFrom": "2026-11-02",
+            "playback": {
+              "muted": true,
+              "sourceClock": "listed MP4 source seconds",
+              "questionContext": "pre-pitch only; no call/decision included"
+            },
+            "independentPeerReview": {
+              "decision": "PASS_FOR_ROOT_REVIEW",
+              "auditPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/audit.json",
+              "auditSha256": "ac1c9f00a18309faef8b9a3c9de526046248965f9abc9646c477bb6e09d29f92"
+            }
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      },
+      "independentAuditGroup": "release-s-prep/root-final-audit.json"
+    }
+  ],
+  "auditGroups": {
+    "release-s-prep/root-final-audit.json": {
+      "scope": "Six final root-accepted exact MLB check-swing records. Loaded hands/shaft precede forward movement; actual check, maximum extension and definite finish are visible from real base-side views. Source windows and the silent archival asset were independently reviewed. All486priorrowsarepreserved.",
+      "framingDecision": "framing-history-20261101/decision.json",
+      "cases": [
+        {
+          "id": "tyler-wade-20240321-746175-ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+          "gamePk": 746175,
+          "atBatIndex": 7,
+          "pitchNumber": 4,
+          "playId": "ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/accepted-candidates.json",
+          "independentAcceptedSha256": "6bf971647f76a9851debffba55797845b4ca5a85e69667aa8a927fa7cdbd50b4",
+          "independentAuditPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/audit.json",
+          "independentAuditSha256": "56eccc44398655520e22ae3906272e3886825718fd921fd5821949a8ed9075f1",
+          "originalPeerEvidence": {
+            "id": "tyler-wade-20240321-746175-ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+            "batter": "Tyler Wade",
+            "date": "2024-03-21",
+            "matchup": "SD at LAD",
+            "base": 3,
+            "start": 1006.55,
+            "end": 1009.5,
+            "sourceClock": "exact listed original MP4 PTS",
+            "context": "Top of the first, two outs, 2–1; Tyler Wade (#14, LHB) faces Yoshinobu Yamamoto (RHP), with San Diego leading 4–0.",
+            "strike": false,
+            "source": "https://www.mlb.com/video/check-out-the-second-game-of-the-2024-seoul-series",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-03/21/17db2635-7da0edb1-f4971ce0-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/746175/feed/live",
+            "gamePk": 746175,
+            "atBatIndex": 7,
+            "pitchNumber": 4,
+            "playId": "ff708bb5-e7fa-4068-ac67-1c3334c39ae5",
+            "pitch": "79.9 mph curveball",
+            "officialCall": "*B / Ball In Dirt",
+            "caller": "Lance Barksdale · Third Base umpire",
+            "framing": "True third-base-side replay for a left-handed batter. The cap remains out of frame, but the hands and shaft are clear in the static loaded position at direct source PTS 1006.55555 and frame 1006.8; forward movement begins later (around 1007.6–1007.8). The continuous sequence shows the checked extension, maximum point, and return by 1009.5, before the catcher rises in the later frame. The same pitch’s live view shows the third-base official giving a no-go arm-spread signal; fresh feed/crew and scorebug agree.",
+            "proofRefs": {
+              "priorCapHold": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna/correction-cap-review-20261101.json",
+                "sha256": "080a6adffe5594aafec55b8fb44fbe8f8e38432a05fccd73f7e7598bd703834f"
+              },
+              "priorPrimaryAudit": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/audit.json",
+                "sha256": "c01fb4b53bcf405d54a60d6773ee7df7d5add4f186fc5402606e403df292cc78"
+              },
+              "correctedPrimary": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/primary-candidates.json",
+                "sha256": "1565c0df01a2100f19daeffcdee560acb6d040fda753d34d53cb9a142493e97e"
+              },
+              "loadedPreForwardDirectFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna-direct-start-1006.55.png",
+                "sha256": "e5579c88862e400f54a423bcde1865974d05062a61747da0e3e74d201f55ba5c"
+              },
+              "directEndFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna-direct-end-1009.5.png",
+                "sha256": "6fb37cc1625f5fe6e68dfb87768224210b1297bb3ff7fc1460fcb9be91a0cf95"
+              },
+              "preForwardFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna/local-5.8.png",
+                "sha256": "4c8eee4830dfd9d2c4703c774d079a972b2bc7b5cf51091c64e6cd4647a37055"
+              },
+              "earlyForwardFrame": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/peer-review-luna/local-6.8.png",
+                "sha256": "ea43b4041de40a8f75a7997083038fdfa0389a6553af2830f8406864e06b59cb"
+              },
+              "feedGzip": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/fresh-feed.json.gz",
+                "sha256": "58cf7c9692420e79b1148793af32782c82ece6d5c3597226841a7766a12229a8"
+              },
+              "crewGzip": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/wade-corrected-luna/fresh-boxscore.json.gz",
+                "sha256": "7293a54ae1767e9098e09ea66575a8cbc5bbbf26ba0ceb1086b459fd99221c46"
+              },
+              "nativeSide": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/native-original-1001-1013.mp4",
+                "sha256": "7ae67417e334d5da371870c12fe5c58c5682e399108c33a58e5eb6f76f1aeb87"
+              },
+              "nativeLive": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-pilot/seoul-746175-luna/native-original-993-999.mp4",
+                "sha256": "53467895a9f8bbf3c76ed5709abec347ae4bf484fbb9c95a5aaf2cd6645d66d3"
+              }
+            },
+            "dedup": {
+              "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "indexSha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682",
+              "catalogCount": 486,
+              "exactGamePkPlayIdMatch": false
+            },
+            "decision": "PROPOSE_POSITIVE_FOR_ROOT_PEER_REVIEW",
+            "availableFrom": "2026-11-02",
+            "reviewer": "luna_2019_resume",
+            "framingPolicy": "FRAMING-2026-11-01.md: tip crop is acceptable only with visible hands+shaft before forward motion and clear continuous onset, maximum extension, and definite finish.",
+            "canonicalChanged": false,
+            "published": false
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        },
+        {
+          "id": "ramirez20230418",
+          "gamePk": 718541,
+          "atBatIndex": 43,
+          "pitchNumber": 4,
+          "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/accepted-candidates.json",
+          "independentAcceptedSha256": "6bf971647f76a9851debffba55797845b4ca5a85e69667aa8a927fa7cdbd50b4",
+          "independentAuditPath": "/workspace/check-swing/expansion500/framing-rereview-luna-20261101/peer-independent-luna/audit.json",
+          "independentAuditSha256": "56eccc44398655520e22ae3906272e3886825718fd921fd5821949a8ed9075f1",
+          "originalPeerEvidence": {
+            "id": "ramirez20230418",
+            "batter": "José Ramírez",
+            "date": "2023-04-18",
+            "matchup": "CLE at DET, Game 2",
+            "base": 1,
+            "start": 340.644,
+            "end": 344.844,
+            "sourceClock": "existing exact original-source native offset 338.444 + native-local 2.2–6.4 seconds; refine only if root finds direct PTS evidence differs",
+            "context": "Top of the seventh, no outs, 1–2; José Ramírez (#11, RHB) faces Eduardo Rodríguez (LHP).",
+            "strike": true,
+            "source": "https://www.mlb.com/video/cg-cle-det-gm-2-4-18-23",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2023/2023-04/18/48be89ec-564feeb8-6d11b315-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/718541/feed/live",
+            "gamePk": 718541,
+            "atBatIndex": 43,
+            "pitchNumber": 4,
+            "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8",
+            "pitch": "cutter",
+            "officialCall": "S / Swinging Strike",
+            "caller": "Unknown",
+            "framing": "First-base-side chest-facing view for the right-handed batter. After the earlier closeup/dissolve, the clean side replay shows the hands and shaft in the loaded pose at peer-native local 2.2–2.4 before forward rotation begins around 2.5; only the tip is clipped. The replay then shows maximum forward extension and a definite held finish through local 6.4, before it cuts to a closeup at 6.6. Exact same pitch is identified by fresh feed (p4, 1–2 to 1–3) and the matching broadcast says “Oh, did he go? You bet he did three times”; actual call is S. Caller remains Unknown.",
+            "proofRefs": {
+              "priorRootHold": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/audit.json",
+                "sha256": "e1db54fb168225e6464c5b6cf5f7eee33198b554d4a5e03f9f57e4aaebadceed"
+              },
+              "oldPrimaryWrapper": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/candidate-76-0-wrapper.json",
+                "sha256": "20615228e112cca5b0984d7c2d56ede8149d37c09668713494b86a0502a46038"
+              },
+              "rootNative": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/ramirez-peer-native.mp4",
+                "sha256": "50a182b780af606362dcdcb6c9739e25c1089e7cd2e1bfba86e779ac056ce56d"
+              },
+              "onsetDenseGrid": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/onset-dense.jpg",
+                "sha256": "5fd0794243410b4cacd787b77f8cc8bcc4c1b9e5527a658c1e6ef3d760306d3f"
+              },
+              "loadedFrame": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/loaded-2.3.png",
+                "sha256": "376d7c7dd08a3c70749802b9ed3b24fc4cff272af88010c27a1bd62d758ac1dc"
+              },
+              "fullReplayGrid": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/ramirez-peer-grid.jpg",
+                "sha256": "6cd2834c36eb89fc26462415fd35d7e6ce5cd9c5577b7abef4e26157836c9ba4"
+              },
+              "freshFeed": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/718541-root-feed.json",
+                "sha256": "0cd291f18d3871fed371154e924d30ba2c960dcb301b006c3af53019de5e3028"
+              },
+              "captionAndSourceMapping": {
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/76-0-retrieval.json",
+                "sha256": "e428f9a1ae92afadce592a3851ca65f206d91c9f822c1d2ce9df90499d278faf"
+              }
+            },
+            "dedup": {
+              "indexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "indexSha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682",
+              "catalogCount": 486,
+              "exactGamePkPlayIdMatch": false
+            },
+            "decision": "PROPOSE_POSITIVE_FOR_ROOT_PEER_REVIEW",
+            "availableFrom": "2026-11-02",
+            "reviewer": "luna_2019_resume",
+            "framingPolicy": "FRAMING-2026-11-01.md: tip crop is acceptable only with visible hands+shaft before forward motion and clear continuous onset, maximum extension, and definite finish.",
+            "canonicalChanged": false,
+            "published": false
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        },
+        {
+          "id": "bill-hall-20070612-69087-00690876-0306-0083-000c-f08cd117d70a",
+          "gamePk": 69087,
+          "atBatIndex": 29,
+          "pitchNumber": 8,
+          "playId": "00690876-0306-0083-000c-f08cd117d70a",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/accepted-candidates.json",
+          "independentAcceptedSha256": "4b2d3584b5bf5249eaeff51d8001984930d5ac6c7423f73388a20a13e36b4656",
+          "independentAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/audit.json",
+          "independentAuditSha256": "ce164b097069135168a28ea2718337314629736160937a12a104a99e89240b7e",
+          "originalPeerEvidence": {
+            "candidate": {
+              "id": "bill-hall-20070612-69087-00690876-0306-0083-000c-f08cd117d70a",
+              "batter": "Bill Hall",
+              "date": "2007-06-12",
+              "matchup": "Brewers at Tigers",
+              "base": 1,
+              "strike": false,
+              "start": 3286.0,
+              "end": 3291.25,
+              "umpire": "Unknown",
+              "context": "Bill Hall (No. 2) faces Justin Verlander in the top of the fifth, 3-2 with two outs. Milwaukee trails Detroit 1-0.",
+              "evidence": "https://statsapi.mlb.com/api/v1.1/game/69087/feed/live",
+              "source": "https://www.mlb.com/video/justin-verlander-s-1st-no-hitter",
+              "video": "https://cuts.diamond.mlb.com/FORGE/2020/2020-03/29/d3f9b293-ea86ccd8-03379746-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+              "footageCredit": "MLB / FSN Detroit archived 2007 regular-season broadcast",
+              "proofClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-side-proof-8s.mp4",
+              "proofBoundsSourceSeconds": [
+                3286.0,
+                3291.25
+              ]
+            },
+            "review": {
+              "gamePk": 69087,
+              "atBatIndex": 29,
+              "pitchNumber": 8,
+              "playId": "00690876-0306-0083-000c-f08cd117d70a",
+              "status": "independent-peer-accepted",
+              "atBat": {
+                "gamePk": 69087,
+                "officialDate": "2007-06-12",
+                "atBatIndex": 29,
+                "inning": "top 5",
+                "pitchNumber": 8,
+                "playId": "00690876-0306-0083-000c-f08cd117d70a",
+                "batter": "Bill Hall, #2, RHB",
+                "pitcher": "Justin Verlander, RHP",
+                "prePitchCount": "3-2",
+                "outs": 2,
+                "scoreBefore": "MIL 0, DET 1",
+                "call": "B / Ball; count becomes 4-2 and feed records walk; no contact."
+              },
+              "visualReview": {
+                "sourceTimebase": "Exact listed MLB MP4 timestamps for the side replay; nearby HLS context grid has its own recorded source clock.",
+                "bounds": [
+                  3286.0,
+                  3291.25
+                ],
+                "angle": "True first-base-side profile for the right-handed batter; hands, shaft, torso and relevant bat motion remain visible.",
+                "onset": "At the first clean loaded side-replay frames, Hall is still and both hands and the bat shaft are visible before forward movement. The rounded barrel cap is cropped at setup; I am applying the clarified crop rule because the stationary loaded state and onset are legible before motion.",
+                "motion": "The continuous replay shows forward movement, an arrested checked offer and maximum reach, then a definite finished motion before the later walk/result footage. The clip ends within the isolated replay and does not include the appeal or outcome.",
+                "samePitch": "The adjacent live context shows top 5, 3-2, two outs and Hall batting; the following first-base-side official signal is in that pitch sequence. Fresh feed identifies exact p8/playId and records Ball. The ASR wording is only a locator; the ruling is supported by the visible same-pitch first-base-side no-swing signal, not by ASR alone.",
+                "caller": "Unknown. The first-base-side official’s no-swing signal is visible, but I do not independently identify the official in the signal frame; crew assignment alone is not enough to name him.",
+                "disposition": "The prior cap-only hold is resolved under the updated framing standard. No contact, call/result, catcher appeal, or departure is included in the selected interval."
+              },
+              "dedup": {
+                "playId": "00690876-0306-0083-000c-f08cd117d70a",
+                "canonicalExactIdPresent": false,
+                "publishedPitchIndexExactIdPresent": false,
+                "checkedAgainst": [
+                  {
+                    "path": "/workspace/base-site/content/check-swing/catalog.json",
+                    "sha256": "c7717c0a86ea80587eedd8fb3886aa3938ca7e72e58f14a86161dd0610dc4236"
+                  },
+                  {
+                    "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+                    "sha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682"
+                  }
+                ]
+              },
+              "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/primary-audit-69087-bill-hall.json",
+              "proofs": [
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-side-proof-8s.mp4",
+                  "sha256": "2cf9442eb03e06bb5e94a39bf8b7306b7c1d529b5cc20ff7919503a771813adc"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-native-frames.jpg",
+                  "sha256": "3d2cbde2f33225e78d074e46f4df132be378c81100e6220341d7915309d653bb"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-69087-earlier-mp4-stills.jpg",
+                  "sha256": "a40b1ea4d18008b88ddca834631d49c1c5813ba1ea5491edffbc119ec24bcd2e"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-3265-3320-focused.jpg",
+                  "sha256": "bcdbc67eea7e50e2d6fc311a589d7b7b5648a1cfe8f3cf59643a6082cf38aa8f"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/fresh-feed-69087-projected.json",
+                  "sha256": "5787ca3ce39c3752e1dbd3ef78fd4f5ad3c9ec168bfd6fdb81c5da60d0f24dae"
+                }
+              ]
+            }
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        },
+        {
+          "id": "asdrubal-cabrera-20191001-599336-ed0ec54e",
+          "gamePk": 599336,
+          "atBatIndex": 36,
+          "pitchNumber": 4,
+          "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/accepted-candidates.json",
+          "independentAcceptedSha256": "4b2d3584b5bf5249eaeff51d8001984930d5ac6c7423f73388a20a13e36b4656",
+          "independentAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/audit.json",
+          "independentAuditSha256": "ce164b097069135168a28ea2718337314629736160937a12a104a99e89240b7e",
+          "originalPeerEvidence": {
+            "candidate": {
+              "id": "asdrubal-cabrera-20191001-599336-ed0ec54e",
+              "batter": "Asdrúbal Cabrera",
+              "date": "2019-10-01",
+              "matchup": "Brewers at Nationals",
+              "base": 1,
+              "strike": false,
+              "start": 4406.3,
+              "end": 4411.3,
+              "umpire": "Kerwin Danley · first-base umpire",
+              "context": "Asdrúbal Cabrera (No. 13) bats right-handed against Brent Suter in the bottom of the fifth, 1-2 with no outs. Milwaukee leads Washington 3-1.",
+              "evidence": "https://statsapi.mlb.com/api/v1/game/599336/playByPlay",
+              "source": "https://www.mlb.com/video/nats-rally-in-nl-wild-card-game",
+              "video": "https://cuts.diamond.mlb.com/FORGE/2019/2019-10/01/49d98f1d-67882a1d-86613c5f-csvm-diamondx64-asset_1280x720_59_4000K.mp4",
+              "footageCredit": "MLB / TBS archived 2019 National League Wild Card Game broadcast",
+              "proofClip": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/original-mp4-4393-4413-960crf29.mp4",
+              "proofBoundsSourceSeconds": [
+                4406.3,
+                4411.3
+              ]
+            },
+            "review": {
+              "gamePk": 599336,
+              "atBatIndex": 36,
+              "pitchNumber": 4,
+              "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+              "status": "independent-peer-accepted",
+              "atBat": {
+                "gamePk": 599336,
+                "officialDate": "2019-10-01",
+                "atBatIndex": 36,
+                "inning": "bottom 5",
+                "pitchNumber": 4,
+                "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+                "batter": "Asdrúbal Cabrera, #13, RHB",
+                "pitcher": "Brent Suter, LHP",
+                "prePitchCount": "1-2",
+                "outs": 0,
+                "scoreBefore": "MIL 3, WSH 1",
+                "pitch": "89.0 mph four-seam fastball",
+                "call": "B / Ball; count becomes 2-2; no contact."
+              },
+              "visualReview": {
+                "sourceTimebase": "Exact listed MLB MP4 timestamps for selected replay and live pitch/call context.",
+                "bounds": [
+                  4406.3,
+                  4411.3
+                ],
+                "angle": "True first-base-side profile; arms, torso and relevant bat motion are legible.",
+                "onset": "At 4406.30 and 4407.00, hands and shaft are visible and stationary in the loaded position while the tip is cropped. Forward movement begins by approximately 4407.50; the tip becomes visible around 4407.90. This meets the clarified crop allowance because hands/shaft and the continuous onset are visible before movement.",
+                "motion": "The continuous replay shows the actual check, maximum forward extension around 4410.30, and a definite stop/initial return by 4411.30. This is a complete forward attempt; no stance reset is required. No contact is shown.",
+                "samePitch": "The original-source sequence shows the live p4 followed immediately by the first-base official’s no-swing signal, then Cabrera preparing and the side replay. Fresh feed maps exact p4/playId and Ball. Raw broadcast ASR at source 4395–4400 reads “They checked down there with Kerwin Danley at first ... there was no swing”; it is used only as explicit attribution corroborated by the visible signal and fresh boxscore crew, not as the ruling proof by itself.",
+                "caller": "Kerwin Danley · first-base umpire, supported by the matched original broadcast attribution, visible first-base-side signal, and fresh crew record.",
+                "disposition": "Pass. Selected crop is a neutral side replay and ends before the following commentary (starting ~4411.34) and later result/reaction."
+              },
+              "dedup": {
+                "playId": "ed0ec54e-2ded-4492-8e30-78201fdaa978",
+                "canonicalExactIdPresent": false,
+                "publishedPitchIndexExactIdPresent": false,
+                "checkedAgainst": [
+                  {
+                    "path": "/workspace/base-site/content/check-swing/catalog.json",
+                    "sha256": "c7717c0a86ea80587eedd8fb3886aa3938ca7e72e58f14a86161dd0610dc4236"
+                  },
+                  {
+                    "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+                    "sha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682"
+                  }
+                ]
+              },
+              "primaryAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/primary-audit-599336-asdrubal-cabrera.json",
+              "proofs": [
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/native-proof-p4/native-4407-4411.3.mp4",
+                  "sha256": "14015a2730386ed8677973e445c5342a7b8fcce865453145615383f16d5288cc"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/original-mp4-grid-4393-4413.jpg",
+                  "sha256": "f7404212442aa52f4783e5fedd8697c61429f9879db37730fd6260ae1b7cc5c7"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/results.json.gz",
+                  "sha256": "9a43a32ccfe89ccbf3f44236756c9d088983816d2582a8275db7a14350cf9f17"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/fresh-feed-599336.json.gz",
+                  "sha256": "500d693dcff81ce7298698c7d154688c6db1950ba972c575789929b73f177bdf"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/fresh-boxscore-599336.json.gz",
+                  "sha256": "1979534860a34e314732240a4291ab4964ac833621ab5ac7370cf8115aa4cff2"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4406.30.jpg",
+                  "sha256": "bb7226cbcfd5e9aa6e483c64ad10a8ebe3c9344bd579f636d204eca05fdb327c"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4407.00.jpg",
+                  "sha256": "3e061c4409fa640763b05c85b17dac2c24884194d46f554b104f7000a91d185b"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4407.50.jpg",
+                  "sha256": "09ef666a3addcb6dfa47f558fb44aa2259bdc7480e2b0c3ca0b63ab6ca0c5742"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4410.30.jpg",
+                  "sha256": "46d5559221642bef281444991acf5fdb9e4eb82ebf08767b562c57c72cfc393c"
+                },
+                {
+                  "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/primary-mlb-at-home-first15/asr-inputs-uncaptioned8/asr-group-a-luna/camera-599336-4395/root-direct-original-4411.30.jpg",
+                  "sha256": "c613c93b44f9a2a56d3f93a64fa9c59ec0f0d21ac30d2e18488a034f5ffa2c16"
+                }
+              ]
+            }
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        },
+        {
+          "id": "kike-hernandez-20250702-777267-p2-appeal",
+          "gamePk": 777267,
+          "atBatIndex": 50,
+          "pitchNumber": 2,
+          "playId": "b5a659bb-f299-3361-b400-fb63a6eb8ba7",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/accepted-candidates.json",
+          "independentAcceptedSha256": "51019a7fdcf606acbfe7054adaaada30eacd95fbdf4b6761c5b72bb997ec7e4c",
+          "independentAuditPath": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/final-asset-qa.json",
+          "independentAuditSha256": "4ee8879ed30678219ad35b7bdf8831bf30b72062963b2897d09fb6887ae50375",
+          "originalPeerEvidence": {
+            "id": "kike-hernandez-20250702-777267-p2-appeal",
+            "batter": "Enrique (Kike) Hernández #8, RHB",
+            "date": "2025-07-02",
+            "matchup": "CWS at LAD",
+            "base": 1,
+            "start": 5445.5,
+            "end": 5448.8,
+            "timebase": "source MP4 seconds",
+            "context": "Bottom of the sixth, one out; Chicago leads 4–2 with runners at first and third. Kike Hernández (RHB) faces Sean Burke (RHP).",
+            "strike": true,
+            "source": "https://archive.org/details/youtube-R-To0kDHhgI",
+            "video": "https://archive.org/download/youtube-R-To0kDHhgI/R-To0kDHhgI.ia.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/777267/feed/live",
+            "gamePk": 777267,
+            "atBatIndex": 50,
+            "pitchNumber": 2,
+            "playId": "b5a659bb-f299-3361-b400-fb63a6eb8ba7",
+            "pitch": "95.3 mph sinker",
+            "officialCall": "S / Swinging Strike",
+            "caller": "Unknown · first-base official made visible signal; fresh crew identifies Chris Segal at first base",
+            "framing": "Lateral first-base-side replay. Loaded samples at 5445.3, 5445.5, 5445.7 and 5446.1 show hands and shaft before forward motion around 5446.2–5446.5; rounded tip is cropped. The continuous side replay shows the forward extension through maximum reach and the completed follow-through/recovery to 5448.8. Live footage separately shows the first-base official signal after the exact pitch; fresh feed verifies p2 as a swinging strike. No replay contact is visible.",
+            "availability": "2026-11-02",
+            "reviewStatus": "CONDITIONAL_PEER_PASS_PENDING_ROOT_ASSET_QA",
+            "excerptInstructions": {
+              "sourceWindow": [
+                5445.5,
+                5448.8
+              ],
+              "spatialMask": "none",
+              "visualCrop": "none",
+              "audio": "mute the selected excerpt before presentation. The full-source ASR transcript has commentary overlapping this interval: “check but in trying to get out of the way it brings the bat forward…”. A silent presentation avoids an outcome cue while preserving the swing motion. If the source audio cannot be muted, keep on hold.",
+              "scorebug": "No count scorebug visible in the selected interval. It appears in the preceding close-up/transition; omit source 5444.0–5445.2.",
+              "rootAssetQARequired": true
+            },
+            "proofRefs": {
+              "primaryProposal": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/primary-proposal-777267-pitch2-luna.json",
+                "sha256": "dc85bac55bba57ab3941d6065f2159eb1c40b18a31b56e2632bc6ddef73232fd"
+              },
+              "priorIndependentHold": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/peer-review-luna-777267-p2/audit.json",
+                "sha256": "81f80e3ffc5987d120e1395828d1011e93e430a432052345356a649735d12550"
+              },
+              "freshFeed": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/statsapi-game-777267-feed.json",
+                "sha256": "6acaa1632b621ee8efbcca9ff0183f139053ab09a92006341150b2ad3b75d8b2"
+              },
+              "fullSourceTranscriptLocatorOnly": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/results.json.gz",
+                "sha256": "7b2d08f7b8d9a8dc0029f9d57bb8be0731addefcf14ae56b2240c8d465bbad5c"
+              },
+              "replayNative": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/native-5444-5450.mp4",
+                "sha256": "a03c190b1d2b3fda1aef32d553379e096bd011944239338cd27db14c9fa3fa60"
+              },
+              "replayContactSheet": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/fullres-review-frames.jpg",
+                "sha256": "6bbed9683ff2585777b5eb43a60be9a4f697d9c9218bd5f8ffa74939eb1ea2a6"
+              },
+              "preSwingFrame5445_3": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/fullres-1.3.jpg",
+                "sha256": "b02ea32401173ee0d989ad0a576350bfb6a4326a887d244494b634f120cabf01"
+              },
+              "preSwingFrame5445_7": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-check/fullres-1.7.jpg",
+                "sha256": "166431ef3360b585c469d2ec584e2907b1a6ad2514f2e7eccf5ae69c0347edb2"
+              },
+              "liveAppealNative": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-call/native-5437-5443.mp4",
+                "sha256": "aa68485ec546011bb7716942d30950bcc8848917e1d3bb30b6625ec85ad2f229"
+              },
+              "liveAppealFrameSheet": {
+                "path": "/workspace/check-swing/expansion500/internet-archive-mlb-pilot-20261101/asr-kershaw777267-only-luna/native-5438-call/native-5437-5443.jpg",
+                "sha256": "e074d8ba36b41f44ddafc5c9f92cc8ff16c1c2413a000f61b0cee6da16a5dfbc"
+              },
+              "denseOnsetSheet": {
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-re-review-luna-20261101/kike-dense-10fps-contact.jpg",
+                "sha256": "5d104ad23e0983638b620d013265e639185c611ce092b98850b0b273548c3e41"
+              }
+            },
+            "dedup": {
+              "publishedPitchIndexPath": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "publishedPitchIndexSha256": "6a57072de9aa10f50a9d7bb5060fbbbb213a8524ebdafd962fd6c82e9501d682",
+              "catalogCount": 486,
+              "exactPlayIdMatch": false
+            },
+            "canonicalChanged": false,
+            "reviewer": "luna_2019_resume"
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        },
+        {
+          "id": "mark-vientos-20241002-775339-f99d37a4",
+          "gamePk": 775339,
+          "atBatIndex": 37,
+          "pitchNumber": 6,
+          "playId": "f99d37a4-c507-44b4-af1d-daab319186c8",
+          "independentAcceptedPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/accepted-candidates.json",
+          "independentAcceptedSha256": "c418512306abbd63c479878ccd90a214c65089af104394dbe47e22fe3306f34b",
+          "independentAuditPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/audit.json",
+          "independentAuditSha256": "ac1c9f00a18309faef8b9a3c9de526046248965f9abc9646c477bb6e09d29f92",
+          "originalPeerEvidence": {
+            "id": "mark-vientos-20241002-775339-f99d37a4",
+            "batter": "Mark Vientos",
+            "date": "2024-10-02",
+            "matchup": "NYM at MIL",
+            "base": 1,
+            "strike": true,
+            "start": 360.25,
+            "end": 363.5,
+            "umpire": "Vic Carapazza · first base",
+            "context": "Top of the fifth, one out, 2–2; Mark Vientos faces Trevor Megill, with New York ahead 3–1.",
+            "source": "https://www.mlb.com/video/condensed-game-nym-mil-game-2",
+            "video": "https://mlb-cuts-diamond.mlb.com/FORGE/2024/2024-10/02/5778f224-5bdc6050-cf59aa43-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+            "evidence": "https://statsapi.mlb.com/api/v1.1/game/775339/feed/live",
+            "gamePk": 775339,
+            "atBatIndex": 37,
+            "pitchNumber": 6,
+            "playId": "f99d37a4-c507-44b4-af1d-daab319186c8",
+            "availableFrom": "2026-11-02",
+            "playback": {
+              "muted": true,
+              "sourceClock": "listed MP4 source seconds",
+              "questionContext": "pre-pitch only; no call/decision included"
+            },
+            "independentPeerReview": {
+              "decision": "PASS_FOR_ROOT_REVIEW",
+              "auditPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/audit.json",
+              "auditSha256": "ac1c9f00a18309faef8b9a3c9de526046248965f9abc9646c477bb6e09d29f92"
+            }
+          },
+          "rootNormalization": "Pre-pitch context only; corrected/verified caller roles and selected source bounds; original peer records preserved."
+        }
+      ],
+      "sourceFieldChanges": {
+        "Vientos": "base1; first clean source window starts360.4 to omit transition",
+        "Kike": "Root-created silent static excerpt, source5445.5–5448.8; independent asset QA passed; no scorebug or call signal",
+        "Hall": "DaleScott based on physical1Bsignal and official crew; enrichment audit retained"
+      },
+      "heldAfterRootQa": [
+        {
+          "gamePk": 823356,
+          "id": "briceturang20260711-823356-fecdabf2",
+          "reason": "Actual pitcher-axis/center-field view; root and new independent camera adjudication agree. Earlier positive motion-only reviews do not satisfy base-side perspective.",
+          "auditPath": "asr-discovery-v2/2026-wave4-5-prioritized/primary-camera-luna-root-cases/independent-camera-adjudication-luna-20261101.json"
+        }
+      ],
+      "rootFinalDecision": "PASS6; Turang and all Baty/Lindor drafts excluded",
+      "rootFinalAssetQa": "asr-discovery-v2/framing-re-review-luna-20261101/kike-independent-peer-luna/final-asset-qa.json",
+      "supplementalAudits": [
+        {
+          "path": "caller-enrichment-luna-20261101/audit.json",
+          "sha256": "01b9cf1a6e56c88638b3e3222abbf005775c89eb8c5ab3dbbaa79a0088bb5967",
+          "audit": {
+            "schema": "umpire-caller-enrichment-audit-v1",
+            "reviewer": "luna_2023_resume",
+            "createdUtc": "2026-11-01",
+            "purpose": "Try to identify previously Unknown swing-decision caller using retained same-pitch broadcast signal and official liveData.boxscore.officials crew assignments. No canonical edits.",
+            "files": [
+              {
+                "label": "Hall crew/feed",
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/fresh-feed-69087-projected.json",
+                "sha256": "5787ca3ce39c3752e1dbd3ef78fd4f5ad3c9ec168bfd6fdb81c5da60d0f24dae",
+                "bytes": 103194
+              },
+              {
+                "label": "Hall visual",
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-3265-3320-focused.jpg",
+                "sha256": "bcdbc67eea7e50e2d6fc311a589d7b7b5648a1cfe8f3cf59643a6082cf38aa8f",
+                "bytes": 1152201
+              },
+              {
+                "label": "Hall accepted",
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/accepted-candidates.json",
+                "sha256": "4b2d3584b5bf5249eaeff51d8001984930d5ac6c7423f73388a20a13e36b4656",
+                "bytes": 13477
+              },
+              {
+                "label": "Turang feed",
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave4-5-prioritized/primary-camera-luna-root-cases/fresh-feed-823356.json",
+                "sha256": "81858ee0bfa02818c77bc63d84a422ae998a45df084c2da6346e729450e0c381",
+                "bytes": 181965
+              },
+              {
+                "label": "Turang visual",
+                "path": "/workspace/check-swing/expansion500/asr-discovery-v2/2026-wave4-5-prioritized/root-823356-64-camera.jpg",
+                "sha256": "bfc769ca0c069548b1573fb72209f63721b6a43489b6675d96ecfcf4c827b4d2",
+                "bytes": 772335
+              },
+              {
+                "label": "Ramirez feed",
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/audit-root/718541-root-feed.json",
+                "sha256": "0cd291f18d3871fed371154e924d30ba2c960dcb301b006c3af53019de5e3028",
+                "bytes": 642785
+              },
+              {
+                "label": "Ramirez visual",
+                "path": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/76-0-native-10.5.jpg",
+                "sha256": "23d87bb2720e992375556684ca7f24b32a1369cf7ea9eb5d84cd508d96f30f1b",
+                "bytes": 164513
+              }
+            ],
+            "cases": [
+              {
+                "gamePk": 69087,
+                "date": "2007-06-12",
+                "batter": "Bill Hall",
+                "playId": "00690876-0306-0083-000c-f08cd117d70a",
+                "exactCall": "top 5 p8, 3-2, two outs; no-swing/Ball, walk; feed proof and audit mark no contact.",
+                "crew": [
+                  {
+                    "official": {
+                      "fullName": "Ron Kulpa"
+                    },
+                    "officialType": "Home Plate"
+                  },
+                  {
+                    "official": {
+                      "fullName": "Dale Scott"
+                    },
+                    "officialType": "First Base"
+                  },
+                  {
+                    "official": {
+                      "fullName": "Paul Emmel"
+                    },
+                    "officialType": "Second Base"
+                  },
+                  {
+                    "official": {
+                      "fullName": "Dan Iassogna"
+                    },
+                    "officialType": "Third Base"
+                  }
+                ],
+                "signalFinding": "The retained full-context sequence shows the following no-swing signal by the first-base-side base official on Hall’s same pitch; it is not the plate umpire. Fresh liveData.boxscore.officials lists Dale Scott at First Base.",
+                "decision": "PROPOSE_CALLER_DALE_SCOTT",
+                "proposedCaller": "Dale Scott · first base",
+                "basis": "Same-pitch first-base-side signal in the official broadcast sequence plus matching exact game crew assignment; not crew list alone.",
+                "visualProof": "/workspace/check-swing/expansion500/asr-discovery-v2/public-full-game-taxonomy-pilot/remaining-novel-sources/primary-game-69087-luna-20261101/cue-3265-3320-focused.jpg",
+                "acceptedRecord": "/workspace/check-swing/expansion500/asr-discovery-v2/framing-reassessment-luna-20261101/peer-review-luna-20261101/accepted-candidates.json"
+              },
+              {
+                "gamePk": 823356,
+                "date": "2026-07-11",
+                "batter": "Brice Turang",
+                "playId": "fecdabf2-fae8-30a0-be5a-810b2078c57c",
+                "exactCall": "top 1 p8 full-count, one out; feed Swinging Strike / strikeout; retained transcript says appeal went around.",
+                "crew": [
+                  {
+                    "official": {
+                      "id": 623946,
+                      "fullName": "Malachi Moore"
+                    },
+                    "officialType": "Home Plate"
+                  },
+                  {
+                    "official": {
+                      "id": 427315,
+                      "fullName": "Alfonso Márquez"
+                    },
+                    "officialType": "First Base"
+                  },
+                  {
+                    "official": {
+                      "id": 482631,
+                      "fullName": "Mike Estabrook"
+                    },
+                    "officialType": "Second Base"
+                  },
+                  {
+                    "official": {
+                      "id": 545402,
+                      "fullName": "John Bacon"
+                    },
+                    "officialType": "Third Base"
+                  }
+                ],
+                "signalFinding": "Retained camera/context does not clearly show or locate the base official’s same-pitch signal; speech identifies the appeal/ruling but not the caller.",
+                "decision": "KEEP_UNKNOWN",
+                "proposedCaller": "Unknown",
+                "basis": "John Bacon is listed at Third Base, but crew assignment plus commentary is insufficient to identify the actual physical signaler."
+              },
+              {
+                "gamePk": 718541,
+                "date": "2023-04-18",
+                "batter": "José Ramírez",
+                "playId": "62807ffb-2e33-4dcc-aca5-ed2437fe14a8",
+                "exactCall": "top 7 p4, 1-2, no outs; feed Swinging Strike; broadcast says “Oh, did he go? You bet he did three times.”",
+                "crew": [
+                  {
+                    "official": {
+                      "id": 427413,
+                      "fullName": "Tony Randazzo",
+                      "link": "/api/v1/people/427413"
+                    },
+                    "officialType": "Home Plate"
+                  },
+                  {
+                    "official": {
+                      "id": 429805,
+                      "fullName": "Todd Tichenor",
+                      "link": "/api/v1/people/429805"
+                    },
+                    "officialType": "First Base"
+                  },
+                  {
+                    "official": {
+                      "id": 427286,
+                      "fullName": "Brian Knight",
+                      "link": "/api/v1/people/427286"
+                    },
+                    "officialType": "Second Base"
+                  },
+                  {
+                    "official": {
+                      "id": 665281,
+                      "fullName": "Brian Walsh",
+                      "link": "/api/v1/people/665281"
+                    },
+                    "officialType": "Third Base"
+                  }
+                ],
+                "signalFinding": "A base umpire’s fist is visible in retained sequence with the same at-bat scorebug/count, but the isolated retained shot does not establish First vs Third Base position confidently enough to match one official.",
+                "decision": "KEEP_UNKNOWN",
+                "proposedCaller": "Unknown",
+                "basis": "Todd Tichenor (First Base) and Brian Walsh (Third Base) are both on the crew; assigning either from crew alone or batter handedness would overstate the retained physical evidence.",
+                "visualProof": "/workspace/check-swing/expansion500/season-condensed/season2023/archive-discovery-audit/review-blocks/rows-060-079-luna-20261101/76-0-native-10.5.jpg"
+              }
+            ],
+            "networkRequests": 0,
+            "canonicalChanged": false,
+            "peerAuditOverwritten": false
+          }
+        },
+        {
+          "path": "season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/append-camera-side-correction.json",
+          "sha256": "837ac3c7285b127737ae9bd4e394561f5701a5b4ee5e4e8f21029884cd7fb8c9",
+          "audit": {
+            "schema": "append-camera-side-correction-v1",
+            "createdUtc": "2026-11-01",
+            "reviewer": "luna_2022_resume",
+            "targetAuditPath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/independent-camera-luna-20261101/audit.json",
+            "targetAuditSha256": "ac1c9f00a18309faef8b9a3c9de526046248965f9abc9646c477bb6e09d29f92",
+            "candidateId": "mark-vientos-20241002-775339-f99d37a4",
+            "correction": "The prior audit’s “third-base-side” label was incorrect and is withdrawn. On the unmirrored full-resolution native, Vientos is RHB and the front of his Mets jersey (#27) is facing the camera. The low lateral camera is on the first-base side of home plate, consistent with the batter’s chest-facing orientation; the catcher is offset farther across the plate. The exact side assignment follows this body/plate geometry, not the catcher offset or face orientation alone. The view remains lateral base-side, not center-field/pitcher-axis.",
+            "catalogBaseField": "The candidate’s base: 1 field describes the appeal/ruling base (first base), not the camera side; it remains unchanged.",
+            "evidence": {
+              "fullResolutionNativePath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/original-url-independent-350-374.mp4",
+              "sha256": "2f3036bfaf9def159ae3d17a1b117ebfc4c479afee6a84f81fcc237f3f869765",
+              "firstBaseSideLoadedFramePath": "/workspace/check-swing/expansion500/season-condensed/postseason-discovery/review-blocks/rows-040-059-luna/2c35c5d23b1fc3d1/audit-peer/root-start.png",
+              "firstBaseSideLoadedFrameSha256": "880efba6c096ef979304610aeca8220139b3f199b90c28777e5bc8367032ec48"
+            },
+            "originalAuditPreserved": true,
+            "acceptedCandidateDecisionUnchanged": "PASS_FOR_ROOT_REVIEW; exact camera-side label corrected to first-base side."
+          }
+        }
+      ]
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "Turang823356": "Final root/independent geometry adjudication found a center-field/pitcher-axis view; earlier motion passes do not satisfy perspective.",
+    "Baty777808": "All p3/p5 Baty proposals retracted for wrong batter. The replay is Lindor; no Baty entry published.",
+    "Lindor777808": "Separate fresh source/motion review is held; not included.",
+    "Rickey67928": "Maximum reach obscured/cropped; not included.",
+    "France823251": "Already published same-pitch event; excluded as duplicate."
+  }
+}

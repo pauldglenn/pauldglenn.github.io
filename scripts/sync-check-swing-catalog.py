@@ -2,7 +2,7 @@
 """Validate the reviewed catalog and embed identical selections in game and score API."""
 import argparse,json,re,hashlib
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse,quote
 ROOT=Path(__file__).resolve().parents[1]
 PUBLIC_FIELDS=['id','batter','date','matchup','base','strike','start','end','umpire','context','evidence','source','video','availableFrom','footageCredit']
 API_FIELDS=['id','batter','date','base','strike','evidence','availableFrom','mediaProvider']
@@ -25,8 +25,20 @@ def validate(rows):
         host=urlparse(row['video']).hostname
         if host=='pdglenn.com':
             u=urlparse(row['video']);assert u.path=='/check-swing/assets/'+identity+'.mp4' and not u.query and not u.fragment,'Invalid excerpt asset URL'
-            origin=urlparse(row.get('transcodedFrom',''));assert origin.scheme=='https' and origin.hostname=='blogs.fangraphs.com','Unapproved excerpt source'
+            origin=urlparse(row.get('transcodedFrom',''));assert origin.scheme=='https','Invalid excerpt source'
             asset=ROOT/'content/check-swing/assets'/(identity+'.mp4');provenance=row.get('provenance',{})
+            if origin.hostname=='archive.org':
+                archive_id=provenance.get('archiveIdentifier','');filename=provenance.get('listedMediaName','')
+                assert re.fullmatch(r'[A-Za-z0-9_.-]+',archive_id) and filename.endswith('.mp4'),'Missing reviewed archive file identity'
+                assert origin.netloc=='archive.org' and origin.path=='/download/'+archive_id+'/'+quote(filename,safe='') and not origin.query and not origin.fragment,'Invalid listed archive source'
+                assert row['source']=='https://archive.org/details/'+archive_id,'Archive source page does not match listed media'
+                for field in ['sourceMetadataSha256','inputNativeSha256']:
+                    assert re.fullmatch(r'[a-f0-9]{64}',provenance.get(field,'')),'Missing archive review hash: '+field
+                first=provenance.get('originalSourceStart');last=provenance.get('originalSourceEnd')
+                assert isinstance(first,(int,float)) and isinstance(last,(int,float)) and 0<=first<last and last-first<=15,'Invalid reviewed archive excerpt bounds'
+                assert row['start']==0 and row['end']<=last-first+0.05 and provenance.get('audioRemoved') is True,'Archive excerpt timing/audio review required'
+            else:
+                assert origin.hostname=='blogs.fangraphs.com','Unapproved excerpt source'
             assert asset.is_file() and hashlib.sha256(asset.read_bytes()).hexdigest()==provenance.get('outputSha256'),'Excerpt asset missing or changed'
             assert row.get('footageCredit') and provenance.get('frameTimingVerified') is True,'Excerpt attribution/timing evidence required'
         elif host=='mlb.com' or host.endswith('.mlb.com'):
