@@ -1,0 +1,64 @@
+{
+  "added": 1,
+  "total": 500,
+  "dailyActivation": "2026-11-03",
+  "clips": [
+    {
+      "id": "dustin-pedroia-20161006-487602-ecd12a3d",
+      "batter": "Dustin Pedroia",
+      "date": "2016-10-06",
+      "matchup": "Boston Red Sox at Cleveland",
+      "base": 1,
+      "strike": true,
+      "start": 19.2,
+      "end": 24.25,
+      "umpire": "Phil Cuzzi · first base",
+      "context": "ALDS Game 1, top of the ninth. Dustin Pedroia faces Cody Allen.",
+      "evidence": "https://www.mlb.com/amp/news/dustin-pedroia-admits-to-swing-on-final-out-c205252766.html",
+      "source": "https://www.mlb.com/amp/news/dustin-pedroia-admits-to-swing-on-final-out-c205252766.html",
+      "video": "https://mediadownloads.mlb.com/mlbam/mp4/2016/10/07/1203392783/1475815816522/asset_1200K.mp4",
+      "footageCredit": "TBS broadcast footage · via MLB",
+      "availableFrom": "2026-11-03",
+      "pitchIdentity": {
+        "gamePk": 487602,
+        "atBatIndex": 70,
+        "pitchNumber": 8,
+        "playId": "ecd12a3d-33c6-4aa1-8e3a-4b0cc1c591fa"
+      },
+      "provenance": {
+        "publisher": "MLB",
+        "sourceUrl": "https://mediadownloads.mlb.com/mlbam/mp4/2016/10/07/1203392783/1475815816522/asset_1200K.mp4",
+        "sourceArticleSha256": "bc903d2f7a57a96eb3551af18807b5efdf6e1474760ebd8389489c065fc26952",
+        "sourceSha256": "9ad30c8a46d741989ae7609f9fc417022e321e60ef5e703c3043aa9d1e32a87e",
+        "rawFeedSha256": "a2c369bb9c85f036545040c93e6839542643c0e718cdf2c07758676e225e1604",
+        "reviewedOriginalBounds": [
+          19.2,
+          24.25
+        ],
+        "reviewNativeSha256": "65c95de88dddc50d2c7815b6bdd4fe50b9e02b9583f0e19ac613383a749c51d2",
+        "playbackMuted": true,
+        "reviewNote": "Actual documented check-swing appeal; official MLB article identifies first-base caller Phil Cuzzi and the GO ruling. Primary and peer disagreed on whether motion is full-looking or visibly checked. Root and independent peer observe hands/bat reach an extended low maximum then hold without wraparound. Both agree true lateral full setup/attempt/finish and no bat-ball contact; primary disagreement retained. No unanimous physical-motion finding is claimed."
+      }
+    }
+  ],
+  "rootDecision": "Accepted actual documented check-swing appeal after source-native root and independent peer review. Original primary physical classification disagreement retained.",
+  "auditSources": [
+    {
+      "path": "/workspace/check-swing/expansion500/hbp-2023-final-pilot-20261102/pedroia-20161006/primary-audit.json",
+      "sha256": "7448c1f41e0d7cde6eae37bebe6a907aedd3dc4bf9e9ed98b0c0a6145f8d2c0e"
+    },
+    {
+      "path": "/workspace/check-swing/expansion500/hbp-2023-final-pilot-20261102/pedroia-20161006/peer-audit.json",
+      "sha256": "8bd42c204b7b5bad1bdadee0862a72314c4eb04e2a7cebede7d5a46996dd436d"
+    },
+    {
+      "path": "/workspace/check-swing/expansion500/hbp-2023-final-pilot-20261102/pedroia-20161006/source-proof.json",
+      "sha256": "9a1def049bb17599cfe8b9fb39caef7e69f0a5f688b6003d91a96909cbb7b684"
+    },
+    {
+      "path": "/workspace/check-swing/expansion500/hbp-2023-final-pilot-20261102/pedroia-20161006/exact-proof.json",
+      "sha256": "99e71e34eb8fa6dcb9fc2b9da22f152bec515a45834df729953ff2367d7273aa"
+    }
+  ],
+  "publicPlayback": "Original owner-article-listed MLB MP4, 19.2–24.25 seconds, muted. No new video asset."
+}
