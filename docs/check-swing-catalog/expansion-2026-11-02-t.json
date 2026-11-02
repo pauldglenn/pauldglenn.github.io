@@ -1,0 +1,328 @@
+{
+  "added": 1,
+  "total": 493,
+  "dailyActivation": "2026-11-03",
+  "discovery": "Fresh primary, independent Luna peer and root source/geometry reviews of a retained article-listed FanGraphs broadcast GIF. Complete first-base-side checked attempt, exact pitch and historical home-plate call verified; silent short MP4 preserves every source presentation timestamp.",
+  "clips": [
+    {
+      "id": "donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a",
+      "batter": "Donnie Murphy",
+      "date": "2013-08-18",
+      "matchup": "Cardinals at Cubs",
+      "base": 1,
+      "strike": true,
+      "start": 0,
+      "end": 3.12,
+      "umpire": "Phil Cuzzi · home plate",
+      "context": "Cardinals at Cubs, Wrigley Field. Adam Wainwright pitches to Donnie Murphy in the bottom of the seventh.",
+      "evidence": "https://statsapi.mlb.com/api/v1.1/game/348593/feed/live",
+      "source": "https://blogs.fangraphs.com/sunday-in-umpiring-four-decisions-of-varying-egregiousness/",
+      "video": "https://pdglenn.com/check-swing/assets/donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a.mp4",
+      "footageCredit": "MLB broadcast footage · via Jeff Sullivan / FanGraphs",
+      "transcodedFrom": "https://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+      "provenance": {
+        "publisher": "FanGraphs",
+        "articleAuthor": "Jeff Sullivan",
+        "articlePublished": "2013-08-19",
+        "attribution": "MLB broadcast replay via Jeff Sullivan / FanGraphs (August19,2013).",
+        "sourceUrl": "https://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+        "embeddedSourceUrl": "http://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+        "sourceArticleSha256": "acae18c072516d3364ecabe8e11801bb39c2608cd2b55d537a6117068e268594",
+        "sourceSha256": "bf3a6de046e419ceb066305afaa786ca8b081fe45cf8e876404a248c41eddbee",
+        "outputSha256": "ba6b0fcca7743dbce25b66704affba97c0f95a921c4ce08f7fe7e2e0fbc41ac7",
+        "sourceFrameCount": 103,
+        "outputFrameCount": 103,
+        "durationSeconds": 3.12,
+        "frameTimingVerified": true,
+        "conversion": "FFmpeg libx264 CRF18 yuv420p; fps_mode passthrough; all103 presentation timestamps and frame durations preserved, including60ms gap after frame26; no audio/interpolation/crop",
+        "sourceAvailability": "Previously retained exact article-embedded GIF. One ordinary revalidation on2026-11-02 redirected to this HTTPS URL and returned403; no alternate request made. Output uses the retained source bytes.",
+        "sourceRevalidationStatus": 403,
+        "rightsNotes": "Short public broadcast excerpt published by FanGraphs for baseball analysis; publisher credited, no separate open license identified."
+      },
+      "availableFrom": "2026-11-03",
+      "pitchIdentity": {
+        "gamePk": 348593,
+        "atBatIndex": 58,
+        "pitchNumber": 3,
+        "playId": "03485936-0596-0033-000c-f08cd117d70a"
+      },
+      "primaryEvidence": {
+        "candidate": {
+          "id": "donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a",
+          "batter": "Donnie Murphy",
+          "strike": true,
+          "start": 0,
+          "end": 3.12,
+          "umpire": "Phil Cuzzi · home plate",
+          "context": "Cardinals at Cubs, Wrigley Field. Adam Wainwright pitches to Donnie Murphy in the bottom of the seventh.",
+          "date": "2013-08-18",
+          "matchup": "Cardinals at Cubs",
+          "base": 1,
+          "evidence": "https://statsapi.mlb.com/api/v1.1/game/348593/feed/live",
+          "source": "https://blogs.fangraphs.com/sunday-in-umpiring-four-decisions-of-varying-egregiousness/",
+          "video": "https://pdglenn.com/check-swing/assets/donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a.mp4",
+          "footageCredit": "MLB broadcast footage · via Jeff Sullivan / FanGraphs",
+          "transcodedFrom": "https://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+          "provenance": {
+            "publisher": "FanGraphs",
+            "articleAuthor": "Jeff Sullivan",
+            "articlePublished": "2013-08-19",
+            "attribution": "MLB broadcast replay via Jeff Sullivan / FanGraphs (August19,2013).",
+            "sourceUrl": "https://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+            "embeddedSourceUrl": "http://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+            "sourceArticleSha256": "acae18c072516d3364ecabe8e11801bb39c2608cd2b55d537a6117068e268594",
+            "sourceSha256": "bf3a6de046e419ceb066305afaa786ca8b081fe45cf8e876404a248c41eddbee",
+            "outputSha256": "ba6b0fcca7743dbce25b66704affba97c0f95a921c4ce08f7fe7e2e0fbc41ac7",
+            "sourceFrameCount": 103,
+            "outputFrameCount": 103,
+            "durationSeconds": 3.12,
+            "frameTimingVerified": true,
+            "conversion": "FFmpeg libx264 CRF18 yuv420p; fps_mode passthrough; all103 presentation timestamps and frame durations preserved, including60ms gap after frame26; no audio/interpolation/crop",
+            "sourceAvailability": "Previously retained exact article-embedded GIF. One ordinary revalidation on2026-11-02 redirected to this HTTPS URL and returned403; no alternate request made. Output uses the retained source bytes.",
+            "sourceRevalidationStatus": 403,
+            "rightsNotes": "Short public broadcast excerpt published by FanGraphs for baseball analysis; publisher credited, no separate open license identified."
+          }
+        },
+        "review": {
+          "gamePk": 348593,
+          "atBatIndex": 58,
+          "pitchNumber": 3,
+          "playId": "03485936-0596-0033-000c-f08cd117d70a",
+          "status": "independent-primary-proposed-for-root-peer-review",
+          "atBat": {
+            "about": {
+              "atBatIndex": 58,
+              "halfInning": "bottom",
+              "inning": 7,
+              "isComplete": true,
+              "hasReview": false,
+              "hasOut": true
+            },
+            "result": {
+              "type": "atBat",
+              "event": "Strikeout",
+              "eventType": "strikeout",
+              "description": "Donnie Murphy strikes out swinging.",
+              "rbi": 0,
+              "awayScore": 6,
+              "homeScore": 1,
+              "isOut": true
+            },
+            "matchup": {
+              "batter": {
+                "id": 430906,
+                "fullName": "Donnie Murphy",
+                "link": "/api/v1/people/430906"
+              },
+              "batSide": {
+                "code": "R",
+                "description": "Right"
+              },
+              "pitcher": {
+                "id": 425794,
+                "fullName": "Adam Wainwright",
+                "link": "/api/v1/people/425794"
+              },
+              "pitchHand": {
+                "code": "R",
+                "description": "Right"
+              },
+              "postOnFirst": {
+                "id": 456078,
+                "fullName": "Welington Castillo",
+                "link": "/api/v1/people/456078"
+              },
+              "postOnSecond": {
+                "id": 435625,
+                "fullName": "Nate Schierholtz",
+                "link": "/api/v1/people/435625"
+              }
+            },
+            "prePitchCount": {
+              "balls": 0,
+              "strikes": 2,
+              "outs": 0
+            }
+          },
+          "pitch": {
+            "call": {
+              "code": "S",
+              "description": "Swinging Strike"
+            },
+            "pitchType": {
+              "code": "CU",
+              "description": "Curveball"
+            },
+            "pitchNumber": 3,
+            "countAfter": {
+              "balls": 0,
+              "strikes": 3,
+              "outs": 0
+            },
+            "pitchData": {
+              "startSpeed": 76.8,
+              "endSpeed": 71.6,
+              "zone": 14,
+              "plateTime": null
+            },
+            "startTime": "2013-08-18T20:48:49.485Z",
+            "playId": "03485936-0596-0033-000c-f08cd117d70a"
+          },
+          "crew": [
+            {
+              "official": {
+                "id": 427093,
+                "fullName": "Phil Cuzzi",
+                "link": "/api/v1/people/427093"
+              },
+              "officialType": "Home Plate"
+            },
+            {
+              "official": {
+                "id": 427197,
+                "fullName": "Chris Guccione",
+                "link": "/api/v1/people/427197"
+              },
+              "officialType": "First Base"
+            },
+            {
+              "official": {
+                "id": 427292,
+                "fullName": "Ron Kulpa",
+                "link": "/api/v1/people/427292"
+              },
+              "officialType": "Second Base"
+            },
+            {
+              "official": {
+                "id": 427206,
+                "fullName": "Tom Hallion",
+                "link": "/api/v1/people/427206"
+              },
+              "officialType": "Third Base"
+            }
+          ],
+          "articleEvidence": {
+            "articleTitle": "Sunday in Umpiring: Four Decisions of Varying Egregiousness",
+            "articleUrl": "https://blogs.fangraphs.com/sunday-in-umpiring-four-decisions-of-varying-egregiousness/",
+            "relevantText": "The article says Murphy checked his swing; the home-plate umpire claimed he went around and did not ask for help. It quotes manager Dale Sveum: “That’s easily the worst check-swing call I’ve ever seen. That’s why the other umpires are there, to give him help.” It identifies the umpire as Phil Cuzzi.",
+            "cachedArticle": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/article-29.html.gz"
+          },
+          "visualReview": {
+            "sourceAsset": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-2013-cubs-cardinals-2.gif",
+            "sourceSha256": "bf3a6de046e419ceb066305afaa786ca8b081fe45cf8e876404a248c41eddbee",
+            "gifFrameCount": 103,
+            "frameSize": [
+              392,
+              216
+            ],
+            "durationSeconds": 3.12,
+            "sourceTimeBounds": [
+              0.0,
+              3.12
+            ],
+            "cameraAssessment": "GIF 1 is center-field/pitcher-axis. GIF 2 is a low, first-base-side lateral view across the plate: the batter’s front/jersey is visible, catcher is in side profile, and camera is off the pitcher-to-plate axis. It is not a CF/zoom-CF angle.",
+            "motionAssessment": "Across GIF 2, full loaded bat/hands are visible at the opening before motion. Murphy begins a forward attempt, clearly checks/stops before full swing/contact, then returns to a neutral stance; the whole brief motion and return remain in the 3.12-second animation. No ball-bat contact is visible. The article and feed identify this exact pitch as the called swing.",
+            "proofFrames": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-2013-cubs-cardinals-2-grid.jpg",
+            "singleFrameProof": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy2-frame.jpg",
+            "otherAngleExcluded": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-2013-cubs-cardinals-1-grid.jpg"
+          },
+          "dedup": {
+            "publishedPitchIndex": "/workspace/check-swing/expansion500/published-pitch-index.json",
+            "indexedCount": 426,
+            "catalogCount": 492,
+            "exactGamePkAndPitchLookup": "No indexed clip for gamePk 348593, Donnie Murphy 2013-08-18 p3; no batter/date match found."
+          },
+          "evidenceFiles": {
+            "schedule-2013-08-18.json.gz": {
+              "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-independent-review-luna-20261102/schedule-2013-08-18.json.gz",
+              "bytes": 9724,
+              "sha256": "3c75bb64f4eba7624ecb7a0adfab771e8bfb7002b28438fcae0b8d583fe8ad46"
+            },
+            "statsapi-game-348593-feed.json.gz": {
+              "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-independent-review-luna-20261102/statsapi-game-348593-feed.json.gz",
+              "bytes": 82894,
+              "sha256": "0b278564b72c299eeff02a21a6bc1b636935a12ffcea005e8da353b751b04ebc"
+            },
+            "murphy-2013-cubs-cardinals-2.gif": {
+              "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-2013-cubs-cardinals-2.gif",
+              "bytes": 5564459,
+              "sha256": "bf3a6de046e419ceb066305afaa786ca8b081fe45cf8e876404a248c41eddbee"
+            },
+            "article-29.html.gz": {
+              "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/article-29.html.gz",
+              "bytes": 44028,
+              "sha256": "2b80a31be2761893f62534d34cf72e3c9ca50301f363ea7ed34f257554399ba7"
+            },
+            "murphy-2013-cubs-cardinals-2-grid.jpg": {
+              "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-2013-cubs-cardinals-2-grid.jpg",
+              "bytes": 428176,
+              "sha256": "30c9fc75a4af321b96c0b615f5cd822e20fc92c9fedff500f8a2bb514465dff2"
+            },
+            "murphy2-frame.jpg": {
+              "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy2-frame.jpg",
+              "bytes": 30539,
+              "sha256": "1158d6806bccccd333bebb86c71b7fab3c1efeb834c25dafe99c37d935494f3b"
+            },
+            "published-pitch-index.json": {
+              "path": "/workspace/check-swing/expansion500/published-pitch-index.json",
+              "bytes": 153255,
+              "sha256": "c62a452a1a33179947200cdd570e0730299f94cfd23d3b5c80849acbc04f0493"
+            }
+          },
+          "freshScheduleRawSha256": "e4fcb45a8ccbc2d9b6cbe4db61e911a0143ca6aacb7bc7e7e45bc63e077fd8ad",
+          "freshFeedRawSha256": "b45678489e183f53b479b16e7d0c677f697780342ca4ad8cc983c678662bfe24"
+        }
+      },
+      "independentAuditGroup": "release-t-prep/root-final-audit.json"
+    }
+  ],
+  "auditGroups": {
+    "release-t-prep/root-final-audit.json": {
+      "id": "donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a",
+      "status": "root-accepted-after-primary-and-independent-peer",
+      "pitchIdentity": {
+        "gamePk": 348593,
+        "atBatIndex": 58,
+        "pitchNumber": 3,
+        "playId": "03485936-0596-0033-000c-f08cd117d70a"
+      },
+      "primary": {
+        "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-independent-review-luna-20261102/primary-candidates.json",
+        "sha256": "db824d7b16d5cc454e47c63e5de955bf59340432bcc24e3ba07cafd4c83c1227"
+      },
+      "independentPeer": {
+        "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-independent-review-luna-20261102/independent-peer-audit.json",
+        "sha256": "911526b57574762d4f251b8e0fe015c33f66f25ff8d18962359ec59269f56f3f"
+      },
+      "independentAccepted": {
+        "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-independent-review-luna-20261102/independent-accepted-candidates.json",
+        "sha256": "5b0a6f7da58028508d2d12ce18fe8af850caad85b39ca607098feca26a9dcfad"
+      },
+      "rootVisualReview": "Viewed entire103-frame source contact sheet and originalnative-size frame; genuine1B-side lateral catcherprofile/batterfront; loadedhands/shaft before forwardstart, checkedmotion/max/stop+return, nocontact/no visiblecallgesture in playwindow. SourcearticleidentifiesMurphy andspecificHPPhilCuzzi call; exactfeedconfirms p3S. Low392x216resolution is retained.",
+      "rootTimingVerification": {
+        "frames": 103,
+        "everyPresentationTimestampEqual": true,
+        "sourceGif": {
+          "path": "/workspace/check-swing/expansion500/fangraphs-33-body-audit-20261102/murphy-2013-cubs-cardinals-2.gif",
+          "sha256": "bf3a6de046e419ceb066305afaa786ca8b081fe45cf8e876404a248c41eddbee"
+        },
+        "outputAsset": {
+          "path": "/workspace/base-site/content/check-swing/assets/donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a.mp4",
+          "sha256": "ba6b0fcca7743dbce25b66704affba97c0f95a921c4ce08f7fe7e2e0fbc41ac7"
+        }
+      },
+      "providerSourceReview": "Sourcearticle actually embeds originalHTTPwww.fangraphs.com/blogs/wp-content/uploads GIF; retainsthatliteralURLandnormalredirectHTTPS URLwith403status. No inventedblogs-hostmediaURL, no blockedsource request retried. SelfhostedconversionusesexistingretainedGIF.",
+      "publishedBaselineSha256": "b9686e242c67b2717f78fcc4cbcbc604d979d6976ab3a262a55fcd85eeff65ea",
+      "historicalProtection": "All492publishedrows/order/November2poolpreserved; newclipavailableNov3."
+    }
+  },
+  "withdrawnBeforeDailyEligibility": [],
+  "withdrawalAudits": {},
+  "excludedExamples": {
+    "Schwarber824089": "Same original MP4/pitch already canonical schwarber20260706; duplicate excluded.",
+    "Kinsler381223": "Independent peer/root found first replay frame already past loaded onset; held despite complete check finish.",
+    "Greinke447606": "Article-listed excerpt begins with forward motion already underway; held.",
+    "Conforto531573": "Replay was a full swing and claimed terminal-pitch identity was disproved by score/count transition; no addition."
+  }
+}

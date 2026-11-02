@@ -9645,5 +9645,48 @@
       "pitchNumber": 6,
       "playId": "f99d37a4-c507-44b4-af1d-daab319186c8"
     }
+  },
+  {
+    "id": "donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a",
+    "batter": "Donnie Murphy",
+    "date": "2013-08-18",
+    "matchup": "Cardinals at Cubs",
+    "base": 1,
+    "strike": true,
+    "start": 0,
+    "end": 3.12,
+    "umpire": "Phil Cuzzi · home plate",
+    "context": "Cardinals at Cubs, Wrigley Field. Adam Wainwright pitches to Donnie Murphy in the bottom of the seventh.",
+    "evidence": "https://statsapi.mlb.com/api/v1.1/game/348593/feed/live",
+    "source": "https://blogs.fangraphs.com/sunday-in-umpiring-four-decisions-of-varying-egregiousness/",
+    "video": "https://pdglenn.com/check-swing/assets/donnie-murphy-20130818-348593-03485936-0596-0033-000c-f08cd117d70a.mp4",
+    "footageCredit": "MLB broadcast footage · via Jeff Sullivan / FanGraphs",
+    "transcodedFrom": "https://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+    "provenance": {
+      "publisher": "FanGraphs",
+      "articleAuthor": "Jeff Sullivan",
+      "articlePublished": "2013-08-19",
+      "attribution": "MLB broadcast replay via Jeff Sullivan / FanGraphs (August19,2013).",
+      "sourceUrl": "https://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+      "embeddedSourceUrl": "http://www.fangraphs.com/blogs/wp-content/uploads/2013/08/MurphyCheck2.gif.opt_.gif",
+      "sourceArticleSha256": "acae18c072516d3364ecabe8e11801bb39c2608cd2b55d537a6117068e268594",
+      "sourceSha256": "bf3a6de046e419ceb066305afaa786ca8b081fe45cf8e876404a248c41eddbee",
+      "outputSha256": "ba6b0fcca7743dbce25b66704affba97c0f95a921c4ce08f7fe7e2e0fbc41ac7",
+      "sourceFrameCount": 103,
+      "outputFrameCount": 103,
+      "durationSeconds": 3.12,
+      "frameTimingVerified": true,
+      "conversion": "FFmpeg libx264 CRF18 yuv420p; fps_mode passthrough; all103 presentation timestamps and frame durations preserved, including60ms gap after frame26; no audio/interpolation/crop",
+      "sourceAvailability": "Previously retained exact article-embedded GIF. One ordinary revalidation on2026-11-02 redirected to this HTTPS URL and returned403; no alternate request made. Output uses the retained source bytes.",
+      "sourceRevalidationStatus": 403,
+      "rightsNotes": "Short public broadcast excerpt published by FanGraphs for baseball analysis; publisher credited, no separate open license identified."
+    },
+    "availableFrom": "2026-11-03",
+    "pitchIdentity": {
+      "gamePk": 348593,
+      "atBatIndex": 58,
+      "pitchNumber": 3,
+      "playId": "03485936-0596-0033-000c-f08cd117d70a"
+    }
   }
 ]

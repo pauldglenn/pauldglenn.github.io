@@ -37,6 +37,12 @@ def validate(rows):
                 first=provenance.get('originalSourceStart');last=provenance.get('originalSourceEnd')
                 assert isinstance(first,(int,float)) and isinstance(last,(int,float)) and 0<=first<last and last-first<=15,'Invalid reviewed archive excerpt bounds'
                 assert row['start']==0 and row['end']<=last-first+0.05 and provenance.get('audioRemoved') is True,'Archive excerpt timing/audio review required'
+            elif origin.netloc=='www.fangraphs.com':
+                assert re.fullmatch(r'/blogs/wp-content/uploads/\d{4}/\d{2}/[A-Za-z0-9_.-]+\.gif',origin.path) and not origin.query and not origin.fragment,'Invalid legacy FanGraphs excerpt source'
+                assert provenance.get('embeddedSourceUrl')=='http://www.fangraphs.com'+origin.path and provenance.get('sourceUrl')==row['transcodedFrom'],'Missing exact article-listed legacy source'
+                article=urlparse(row['source']);assert article.netloc=='blogs.fangraphs.com' and not article.query and not article.fragment,'Invalid FanGraphs source article'
+                for field in ['sourceSha256','sourceArticleSha256']:
+                    assert re.fullmatch(r'[a-f0-9]{64}',provenance.get(field,'')),'Missing FanGraphs review hash: '+field
             else:
                 assert origin.hostname=='blogs.fangraphs.com','Unapproved excerpt source'
             assert asset.is_file() and hashlib.sha256(asset.read_bytes()).hexdigest()==provenance.get('outputSha256'),'Excerpt asset missing or changed'
